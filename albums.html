@@ -1,0 +1,13 @@
+---
+layout: default
+title: Albums
+---
+<h1>Albums</h1>
+
+  {% for album in site.albums %}
+<figure>
+<a href="{{ album.url }}"><img src="{{ album.image }}" alt="{{ album.name }}"></a>
+<figcaption><em>{{ album.name }}</em> by {{ album.artist }}</figcaption>
+</figure>
+  {% endfor %}
+</ul>
