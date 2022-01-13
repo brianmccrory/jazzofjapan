@@ -14,13 +14,15 @@ cover: chihiroyamanaka-madrigal.jpeg
 <img src="/assets/images/{{ site.data.chihiro-yamanaka-trio-madrigal.cover }}">
 </p>
 
-Pianist Hideaki Hori and guitarist Takayoshi Baba create beautiful music together on <em>Resonance</em>, their first studio recording as the unit “Duo Tremolo”. On eleven tracks made up of four standards and seven original compositions, the pair play through easy-going swing, bop, and jazz/rock tracks with hues of Jarrett, Corea, and Metheney glowing within.
+On her third album Madrigal, jazz pianist Chihiro Yamanaka continues on her upward arc, working her magic on jazz standards and originals with a top-notch trio.
 
-The graceful players combine the dimensions of Hori’s precise, finessed notes and Baba’s snazzy, bluesy lines at relaxed mid-tempo jaunts, rapid and fluid modern pieces, Latin grooves, and gentle ballads. The music is joyful and emotive, and the two converse with a comfortable flow built solidly on their years performing in various settings. The duo clearly enjoys playing together and it comes through in their playful, professional music.
+With momentum built from her debut Living Without Friday (2001) and When October Goes (2002), on Madrigal (2004), the pianist impresses with new arrangements, tight playing, and flashy piano solos. Recorded in studio with a great live sound, Yamanaka is backed by quality rhythm section mates bassist Larry Grenadier and drummer Jeff Ballard (stalwart members of Brad Mehldau’s trio), and drummer Rodney Green on three tracks.
 
-Two of the songs also feature guest percussionist Saori Sendo, and add rich rhythms and dynamics on Bob Berg’s “Friday Night at the Cadillac Club” and Baba’s “J.M.”. The final track “Pedra Bonita” adds another successful layer, where the two musicians are joined by singer Aya Kurosawa on the grooving Brazilian celebration with a rousing vocal ending.
+This is her third album on the boutique Osaka-based Atelier Sawano label. With nine tracks, the album clocks in at a brisk 47 minutes of pure jazz fun. This album completes her early Atelier Sawano trilogy, a great introduction to Yamanaka’s jazz skills and vision which she would continue to pursue on releases for major labels Verve and Blue Note.
 
+As on her prior two albums, the music on Madrigal showcases her dexterous threads of improvised notes flowing with a clean touch. Yamanaka also spins her distinctively original arrangements of classic jazz tunes (“Caravan”, “Take Five”), a welcome touchstone on previous and future recordings as well. Compared to her earlier releases, Madrigal shoots for perhaps an even more kinetic mood, with boundless energy and an acrobatic spirit displayed. In fact, Yamanaka dedicated this album to her childhood, and the music is infused with playful creativity as suggested by the album photos and liner notes.
 
+A track-by-track rundown: simply swinging on “Antonio’s Joke”, addictively fun “Living Time Event V”, the pretty, light “Madrigal”, the unbridled “Ojos De Rojo”, a scrambling “School Days”, the quick Brazilian “Salve Salgueiro”, a strong and distinctive “Caravan”, the cute “Lesson 51”, and a reworked, shifting “Take Five”. Most songs are midtempo or faster, the energy undepletable. The first and third tracks are originals from the pianist, while the cover songs were written by George Russell, Cedar Walton, Duke Ellington, Paul Desmond, and other greats.
 
 <ul>
 {% for member in site.data.chihiro-yamanaka-trio-madrigal.members %}
