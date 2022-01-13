@@ -1,17 +1,20 @@
 artist: Duo Tremolo
 title: Resonance
-year: 2099
-code: TMP
-label: TMP
+year: 2019
+label: Orbit Records
+code: ORG-1004
 members:
-   - {name: Layla Tomomi Sakai, instrument: vocals, japanese_name: 坂井レイラ知美, url: "https://www.sakailaylatomomi.com/"}
-   - {name: Yuichiro Hiraoka, instrument: guitar, japanese_name: 平岡遊一郎}
-   - {name: Ryuichi Takase, instrument: trumpet, japanese_name: 高瀬龍一}
-cover: layla-tomomi-sakai-whisper.jpg
+   - {name: Hideaki Hori, "instrument: piano, voice and percussion on #11", japanese_name: 堀秀彰, url: ""}
+   - {name: Takayoshi Baba, instrument: "guitar, voice on #11", japanese_name: 馬場孝喜, url: ""}
+   - {name: Saori Sendo, instrument: "percussion on #3, #8", japanese_name: 仙道さおり, url: ""}
+   - {name: Aya Kurosawa, instrument: "voice on #11", japanese_name: , url: "黒沢綾"}
+cover: duo-tremolo-resonance.jpg
 images:
-   - L1220622-1024.jpg
-   - L1220623-1024.jpg
-   - L1220624-1024.jpg
+   - L1220661-1024.jpg
+   - L1220662-1024.jpg
+   - L1220663-1024.jpg
+   - L1220665-1024.jpg
 videos:
-   - {url: "https://youtu.be/HeLS-ScfULY", comment: "Audio excerpt from Whisper Not, the fourth track on this album"}
-   - {url: "https://youtu.be/BjmrJjxJ-fw", comment: "A live performance of Sakai Layla Tomomi"}
+   - {url: "https://youtu.be/6Rfv810-EgY", comment: "Audio excerpt from Choro de Tremolo, the second track on this album"}
+   - {url: "https://youtu.be/jm3tl3B2AWc", comment: "A live performance of Friday Night at the Ca..."}
+   - {url: "https://youtu.be/R6vuPsUzibI", comment: "Jazz Street"}
