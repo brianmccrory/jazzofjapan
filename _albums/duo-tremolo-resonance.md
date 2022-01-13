@@ -5,8 +5,6 @@ artist: Duo Tremolo
 year: 2019
 cover: duo-tremolo-resonance.jpeg
 ---
-Resonance
-
 
 
 # {{ site.data.duo-tremolo-resonance.artist }}: {{ site.data.duo-tremolo-resonance.title }}
