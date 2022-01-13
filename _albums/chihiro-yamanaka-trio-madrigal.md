@@ -1,5 +1,6 @@
 ---
 layout: article
+publish_date: March 14, 2021
 title: Madrigal
 artist: Chihiro Yamanaka Trio
 year: 2004
