@@ -5,7 +5,7 @@ short_name: duo-tremolo-resonance
 name: Resonance
 artist: Duo Tremolo
 year: 1999
-image: /assets/images/duo-tremolo-resonance.jpeg
+cover: duo-tremolo-resonance.jpeg
 ---
 Resonance
 
