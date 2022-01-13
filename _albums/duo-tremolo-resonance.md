@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Duo Tremolo: Resonance"
 short_name: duo-tremolo-resonance
-name: Resonance
+title: Resonance
 artist: Duo Tremolo
 year: 1999
 cover: duo-tremolo-resonance.jpeg

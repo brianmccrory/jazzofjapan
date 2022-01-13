@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Layla Tomomi Sakai: Whisper Not"
-name: Whisper Not
+title: Whisper Not
 artist: Layla Tomomi Sakai
 year: 1999
 cover: layla-tomomi-sakai-whisper.jpeg
