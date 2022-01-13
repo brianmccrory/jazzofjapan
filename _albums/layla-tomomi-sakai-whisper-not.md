@@ -7,7 +7,7 @@ layout: default
 
 
 <p align="center">
-<img src="{{ site.baseurl }}/assets/images/{{ site.data.layla-tomomi-sakai-whisper-not.cover }}">
+<img src="/{{ site.baseurl }}/assets/images/{{ site.data.layla-tomomi-sakai-whisper-not.cover }}">
 </p>
 
 <em>Whisper Not</em> is vocalist Layla Tomomi Sakai’s debut release from 2016. Performing here with an intimate guitar and trumpet combo, the striking singer chooses comfortable jazz standards such as “Black Coffee”, “I Can’t Get Started”, and “There Will Never Be Another You” to introduce new listeners to her smooth, husky voice and relaxing style. Six songs are included, and tempos settle at midtempo swing, bluesy groove, or slow sultry ballads, with energy peaking on the quick and exciting “Devil May Care”.
@@ -36,7 +36,7 @@ Released in {{ site.data.layla-tomomi-sakai-whisper-not.year }} on {{ site.data.
 
 
 {% for i in site.data.layla-tomomi-sakai-whisper-not.images %}
-<img src="{{ site.baseurl }}/assets/images/{{ i }}">
+<img src="/{{ site.baseurl }}/assets/images/{{ i }}">
 {% endfor %}
 
 Videos:
