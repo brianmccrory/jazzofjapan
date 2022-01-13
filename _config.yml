@@ -23,8 +23,8 @@ author: Brian McCrory
 email: brianmccrory@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sharing the best of new jazz from Japan... in English!
-baseurl: "jazzofjapan" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.jazzofjapan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jjazzstack
 instagram_username: jjazzstack
 #github_username:  brianmccrory
