@@ -1,18 +1,27 @@
 ---
-layout: default
+layout: article
 title: Resonance
 artist: Duo Tremolo
 year: 2019
-cover: duo-tremolo-resonance.jpeg
+label: Orbit Records
+code: ORG-1004
+members:
+   - {name: Hideaki Hori, instrument: "piano, voice and percussion on #11", japanese_name: 堀秀彰, url: ""}
+   - {name: Takayoshi Baba, instrument: "guitar, voice on #11", japanese_name: 馬場孝喜, url: ""}
+   - {name: Saori Sendo, instrument: "percussion on #3, #8", japanese_name: 仙道さおり, url: ""}
+   - {name: Aya Kurosawa, instrument: "voice on #11", japanese_name: , url: "黒沢綾"}
+cover: duo-tremolo-resonance.jpg
+images:
+   - L1220661-1024.jpg
+   - L1220662-1024.jpg
+   - L1220663-1024.jpg
+   - L1220665-1024.jpg
+videos:
+   - {url: "https://youtu.be/6Rfv810-EgY", comment: "Audio excerpt from Choro de Tremolo, the second track on this album"}
+   - {url: "https://youtu.be/jm3tl3B2AWc", comment: "A live performance of Friday Night at the Ca..."}
+   - {url: "https://youtu.be/R6vuPsUzibI", comment: "Jazz Street"}
+
 ---
-
-
-# {{ site.data.duo-tremolo-resonance.artist }}: {{ site.data.duo-tremolo-resonance.title }}
-
-
-<p align="center">
-<img src="/assets/images/{{ site.data.duo-tremolo-resonance.cover }}">
-</p>
 
 Pianist Hideaki Hori and guitarist Takayoshi Baba create beautiful music together on <em>Resonance</em>, their first studio recording as the unit “Duo Tremolo”. On eleven tracks made up of four standards and seven original compositions, the pair play through easy-going swing, bop, and jazz/rock tracks with hues of Jarrett, Corea, and Metheney glowing within.
 
@@ -21,33 +30,3 @@ The graceful players combine the dimensions of Hori’s precise, finessed notes 
 Two of the songs also feature guest percussionist Saori Sendo, and add rich rhythms and dynamics on Bob Berg’s “Friday Night at the Cadillac Club” and Baba’s “J.M.”. The final track “Pedra Bonita” adds another successful layer, where the two musicians are joined by singer Aya Kurosawa on the grooving Brazilian celebration with a rousing vocal ending.
 
 
-
-<ul>
-{% for member in site.data.duo-tremolo-resonance.members %}
-<li>
-{% if member.url %}<a href="{{ member.url }}">{% endif %}
-{{ member.name }}
-{% if member.url %}</a>{% endif %}
- - {{ member.instrument }}</li>
-{% endfor %}
-</ul>
-
-Released in {{ site.data.duo-tremolo-resonance.year }} on {{ site.data.duo-tremolo-resonance.label }} as {{ site.data.duo-tremolo-resonance.code }}.
-
-<em>(Names in Japanese:</em>
-{% for m in site.data.duo-tremolo-resonance.members -%}
-<em>{{ m.name -}}&nbsp;{{ m.japanese_name -}}</em>
-{% endfor -%})
-
-
-
-{% for i in site.data.duo-tremolo-resonance.images %}
-<img src="/assets/images/{{ i }}">
-{% endfor %}
-
-Videos:
-<ul>
-{% for video in site.data.duo-tremolo-resonance.videos %}
-<li><a href="{{ video.url }}">{{ video.comment }}</a></li>
-{% endfor %}
-</ul>

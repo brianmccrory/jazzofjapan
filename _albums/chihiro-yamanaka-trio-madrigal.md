@@ -1,18 +1,26 @@
 ---
-layout: default
+layout: article
 title: Madrigal
 artist: Chihiro Yamanaka Trio
 year: 2004
-cover: chihiroyamanaka-madrigal.jpeg
+label: Atelier Sawano
+code: AS-038
+cover: chihiroyamanaka-madrigal-460.jpg
+members:
+   - {name: Chihiro Yamanaka, instrument: piano, japanese_name: 山中千尋, url: "http://www.chihiroyamanaka.net/"}
+   - {name: Larry Grenadier, instrument: bass}
+   - {name: Rodney Green, instrument: "drums (#1, 3, 4)"}
+   - {name: Jeff Ballard, instrument: drums}
+images:
+   - L1210630-1024.jpg
+   - L1210637-1024.jpg
+   - L1210640-1024.jpg
+   - L1210650-1024.jpg
+videos:
+   - {url: "https://youtu.be/BPXshtpm1WY", comment: "Audio sample from Living Time Event V, the second track on the album"}
+   - {url: "https://youtu.be/1EQImEWXunM", comment: "Salve Salgueiro from this album"}
+   - {url: "https://youtu.be/5Gtt1rxO-R8", comment: "Take Five from this album"}
 ---
-
-
-# {{ site.data.chihiro-yamanaka-trio-madrigal.artist }}: {{ site.data.chihiro-yamanaka-trio-madrigal.title }}
-
-
-<p align="center">
-<img src="/assets/images/{{ site.data.chihiro-yamanaka-trio-madrigal.cover }}">
-</p>
 
 On her third album Madrigal, jazz pianist Chihiro Yamanaka continues on her upward arc, working her magic on jazz standards and originals with a top-notch trio.
 
@@ -23,33 +31,3 @@ This is her third album on the boutique Osaka-based Atelier Sawano label. With n
 As on her prior two albums, the music on Madrigal showcases her dexterous threads of improvised notes flowing with a clean touch. Yamanaka also spins her distinctively original arrangements of classic jazz tunes (“Caravan”, “Take Five”), a welcome touchstone on previous and future recordings as well. Compared to her earlier releases, Madrigal shoots for perhaps an even more kinetic mood, with boundless energy and an acrobatic spirit displayed. In fact, Yamanaka dedicated this album to her childhood, and the music is infused with playful creativity as suggested by the album photos and liner notes.
 
 A track-by-track rundown: simply swinging on “Antonio’s Joke”, addictively fun “Living Time Event V”, the pretty, light “Madrigal”, the unbridled “Ojos De Rojo”, a scrambling “School Days”, the quick Brazilian “Salve Salgueiro”, a strong and distinctive “Caravan”, the cute “Lesson 51”, and a reworked, shifting “Take Five”. Most songs are midtempo or faster, the energy undepletable. The first and third tracks are originals from the pianist, while the cover songs were written by George Russell, Cedar Walton, Duke Ellington, Paul Desmond, and other greats.
-
-<ul>
-{% for member in site.data.chihiro-yamanaka-trio-madrigal.members %}
-<li>
-{% if member.url %}<a href="{{ member.url }}">{% endif %}
-{{ member.name }}
-{% if member.url %}</a>{% endif %}
- - {{ member.instrument }}</li>
-{% endfor %}
-</ul>
-
-Released in {{ site.data.chihiro-yamanaka-trio-madrigal.year }} on {{ site.data.chihiro-yamanaka-trio-madrigal.label }} as {{ site.data.chihiro-yamanaka-trio-madrigal.code }}.
-
-<em>(Names in Japanese:</em>
-{% for m in site.data.chihiro-yamanaka-trio-madrigal.members -%}
-<em>{{ m.name -}}&nbsp;{{ m.japanese_name -}}</em>
-{% endfor -%})
-
-
-
-{% for i in site.data.chihiro-yamanaka-trio-madrigal.images %}
-<img src="/assets/images/{{ i }}">
-{% endfor %}
-
-Videos:
-<ul>
-{% for video in site.data.chihiro-yamanaka-trio-madrigal.videos %}
-<li><a href="{{ video.url }}">{{ video.comment }}</a></li>
-{% endfor %}
-</ul>
