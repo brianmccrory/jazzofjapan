@@ -19,7 +19,7 @@ layout: default
 	
 	<p>
 	
-<h3><em>"{{ page.title }}"</em></h3>	
+<h3><em>{{ page.title }}</em> by {{ page.artist }}</h3>	
 
 	<ul>
 	{% for member in page.members %}
@@ -51,7 +51,7 @@ layout: default
 <p/>
 	
 	{% for image in page.images %}
-	<img src="/assets/images/{{ image }}">
+	<a href="/assets/images/{{ image }}"><img src="/assets/images/{{ image }}"></a>
 	{% endfor %}
 
 <p/>
