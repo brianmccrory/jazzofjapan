@@ -14,7 +14,7 @@ title: Articles
 7. [Akiko Suda: Flowers on the Hill](/albums/akiko-suda-flowers-on-the-hill)
 8. Ami Fukui: Amizm
 9. Ami Fukui Trio: New Journey
-10. [Ami Fukui Trio: Urban Clutter](https://jjazz.substack.com/p/ami-fukui-trio-urban-clutter)
+10. [Ami Fukui Trio: Urban Clutter](/albums/ami-fukui-trio-urban-clutter)
 11. Aquapit: Aquapit
 12. Arco: Asymmetry
 13. Arco: Birth
