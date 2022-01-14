@@ -6,7 +6,7 @@ title: Articles
 # Articles
 
 1. Akane Matsumoto: Memories of You
-2. [Akane Matsumoto: Night & Day](https://jjazz.substack.com/p/akane-matsumoto-night-and-day)
+2. [Akane Matsumoto: Night & Day](/albums/akane-matsumoto-night-and-day)
 3. Akane Matsumoto: Playing New York
 4. Akihiro Yoshimoto Quartet: Moving Color
 5. Akiko Toyama Trio: All Is In The Sky
