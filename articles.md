@@ -20,7 +20,7 @@ title: Articles
 13. Arco: Birth
 14. [Arco: Live At Yoncha](/albums/arco-live-at-yoncha)
 15. Atomi Hamada: This Is Atomi
-16. [Ayumi Koketsu: Art](https://jjazz.substack.com/p/ayumi-koketsu-art)
+16. [Ayumi Koketsu: Art](/albums/ayumi-koketsu-art)
 17. Ayumi Koketsu: Rainbow Tales
 18. Azumi: Almost Like Being In Love
 19. Baby brothers: Bb
