@@ -132,7 +132,7 @@ title: Articles
 125. [Sumito Oi: Sumitty & the Funfair](https://jjazz.substack.com/p/sumito-oi-sumitty-and-the-funfair)
 126. Syunichi Yanagi Trio: Bubble Fish
 127. Syunichi Yanagi Trio: Slope
-128. [Taihei Asakawa: Catastrophe in Jazz](https://jjazz.substack.com/p/taihei-asakawa-catastrophe-in-jazz)
+128. [Taihei Asakawa: Catastrophe in Jazz](/albums/taihei-asakawa-catastrophe-in-jazz)
 129. Taihei Asakawa: Waltz For Debby
 130. [Taihei Asakawa Trio: Touch of Winter](https://jjazz.substack.com/p/taihei-asakawa-trio-touch-of-winter)
 131. Takako Yamada: The Flow of Time
