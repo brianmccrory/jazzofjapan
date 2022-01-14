@@ -61,7 +61,7 @@ title: Articles
 54. Junichiro Ohkuchi Trio: Invisible
 55. Kaori Nakajima & KVQ: Cross Point
 56. [Kaori Vibes Quartet: Flying Mind](https://jjazz.substack.com/p/kaori-vibes-quartet-flying-mind)
-57. [Kazumi Ikenaga: Niwatazumi](https://jjazz.substack.com/p/kazumi-ikenaga-niwatazumi)
+57. [Kazumi Ikenaga: Niwatazumi](/albums/kazumi-ikenaga-niwatazumi)
 58. [Keisuke Nakamura: Humadope](https://jjazz.substack.com/p/keisuke-nakamura-humadope)
 59. Ken’ichiro Shinzawa: Piano Works
 60. Ko Omura: Introspect

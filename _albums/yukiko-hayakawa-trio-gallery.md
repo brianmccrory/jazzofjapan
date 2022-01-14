@@ -19,6 +19,6 @@ videos:
    - {url: "https://youtu.be/k4Xx6Z2nHD8", comment: "Audio sample from Mirage, the opening track on the album"}
    - {url: "https://youtu.be/dIkN4WlWMSA", comment: "Out of the Wind"}
 ---
-<em>Gallery</em> is the 2008 debut release from jazz pianist Yukiko Hayakawa’s trio, an all-original outing with seven tracks clocking in at 44 minutes . Overall somewhat dark and musing, the music conveys mystery with pensive touches of nostalgia and grace.
+*Gallery* is the 2008 debut release from jazz pianist Yukiko Hayakawa’s trio, an all-original outing with seven tracks clocking in at 44 minutes . Overall somewhat dark and musing, the music conveys mystery with pensive touches of nostalgia and grace.
 
 Recorded with a live and echoey sound, the trio locks in with opening tracks “Mirage” and “Montmartre” setting up a smoky, laid-back atmosphere which runs through the album. The third tune “Happy Days” lifts the mood lightly with a swingy bounce, then “One Night” flirts with trembly space on a slow ballad. “Horoscope” is a funkier 4/4 tune, “Snow Crystal” drifts around with light delicacy, and the final track “Desier” features Hayakawa playing solo piano on an original showcase theme.
