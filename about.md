@@ -26,7 +26,7 @@ For another example, Fumio Karashima is 辛島文雄, where Fumio is 文雄 and 
 
 <font size=1>Version History:</font>
 
-* <font size=1>2022 Jan: Start to migrate to **www.jazzofjapan.com** for independent content management and finer control.</font>
-* <font size=1>2019 May: Start to publish on **jjazz.substack.com** releasing content as a Substack email newsletter.</font>
-* <font size=1>2018 Jan: Start to publish articles on **www.jjazzist.com** as a WordPress site.</font>
+* <font size=1>2022 Jan: Start to migrate to www.jazzofjapan.com for independent content management and finer control.</font>
+* <font size=1>2021 May: Start to publish on jjazz.substack.com releasing content as a Substack email newsletter.</font>
+* <font size=1>2018 Jan: Start to publish articles on www.jjazzist.com as a WordPress site.</font>
 
