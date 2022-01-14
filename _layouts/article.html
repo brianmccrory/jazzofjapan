@@ -18,6 +18,9 @@ layout: default
 	</p>
 	
 	<p>
+	
+<h3><em>"{{ page.title }}"</em></h3>	
+
 	<ul>
 	{% for member in page.members %}
 	<li>
@@ -40,13 +43,21 @@ layout: default
 	{% endfor -%})
 	</p>
 	
+
+<p/>
+
+<hr/>
 	
 	{% for image in page.images %}
 	<img src="/assets/images/{{ image }}">
 	{% endfor %}
 
+<p/>
 
-<h4>Audio and Video:</h3>
+<hr/>
+
+<h3>Audio and Video:</h3>
+
 	<ul>
 	{% for video in page.videos %}
 	<li><a href="{{ video.url }}">{{ video.comment }}</a></li>
