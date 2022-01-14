@@ -1,6 +1,6 @@
 ---
 layout: article
-publish_date: March 8, 2021
+date: March 8, 2021
 artist: Layla Tomomi Sakai
 title: Whisper Not
 year: 2016

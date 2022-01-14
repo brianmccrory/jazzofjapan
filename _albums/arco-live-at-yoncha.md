@@ -1,6 +1,6 @@
 ---
 layout: article
-publish_date: March 22, 2021
+date: March 22, 2021
 title: Live At Yoncha
 artist: Arco
 year: 2018

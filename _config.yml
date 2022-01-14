@@ -32,7 +32,7 @@ google_analytics: UA-207659347-2
 
 header_pages:
   - articles.md
-  - albums.html
+  - albums.md
   - musicians-index.md
 
 collections:
