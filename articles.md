@@ -2,6 +2,9 @@
 layout: default
 title: Articles
 ---
+
+# Articles
+
 1. Akane Matsumoto: Memories of You
 2. [Akane Matsumoto: Night & Day](https://jjazz.substack.com/p/akane-matsumoto-night-and-day)
 3. Akane Matsumoto: Playing New York

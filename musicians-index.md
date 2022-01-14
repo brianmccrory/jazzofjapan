@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Musicians
+title: Musicians Index
 ---
+
+# Musicians Index
+
 Musician | Album Review | Musician
 -------- | ------------ | --------
 <span class="nobr">Akane Matsumoto</span> | [Humadope](https://jjazz.substack.com/p/keisuke-nakamura-humadope) ・ [Night & Day](https://jjazz.substack.com/p/akane-matsumoto-night-and-day) | <span class="nobr">松本茜</span> | 

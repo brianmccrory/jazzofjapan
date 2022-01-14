@@ -34,6 +34,7 @@ header_pages:
   - articles.md
   - albums.md
   - musicians-index.md
+  - about.md
 
 collections:
   albums:

@@ -1,13 +1,10 @@
 ---
 layout: default
-title: Albums
+title: Album Covers
 ---
-<h1>Albums</h1>
+# Album Covers
 
- {% assign sorted = site.albums | sort: 'date' | reverse %}
- {% for album in sorted %}
-<figure>
-<a href="{{ album.url }}"><img src="{{ site.baseurl }}/assets/images/{{ album.cover }}" alt="{{ album.title }}"></a>
-<figcaption><em><a href="{{ album.url }}">{{ album.title }}</a></em> by {{ album.artist }}</figcaption>
-</figure>
+{% assign sorted = site.albums | sort_natural:"artist" %}
+ {% for album in sorted -%}
+<a href="{{ album.url }}"><img src="{{ site.baseurl }}/assets/images/{{ album.cover }}" alt="{{ album.title }}" width=240></a>
   {% endfor %}
