@@ -11,7 +11,7 @@ title: Articles
 4. Akihiro Yoshimoto Quartet: Moving Color
 5. Akiko Toyama Trio: All Is In The Sky
 6. Akiko Toyama Trio: Ambition
-7. [Akiko Suda: Flowers on the Hill](https://jjazz.substack.com/p/akiko-suda-flowers-on-the-hill)
+7. [Akiko Suda: Flowers on the Hill](/albums/akiko-suda-flowers-on-the-hill)
 8. Ami Fukui: Amizm
 9. Ami Fukui Trio: New Journey
 10. [Ami Fukui Trio: Urban Clutter](https://jjazz.substack.com/p/ami-fukui-trio-urban-clutter)
