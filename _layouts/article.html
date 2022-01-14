@@ -5,7 +5,6 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{page.artist}}: {{ page.title | escape}}<br/></h1>
-    <em>{{ page.date | date: "%b %d, %Y" }} / Brian McCrory</em>
   </header>
 
   <div class="post-content">
@@ -56,8 +55,9 @@ layout: default
 
 <hr/>
 
+
 <p align="right">
-<em>&copy; Copyright {{ "now" | date: "%Y" }} Brian McCrory</em>
+<em>&copy; {{ page.date | date: "%B %d, %Y" }}</em>
 </p>
   
 </div>

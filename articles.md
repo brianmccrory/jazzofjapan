@@ -18,7 +18,7 @@ title: Articles
 11. Aquapit: Aquapit
 12. Arco: Asymmetry
 13. Arco: Birth
-14. [Arco: Live At Yoncha](https://jjazz.substack.com/p/arco-live-at-yoncha)
+14. [Arco: Live At Yoncha](/albums/arco-live-at-yoncha)
 15. Atomi Hamada: This Is Atomi
 16. [Ayumi Koketsu: Art](https://jjazz.substack.com/p/ayumi-koketsu-art)
 17. Ayumi Koketsu: Rainbow Tales
@@ -29,11 +29,11 @@ title: Articles
 22. Bungalow: Past Life
 23. [Bungalow: You Already Know](https://jjazz.substack.com/p/bungalow-you-already-know)
 24. [Chihiro Yamanaka Trio: Living Without Friday](https://jjazz.substack.com/p/chihiro-yamanaka-trio-living-without-friday)
-25. [Chihiro Yamanaka Trio: Madrigal](https://jjazz.substack.com/p/chihiro-yamanaka-trio-madrigal)
+25. [Chihiro Yamanaka Trio: Madrigal](/albums/chihiro-yamanaka-trio-madrigal)
 26. [Chihiro Yamanaka Trio: When October Goes](https://jjazz.substack.com/p/chihiro-yamanaka-trio-when-october)
 27. Daiki Yasukagawa Trio: Kanmai
 28. Daiki Yasukagawa Trio: Trios II
-29. [Duo Tremolo: Resonance](https://jjazz.substack.com/p/duo-tremolo-resonance)
+29. [Duo Tremolo: Resonance](/albums/duo-tremolo-resonance)
 30. [Emiko Voice: Carta](https://jjazz.substack.com/p/emiko-voice-carta)
 31. Emiko Voice x Suga Dairo: Phase 2
 32. Eriko Shimizu: Sora
@@ -68,7 +68,7 @@ title: Articles
 61. Kohsuke Mine Quintet: Major to Minor
 62. Koichi Sato: Melancholy of a Journey
 63. Koichi Sato: Utopia
-64. [Layla Tomomi Sakai: Whisper Not](https://jjazz.substack.com/p/layla-tomomi-sakai-whisper-not)
+64. [Layla Tomomi Sakai: Whisper Not](/albums/layla-tomomi-sakai-whisper-not)
 65. Layla Tomomi Sakai: The Island
 66. [Les Komatis: Les Komatis](https://jjazz.substack.com/p/les-komatis-les-komatis)
 67. Mabumi Yamaguchi: Let Your Mind Alone
@@ -152,7 +152,7 @@ title: Articles
 145. Yako Horikita: Shining Hour
 146. Yasumasa Kumagai: I Need A Change, Too
 147. [Yasumasa Kumagai: J-Straight Ahead](https://jjazz.substack.com/p/yasumasa-kumagai-j-straight-ahead)
-148. [Yoshihito "P" Koizumi P-Project: By Coincidence](https://jjazz.substack.com/p/p-project-by-coincidence)
+148. [Yoshihito "P" Koizumi P-Project: By Coincidence](/albums//yoshihito-p-koizumi-by-coincidence)
 149. Yudo Matsuo: Bonanza
 150. Yuichiro Aratake: Music Make Us One 2010 Live
 151. Yuichiro Aratake: The Light Flows In
@@ -160,7 +160,7 @@ title: Articles
 153. Yuka Ueda: Dois
 154. [Yukako Yamano: 1st Stage](https://jjazz.substack.com/p/yukako-yamano-1st-stage)
 155. Yukari Inoue: Sakura
-156. [Yukiko Hayakawa Trio: Gallery](https://jjazz.substack.com/p/yukiko-hayakawa-trio-gallery)
+156. [Yukiko Hayakawa Trio: Gallery](/albums/yukiko-hayakawa-trio-gallery)
 157. Yuko Miyawaki: Song Of Flower
 158. Yuya Wakai: Images
 159. Zephyr: Zephyr
