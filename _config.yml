@@ -12,7 +12,8 @@ instagram_username: jjazzstack
 header_pages:
   - articles.md
   - albums.md
-  - musicians-index.md
+  - musicians.md
+  - audio.md
   - about.md
 
 collections:

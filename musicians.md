@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Musicians Index
+title: Musicians
 ---
 
-# Musicians Index
+# Musicians
 
 Musician | Album Review | Musician
 -------- | ------------ | --------

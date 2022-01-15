@@ -6,11 +6,11 @@ layout: home
 
 
 **[Jazz of Japan](/)**
-* [Articles](/articles): a list of the album reviews published here
-* [Album Covers](/albums): a layout of the articles arranged by album covers
-* [Musicians Index](/musicians): The musicians and albums contributed to
+* [Articles](/articles): List of the album reviews published here
+* [Album Covers](/albums): List of the articles arranged by album covers
+* [Audio](/audio): Audio excerpts
+* [Musicians](/musicians): An index of musicians and albums
 * [About](/about): About this site
 
-Audio excerpts are on the [Youtube channel](https://www.youtube.com/channel/UCUDGeoIKVtmk-thXbzNY_jw).
 
 [![Intro](/assets/images/intro-jazz.jpeg)](/assets/images/intro-jazz.jpeg)
