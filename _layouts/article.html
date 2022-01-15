@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{% assign image_subdir = page.date | date: "%Y/%m" %}
+{% assign image_dir = "/assets/images/" | append: image_subdir %}
+
 <article class="post">
 
   <header class="post-header">
@@ -10,7 +13,7 @@ layout: default
   <div class="post-content">
 
 	<p align="center">
-	<img src="/assets/images/{{ page.cover }}">
+	<img src="{{ image_dir }}/{{ page.cover }}">
 	</p>
 
 	<p>
@@ -53,7 +56,7 @@ layout: default
 <p/>
 	
 	{% for image in page.images %}
-	<a href="/assets/images/{{ image }}"><img src="/assets/images/{{ image }}"></a>
+	<a href="{{ image_dir }}/{{ image }}"><img src="{{ image_dir }}/{{ image }}"></a>
 	{% endfor %}
 
 <p/>
