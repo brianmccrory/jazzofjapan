@@ -8,8 +8,8 @@ layout: home
 **[Jazz of Japan](/)**
 * [Articles](/articles): List of the album reviews published here
 * [Album Covers](/albums): List of the articles arranged by album covers
-* [Audio](/audio): Audio excerpts
 * [Musicians](/musicians): An index of musicians and albums
+* [Audio](/audio): Audio excerpts
 * [About](/about): About this site
 
 
