@@ -40,9 +40,7 @@ title: Articles
 37. Fuse: *Live Fuse*
 40. Harumi Nomoto Trio: *Belinda*
 42. Hideaki Hori Trio: *In My Words*
-43. Hideaki Hori Trio: *Unconditional Love*
 44. Hideaki Kanazawa & Sumire Kuribayashi: *Nijuso*
-45. Hikari Ichihara Group: *Move On*
 46. Hiroco Nagano: *Okurimono*
 47. Hiromi Miura: *We Don’t Know Yet*
 48. Hitomi Nishiyama Trio: *Many Seasons*
