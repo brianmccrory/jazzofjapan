@@ -27,10 +27,10 @@ title: Articles
 20. Blue Dot: Halo
 21. Bungalow: Metropolitan Oasis
 22. Bungalow: Past Life
-23. [Bungalow: You Already Know](https://jjazz.substack.com/p/bungalow-you-already-know)
-24. [Chihiro Yamanaka Trio: Living Without Friday](https://jjazz.substack.com/p/chihiro-yamanaka-trio-living-without-friday)
+23. [Bungalow: You Already Know](/albums/bungalow-you-already-know)
+24. [Chihiro Yamanaka Trio: Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday)
 25. [Chihiro Yamanaka Trio: Madrigal](/albums/chihiro-yamanaka-trio-madrigal)
-26. [Chihiro Yamanaka Trio: When October Goes](https://jjazz.substack.com/p/chihiro-yamanaka-trio-when-october)
+26. [Chihiro Yamanaka Trio: When October Goes](/albums/chihiro-yamanaka-trio-when-october)
 27. Daiki Yasukagawa Trio: Kanmai
 28. Daiki Yasukagawa Trio: Trios II
 29. [Duo Tremolo: Resonance](/albums/duo-tremolo-resonance)
