@@ -34,7 +34,7 @@ title: Articles
 27. Daiki Yasukagawa Trio: Kanmai
 28. Daiki Yasukagawa Trio: Trios II
 29. [Duo Tremolo: Resonance](/albums/duo-tremolo-resonance)
-30. [Emiko Voice: Carta](https://jjazz.substack.com/p/emiko-voice-carta)
+30. [Emiko Voice: Carta](/albums/emiko-voice-carta)
 31. Emiko Voice x Suga Dairo: Phase 2
 32. Eriko Shimizu: Sora
 33. [Fumie Chiba: Beautiful Days](https://jjazz.substack.com/p/fumie-chiba-beautiful-days)
