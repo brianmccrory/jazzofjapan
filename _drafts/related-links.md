@@ -10,9 +10,7 @@ https://jjazz.substack.com
 
 This site! All the posts here can be searched or viewed through the archive link.
 
-A supplementary index listing the musicians and albums currently published on this site (e.g. a partial index) is available here:
-
-### https://brianmccrory.github.io/jjazz/
+A supplementary index listing the musicians and albums currently published on this site (e.g. a partial index) is available here: https://brianmccrory.github.io/jjazz/
 
 ### JJazz.Net
 
