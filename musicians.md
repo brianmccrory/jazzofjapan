@@ -58,6 +58,7 @@ Momoko Aida | [Carta](/albums/emiko-voice-carta) | 会田桃子
 Motoi Kanamori | [Humadope](/albums/keisuke-nakamura-humadope) | 金森もとい
 Nao Sakamoto | [Virgo](/albums/harumi-nomoto-trio-virgo) | 坂本直
 Nao Teraya | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 寺屋ナオ
+Naoko Sakata | [Flower Clouds](/albums/naoko-sakata-trio-flower-clouds) | 坂田尚子
 Nobie | [Les Komatis](/albums/les-komatis-les-komatis) | ノビー
 Nobumasa Yamada | [Les Komatis](/albums/les-komatis-les-komatis) | 山田ノブマサ
 Ryoji Orihara | [Virgo](/albums/harumi-nomoto-trio-virgo) | 織原良次
@@ -90,6 +91,7 @@ Yuichi Narita | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 
 Yuichiro Hiraoka | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 平岡遊一郎
 Yukiko Hayakawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 早川由紀子
 maiko | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | マイコ
+Anton Blomgren | [Flower Clouds](/albums/naoko-sakata-trio-flower-clouds) | 
 Ben "Donny" Waples | [Open the Green Door](/albums/hakuei-kim-trio-open-the-green-door) | 
 Carl Allen | [Faith](/albums/mayuko-katakura-faith) | 
 Christian Vuust | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
@@ -98,6 +100,7 @@ Gene Jackson | [Night & Day](/albums/akane-matsumoto-night-and-day) |
 Jakob Buchanan | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
 Jeff Ballard | [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) ・ [When October Goes](/albums/chihiro-yamanaka-trio-when-october) | 
 Jeremy Manasia | [Art](/albums/ayumi-koketsu-art) | 
+Johan Birgenius | [Flower Clouds](/albums/naoko-sakata-trio-flower-clouds) | 
 Klaus Nørgaard | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
 LaFrae Olivia Sci | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) | 
 Larry Grenadier | [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) ・ [When October Goes](/albums/chihiro-yamanaka-trio-when-october) | 

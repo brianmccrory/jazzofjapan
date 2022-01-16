@@ -74,7 +74,6 @@ title: Articles
 87. Miyuki Moriya: *Cat’s Cradle*
 88. Motoi Kanamori: *My Soul Meeting*
 89. Naoko Akimoto: *No One Else*
-90. Naoko Sakata Trio: *Flower Clouds*
 91. Naoko Tanaka Trio: *Memories*
 92. NHORHM: *New Heritage of Real Heavy Metal -Extra Edition-*
 93. Nobie: *Bénin Rio Tokyo*
