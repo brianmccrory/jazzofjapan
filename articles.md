@@ -50,7 +50,6 @@ title: Articles
 53. Jazz Spot Intro: *Soulful Intro Live! 20th Anniversary*
 54. Junichiro Ohkuchi Trio: *Invisible*
 55. Kaori Nakajima & KVQ: *Cross Point*
-56. Kaori Vibes Quartet: *Flying Mind*
 58. Keisuke Nakamura: *Humadope*
 59. Ken’ichiro Shinzawa: *Piano Works*
 60. Ko Omura: *Introspect*

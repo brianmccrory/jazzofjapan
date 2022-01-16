@@ -27,6 +27,7 @@ Hikari Ichihara | [Move On](/albums/hikari-ichihara-group-move-on) | 市原ひ�
 Hiroshi Ikejiri | [You Already Know](/albums/bungalow-you-already-know) | 池尻洋史
 Hitomi Nishiyama | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 西山瞳
 Jun Miyakawa | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 宮川純
+Kaori Nakajima | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 中島香里
 Kaoru Suzuki | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鈴木郁
 Kazumi Ikenaga | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) ・ [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 池長和美
 Keiichirou Uemura | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 上村計一郎
@@ -41,8 +42,9 @@ Kunpei Nakabayashi | [Move On](/albums/hikari-ichihara-group-move-on) | 中林�
 Layla Tomomi Sakai | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 坂井レイラ知美
 Maiko Sugawara | [Virgo](/albums/harumi-nomoto-trio-virgo) | 菅原牧子
 Manabu Hashimoto | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) | 橋本学
-Masanori Ando | [Move On](/albums/hikari-ichihara-group-move-on) | 安藤正則
+Masanori Ando | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) ・ [Move On](/albums/hikari-ichihara-group-move-on) | 安藤正則
 Mayumi Sano | [Live At Yoncha](/albums/arco-live-at-yoncha) | 佐野まゆみ
+Minoru Yoshiki | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 吉木稔
 Mitsuru Tanaka | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 田中充
 Momoko Aida | [Carta](/albums/emiko-voice-carta) | 会田桃子
 Nao Sakamoto | [Virgo](/albums/harumi-nomoto-trio-virgo) | 坂本直
@@ -60,6 +62,7 @@ Sohnosuke Imaizumi | [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) ・ [
 Taihei Asakawa | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) | 浅川太平
 Takashi Saito | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 齋藤たかし
 Takayoshi Baba | [Resonance](/albums/duo-tremolo-resonance) | 馬場孝喜
+Tamashi Goto | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 後藤魂
 Terumasa Nishikawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 西川輝正
 Toru Nishijima | [Carta](/albums/emiko-voice-carta) | 西嶋徹
 Toyomi Kobayashi | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 小林豊美
