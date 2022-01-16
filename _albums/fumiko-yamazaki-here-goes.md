@@ -13,8 +13,8 @@ members:
    - {name: Shingo Tanaka, instrument: "bass", japanese_name: 田中晋吾}
    - {name: Takashi Saito, instrument: "drums, percussion", japanese_name: 齋藤たかし}
 images:
-   - L1200538-1024.JPG
    - L1200539-1024.JPG
+   - L1200538-1024.JPG
    - L1200543-1024.JPG
    - L1200544-1024.JPG
 videos: 
