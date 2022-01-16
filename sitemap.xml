@@ -24,4 +24,13 @@ search: exclude
     </url>
     {% endfor %}
 
+	{% assign sorted = site.albums | sort_natural:"artist" %}
+	{% for album in sorted %}
+    <url>
+        <loc>{{album.url}}</loc>
+        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+	{% endfor %}
 </urlset>
