@@ -8,29 +8,37 @@ search: exclude
 
     {% for page in site.pages %}
     <url>
-        <loc>{{ site.url }}{{page.url}}</loc>
-        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
+      <loc>{{ site.url }}{{page.url}}</loc>
+      {% if page.date -%}
+        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+      {% else -%}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif -%}
     </url>
     {% endfor %}
 
     {% for post in site.posts %}
+    {% unless post.published == false %}
     <url>
-        <loc>{{ site.url }}{{post.url}}</loc>
-        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
+      <loc>{{ site.url }}{{post.url}}</loc>
+      {% if post.date -%}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {% else -%}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif -%}
     </url>
+    {% endunless %}
     {% endfor %}
 
 	{% assign sorted = site.albums | sort_natural:"artist" %}
 	{% for album in sorted %}
     <url>
-        <loc>{{ site.url }}{{album.url}}</loc>
-        <lastmod>{{site.time | date: '%Y-%m-%d' }}</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
+      <loc>{{ site.url }}{{album.url}}</loc>
+      {% if album.date -%}
+        <lastmod>{{ album.date | date_to_xmlschema }}</lastmod>
+      {% else -%}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif -%}
     </url>
 	{% endfor %}
 </urlset>
