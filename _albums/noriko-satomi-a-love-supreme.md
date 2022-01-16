@@ -6,21 +6,24 @@ artist: Noriko Satomi
 year: 2019
 label: T-Toc Records
 code: TTOC-0032
-cover: 
+cover: norikosatomi-lovesupreme-460.jpeg
 members:
    - {name: Noriko Satomi, instrument: "violin", japanese_name: 里見紀子, url: "https://project-nori.wixsite.com/mysite"}
    - {name: Masaaki Imaizumi, instrument: "piano", japanese_name: 今泉正明, url: "http://masaaki-imaizumi.music.coocan.jp/"}
    - {name: Shin Kamimura, instrument: "bass", japanese_name: 上村信, url: "http://kamimurashinbass.g2.xrea.com/"}
    - {name: Masahiko Osaka, instrument: "drums", japanese_name: 大坂昌彦, url: "https://osaka-masahiko.com/"}
 images:
-   - 
-   - 
-   - 
+   - L1220637-1024.jpg
+   - L1220642-1024.jpg
+   - L1220648-1024.jpg
+   - L1220644-1024.jpg
+   - L1220645-1024.jpg
 videos: 
-   - {url: "https://youtu.be/NWBD8Se5iiE", comment: ""}
-   - {url: "https://youtu.be/rCUIDNhxxQA", comment: ""}
+   - {url: "https://youtu.be/NWBD8Se5iiE", comment: "Audio excerpt from “A Love Supreme Part 2: Resolution”, the second track from this album"}
+   - {url: "https://youtu.be/rCUIDNhxxQA", comment: "The official promotional video for Noriko Satomi’s “A Love Supreme”"}
+audio:
 ---
-Noriko Satomi brings the passion and vibrancy of jazz violin to an acclaimed jazz composition on her 2019 homage to A Love Supreme, which received a Jazz Japan Award from Jazz Japan magazine in January 2020.
+Noriko Satomi brings the passion and vibrancy of jazz violin to an acclaimed jazz composition on her 2019 homage to *A Love Supreme*, which received a Jazz Japan Award from *Jazz Japan* magazine in January 2020.
 
 No doubt familiar to most jazz fans, John Coltrane’s 1965 masterpiece sets a high bar for any jazz group, with both rote recitation and musical reinvention being risky propositions. At the same time, re-experiencing the classic performance at live concerts or on newly recorded albums can provide a thrilling way for fellow fans and the performing musicians themselves to appreciate the music together.
 
@@ -30,23 +33,9 @@ Moving through the four parts of the suite, “Acknowledgement”, “Resolution
 
 A bonus track performance of “Danny Boy” is included after the jazz suite as a calming ballad encore.
 
-Noriko Satomi – violin
+Awarded the Jazz Japan Award 2019 Album Of The Year for High-Quality Media ([January 2020 issue #114](http://www.jazzjapan.co.jp/vol114.html)).
 
-Masaaki Imaizumi – piano
 
-Shin Kamimura – bass
-
-Masahiko Osaka – drums
-
-Released in 2019 on T-Toc Records as TTOC-0032.
-
-Awarded the Jazz Japan Award 2019 Album Of The Year for High-Quality Media (January 2020 issue #114).
-
-(Names in Japanese: Noriko Satomi 里見紀子 Masaaki Imaizumi 今泉正明 Shin Kamimura 上村信 Masahiko Osaka 大坂昌彦)
-
-Audio excerpt from “A Love Supreme Part 2: Resolution”, the second track from this album:
-
-The official promotional video for Noriko Satomi’s “A Love Supreme”:
 
 
 

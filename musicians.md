@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Musicians
+date: 2022-01-16T11:48:58.6565996-08:00
 ---
 # Musicians
 
@@ -47,6 +48,8 @@ Layla Tomomi Sakai | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 坂
 Maiko Sugawara | [Virgo](/albums/harumi-nomoto-trio-virgo) | 菅原牧子
 Mamoru Ishida | [Humadope](/albums/keisuke-nakamura-humadope) | 石田衛
 Manabu Hashimoto | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) | 橋本学
+Masaaki Imaizumi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 今泉正明
+Masahiko Osaka | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 大坂昌彦
 Masanori Ando | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) ・ [Move On](/albums/hikari-ichihara-group-move-on) | 安藤正則
 Mayuko Katakura | [Faith](/albums/mayuko-katakura-faith) ・ [Les Komatis](/albums/les-komatis-les-komatis) | 片倉真由子
 Mayumi Sano | [Live At Yoncha](/albums/arco-live-at-yoncha) | 佐野まゆみ
@@ -61,6 +64,7 @@ Nao Teraya | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 寺
 Naoko Sakata | [Flower Clouds](/albums/naoko-sakata-trio-flower-clouds) | 坂田尚子
 Nobie | [Les Komatis](/albums/les-komatis-les-komatis) | ノビー
 Nobumasa Yamada | [Les Komatis](/albums/les-komatis-les-komatis) | 山田ノブマサ
+Noriko Satomi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 里見紀子
 Ryoji Orihara | [Virgo](/albums/harumi-nomoto-trio-virgo) | 織原良次
 Ryosuke Asai | [Move On](/albums/hikari-ichihara-group-move-on) | 浅井良将
 Ryosuke Hashizume | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 橋爪亮督
@@ -68,6 +72,7 @@ Ryuichi Takase | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 高瀬�
 Saori Sendo | [Resonance](/albums/duo-tremolo-resonance) | 仙道さおり
 Sayaka Kishi | [Live At Yoncha](/albums/arco-live-at-yoncha) | 岸淑香
 Shikou Ito | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | 伊藤志宏
+Shin Kamimura | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 上村信
 Shingo Tanaka | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 田中晋吾
 Shinichi Kato | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) | 加藤真一
 Shun Ishiwaka | [Humadope](/albums/keisuke-nakamura-humadope) | 石若俊
