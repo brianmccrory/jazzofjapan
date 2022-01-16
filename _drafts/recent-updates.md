@@ -2,6 +2,7 @@
 layout: post
 title: 'Recent Updates: January 2022'
 image: /images/J-circle.png
+date: Jan 15, 2022
 ---
 # Recent Updates: January 2022
 

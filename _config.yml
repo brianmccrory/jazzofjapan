@@ -14,7 +14,6 @@ header_pages:
   - albums.md
   - musicians.md
   - audio.md
-  - about.md
 
 collections:
   albums:

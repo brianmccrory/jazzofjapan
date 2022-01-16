@@ -2,6 +2,7 @@
 layout: post
 title: 'How to get updates'
 image: /images/J-circle.png
+date: Jan 15, 2022
 ---
 # How to get updates
 

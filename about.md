@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+date: Jan 15, 2022
 ---
 # About
 
@@ -10,7 +11,7 @@ This site is about sharing information about Japanese jazz and related music fro
 That’s about it, pretty simple!
 
 
-## A note on names:
+## A note on names
 
 In most cases, names on this site are shown in “first name last name” order in English (given name first), and “last name first name” order in Japanese (family name first).
 
@@ -21,4 +22,17 @@ For another example, Fumio Karashima is 辛島文雄, where Fumio is 文雄 and 
 ## このサイトについ:
 
 このサイトは日本のジャズを支えるために、日本人のジャズアルバムをご紹介します。このサイトはシンプルな英語で現在のジャズ録音について短い記事を書き、写真、ビデオ、録音のオーディオクリップなど、英語で書いた情報で日本のジャズミュージシャンに新しいファンを得ることに努力します。
+
+
+
+#### Version history
+
+* 2022 Jan: Start to migrate to www.jazzofjapan.com for independent content management and finer control.
+* 2021 May: Start to publish on jjazz.substack.com releasing content as a Substack email newsletter.
+* 2018 Jan: Start to publish articles on www.jjazzist.com as a WordPress site.
+
+
+#### About the author
+
+I've been collecting current jazz albums from Japan, meeting the musicians, visiting jazz clubs in Japan, and writing notes about it all since 2005.
 
