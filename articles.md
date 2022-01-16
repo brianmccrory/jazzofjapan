@@ -85,7 +85,7 @@ title: Articles
 101. Ryosuke Hashizume: *Needful Things*
 102. Ryosuke Hashizume Group: *Acoustic Fluid*
 103. Ryosuke Hashizume Group: *As We Breathe*
-104. [Ryosuke Hashizume Group: *Incomplete Voices*
+104. Ryosuke Hashizume Group: *Incomplete Voices*
 105. Ryosuke Hashizume Group: *Side Two*
 106. Ryosuke Hashizume Group: *Visible/Invisible*
 107. Ryosuke Hashizume Group: *Wordless*
