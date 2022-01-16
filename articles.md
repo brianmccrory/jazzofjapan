@@ -77,7 +77,6 @@ title: Articles
 91. Naoko Tanaka Trio: *Memories*
 92. NHORHM: *New Heritage of Real Heavy Metal -Extra Edition-*
 93. Nobie: *Bénin Rio Tokyo*
-95. Protean: *Protean*
 96. Rabbitoo: *National Anthem of Unknown Country*
 97. Reikan Kobayashi: *Gakudan Hitori*
 98. Rie Taguchi: *The Gift*

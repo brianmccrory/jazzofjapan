@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musicians
-date: 2022-01-16T11:55:31.0249479-08:00
+date: 2022-01-16T12:02:16.1101269-08:00
 ---
 # Musicians
 
@@ -18,6 +18,7 @@ Aya Kurosawa | [Beautiful Days](/albums/fumie-chiba-beautiful-days) ・ [Resonan
 Ayumi Koketsu | [Art](/albums/ayumi-koketsu-art) | 纐纈歩美
 Chihiro Yamanaka | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) ・ [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) ・ [When October Goes](/albums/chihiro-yamanaka-trio-when-october) | 山中千尋
 Dairiki Hara | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 原大力
+Dan Yoshikawa | [Protean](/albums/protean-protean) | 吉川弾
 EMiKO VOiCE | [Carta](/albums/emiko-voice-carta) ・ [Hall Tone](/albums/meu-coracao-hall-tone) | エミコヴォイス
 Fumie Chiba | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 千葉史絵
 Fumiko Yamazaki | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 山崎ふみこ
@@ -62,6 +63,8 @@ Motoi Kanamori | [Humadope](/albums/keisuke-nakamura-humadope) | 金森もとい
 Nao Sakamoto | [Virgo](/albums/harumi-nomoto-trio-virgo) | 坂本直
 Nao Teraya | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 寺屋ナオ
 Naoko Sakata | [Flower Clouds](/albums/naoko-sakata-trio-flower-clouds) | 坂田尚子
+Naoko Tanaka | [Protean](/albums/protean-protean) | 田中菜緒子
+Naoyuki Seto | [Protean](/albums/protean-protean) | 瀬戸尚幸
 Nobie | [Les Komatis](/albums/les-komatis-les-komatis) | ノビー
 Nobumasa Yamada | [Les Komatis](/albums/les-komatis-les-komatis) | 山田ノブマサ
 Noriko Satomi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 里見紀子
