@@ -21,6 +21,7 @@ videos:
    - {url: "https://youtu.be/sdAtWSTyhHU", comment: "Audio sample from “Chega de Saudade”, track #16 from this album"}
    - {url: "https://youtu.be/6F9zwtzqIxM", comment: "A live version of “Pra Que Discutir Com Madame”, track #3 from this album"}
    - {url: "https://youtu.be/mncD6W_Ybu0", comment: "A 2008 clip from NHK showcasing Meu Coracao playing at an outdoor live concert"}
+audio:
 ---
 As jazz fans know, Brazilian music and bossa nova tunes are frequently present on jazz albums, playlists, and jazz bars, and Japan’s live scene is no exception. Naturally, Japanese jazz musicians and groups who specialize in Latin genres can also be found in Japan.
 

@@ -67,7 +67,6 @@ title: Articles
 77. Mayuko Katakura: *Inspiration*
 78. Mayuko Katakura: *The Echoes of Three*
 79. Meu Coracao: *A Tempo*
-81. Michiyo Matsushita: *Sally Gardens*
 82. Mie Joké: *Etrenne*
 83. Miki Hayama: *Prelude to a Kiss*
 84. Miki Hayama Trio: *Wide Angle*
