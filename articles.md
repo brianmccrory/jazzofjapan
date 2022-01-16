@@ -12,7 +12,7 @@ title: Articles
 
 ---
 
-### Upcoming Articles:
+### Upcoming:
 
 1. Akane Matsumoto: *Memories of You*
 3. Akane Matsumoto: *Playing New York*
@@ -67,7 +67,6 @@ title: Articles
 77. Mayuko Katakura: *Inspiration*
 78. Mayuko Katakura: *The Echoes of Three*
 79. Meu Coracao: *A Tempo*
-80. Meu Coracao: *Hall Tone*
 81. Michiyo Matsushita: *Sally Gardens*
 82. Mie Joké: *Etrenne*
 83. Miki Hayama: *Prelude to a Kiss*
