@@ -15,8 +15,8 @@ members:
    - {name: Klaus Nørgaard, instrument: "bass"}
 images:
    - L1180426-1024.jpg
-   - L1180427-1024.jpg
    - L1180428-1024.jpg
+   - L1180427-1024.jpg
    - L1180429-1024.jpg
 videos: 
    - {url: "https://youtu.be/oSB80c-NiW0", comment: "Audio sample from “Unspoken Language”, the first track on this album"}
