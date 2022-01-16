@@ -6,18 +6,22 @@ artist: Les Komatis
 year: 2015
 label: F.S.L
 code: FSCJ-0007
-cover: 
+cover: leskomatis-leskomatis-460.jpg
 members:
    - {name: Nobie, instrument: "vocal, voice, percussion", japanese_name: ノビー, url: "http://nobie.net"}
    - {name: Akemi Ohta, instrument: "flute, alto flute, percussion, chorus", japanese_name: 太田朱美, url: "https://ohakemi454.wixsite.com/mysite"}
    - {name: Mayuko Katakura, instrument: "piano, Rhodes piano, chorus", japanese_name: 片倉真由子, url: "https://twitter.com/mayukokatakura"}
    - {name: Nobumasa Yamada, instrument: "percussion", japanese_name: 山田ノブマサ}
 images:
-   - 
-   - 
-   - 
+   - L1180805-1024.jpg
+   - L1180812-1024.jpg
+   - L1180821-1024.jpg
+   - L1180826-1024.jpg
+   - IMG_20140811_213350_003-1024.jpg
 videos: 
-   - {url: "https://youtu.be/g4RtGnfio50", comment: ""}
+   - {url: "https://youtu.be/g4RtGnfio50", comment: "Audio excerpt from “Spur”, which opens the album"}
+audio:
+   - {url: "http://bowz.shop-pro.jp/?pid=86156320", comment: "Audio samples available at bowz.shop-pro.jp"}
 ---
 Three established musicians join up to release Les Komatis, a rich fusion of jazz, pop, and Brazilian influences combined for thrilling and moving music.
 
@@ -27,24 +31,5 @@ Along with songs sung in English, Japanese, and Portuguese, the vocalist Nobie o
 
 Les Komatis balances jazz, pop, and Latin with the album’s originals, comfortable ballads, catchy interludes, and even two powerhouse McCoy Tyner covers for added energy: “Man From Tanganyika” and “Fly With The Wind”. The set closes with a Zen-like take on the final track, Mayuko Katakura's deep “Mugen” (with 夢幻 here meaning dreams, visions, fantasy).
 
-
-
-Nobie - vocal, voice, percussion
-
-Akemi Ohta - flute, alto flute, percussion, chorus
-
-Mayuko Katakura - piano, Rhodes piano, chorus
-
-Additional musician:
-
-Nobumasa Yamada - percussion
-
-Released in 2015 on F.S.L as FSCJ-0007.
-
-(Names in Japanese: Nobie ノビー Akemi Ohta 太田朱美 Mayuko Katakura 片倉真由子 Nobumasa Yamada 山田ノブマサ)
-
-Audio excerpt from “Spur”, which opens the album:
-
-Audio samples from this album are available online at http://bowz.shop-pro.jp/?pid=86156320.
 
 

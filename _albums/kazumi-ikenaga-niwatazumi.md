@@ -21,6 +21,7 @@ images:
 videos: 
    - {url: "https://youtu.be/oSB80c-NiW0", comment: "Audio sample from “Unspoken Language”, the first track on this album"}
    - {url: "https://youtu.be/me1Shf1vY1s", comment: "The title track “Niwatazumi”"}
+audio:
 ---
 *Niwatazumi* (a large puddle remaining after heavy rainfall) is a wonderful modern jazz record from Kazumi Ikenaga + PAUSELAND. Spacey original compositions and mature musicianship flow in the breathy and open style of a modern ECM recording. Relaxing and anthemic, the music is at times mesmerizing and at other times gently rocking and grooving.
 

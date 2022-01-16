@@ -19,9 +19,8 @@ images:
 videos: 
    - {url: "https://youtu.be/9U490UwojEc", comment: "Audio sample from “Offer Refused”, the opening track on the album"}
    - {url: "https://youtu.be/82QZVEGryso", comment: "Hakuei Kim playing solo piano supporting his 2018 release “Resonance”"}
+audio:
 ---
-
-
 Modern to the point of futuristic, *Open the Green Door* features an exciting jazz piano trio with the pianist Hakuei Kim leading a stellar Australian rhythm section of Ben “Donny” Waples on bass and Dave Goodman on drums.
 
 With the mature confidence of solid musicianship balanced with fresh enthusiasm, the trio strives for musical excellence with impressive nimbleness and dark, atmospheric explorations. The album features eight tracks made up of five original compositions from the pianist and three reworked jazz standards.

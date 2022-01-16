@@ -24,6 +24,7 @@ videos:
    - {url: "https://youtu.be/8tPlcOaE55M", comment: "Promotional video 2"}
    - {url: "https://youtu.be/LRUNIFiu4-Y", comment: "Promotional video 3"}
    - {url: "https://youtu.be/J7Mp74TCldo", comment: "Promotional video 4"}
+audio:
 ---
 Pianist Harumi Nomoto’s 2014 release *Virgo* is a constellation of grooves, moods, and textures, boldly incorporating inter-genre approaches as piano jazz is woven with Eastern sounds, African rhythms, and hip-hop-influenced beats.
 

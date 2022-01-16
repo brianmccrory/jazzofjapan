@@ -20,6 +20,7 @@ images:
 videos: 
    - {url: "https://youtu.be/yISB24JE5J8", comment: "Audio sample from track #4 “Unfolding Universe”, which was awarded third place in the jazz category of the International Songwriters Competition"}
    - {url: "https://youtu.be/bEaAs7MVJwU", comment: "This video contains samples of all the tracks on this album"}
+audio:
 ---
 Hitomi Nishiyama's 2011 album *Music In You* features an established trio that shares a cohesive sensibility, creating beautiful textural moods with European-flavored jazz influences. As befits a group of skilled jazz musicians, the players breathe as one while creating textures of sound, restrained yet deep with emotion.
 

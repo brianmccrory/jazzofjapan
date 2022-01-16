@@ -21,6 +21,7 @@ videos:
    - {url: "https://youtu.be/BPXshtpm1WY", comment: "Audio sample from “”Living Time Event V”, the second track on the album"}
    - {url: "https://youtu.be/1EQImEWXunM", comment: "Salve Salgueiro from this album"}
    - {url: "https://youtu.be/5Gtt1rxO-R8", comment: "Take Five from this album"}
+audio:
 ---
 On her third album *Madrigal*, jazz pianist Chihiro Yamanaka continues on her upward arc, working her magic on jazz standards and originals with a top-notch trio.
 

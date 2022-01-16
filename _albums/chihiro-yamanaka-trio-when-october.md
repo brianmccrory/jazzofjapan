@@ -19,9 +19,8 @@ images:
 videos: 
    - {url: "https://youtu.be/7hF-_6Pm06Y", comment: 'Audio sample from "Taxi", the first track on this album'}
    - {url: "https://youtu.be/IBqCrXr2_9I", comment: "A live performance of “Yagi Bushi”, the fourth track on this album"}
+audio:
 ---
-
-
 Chihiro Yamanaka’s second release *When October Goes* was released in 2002, a natural followup to her impressive debut *Living Without Friday* released the prior year. This second album features the pianist playing with new recording members Larry Grenadier on bass and Jeff Ballard on drums, members of the Brad Mehldau Trio who would continue to record and tour to great acclaim like Yamanaka herself.
 
 The ten tracks on When October Goes include three original songs, with the balance of the music being jazz standards and rearranged songs.

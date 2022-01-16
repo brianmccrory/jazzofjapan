@@ -24,6 +24,7 @@ videos:
    - {url: "https://youtu.be/ZfSZOLCxA10", comment: "Audio sample from “朝焼けの歌” (Asayake No Uta), the first track on the album"}
    - {url: "https://youtu.be/esoPD7qadpA", comment: "Promotional video related to this album release"}
    - {url: "https://youtu.be/GnFuQOSKzUo", comment: "Excerpts from a 2019 live performance of the Fumie Chiba Trio"}
+audio:
 ---
 On her fourth and latest album *Beautiful Days* (2017), pianist Fumie Chiba records eleven new compositions with a jazz sextet, a piano trio plus trumpet, sax, and vocals. While her first two albums *Tip of Dream* (2009) and *Echoes* (2013) featured her jazz trio, the expanded group on her previous *Roguequeue* (2015) and on this album well suits the textures she strives for. Freshness and energy flow through the rich harmonies and interplay with attention paid to the compositional detail throughout the music.
 

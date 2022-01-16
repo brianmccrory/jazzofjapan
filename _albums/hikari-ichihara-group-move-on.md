@@ -22,6 +22,7 @@ images:
 videos: 
    - {url: "https://youtu.be/O6MD9kjDD28", comment: "Audio sample from “Yamikuro”, the first track on this album"}
    - {url: "https://youtu.be/JV_7YAx3mCA", comment: "Video of Hikari Ichihara playing “Can You Repeat the Past” from the 2014 album “Dear Gatsby”"}
+audio:
 ---
 Hikari Ichihara’s fifth album *Move On* features the trumpeter’s quintet performing finely-tuned compositions with jazz integrity and a vibrant sound full of sparkling energy. The tracks range from knife-edge sharp modern jazz, bouncy swing, wistful ballads, and rapid-fire straight ahead jazz. Also included is a single jazz standard, a fresh interpretation of “Everything Happens To Me”, delivered here with a relaxed groove.
 

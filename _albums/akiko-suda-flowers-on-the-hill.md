@@ -22,6 +22,7 @@ images:
 videos: 
    - {url: "https://youtu.be/S_6mh0gtMQE", comment: "Audio sample from “Kayak”, track #2 on this album"}
    - {url: "https://youtu.be/iHzqt_13hO0", comment: "The promotional video for this album includes excerpts from five of the tracks"}
+audio:
 ---
 *Flowers On The Hill* is a beautiful album of tender and impeccably delivered music from the vocalist Akiko Suda. The album features lovely original compositions together with jazz, bossa nova, and pop standards performed artistically with creative arrangements.
 

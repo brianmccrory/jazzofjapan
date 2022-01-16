@@ -21,9 +21,8 @@ images:
 videos: 
    - {url: "https://youtu.be/Wmb_IN_3a-w", comment: "Excerpt from “Nostalgia”, track 3 on this album"}
    - {url: "https://youtu.be/RYIxE34UltA", comment: "The following audio sample is an excerpt from “The Pioneer”, the first track on this album"}
+audio:
 ---
-
-
 Jazz pianist Taihei Asakawa pushes boundaries on his 2011 release *Catastrophe in Jazz*.
 
 This modern jazz piano trio album is a fascinating one, balancing moments of furious musical fire, where rapid melodic lines are played as if by electric guitar, alongside slower melancholic moments of pianistic beauty, heavy with emotion.

@@ -18,9 +18,8 @@ images:
 videos: 
    - {url: "https://youtu.be/JUWnq-ILa4A", comment: "Audio sample from “Libertango”, the fourth track on the album"}
    - {url: "https://youtu.be/-iqn0TSqzKg", comment: "Video from a live Arco performance"}
+audio:
 ---
-
-
 The piano and cello duo Arco released *Live at Yoncha* in 2018, a performance recorded at a live music cafe bar in Tokyo. With six songs running 36 minutes, the set captures the feeling of being there as the two musicians blend jazz, classical, rock, Latin, and Japanese sensibilities.
 
 At live events, Arco’s magnetic charm never fails to rouse the crowd with their thought-out arrangements of touching music with irresistible good cheer. The duo connects with talent and pure sentiment, folding chords and melodies with deep feeling through classical/pop hybrids and moments of freewheeling fun.

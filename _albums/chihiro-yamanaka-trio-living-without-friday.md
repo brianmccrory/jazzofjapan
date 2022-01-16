@@ -19,6 +19,7 @@ images:
 videos: 
    - {url: "https://youtu.be/8qDqEnFgGvI", comment: "Excerpt from “Balkan Tale”, the seventh track on the album"}
    - {url: "https://youtu.be/ittfMkakJCo", comment: "Chihiro Yamanaka playing “Living Without Friday” live from 2013"}
+audio:
 ---
 Jazz pianist Chihiro Yamanaka’s debut album *Living Without Friday* turns 20 years old today! Released modestly on October 5, 2001, this album kicked off an impressive run of releases, setting the stage with memorable originals and reinvented standards while introducing new listeners to her amazing technique and creativity.
 
@@ -30,9 +31,5 @@ With her impeccable technique and twisty improvisations, Yamanaka’s dexterity 
 
 
 This album hit #1 on the HMV Modern Jazz Chart for four weeks after release, despite being released without any media or advertising support at the time.
-
-
-
-
 
 

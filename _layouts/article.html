@@ -69,14 +69,13 @@ layout: default
 	{% for video in page.videos %}
 	<li><a href="{{ video.url }}">{{ video.comment }}</a></li>
 	{% endfor %}
+
+	{% for audio_link in page.audio %}
+	<li><a href="{{ audio_link.url }}">{{ audio_link.comment }}</a></li>
+	{% endfor %}
 	</ul>
 
 <hr/>
-
-
-<p align="right">
-<em>&copy; {{ page.date | date: "%B %-d, %Y" }}</em>
-</p>
   
 </div>
 

@@ -20,6 +20,7 @@ images:
 videos: 
    - {url: "https://youtu.be/t4CHeF0Tmmc", comment: "Audio excerpt from the opening track “Flying Mind”"}
    - {url: "https://youtu.be/LKmSesjiEBQ", comment: "The song “Perfume”, written by Kaori Nakajima and a highlight of the album, is performed here in a duo setting from 2015"}
+audio:
 ---
 Kaori Vibes Quartet is a jazz quartet centered around the lovely ringing bell-tones of jazz vibraphone. After three years of playing together, the group formerly known as Vangy!! (note the vibraphone mallets “!!” in the name) released their eagerly awaited debut album *Flying Mind* in 2013, much to fans’ delight.
 

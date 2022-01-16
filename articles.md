@@ -50,24 +50,20 @@ title: Articles
 53. Jazz Spot Intro: *Soulful Intro Live! 20th Anniversary*
 54. Junichiro Ohkuchi Trio: *Invisible*
 55. Kaori Nakajima & KVQ: *Cross Point*
-58. Keisuke Nakamura: *Humadope*
 59. Ken’ichiro Shinzawa: *Piano Works*
 60. Ko Omura: *Introspect*
 61. Kohsuke Mine Quintet: *Major to Minor*
 62. Koichi Sato: *Melancholy of a Journey*
 63. Koichi Sato: *Utopia*
 65. Layla Tomomi Sakai: *The Island*
-66. Les Komatis: *Les Komatis*
 67. Mabumi Yamaguchi: *Let Your Mind Alone*
 68. Maiko: *Solo*
-69. Maiko Trio: *Live! Three*
 70. Maki Fujimura: *Best Wishes*
 71. Maki Nakao: *Super Moon*
 72. Manabu Ohishi Trio: *Gift*
 73. Manabu Ohishi Trio: *Wish*
 74. Masako Kunisada: *M*
 75. Masako Kunisada: *Wonderful Life*
-76. Mayuko Katakura: *Faith*
 77. Mayuko Katakura: *Inspiration*
 78. Mayuko Katakura: *The Echoes of Three*
 79. Meu Coracao: *A Tempo*

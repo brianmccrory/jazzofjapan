@@ -20,6 +20,7 @@ images:
 videos: 
    - {url: "https://youtu.be/xSthNPIgeDg", comment: "Audio sample of “Oblivion”, the fourth track on the album"}
    - {url: "https://youtu.be/hSs0lyZaMH0", comment: "Video from a live performance of the song “One” by Fumiko Yamazaki"}
+audio:
 ---
 From vibraphonist Fumiko Yamazaki, the aptly titled *Here Goes!* is an enthusiastic introduction to her music with her jazz quartet on her 2011 debut release.
 

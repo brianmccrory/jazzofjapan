@@ -20,9 +20,8 @@ images:
 videos: 
    - {url: "https://youtu.be/T-K6TWYl1KY", comment: "Audio sample for “Zai Jian”, the fourth song on this album"}
    - {url: "https://youtu.be/zdJyxQTEfdE", comment: "Promotional video for the song “Urban Clutter”, the last song on this album"}
+audio:
 ---
-
-
 The twinkling chords which open Ami Fukui’s debut album *Urban Clutter* from 2010 shine like a crystalline spotlight, signaling the immediately satisfying sounds and clean, uncomplicated feel-good grooves of the music to come. This first album from the jazz pianist lays down the groundwork for Fukui to showcase her compositional skills for jazz piano trio, which she will explore further on her follow-up albums *Amizm* (2013) and *New Journey* (2016).
 
 
