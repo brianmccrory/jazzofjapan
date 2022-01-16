@@ -1,11 +1,12 @@
 ---
 layout: home
+list_title: Notes and Updates
 ---
 
 **Welcome to jazzofjapan.com**, a site for sharing information about Japanese Jazz.
 
 
-**[Jazz of Japan](/)**
+[Jazz of Japan](/):
 * [Articles](/articles): List of the album reviews published here
 * [Album Covers](/albums): List of the articles arranged by album covers
 * [Musicians](/musicians): An index of musicians and albums

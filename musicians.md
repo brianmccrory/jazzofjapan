@@ -12,7 +12,7 @@ Akiko Suda | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 須
 Akira Tanidono | [Carta](/albums/emiko-voice-carta) | 谷殿明良
 Ami Fukui | [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) | 福井亜実
 Atsushi Ikeda | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 池田篤
-Aya Kurosawa | [Resonance](/albums/duo-tremolo-resonance) ・ [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 黒沢綾
+Aya Kurosawa | [Beautiful Days](/albums/fumie-chiba-beautiful-days) ・ [Resonance](/albums/duo-tremolo-resonance) | 黒沢綾
 Ayumi Koketsu | [Art](/albums/ayumi-koketsu-art) | 纐纈歩美
 Chihiro Yamanaka | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) ・ [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) ・ [When October Goes](/albums/chihiro-yamanaka-trio-when-october) | 山中千尋
 Dairiki Hara | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 原大力
@@ -22,17 +22,18 @@ Fumiko Yamazaki | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 山崎ふみ
 Gaku Hasegawa | [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 長谷川ガク
 Hakuei Kim | [Open the Green Door](/albums/hakuei-kim-trio-open-the-green-door) | ハクエイ・キム
 Harumi Nomoto | [Virgo](/albums/harumi-nomoto-trio-virgo) | 野本晴美
-Hideaki Hori | [Resonance](/albums/duo-tremolo-resonance) ・ [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) ・ [Move On](/albums/hikari-ichihara-group-move-on) | 堀秀彰
+Hideaki Hori | [Move On](/albums/hikari-ichihara-group-move-on) ・ [Resonance](/albums/duo-tremolo-resonance) ・ [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 堀秀彰
 Hikari Ichihara | [Move On](/albums/hikari-ichihara-group-move-on) | 市原ひかり
 Hiroshi Ikejiri | [You Already Know](/albums/bungalow-you-already-know) | 池尻洋史
+Hitomi Nishiyama | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 西山瞳
 Jun Miyakawa | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 宮川純
 Kaoru Suzuki | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鈴木郁
-Kazumi Ikenaga | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 池長和美
+Kazumi Ikenaga | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) ・ [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 池長和美
 Keiichirou Uemura | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 上村計一郎
 Keita Okada | [Carta](/albums/emiko-voice-carta) | 岡田ケイタ
 Keizo Kawano | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 河野啓三
 Ko Omura | [You Already Know](/albums/bungalow-you-already-know) | 大村亘
-Koichi Sato | [You Already Know](/albums/bungalow-you-already-know) ・ [Carta](/albums/emiko-voice-carta) | 佐藤浩一
+Koichi Sato | [Carta](/albums/emiko-voice-carta) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
 Koji Tetsui | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鉄井孝司
 Koji Yasuda | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) | 安田幸司
 Kozo Komori | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 小森耕造
@@ -48,6 +49,7 @@ Nao Sakamoto | [Virgo](/albums/harumi-nomoto-trio-virgo) | 坂本直
 Nao Teraya | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 寺屋ナオ
 Ryoji Orihara | [Virgo](/albums/harumi-nomoto-trio-virgo) | 織原良次
 Ryosuke Asai | [Move On](/albums/hikari-ichihara-group-move-on) | 浅井良将
+Ryosuke Hashizume | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 橋爪亮督
 Ryuichi Takase | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 高瀬龍一
 Saori Sendo | [Resonance](/albums/duo-tremolo-resonance) | 仙道さおり
 Sayaka Kishi | [Live At Yoncha](/albums/arco-live-at-yoncha) | 岸淑香
@@ -61,6 +63,7 @@ Takayoshi Baba | [Resonance](/albums/duo-tremolo-resonance) | 馬場孝喜
 Terumasa Nishikawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 西川輝正
 Toru Nishijima | [Carta](/albums/emiko-voice-carta) | 西嶋徹
 Toyomi Kobayashi | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 小林豊美
+Yasuhiko "Hachi" Sato | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 佐藤“ハチ”恭彦
 Yasushi Yoneki | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 米木康志
 Yoshihito "P" Koizumi | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 小泉P克人
 Yu Kudo | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 工藤悠
