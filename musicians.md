@@ -36,6 +36,7 @@ Keiichirou Uemura | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 上村計�
 Keisuke Nakamura | [Humadope](/albums/keisuke-nakamura-humadope) | 中村恵介
 Keita Okada | [Carta](/albums/emiko-voice-carta) | 岡田ケイタ
 Keizo Kawano | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 河野啓三
+Kiyoshi Kitagawa | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 北川潔
 Ko Omura | [You Already Know](/albums/bungalow-you-already-know) | 大村亘
 Koichi Sato | [Carta](/albums/emiko-voice-carta) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
 Koji Tetsui | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鉄井孝司
@@ -50,6 +51,7 @@ Masanori Ando | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) ・ [Move
 Mayuko Katakura | [Faith](/albums/mayuko-katakura-faith) ・ [Les Komatis](/albums/les-komatis-les-komatis) | 片倉真由子
 Mayumi Sano | [Live At Yoncha](/albums/arco-live-at-yoncha) | 佐野まゆみ
 Michiyo Matsushita | [Sally Gardens](/albums/michiyo-matsushita-sally-gardens) | 松下美千代
+Miki Hayama | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 早間美紀
 Minoru Yoshiki | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 吉木稔
 Mitsuru Tanaka | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 田中充
 Momoko Aida | [Carta](/albums/emiko-voice-carta) | 会田桃子
@@ -107,4 +109,5 @@ Ray Parker | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-withou
 Rodney Green | [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) | 
 Rodney Whitaker | [Faith](/albums/mayuko-katakura-faith) | 
 Soren Dahl Jeppesen | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
+Victor Lewis | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 
 

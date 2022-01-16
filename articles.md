@@ -69,7 +69,6 @@ title: Articles
 79. Meu Coracao: *A Tempo*
 82. Mie Joké: *Etrenne*
 83. Miki Hayama: *Prelude to a Kiss*
-84. Miki Hayama Trio: *Wide Angle*
 85. Miki Hirose: *Scratch*
 86. Minoru Yoshiki Soulstation: *Path of Hope*
 87. Miyuki Moriya: *Cat’s Cradle*
