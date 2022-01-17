@@ -20,6 +20,7 @@ images:
    - L1200213-1024.JPG
    - L1200215-1024.JPG
    - yukakoyamano-first-remastered.jpg
+   - L1110742-1024.jpg
 videos: 
    - {url: "https://youtu.be/c7sS0PXy_FU", comment: "Audio clip from “Over Parents”, the first track on this album"}
    - {url: "https://youtu.be/fA0kHQ8h_EM", comment: "A live performance from 2013 of “On A Sunny Moon”, track #6 on this album"}
