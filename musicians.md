@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musicians
-date: 2022-01-17T09:12:14.6876869-08:00
+date: 2022-01-17T09:15:18.7477975-08:00
 ---
 # Musicians
 
@@ -92,7 +92,6 @@ Shinichi Kato | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz
 Shinji Hashimoto | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 橋本信二
 Shun Ishiwaka | [Humadope](/albums/keisuke-nakamura-humadope) | 石若俊
 Shunosuke Ishikawa | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 石川周之介
-Soft Voice Choir | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) | Megu 1st, Asako 2nd, Haruka 3rd, Miki 4th
 Sohnosuke Imaizumi | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 今泉総之輔
 Taihei Asakawa | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) | 浅川太平
 Takashi Saito | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 齋藤たかし
@@ -136,7 +135,6 @@ Peter Washington | [Night & Day](/albums/akane-matsumoto-night-and-day) |
 Ray Parker | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) | 
 Rodney Green | [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) | 
 Rodney Whitaker | [Faith](/albums/mayuko-katakura-faith) | 
-SJSP Special Choir | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) | 
 Soren Dahl Jeppesen | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
 Victor Lewis | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 
 

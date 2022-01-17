@@ -14,8 +14,6 @@ members:
    - {name: Hideaki Hori, instrument: "piano, keyboard", japanese_name: 堀秀彰, url: "https://www.hideakihori.com/"}
    - {name: Koji Yasuda, instrument: "bass", japanese_name: 安田幸司, url: "http://jmsu.web.fc2.com/koji/"}
    - {name: Sohnosuke Imaizumi, instrument: "drums, bell", japanese_name: 今泉総之輔, url: "http://www.imaizumisohnosuke.com/"}
-   - {name: "Soft Voice Choir: Megu 1st, Asako 2nd, Haruka 3rd, Miki 4th", instrument: "voice"}
-   - {name: "SJSP Special Choir", instrument: "choir"}
 images:
    - L1220032-1024.jpg
    - L1220033-1024.jpg
@@ -29,4 +27,3 @@ Enterprising singer Sanae Ishikawa presents us with her passionate voice on *Gro
 The first track on *Grown-up Christmas Gift* is the main show, a thirteen-minute “Christmas Medley” featuring Ishikawa’s resonant voice gracing seven classic holiday tunes and popular songs. Stops on the musical tour include “All I Want For Christmas Is You”, “Let It Snow! Let It Snow! Let it Snow!”, “Silent Night”, “Jingle Bells”, “Winter Wonderland”, “The Christmas Song”, and “Happy Xmas”. As the singer moves from song to song, the mood, rhythm, and instrumentation change as well, where jazz piano, organ, guitar, and choirs result in a charming holiday medley.
 
 Track two features Ishikawa with “Soft Voice”, a four-part vocal group singing “Sutekina Holiday” in Japanese, and the final track presents her intimate duo of vocal and guitar performing the Billboard pop hit “Grown-up Christmas List”.
-
