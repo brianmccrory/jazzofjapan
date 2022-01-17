@@ -1,6 +1,7 @@
 ---
 layout: article
 date: April 13, 2021
+date_updated: May 8, 2021
 title: Gallery
 artist: Yukiko Hayakawa Trio
 year: 2008

@@ -1,6 +1,7 @@
 ---
 layout: article
-date: May 9, 2021
+date: May 22, 2018
+date_updated: May 9, 2021
 title: Catastrophe In Jazz
 artist: Taihei Asakawa
 year: 2011

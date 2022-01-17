@@ -1,6 +1,7 @@
 ---
 layout: article
-date: May 25, 2021
+date: Jan 30, 2018
+date_updated: May 25, 2021
 title: Night & Day
 artist: Akane Matsumoto
 year: 2017

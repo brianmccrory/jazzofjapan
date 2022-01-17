@@ -1,6 +1,7 @@
 ---
 layout: article
-date: November 23, 2021
+date: October 25, 2018
+date_updated: November 23, 2021
 title: Sally Gardens
 artist: Michiyo Matsushita
 year: 2018

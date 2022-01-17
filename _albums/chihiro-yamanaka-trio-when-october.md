@@ -1,6 +1,7 @@
 ---
 layout: article
-date: December 17, 2021
+date: Aug 13, 2020
+date_updated: December 17, 2021
 title: When October Goes
 artist: Chihiro Yamanaka Trio
 year: 2002

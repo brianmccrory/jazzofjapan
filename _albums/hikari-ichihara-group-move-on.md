@@ -1,6 +1,7 @@
 ---
 layout: article
-date: June 24, 2021
+date: May 16, 2019
+date_updated: June 24, 2021
 title: Move On
 artist: Hikari Ichihara Group
 year: 2010

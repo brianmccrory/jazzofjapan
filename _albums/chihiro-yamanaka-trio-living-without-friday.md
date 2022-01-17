@@ -1,6 +1,7 @@
 ---
 layout: article
-date: October 5, 2021
+date: Feb 21, 2020
+date_updated: October 5, 2021
 title: Living Without Friday
 artist: Chihiro Yamanaka Trio
 year: 2001

@@ -1,6 +1,7 @@
 ---
 layout: article
-date: June 9, 2021
+date: Jan 23, 2020
+date_updated: June 9, 2021
 title: Live! Three
 artist: Maiko Trio
 year: 2016

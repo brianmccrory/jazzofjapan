@@ -1,6 +1,7 @@
 ---
 layout: article
-date: September 25, 2021
+date: March 28, 2018
+date_updated: September 25, 2021
 title: Les Komatis
 artist: Les Komatis
 year: 2015

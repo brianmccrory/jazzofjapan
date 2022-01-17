@@ -1,6 +1,7 @@
 ---
 layout: article
-date: May 18, 2021
+date: Apr 3, 2019
+date_updated: May 18, 2021
 title: Virgo
 artist: Harumi Nomoto Trio
 year: 2014

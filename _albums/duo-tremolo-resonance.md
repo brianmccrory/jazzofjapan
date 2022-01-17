@@ -1,6 +1,7 @@
 ---
 layout: article
 date: March 3, 2021
+date_updated: May 9, 2021
 title: Resonance
 artist: Duo Tremolo
 year: 2019

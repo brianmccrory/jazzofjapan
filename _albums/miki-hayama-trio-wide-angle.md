@@ -1,6 +1,7 @@
 ---
 layout: article
-date: September 10, 2021
+date: April 19, 2018
+date_updated: September 10, 2021
 title: Wide Angle
 artist: Miki Hayama Trio
 year: 2009

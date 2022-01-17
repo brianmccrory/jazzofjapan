@@ -1,6 +1,7 @@
 ---
 layout: article
-date: June 16, 2021
+date: Sep 5, 2018
+date_updated: June 16, 2021
 title: Open the Green Door
 artist: Hakuei Kim Trio
 year: 2005

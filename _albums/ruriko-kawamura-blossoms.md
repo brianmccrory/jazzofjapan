@@ -1,6 +1,7 @@
 ---
 layout: article
 date: October 19, 2021
+date_updated: October 19, 2021
 title: Blossoms
 artist: Ruriko Kawamura
 year: 2016

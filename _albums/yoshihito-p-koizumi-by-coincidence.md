@@ -1,6 +1,7 @@
 ---
 layout: article
 date: May 5, 2021
+date_updated: May 8, 2021
 title: By Coincidence
 artist: Yoshihito "P" Koizumi P-Project
 year: 2011

@@ -1,6 +1,7 @@
 ---
 layout: article
-date: September 3, 2021
+date: Aug 30, 2018
+date_updated: September 3, 2021
 title: Unconditional Love
 artist: Hideaki Hori Trio
 year: 2014

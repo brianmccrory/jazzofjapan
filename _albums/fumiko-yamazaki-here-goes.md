@@ -1,6 +1,7 @@
 ---
 layout: article
 date: June 2, 2021
+date_updated: June 2, 2021
 title: Here Goes!
 artist: Fumiko Yamazaki
 year: 2011

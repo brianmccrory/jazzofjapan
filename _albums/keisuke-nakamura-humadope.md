@@ -1,6 +1,7 @@
 ---
 layout: article
-date: June 28, 2021
+date: Feb 11, 2018
+date_updated: June 28, 2021
 title: Humadope
 artist: Keisuke Nakamura
 year: 2014

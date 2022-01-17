@@ -1,6 +1,7 @@
 ---
 layout: article
-date: July 21, 2021
+date: Feb 13, 2018
+date_updated: July 21, 2021
 title: Faith
 artist: Mayuko Katakura
 year: 2010
@@ -8,7 +9,7 @@ label: Pony Canyon
 code: MYCJ-30578
 cover: mayukokatakura-faith-460.jpg
 members:
-   - {name: Mayuko Katakura, instrument: "piano", japanese_name: 片倉真由子}
+   - {name: Mayuko Katakura, instrument: "piano", japanese_name: 片倉真由子, url: "https://ameblo.jp/mayukokatakura/"}
    - {name: Rodney Whitaker, instrument: "bass"}
    - {name: Carl Allen, instrument: "drums"}
 images:

@@ -1,6 +1,7 @@
 ---
 layout: article
-date: June 11, 2021
+date: Jan 30, 2018
+date_updated: June 11, 2021
 title: Carta
 artist: Emiko Voice
 year: 2017

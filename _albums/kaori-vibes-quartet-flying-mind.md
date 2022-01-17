@@ -1,6 +1,7 @@
 ---
 layout: article
-date: September 22, 2021
+date: Feb 2, 2018
+date_updated: September 22, 2021
 title: Flying Mind
 artist: Kaori Vibes Quartet
 year: 2013

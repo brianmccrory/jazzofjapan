@@ -1,6 +1,7 @@
 ---
 layout: article
 date: May 27, 2021
+date_updated: May 27, 2021
 title: Beautiful Days
 artist: Fumie Chiba
 year: 2017

@@ -1,6 +1,7 @@
 ---
 layout: article
-date: May 12, 2021
+date: Jan 30, 2018
+date_updated: May 12, 2021
 title: Art
 artist: Ayumi Koketsu
 year: 2016
