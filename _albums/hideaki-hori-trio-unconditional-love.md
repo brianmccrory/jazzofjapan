@@ -4,6 +4,7 @@ date: Aug 30, 2018
 date_updated: September 3, 2021
 title: Unconditional Love
 artist: Hideaki Hori Trio
+sort_value: Hideaki Hori Trio Unconditional Love
 year: 2014
 label: BQ Records
 code: BQR-2064/2065

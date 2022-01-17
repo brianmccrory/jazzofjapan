@@ -4,6 +4,7 @@ date: Feb 11, 2018
 date_updated: June 28, 2021
 title: Humadope
 artist: Keisuke Nakamura
+sort_value: Keisuke Nakamura Humadope
 year: 2014
 label: M581 Records
 code: SDR1401

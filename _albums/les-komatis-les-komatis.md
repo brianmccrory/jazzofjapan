@@ -4,6 +4,7 @@ date: March 28, 2018
 date_updated: September 25, 2021
 title: Les Komatis
 artist: Les Komatis
+sort_value: Les Komatis Les Komatis
 year: 2015
 label: F.S.L
 code: FSCJ-0007

@@ -4,6 +4,7 @@ date: January 26, 2020
 date_updated: December 6, 2021
 title: National Anthem of Unknown Country
 artist: Rabbitoo
+sort_value: Rabbitoo National Anthem of Unknown Country
 year: 2014
 label: SONG X JAZZ
 code: SONG X 019

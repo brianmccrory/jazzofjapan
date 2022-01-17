@@ -4,6 +4,7 @@ date: March 9, 2018
 date_updated: August 12, 2021
 title: Music In You
 artist: Hitomi Nishiyama Trio
+sort_value: Hitomi Nishiyama Trio Music In You
 year: 2011
 label: Meantone Records
 code: MT-002

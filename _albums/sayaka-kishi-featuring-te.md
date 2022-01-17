@@ -4,6 +4,7 @@ date: Jan 31, 2018
 date_updated: June 19, 2021
 title: Featuring Te
 artist: Sayaka Kishi
+sort_value: Sayaka Kishi Featuring Te
 year: 2014
 label: Roving Spirits
 code: RKC-8050

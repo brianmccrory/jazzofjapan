@@ -4,6 +4,7 @@ date: Apr 12, 2018
 date_updated: November 14, 2021
 title: You've Changed
 artist: Hara Dairiki Trio
+sort_value: Hara Dairiki Trio You've Changed
 year: 2009
 label: Anturtle Tune
 code: ANTX-4004

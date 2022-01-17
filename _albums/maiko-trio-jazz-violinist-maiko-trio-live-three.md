@@ -4,6 +4,7 @@ date: Jan 23, 2020
 date_updated: June 9, 2021
 title: Live! Three
 artist: Maiko Trio
+sort_value: Maiko Trio Live! Three
 year: 2016
 label: The Glee
 code: GPHR-16011

@@ -4,6 +4,7 @@ date: April 13, 2021
 date_updated: May 8, 2021
 title: Gallery
 artist: Yukiko Hayakawa Trio
+sort_value: Yukiko Hayakawa Trio Gallery
 year: 2008
 label: Ventain Records
 code: VJYH-8461

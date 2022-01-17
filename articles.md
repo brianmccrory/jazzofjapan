@@ -4,9 +4,7 @@ title: Articles
 ---
 
 # Articles
-
-{% assign sorted = site.albums | sort_natural:"artist" %}
-{% for album in sorted -%}
+{% for album in site.albums -%}
 1. <a href="{{ album.url }}">{{ album.artist }}: *{{ album.title }}*</a>
 {% endfor %}
 
@@ -89,8 +87,6 @@ title: Articles
 109. Sanae Ishikawa: *Feel Like Makin' Love*
 113. Sayaka Kishi Trio: *Life is too Great*
 114. Sayaketts: *Colors*
-115. Seiji Endo: *Circle For Peace*
-116. Seiji Endo: *Genji Monogatari Volume 1*
 117. Seiji Endo: *Sakura Meditation*
 118. Seiji Endo: *Tsutaete Ikou*
 119. Seiji Tada: *Workout!!*

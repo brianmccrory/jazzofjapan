@@ -4,6 +4,7 @@ date: March 3, 2021
 date_updated: May 9, 2021
 title: Resonance
 artist: Duo Tremolo
+sort_value: Duo Tremolo Resonance
 year: 2019
 label: Orbit Records
 code: ORG-1004

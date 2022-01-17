@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musicians
-date: 2022-01-17T09:15:18.7477975-08:00
+date: 2022-01-17T09:24:28.0851013-08:00
 ---
 # Musicians
 
@@ -84,7 +84,7 @@ Sanae Ishikawa | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-chris
 Saori Sendo | [Resonance](/albums/duo-tremolo-resonance) | 仙道さおり
 Satoshi Kosugi | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 小杉敏
 Sayaka Kishi | [Featuring Te](/albums/sayaka-kishi-featuring-te) ・ [Live At Yoncha](/albums/arco-live-at-yoncha) | 岸淑香
-Seiji Endo | [Blossoms](/albums/ruriko-kawamura-blossoms) | 遠藤征志
+Seiji Endo | [Blossoms](/albums/ruriko-kawamura-blossoms) ・ [Circle For Peace](/albums/seiji-endo-circle-for-peace) | 遠藤征志
 Shikou Ito | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | 伊藤志宏
 Shin Kamimura | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 上村信
 Shingo Tanaka | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 田中晋吾

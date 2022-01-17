@@ -4,6 +4,7 @@ date: Feb 13, 2018
 date_updated: July 21, 2021
 title: Faith
 artist: Mayuko Katakura
+sort_value: Mayuko Katakura Faith
 year: 2010
 label: Pony Canyon
 code: MYCJ-30578

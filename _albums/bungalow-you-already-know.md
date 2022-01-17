@@ -4,6 +4,7 @@ date: Jan 30, 2018
 date_updated: May 14, 2021
 title: You Already Know
 artist: Bungalow
+sort_value: Bungalow You Already Know
 year: 2017
 label: Studio Songs
 code: YZSO-10075

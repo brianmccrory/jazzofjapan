@@ -4,6 +4,7 @@ date: May 27, 2021
 date_updated: May 27, 2021
 title: Beautiful Days
 artist: Fumie Chiba
+sort_value: Fumie Chiba Beautiful Days
 year: 2017
 label: USAGI Records
 code: UR-002

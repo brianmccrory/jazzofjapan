@@ -4,6 +4,7 @@ date: December 30, 2021
 date_updated: December 30, 2021
 title: Urban Clutter
 artist: Ami Fukui Trio
+sort_value: Ami Fukui Trio Urban Clutter
 year: 2010
 label: Anturtle Analog Recordings
 code: ANTX-4008

@@ -4,6 +4,7 @@ date: May 22, 2018
 date_updated: May 9, 2021
 title: Catastrophe In Jazz
 artist: Taihei Asakawa
+sort_value: Taihei Asakawa Catastrophe In Jazz
 year: 2011
 label: Roving Spirits
 code: RKCJ-2046

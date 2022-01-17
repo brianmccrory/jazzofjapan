@@ -4,6 +4,7 @@ date: June 22, 2021
 date_updated: June 22, 2021
 title: Protean
 artist: Protean
+sort_value: Protean Protean
 year: 2009
 label: Protean
 code: Protean

@@ -4,6 +4,7 @@ date: April 19, 2018
 date_updated: September 10, 2021
 title: Wide Angle
 artist: Miki Hayama Trio
+sort_value: Miki Hayama Trio Wide Angle
 year: 2009
 label: ART UNION/@jazz
 code: ARTCD-114

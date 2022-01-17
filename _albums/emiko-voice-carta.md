@@ -4,6 +4,7 @@ date: Jan 30, 2018
 date_updated: June 11, 2021
 title: Carta
 artist: Emiko Voice
+sort_value: Emiko Voice Carta
 year: 2017
 label: Zipangu Label
 code: ZIP-0058

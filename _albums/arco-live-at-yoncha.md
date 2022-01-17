@@ -4,6 +4,7 @@ date: March 23, 2021
 date_updated: May 17, 2021
 title: Live At Yoncha
 artist: Arco
+sort_value: Arco Live At Yoncha
 year: 2018
 label: Arco
 code: handmade compact discs

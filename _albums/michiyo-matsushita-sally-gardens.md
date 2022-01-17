@@ -4,6 +4,7 @@ date: October 25, 2018
 date_updated: November 23, 2021
 title: Sally Gardens
 artist: Michiyo Matsushita
+sort_value: Michiyo Matsushita Sally Gardens
 year: 2018
 label: Michiyo Matsushita
 code: Sally Gardens

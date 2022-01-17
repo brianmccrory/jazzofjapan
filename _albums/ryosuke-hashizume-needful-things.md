@@ -4,6 +4,7 @@ date: Feb 23, 2018
 date_updated: September 17, 2021
 title: Needful Things
 artist: Ryosuke Hashizume
+sort_value: Ryosuke Hashizume Needful Things
 year: 2009
 label: Grapes Records
 code: GPS-1206

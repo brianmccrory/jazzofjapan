@@ -4,6 +4,7 @@ date: July 5, 2021
 date_updated: July 5, 2021
 title: Hall Tone
 artist: Meu Coracao
+sort_value: Meu Coracao Hall Tone
 year: 2009
 label: Coo Records
 code: COO-300

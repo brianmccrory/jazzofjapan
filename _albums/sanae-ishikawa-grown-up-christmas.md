@@ -4,6 +4,7 @@ date: December 24, 2018
 date_updated: December 23, 2021
 title: Grown-up Christmas Gift
 artist: Sanae Ishikawa
+sort_value: Sanae Ishikawa Grown-up Christmas Gift
 year: 2018
 label: Sanae Ishikawa Seasonal Japanese Songbook Project
 code: SJSP-002

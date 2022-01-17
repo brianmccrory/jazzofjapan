@@ -4,6 +4,7 @@ date: October 19, 2021
 date_updated: October 19, 2021
 title: Blossoms
 artist: Ruriko Kawamura
+sort_value: Ruriko Kawamura Blossoms
 year: 2016
 label: LooLoo Entertainment Records
 code: lulu001

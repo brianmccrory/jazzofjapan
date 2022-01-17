@@ -4,6 +4,7 @@ date: January 30, 2018
 date_updated: June 4, 2021
 title: Incomplete Voices
 artist: Ryosuke Hashizume Group
+sort_value: Ryosuke Hashizume Group Incomplete Voices
 year: 2017
 label: Apollo Sounds
 code: APLS1704

@@ -4,6 +4,7 @@ date: March 8, 2021
 date_updated: May 11, 2021
 title: Whisper Not
 artist: Layla Tomomi Sakai
+sort_value: Layla Tomomi Sakai Whisper Not
 year: 2016
 label: Sakai Layla Tomomi
 code: 001

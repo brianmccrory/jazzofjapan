@@ -4,6 +4,7 @@ date: May 13, 2021
 date_updated: May 13, 2021
 title: Flower Clouds
 artist: Naoko Sakata Trio
+sort_value: Naoko Sakata Trio Flower Clouds
 year: 2013
 label: Atelier Sawano
 code: AS-129

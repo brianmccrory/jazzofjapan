@@ -4,6 +4,7 @@ date: Feb 1, 2018
 date_updated: July 2, 2021
 title: Flowers On The Hill
 artist: Akiko Suda
+sort_value: Akiko Suda Flowers On The Hill
 year: 2016
 label: Diw The Grace
 code: DW-1008

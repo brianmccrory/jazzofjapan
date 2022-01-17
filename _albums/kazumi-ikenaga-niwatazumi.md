@@ -4,6 +4,7 @@ date: Jan 26, 2018
 date_updated: May 12, 2021
 title: Niwatazumi
 artist: Kazumi Ikenaga
+sort_value: Kazumi Ikenaga Niwatazumi
 year: 2017
 label: Cloud
 code: DDCJ-4019

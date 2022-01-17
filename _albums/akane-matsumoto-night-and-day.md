@@ -4,6 +4,7 @@ date: Jan 30, 2018
 date_updated: May 25, 2021
 title: Night & Day
 artist: Akane Matsumoto
+sort_value: Akane Matsumoto Night & Day
 year: 2017
 label: Concept Record
 code: CR07

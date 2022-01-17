@@ -4,6 +4,7 @@ date: Apr 3, 2019
 date_updated: May 18, 2021
 title: Virgo
 artist: Harumi Nomoto Trio
+sort_value: Harumi Nomoto Trio Virgo
 year: 2014
 label: Okra Record
 code: MIKO-1009

@@ -4,6 +4,7 @@ date: Jan 30, 2018
 date_updated: May 12, 2021
 title: Art
 artist: Ayumi Koketsu
+sort_value: Ayumi Koketsu Art
 year: 2016
 label: Pony Canyon
 code: MYCJ-30653

@@ -4,6 +4,7 @@ date: May 16, 2019
 date_updated: June 24, 2021
 title: Move On
 artist: Hikari Ichihara Group
+sort_value: Hikari Ichihara Group Move On
 year: 2010
 label: After Beat
 code: PCCY-30157

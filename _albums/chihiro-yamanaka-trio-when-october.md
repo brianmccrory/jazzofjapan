@@ -4,6 +4,7 @@ date: Aug 13, 2020
 date_updated: December 17, 2021
 title: When October Goes
 artist: Chihiro Yamanaka Trio
+sort_value: Chihiro Yamanaka Trio When October Goes
 year: 2002
 label: Atelier Sawano
 code: AS-025

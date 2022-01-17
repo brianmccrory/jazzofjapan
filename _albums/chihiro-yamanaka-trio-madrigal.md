@@ -4,6 +4,7 @@ date: March 4, 2021
 date_updated: May 15, 2021
 title: Madrigal
 artist: Chihiro Yamanaka Trio
+sort_value: Chihiro Yamanaka Trio Madrigal
 year: 2004
 label: Atelier Sawano
 code: AS-038

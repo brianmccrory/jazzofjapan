@@ -4,6 +4,7 @@ date: Feb 3, 2018
 date_updated: May 30, 2021
 title: Bass on Times
 artist: Satoshi Kosugi
+sort_value: Satoshi Kosugi Bass on Times
 year: 2009
 label: Pax Box Press
 code: PBP-0001

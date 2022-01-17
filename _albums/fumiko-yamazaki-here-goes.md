@@ -4,6 +4,7 @@ date: June 2, 2021
 date_updated: June 2, 2021
 title: Here Goes!
 artist: Fumiko Yamazaki
+sort_value: Fumiko Yamazaki Here Goes!
 year: 2011
 label: T&K Entertainment
 code: QACK-35024

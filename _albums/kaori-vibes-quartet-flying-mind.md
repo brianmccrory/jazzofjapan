@@ -4,6 +4,7 @@ date: Feb 2, 2018
 date_updated: September 22, 2021
 title: Flying Mind
 artist: Kaori Vibes Quartet
+sort_value: Kaori Vibes Quartet Flying Mind
 year: 2013
 label: Urban Jazz
 code: 151A-0007

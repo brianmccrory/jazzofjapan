@@ -4,6 +4,7 @@ date: Jan 30, 2020
 date_updated: November 3, 2021
 title: A Love Supreme
 artist: Noriko Satomi
+sort_value: Noriko Satomi A Love Supreme
 year: 2019
 label: T-Toc Records
 code: TTOC-0032
