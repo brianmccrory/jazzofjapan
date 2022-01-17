@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musicians
-date: 2022-01-17T13:23:09.3456488-08:00
+date: 2022-01-17T14:25:12.8592324-08:00
 ---
 # Musicians
 
@@ -37,6 +37,8 @@ Jun Miyakawa | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | �
 Kaori Nakajima | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 中島香里
 Kaoru Suzuki | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鈴木郁
 Kazuhide Motooka | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 元岡一英
+Kazuhiro Sunaga | [Rin](/albums/sohnosuke-imaizumi-rin) | 須長和広
+Kazuhiro Tamura | [Rin](/albums/sohnosuke-imaizumi-rin) | 田村和大
 Kazumi Ikenaga | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) ・ [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 池長和美
 Keiichirou Uemura | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 上村計一郎
 Keisuke Nakamura | [Humadope](/albums/keisuke-nakamura-humadope) | 中村恵介
@@ -44,6 +46,7 @@ Keita Okada | [Carta](/albums/emiko-voice-carta) | 岡田ケイタ
 Keizo Kawano | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 河野啓三
 Kiyoshi Kitagawa | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 北川潔
 Ko Omura | [You Already Know](/albums/bungalow-you-already-know) | 大村亘
+Koichi Osamu | [1st Stage](/albums/yukako-yamano-1st-stage) | 納浩一
 Koichi Sato | [Carta](/albums/emiko-voice-carta) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
 Koji Tetsui | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鉄井孝司
 Koji Yasuda | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) ・ [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) | 安田幸司
@@ -52,9 +55,11 @@ Kunpei Nakabayashi | [Move On](/albums/hikari-ichihara-group-move-on) | 中林�
 Layla Tomomi Sakai | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 坂井レイラ知美
 Maiko Sugawara | [Virgo](/albums/harumi-nomoto-trio-virgo) | 菅原牧子
 Mamoru Ishida | [Humadope](/albums/keisuke-nakamura-humadope) | 石田衛
+Manabu Fujii | [1st Stage](/albums/yukako-yamano-1st-stage) | 藤井学
 Manabu Hashimoto | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) | 橋本学
 Masaaki Imaizumi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 今泉正明
 Masahiko Osaka | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 大坂昌彦
+Masahiko Sato | [Duet](/albums/shinichi-kato-and-masahiko-sato-duet) | 佐藤允彦
 Masako Hamamura | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 浜村昌子
 Masanori Ando | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) ・ [Move On](/albums/hikari-ichihara-group-move-on) | 安藤正則
 Mayuko Katakura | [Faith](/albums/mayuko-katakura-faith) ・ [Les Komatis](/albums/les-komatis-les-komatis) | 片倉真由子
@@ -85,14 +90,15 @@ Saori Sendo | [Resonance](/albums/duo-tremolo-resonance) | 仙道さおり
 Satoshi Kosugi | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 小杉敏
 Sayaka Kishi | [Featuring Te](/albums/sayaka-kishi-featuring-te) ・ [Live At Yoncha](/albums/arco-live-at-yoncha) | 岸淑香
 Seiji Endo | [Blossoms](/albums/ruriko-kawamura-blossoms) ・ [Circle For Peace](/albums/seiji-endo-circle-for-peace) ・ [Genji Monogatari Volume 1](/albums/seiji-endo-genji-monogatari-volume-1) | 遠藤征志
+Shigeo Fukuda | [Childhood's Dream](/albums/shigeo-fukuda-and-toshiki-nunokawa) | 福田重男
 Shikou Ito | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | 伊藤志宏
 Shin Kamimura | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 上村信
 Shingo Tanaka | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 田中晋吾
-Shinichi Kato | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) | 加藤真一
+Shinichi Kato | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) ・ [Duet](/albums/shinichi-kato-and-masahiko-sato-duet) | 加藤真一
 Shinji Hashimoto | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 橋本信二
 Shun Ishiwaka | [Humadope](/albums/keisuke-nakamura-humadope) | 石若俊
 Shunosuke Ishikawa | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 石川周之介
-Sohnosuke Imaizumi | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 今泉総之輔
+Sohnosuke Imaizumi | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Rin](/albums/sohnosuke-imaizumi-rin) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 今泉総之輔
 Taihei Asakawa | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) | 浅川太平
 Takashi Saito | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 齋藤たかし
 Takayoshi Baba | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Resonance](/albums/duo-tremolo-resonance) | 馬場孝喜
@@ -101,6 +107,7 @@ Tamashi Goto | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 後藤�
 Taro Sukegawa | [Hall Tone](/albums/meu-coracao-hall-tone) | 助川太郎
 Terumasa Nishikawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 西川輝正
 Toru Nishijima | [Carta](/albums/emiko-voice-carta) | 西嶋徹
+Toshiki Nunokawa | [Childhood's Dream](/albums/shigeo-fukuda-and-toshiki-nunokawa) | 布川俊樹
 Toyomi Kobayashi | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 小林豊美
 Yasuhiko "Hachi" Sato | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 佐藤“ハチ”恭彦
 Yasushi Fukumori | [Humadope](/albums/keisuke-nakamura-humadope) | 福森康
@@ -113,10 +120,12 @@ Yu Kudo | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 工藤
 Yuhei Honkawa | [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 本川悠平
 Yuichi Narita | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 成田祐一
 Yuichiro Hiraoka | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 平岡遊一郎
+Yukako Yamano | [1st Stage](/albums/yukako-yamano-1st-stage) | 山野友佳子
 Yukiko Hayakawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 早川由紀子
 maiko | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | マイコ
 Anton Blomgren | [Flower Clouds](/albums/naoko-sakata-trio-flower-clouds) | 
 Ben "Donny" Waples | [Open the Green Door](/albums/hakuei-kim-trio-open-the-green-door) | 
+Blahmuzik | [Rin](/albums/sohnosuke-imaizumi-rin) | 
 Carl Allen | [Faith](/albums/mayuko-katakura-faith) | 
 Christian Vuust | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
 Dave Goodman | [Open the Green Door](/albums/hakuei-kim-trio-open-the-green-door) | 

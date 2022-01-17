@@ -90,12 +90,8 @@ title: Articles
 117. Seiji Endo: *Sakura Meditation*
 118. Seiji Endo: *Tsutaete Ikou*
 119. Seiji Tada: *Workout!!*
-120. Shigeo Fukuda & Toshiki Nunokawa: *Childhood's Dream*
 121. Shinichi Kato: *Bass on Cinema*
-122. Shinichi Kato & Masahiko Sato: *Duet*
 123. Shinpei Ruike & George Nakajima: *N.40°*
-124. Sohnosuke Imaizumi: *Rin*
-125. Sumito Oi: *Sumitty & the Funfair*
 126. Syunichi Yanagi Trio: *Bubble Fish*
 127. Syunichi Yanagi Trio: *Slope*
 129. Taihei Asakawa: *Waltz For Debby*
@@ -122,7 +118,6 @@ title: Articles
 151. Yuichiro Aratake: *The Light Flows In*
 152. Yuka Ueda: *Agora*
 153. Yuka Ueda: *Dois*
-154. Yukako Yamano: *1st Stage*
 155. Yukari Inoue: *Sakura*
 157. Yuko Miyawaki: *Song Of Flower*
 158. Yuya Wakai: *Images*

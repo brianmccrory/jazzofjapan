@@ -1,28 +1,30 @@
 ---
 layout: article
-date: August 20, 2021
+date: Feb 27, 2018
+date_updated: August 20, 2021
 title: Rin
 artist: Sohnosuke Imaizumi
 sort_value: Sohnosuke Imaizumi Rin
 year: 2015
 label: Flower Records
 code: FLRC-070
-cover: 
+cover: sohnosukeimaizumi-rin-460.jpg
 members:
    - {name: Sohnosuke Imaizumi, instrument: "drums", japanese_name: 今泉総之輔, url: "http://www.imaizumisohnosuke.com"}
    - {name: Kazuhiro Sunaga, instrument: "bass", japanese_name: 須長和広}
    - {name: Kazuhiro Tamura, instrument: "piano", japanese_name: 田村和大}
    - {name: Blahmuzik, instrument: "sampler"}
 images:
-   - 
-   - 
-   - 
+   - L1180955-1024.jpg
+   - L1180914-1024.jpg
+   - L1180935-1024.jpg
+   - L1180927-1024.jpg
 videos: 
-   - {url: "https://youtu.be/JZSndR-P880", comment: ""}
-   - {url: "https://youtu.be/4OYhhXa6Mp0", comment: ""}
-   - {url: "https://youtu.be/Yu_NSmcS14c", comment: ""}
+   - {url: "https://youtu.be/JZSndR-P880", comment: "Excerpt from “Nag Champa”, the first track on this album"}
+   - {url: "https://youtu.be/4OYhhXa6Mp0", comment: "Promotional video for the album"}
+   - {url: "https://youtu.be/Yu_NSmcS14c", comment: "Drums-and-sampler excerpts from Sohnosuke Imaizumi and Blahmuzik"}
 ---
-Drummer Sohnosuke Imaizumi lays down impressive foundations with his debut album Rin. Having worked as a member of groups including Quasimode and Beatmoss, this is his first album as a leader. These 14 tracks feature his trio playing original songs and jazz standards, interwoven with hip-hop-influenced grooves and spacey drums-and-sampler interludes.
+Drummer Sohnosuke Imaizumi lays down impressive foundations with his debut album *Rin*. Having worked as a member of groups including Quasimode and Beatmoss, this is his first album as a leader. These 14 tracks feature his trio playing original songs and jazz standards, interwoven with hip-hop-influenced grooves and spacey drums-and-sampler interludes.
 
 A gorgeously-recorded drum and cymbal sound makes Imaizumi a pleasure to listen to as he plays with his well-suited bandmates. His rhythmic sense is masterful, lightly delivered with ease as he improvises fills, accents beats, and plays with time. His drumming is particularly in sync with bassist Kazuhiro Sunaga from the Japanese jazz group Quasimode, where Imaizumi previously drummed for five years and released five Blue Note releases.
 
@@ -32,23 +34,8 @@ In addition, six tracks by Imaizumi and sampler artist Blahmuzik are placed betw
 
 The overall album delivers an exciting variety of moods centered around a modern jazz piano trio with a fun vibe, well-produced, skillfully played, and decorated with stimulating experimentation.
 
-Sohnosuke Imaizumi - drums
 
-Kazuhiro Sunaga - bass
 
-Kazuhiro Tamura - piano
-
-Blahmuzik - sampler
-
-Released in 2015 on Flower Records FLRC-070.
-
-(Names in Japanese: Sohnosuke Imaizumi 今泉総之輔 Kazuhiro Sunaga 須長和広 Kazuhiro Tamura 田村和大)
-
-Excerpt from “Nag Champa”, the first track on this album:
-
-Promotional video for the album:
-
-Drums-and-sampler excerpts from Sohnosuke Imaizumi and Blahmuzik:
 
 
 
