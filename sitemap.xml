@@ -10,9 +10,9 @@ search: exclude
     <url>
       <loc>{{ site.url }}{{page.url}}</loc>
       {% if page.date -%}
-        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
       {% else -%}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
       {% endif -%}
     </url>
     {% endfor %}
@@ -22,9 +22,9 @@ search: exclude
     <url>
       <loc>{{ site.url }}{{post.url}}</loc>
       {% if post.date -%}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
       {% else -%}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
       {% endif -%}
     </url>
     {% endunless %}
@@ -35,9 +35,9 @@ search: exclude
     <url>
       <loc>{{ site.url }}{{album.url}}</loc>
       {% if album.date -%}
-        <lastmod>{{ album.date | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ album.date | date: "%Y-%m-%d" }}</lastmod>
       {% else -%}
-        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
       {% endif -%}
     </url>
 	{% endfor %}

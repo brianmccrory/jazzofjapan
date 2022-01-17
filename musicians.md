@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musicians
-date: 2022-01-17T14:53:54.6548961-08:00
+date: 2022-01-17
 ---
 # Musicians
 
