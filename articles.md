@@ -80,7 +80,6 @@ title: Articles
 97. Reikan Kobayashi: *Gakudan Hitori*
 98. Rie Taguchi: *The Gift*
 99. Routine Jazz Sextet: *Routine Jazz Sextet*
-100. Ruriko Kawamura: *Blossoms*
 101. Ryosuke Hashizume: *Needful Things*
 102. Ryosuke Hashizume Group: *Acoustic Fluid*
 103. Ryosuke Hashizume Group: *As We Breathe*

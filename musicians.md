@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musicians
-date: 2022-01-16T18:19:12.9109063-08:00
+date: 2022-01-16T18:27:53.8197802-08:00
 ---
 # Musicians
 
@@ -11,6 +11,7 @@ Akane Matsumoto | [Humadope](/albums/keisuke-nakamura-humadope) ・ [Night & Day
 Akemi Ohta | [Carta](/albums/emiko-voice-carta) ・ [Les Komatis](/albums/les-komatis-les-komatis) | 太田朱美
 Akihiro Nishiguchi | [Humadope](/albums/keisuke-nakamura-humadope) | 西口明宏
 Akiko Suda | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 須田晶子
+Akira Sekine | [Blossoms](/albums/ruriko-kawamura-blossoms) | 関根彰良
 Akira Tanidono | [Carta](/albums/emiko-voice-carta) | 谷殿明良
 Ami Fukui | [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) | 福井亜実
 Atsushi Ikeda | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 池田篤
@@ -70,14 +71,16 @@ Naoko Tanaka | [Protean](/albums/protean-protean) | 田中菜緒子
 Naoyuki Seto | [Protean](/albums/protean-protean) | 瀬戸尚幸
 Nobie | [Les Komatis](/albums/les-komatis-les-komatis) | ノビー
 Nobumasa Yamada | [Les Komatis](/albums/les-komatis-les-komatis) | 山田ノブマサ
-Noriko Satomi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 里見紀子
+Noriko Satomi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) ・ [Blossoms](/albums/ruriko-kawamura-blossoms) | 里見紀子
 Noritaka Tanaka | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 田中徳崇
+Ruriko Kawamura | [Blossoms](/albums/ruriko-kawamura-blossoms) | 河村留理子
 Ryoji Orihara | [Virgo](/albums/harumi-nomoto-trio-virgo) | 織原良次
 Ryosuke Asai | [Move On](/albums/hikari-ichihara-group-move-on) | 浅井良将
 Ryosuke Hashizume | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 橋爪亮督
 Ryuichi Takase | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 高瀬龍一
 Saori Sendo | [Resonance](/albums/duo-tremolo-resonance) | 仙道さおり
 Sayaka Kishi | [Live At Yoncha](/albums/arco-live-at-yoncha) | 岸淑香
+Seiji Endo | [Blossoms](/albums/ruriko-kawamura-blossoms) | 遠藤征志
 Shikou Ito | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | 伊藤志宏
 Shin Kamimura | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 上村信
 Shingo Tanaka | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 田中晋吾
