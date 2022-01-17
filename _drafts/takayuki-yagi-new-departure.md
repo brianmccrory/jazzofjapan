@@ -3,6 +3,7 @@ layout: article
 date: January 7, 2022
 title: New Departure
 artist: Takayuki Yagi
+sort_value: Takayuki Yagi New Departure
 year: 2018
 label: JazzTOKYO RECORDS
 code: JTRC-002

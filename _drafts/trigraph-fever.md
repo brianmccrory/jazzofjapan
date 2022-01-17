@@ -3,6 +3,7 @@ layout: article
 date: August 27, 2021
 title: Fever
 artist: Trigraph
+sort_value: Trigraph Fever
 year: 2014
 label: Haru Records
 code: HARU-20

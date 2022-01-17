@@ -3,6 +3,7 @@ layout: article
 date: June 14, 2021
 title: Childhood's Dream
 artist: Shigeo Fukuda & Toshiki Nunokawa
+sort_value: Shigeo Fukuda & Toshiki Nunokawa Childhood's Dream
 year: 2011
 label: BQ Records
 code: BQR-2053

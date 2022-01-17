@@ -3,6 +3,7 @@ layout: article
 date: October 26, 2021
 title: Trispace
 artist: Trispace
+sort_value: Trispace Trispace
 year: 2010
 label: Leccia Records / feel free products
 code: LRTR-0004

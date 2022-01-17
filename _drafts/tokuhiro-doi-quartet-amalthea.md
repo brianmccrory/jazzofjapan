@@ -3,6 +3,7 @@ layout: article
 date: July 29, 2021
 title: Amalthea
 artist: Tokuhiro Doi Quartet
+sort_value: Tokuhiro Doi Quartet Amalthea
 year: 2011
 label: D-musica Daiki Music
 code: DMCD-15

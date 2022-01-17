@@ -3,6 +3,7 @@ layout: article
 date: November 30, 2021
 title: Agora
 artist: Yuka Ueda
+sort_value: Yuka Ueda Agora
 year: 2011
 label: Audio Fab Records
 code: AFD-106

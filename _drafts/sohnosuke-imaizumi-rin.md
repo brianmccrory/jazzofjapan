@@ -3,6 +3,7 @@ layout: article
 date: August 20, 2021
 title: Rin
 artist: Sohnosuke Imaizumi
+sort_value: Sohnosuke Imaizumi Rin
 year: 2015
 label: Flower Records
 code: FLRC-070

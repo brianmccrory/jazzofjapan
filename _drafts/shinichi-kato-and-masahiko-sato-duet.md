@@ -3,6 +3,7 @@ layout: article
 date: June 7, 2021
 title: Duet
 artist: Shinichi Kato & Masahiko Sato
+sort_value: Shinichi Kato & Masahiko Sato Duet
 year: 2001
 label: Nagel Heyer Records
 code: CD-2017

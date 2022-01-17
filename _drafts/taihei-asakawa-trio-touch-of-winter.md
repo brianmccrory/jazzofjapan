@@ -3,6 +3,7 @@ layout: article
 date: December 13, 2021
 title: Touch of Winter
 artist: Taihei Asakawa Trio
+sort_value: Taihei Asakawa Trio Touch of Winter
 year: 2013
 label: D-musica Daiki Musica
 code: DMCD-26

@@ -3,6 +3,7 @@ layout: article
 date: May 22, 2021
 title: J-Straight Ahead
 artist: Yasumasa Kumagai
+sort_value: Yasumasa Kumagai J-Straight Ahead
 year: 2015
 label: Jazzy Bear Records
 code: JZBR-0001

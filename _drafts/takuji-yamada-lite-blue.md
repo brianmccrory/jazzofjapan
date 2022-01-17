@@ -3,6 +3,7 @@ layout: article
 date: November 19, 2021
 title: Lite Blue
 artist: Takuji Yamada
+sort_value: Takuji Yamada Lite Blue
 year: 2012
 label: D-Musica
 code: DMCD-18

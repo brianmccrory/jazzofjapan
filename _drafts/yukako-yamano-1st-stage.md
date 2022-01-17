@@ -3,6 +3,7 @@ layout: article
 date: August 5, 2021
 title: 1st Stage
 artist: Yukako Yamano
+sort_value: Yukako Yamano 1st Stage
 year: 2013
 label: Yukako Yamano
 code: YKRN-0001

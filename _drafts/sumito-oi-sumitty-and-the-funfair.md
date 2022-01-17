@@ -3,6 +3,7 @@ layout: article
 date: July 8, 2021
 title: Sumitty & The Funfair
 artist: Sumito Oi
+sort_value: Sumito Oi Sumitty & The Funfair
 year: 2015
 label: S&T Music
 code: STMU-1001
