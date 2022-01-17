@@ -37,7 +37,9 @@ layout: default
 	
 	<p>
 	Released in {{ page.year }} on {{ page.label }} as {{ page.code }}.
-	{{ if page.release_note -}}{{ page.release_note }}
+	{% if page.release_note -%}
+	{{ page.release_note }}
+	{% endif %}
 	</p>
 	
 	<p>	
