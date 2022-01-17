@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musicians
-date: 2022-01-16T18:27:53.8197802-08:00
+date: 2022-01-17T09:12:14.6876869-08:00
 ---
 # Musicians
 
@@ -15,7 +15,7 @@ Akira Sekine | [Blossoms](/albums/ruriko-kawamura-blossoms) | 関根彰良
 Akira Tanidono | [Carta](/albums/emiko-voice-carta) | 谷殿明良
 Ami Fukui | [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) | 福井亜実
 Atsushi Ikeda | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 池田篤
-Aya Kurosawa | [Beautiful Days](/albums/fumie-chiba-beautiful-days) ・ [Resonance](/albums/duo-tremolo-resonance) | 黒沢綾
+Aya Kurosawa | [Beautiful Days](/albums/fumie-chiba-beautiful-days) ・ [Featuring Te](/albums/sayaka-kishi-featuring-te) ・ [Resonance](/albums/duo-tremolo-resonance) | 黒沢綾
 Ayumi Koketsu | [Art](/albums/ayumi-koketsu-art) | 纐纈歩美
 Chihiro Yamanaka | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) ・ [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) ・ [When October Goes](/albums/chihiro-yamanaka-trio-when-october) | 山中千尋
 Dairiki Hara | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 原大力
@@ -27,7 +27,7 @@ Fumiko Yamazaki | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 山崎ふみ
 Gaku Hasegawa | [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 長谷川ガク
 Hakuei Kim | [Open the Green Door](/albums/hakuei-kim-trio-open-the-green-door) | ハクエイ・キム
 Harumi Nomoto | [Virgo](/albums/harumi-nomoto-trio-virgo) | 野本晴美
-Hideaki Hori | [Move On](/albums/hikari-ichihara-group-move-on) ・ [Resonance](/albums/duo-tremolo-resonance) ・ [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 堀秀彰
+Hideaki Hori | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Move On](/albums/hikari-ichihara-group-move-on) ・ [Resonance](/albums/duo-tremolo-resonance) ・ [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 堀秀彰
 Hikari Ichihara | [Move On](/albums/hikari-ichihara-group-move-on) | 市原ひかり
 Hiroki Chiba | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 千葉広樹
 Hiroki Miyano | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | 宮野弘紀
@@ -36,6 +36,7 @@ Hitomi Nishiyama | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 
 Jun Miyakawa | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 宮川純
 Kaori Nakajima | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 中島香里
 Kaoru Suzuki | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鈴木郁
+Kazuhide Motooka | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 元岡一英
 Kazumi Ikenaga | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) ・ [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 池長和美
 Keiichirou Uemura | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 上村計一郎
 Keisuke Nakamura | [Humadope](/albums/keisuke-nakamura-humadope) | 中村恵介
@@ -43,26 +44,27 @@ Keita Okada | [Carta](/albums/emiko-voice-carta) | 岡田ケイタ
 Keizo Kawano | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 河野啓三
 Kiyoshi Kitagawa | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 北川潔
 Ko Omura | [You Already Know](/albums/bungalow-you-already-know) | 大村亘
-Koichi Sato | [Carta](/albums/emiko-voice-carta) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
+Koichi Sato | [Carta](/albums/emiko-voice-carta) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
 Koji Tetsui | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鉄井孝司
-Koji Yasuda | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) | 安田幸司
+Koji Yasuda | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) ・ [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) | 安田幸司
 Kozo Komori | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 小森耕造
 Kunpei Nakabayashi | [Move On](/albums/hikari-ichihara-group-move-on) | 中林薫平
 Layla Tomomi Sakai | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 坂井レイラ知美
 Maiko Sugawara | [Virgo](/albums/harumi-nomoto-trio-virgo) | 菅原牧子
 Mamoru Ishida | [Humadope](/albums/keisuke-nakamura-humadope) | 石田衛
-Manabu Hashimoto | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) | 橋本学
+Manabu Hashimoto | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) | 橋本学
 Masaaki Imaizumi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 今泉正明
 Masahiko Osaka | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 大坂昌彦
+Masako Hamamura | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 浜村昌子
 Masanori Ando | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) ・ [Move On](/albums/hikari-ichihara-group-move-on) | 安藤正則
 Mayuko Katakura | [Faith](/albums/mayuko-katakura-faith) ・ [Les Komatis](/albums/les-komatis-les-komatis) | 片倉真由子
-Mayumi Sano | [Live At Yoncha](/albums/arco-live-at-yoncha) | 佐野まゆみ
+Mayumi Sano | [Featuring Te](/albums/sayaka-kishi-featuring-te) ・ [Live At Yoncha](/albums/arco-live-at-yoncha) | 佐野まゆみ
 Michiyo Matsushita | [Sally Gardens](/albums/michiyo-matsushita-sally-gardens) | 松下美千代
 Miki Hayama | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 早間美紀
 Minoru Yoshiki | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 吉木稔
 Mitsuru Tanaka | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 田中充
 Momoko Aida | [Carta](/albums/emiko-voice-carta) | 会田桃子
-Motohiko Ichino | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 市野元彦
+Motohiko Ichino | [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 市野元彦
 Motoi Kanamori | [Humadope](/albums/keisuke-nakamura-humadope) | 金森もとい
 Nao Sakamoto | [Virgo](/albums/harumi-nomoto-trio-virgo) | 坂本直
 Nao Teraya | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 寺屋ナオ
@@ -74,23 +76,28 @@ Nobumasa Yamada | [Les Komatis](/albums/les-komatis-les-komatis) | 山田ノブ�
 Noriko Satomi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) ・ [Blossoms](/albums/ruriko-kawamura-blossoms) | 里見紀子
 Noritaka Tanaka | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 田中徳崇
 Ruriko Kawamura | [Blossoms](/albums/ruriko-kawamura-blossoms) | 河村留理子
-Ryoji Orihara | [Virgo](/albums/harumi-nomoto-trio-virgo) | 織原良次
+Ryoji Orihara | [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 織原良次
 Ryosuke Asai | [Move On](/albums/hikari-ichihara-group-move-on) | 浅井良将
-Ryosuke Hashizume | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 橋爪亮督
+Ryosuke Hashizume | [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) ・ [Needful Things](/albums/ryosuke-hashizume-needful-things) | 橋爪亮督
 Ryuichi Takase | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 高瀬龍一
+Sanae Ishikawa | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) | 石川早苗
 Saori Sendo | [Resonance](/albums/duo-tremolo-resonance) | 仙道さおり
-Sayaka Kishi | [Live At Yoncha](/albums/arco-live-at-yoncha) | 岸淑香
+Satoshi Kosugi | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 小杉敏
+Sayaka Kishi | [Featuring Te](/albums/sayaka-kishi-featuring-te) ・ [Live At Yoncha](/albums/arco-live-at-yoncha) | 岸淑香
 Seiji Endo | [Blossoms](/albums/ruriko-kawamura-blossoms) | 遠藤征志
 Shikou Ito | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | 伊藤志宏
 Shin Kamimura | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 上村信
 Shingo Tanaka | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 田中晋吾
 Shinichi Kato | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) | 加藤真一
+Shinji Hashimoto | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 橋本信二
 Shun Ishiwaka | [Humadope](/albums/keisuke-nakamura-humadope) | 石若俊
 Shunosuke Ishikawa | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 石川周之介
-Sohnosuke Imaizumi | [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 今泉総之輔
+Soft Voice Choir | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) | Megu 1st, Asako 2nd, Haruka 3rd, Miki 4th
+Sohnosuke Imaizumi | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 今泉総之輔
 Taihei Asakawa | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) | 浅川太平
 Takashi Saito | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 齋藤たかし
-Takayoshi Baba | [Resonance](/albums/duo-tremolo-resonance) | 馬場孝喜
+Takayoshi Baba | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Resonance](/albums/duo-tremolo-resonance) | 馬場孝喜
+Takumi Seino | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 清野拓巳
 Tamashi Goto | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 後藤魂
 Taro Sukegawa | [Hall Tone](/albums/meu-coracao-hall-tone) | 助川太郎
 Terumasa Nishikawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 西川輝正
@@ -99,7 +106,10 @@ Toyomi Kobayashi | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill)
 Yasuhiko "Hachi" Sato | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 佐藤“ハチ”恭彦
 Yasushi Fukumori | [Humadope](/albums/keisuke-nakamura-humadope) | 福森康
 Yasushi Yoneki | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 米木康志
+Yasutaka Yorozu | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 萬恭隆
 Yoshihito "P" Koizumi | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 小泉P克人
+Yoshihito Eto | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 江藤良人
+Yoshiro Okazaki | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 岡崎好朗
 Yu Kudo | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 工藤悠
 Yuhei Honkawa | [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 本川悠平
 Yuichi Narita | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 成田祐一
@@ -126,6 +136,7 @@ Peter Washington | [Night & Day](/albums/akane-matsumoto-night-and-day) |
 Ray Parker | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) | 
 Rodney Green | [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) | 
 Rodney Whitaker | [Faith](/albums/mayuko-katakura-faith) | 
+SJSP Special Choir | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) | 
 Soren Dahl Jeppesen | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
 Victor Lewis | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 
 

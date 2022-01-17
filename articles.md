@@ -80,18 +80,13 @@ title: Articles
 97. Reikan Kobayashi: *Gakudan Hitori*
 98. Rie Taguchi: *The Gift*
 99. Routine Jazz Sextet: *Routine Jazz Sextet*
-101. Ryosuke Hashizume: *Needful Things*
 102. Ryosuke Hashizume Group: *Acoustic Fluid*
 103. Ryosuke Hashizume Group: *As We Breathe*
-104. Ryosuke Hashizume Group: *Incomplete Voices*
 105. Ryosuke Hashizume Group: *Side Two*
 106. Ryosuke Hashizume Group: *Visible/Invisible*
 107. Ryosuke Hashizume Group: *Wordless*
 108. Sachiko Ikuta Trio: *Haru No Kaze*
 109. Sanae Ishikawa: *Feel Like Makin' Love*
-110. Sanae Ishikawa: *Grown-up Christmas Gift*
-111. Satoshi Kosugi: *Bass on Times*
-112. Sayaka Kishi: *Featuring Te*
 113. Sayaka Kishi Trio: *Life is too Great*
 114. Sayaketts: *Colors*
 115. Seiji Endo: *Circle For Peace*
