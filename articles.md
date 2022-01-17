@@ -104,7 +104,6 @@ title: Articles
 136. Tomoka Miwa: *Colors In Silence*
 137. Toshihiko Inoue: *Vayu*
 138. Toshihiko Inoue & Masaki Hayashi: *Mistral*
-139. Trigraph: *Fever*
 140. Trio Export 63.1.0.X: *Small Pieces for Flying Padre*
 141. Trispace: *Aria*
 142. Trispace: *Trispace*

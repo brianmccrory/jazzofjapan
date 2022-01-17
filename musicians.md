@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musicians
-date: 2022-01-17T14:41:32.5150773-08:00
+date: 2022-01-17T14:53:54.6548961-08:00
 ---
 # Musicians
 
@@ -82,12 +82,13 @@ Nobie | [Les Komatis](/albums/les-komatis-les-komatis) | ノビー
 Nobumasa Yamada | [Les Komatis](/albums/les-komatis-les-komatis) | 山田ノブマサ
 Noriko Satomi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) ・ [Blossoms](/albums/ruriko-kawamura-blossoms) | 里見紀子
 Noritaka Tanaka | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 田中徳崇
+Reikan Kobayashi | [Fever](/albums/trigraph-fever) | 小林鈴勘
 Ruriko Kawamura | [Blossoms](/albums/ruriko-kawamura-blossoms) | 河村留理子
-Ryoji Orihara | [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 織原良次
+Ryoji Orihara | [Fever](/albums/trigraph-fever) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 織原良次
 Ryosuke Asai | [Move On](/albums/hikari-ichihara-group-move-on) | 浅井良将
 Ryosuke Hashizume | [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) ・ [Needful Things](/albums/ryosuke-hashizume-needful-things) | 橋爪亮督
 Ryuichi Takase | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 高瀬龍一
-Sanae Ishikawa | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) | 石川早苗
+Sanae Ishikawa | [Fever](/albums/trigraph-fever) ・ [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) | 石川早苗
 Saori Sendo | [Resonance](/albums/duo-tremolo-resonance) | 仙道さおり
 Satoshi Kosugi | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 小杉敏
 Sayaka Kishi | [Featuring Te](/albums/sayaka-kishi-featuring-te) ・ [Live At Yoncha](/albums/arco-live-at-yoncha) | 岸淑香
@@ -103,7 +104,7 @@ Shunosuke Ishikawa | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 石�
 Sohnosuke Imaizumi | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Rin](/albums/sohnosuke-imaizumi-rin) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 今泉総之輔
 Taihei Asakawa | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) | 浅川太平
 Takashi Saito | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 齋藤たかし
-Takayoshi Baba | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Resonance](/albums/duo-tremolo-resonance) | 馬場孝喜
+Takayoshi Baba | [Fever](/albums/trigraph-fever) ・ [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Resonance](/albums/duo-tremolo-resonance) | 馬場孝喜
 Takumi Seino | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 清野拓巳
 Tamashi Goto | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 後藤魂
 Taro Sukegawa | [Hall Tone](/albums/meu-coracao-hall-tone) | 助川太郎
@@ -112,7 +113,7 @@ Toru Nishijima | [Carta](/albums/emiko-voice-carta) | 西嶋徹
 Toshiki Nunokawa | [Childhood's Dream](/albums/shigeo-fukuda-and-toshiki-nunokawa) | 布川俊樹
 Toyomi Kobayashi | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 小林豊美
 Yasuhiko "Hachi" Sato | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 佐藤“ハチ”恭彦
-Yasushi Fukumori | [Humadope](/albums/keisuke-nakamura-humadope) | 福森康
+Yasushi Fukumori | [Fever](/albums/trigraph-fever) ・ [Humadope](/albums/keisuke-nakamura-humadope) | 福森康
 Yasushi Yoneki | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 米木康志
 Yasutaka Yorozu | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 萬恭隆
 Yoshihito "P" Koizumi | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 小泉P克人
