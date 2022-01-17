@@ -95,7 +95,6 @@ title: Articles
 126. Syunichi Yanagi Trio: *Bubble Fish*
 127. Syunichi Yanagi Trio: *Slope*
 129. Taihei Asakawa: *Waltz For Debby*
-130. Taihei Asakawa Trio: *Touch of Winter*
 131. Takako Yamada: *The Flow of Time*
 132. Takayuki Yagi: *New Departure*
 133. Takuji Yamada: *Lite Blue*

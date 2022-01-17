@@ -18,6 +18,7 @@ Atsushi Ikeda | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 池�
 Aya Kurosawa | [Beautiful Days](/albums/fumie-chiba-beautiful-days) ・ [Featuring Te](/albums/sayaka-kishi-featuring-te) ・ [Resonance](/albums/duo-tremolo-resonance) | 黒沢綾
 Ayumi Koketsu | [Art](/albums/ayumi-koketsu-art) | 纐纈歩美
 Chihiro Yamanaka | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) ・ [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) ・ [When October Goes](/albums/chihiro-yamanaka-trio-when-october) | 山中千尋
+Daiki Yasukagawa | [Touch of Winter](/albums/taihei-asakawa-trio-touch-of-winter) | 安ヵ川大樹
 Dairiki Hara | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 原大力
 Daisuke Fujiwara | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 藤原大輔
 Daisuke Toi | [Agora](/albums/yuka-ueda-agora) | トオイダイスケ
@@ -49,7 +50,7 @@ Keizo Kawano | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 河野啓三
 Kiyoshi Kitagawa | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 北川潔
 Ko Omura | [You Already Know](/albums/bungalow-you-already-know) | 大村亘
 Koichi Osamu | [1st Stage](/albums/yukako-yamano-1st-stage) | 納浩一
-Koichi Sato | [Carta](/albums/emiko-voice-carta) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
+Koichi Sato | [Carta](/albums/emiko-voice-carta) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) ・ [Sumitty & The Funfair](/albums/sumito-oi-sumitty-and-the-funfair) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
 Koji Tetsui | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鉄井孝司
 Koji Yasuda | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) ・ [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) | 安田幸司
 Kozo Komori | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 小森耕造
@@ -84,6 +85,7 @@ Noriko Satomi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) ・ [Blos
 Noritaka Tanaka | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 田中徳崇
 Reikan Kobayashi | [Fever](/albums/trigraph-fever) | 小林鈴勘
 Ruriko Kawamura | [Blossoms](/albums/ruriko-kawamura-blossoms) | 河村留理子
+Ryo Noritake | [Touch of Winter](/albums/taihei-asakawa-trio-touch-of-winter) | 則武諒
 Ryoji Orihara | [Fever](/albums/trigraph-fever) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 織原良次
 Ryosuke Asai | [Move On](/albums/hikari-ichihara-group-move-on) | 浅井良将
 Ryosuke Hashizume | [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) ・ [Needful Things](/albums/ryosuke-hashizume-needful-things) | 橋爪亮督
@@ -99,10 +101,12 @@ Shin Kamimura | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 上村�
 Shingo Tanaka | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 田中晋吾
 Shinichi Kato | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) ・ [Duet](/albums/shinichi-kato-and-masahiko-sato-duet) | 加藤真一
 Shinji Hashimoto | [Agora](/albums/yuka-ueda-agora) ・ [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 橋本信二
+Show Kudo | [Sumitty & The Funfair](/albums/sumito-oi-sumitty-and-the-funfair) | 工藤精
 Shun Ishiwaka | [Humadope](/albums/keisuke-nakamura-humadope) | 石若俊
 Shunosuke Ishikawa | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 石川周之介
 Sohnosuke Imaizumi | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Rin](/albums/sohnosuke-imaizumi-rin) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 今泉総之輔
-Taihei Asakawa | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) | 浅川太平
+Sumito Oi | [Sumitty & The Funfair](/albums/sumito-oi-sumitty-and-the-funfair) | 大井澄東
+Taihei Asakawa | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) ・ [Touch of Winter](/albums/taihei-asakawa-trio-touch-of-winter) | 浅川太平
 Takashi Saito | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 齋藤たかし
 Takayoshi Baba | [Fever](/albums/trigraph-fever) ・ [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Resonance](/albums/duo-tremolo-resonance) | 馬場孝喜
 Takumi Seino | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 清野拓巳
@@ -111,7 +115,7 @@ Taro Sukegawa | [Hall Tone](/albums/meu-coracao-hall-tone) | 助川太郎
 Terumasa Nishikawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 西川輝正
 Toru Nishijima | [Carta](/albums/emiko-voice-carta) | 西嶋徹
 Toshiki Nunokawa | [Childhood's Dream](/albums/shigeo-fukuda-and-toshiki-nunokawa) | 布川俊樹
-Toyomi Kobayashi | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 小林豊美
+Toyomi Kobayashi | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) ・ [Sumitty & The Funfair](/albums/sumito-oi-sumitty-and-the-funfair) | 小林豊美
 Yasuhiko "Hachi" Sato | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 佐藤“ハチ”恭彦
 Yasushi Fukumori | [Fever](/albums/trigraph-fever) ・ [Humadope](/albums/keisuke-nakamura-humadope) | 福森康
 Yasushi Yoneki | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 米木康志
