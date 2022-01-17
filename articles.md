@@ -116,7 +116,6 @@ title: Articles
 149. Yudo Matsuo: *Bonanza*
 150. Yuichiro Aratake: *Music Make Us One 2010 Live*
 151. Yuichiro Aratake: *The Light Flows In*
-152. Yuka Ueda: *Agora*
 153. Yuka Ueda: *Dois*
 155. Yukari Inoue: *Sakura*
 157. Yuko Miyawaki: *Song Of Flower*

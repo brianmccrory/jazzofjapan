@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musicians
-date: 2022-01-17T14:25:12.8592324-08:00
+date: 2022-01-17T14:41:32.5150773-08:00
 ---
 # Musicians
 
@@ -20,6 +20,7 @@ Ayumi Koketsu | [Art](/albums/ayumi-koketsu-art) | 纐纈歩美
 Chihiro Yamanaka | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) ・ [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) ・ [When October Goes](/albums/chihiro-yamanaka-trio-when-october) | 山中千尋
 Dairiki Hara | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 原大力
 Daisuke Fujiwara | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 藤原大輔
+Daisuke Toi | [Agora](/albums/yuka-ueda-agora) | トオイダイスケ
 Dan Yoshikawa | [Protean](/albums/protean-protean) | 吉川弾
 EMiKO VOiCE | [Carta](/albums/emiko-voice-carta) ・ [Hall Tone](/albums/meu-coracao-hall-tone) | エミコヴォイス
 Fumie Chiba | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 千葉史絵
@@ -34,6 +35,7 @@ Hiroki Miyano | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-
 Hiroshi Ikejiri | [You Already Know](/albums/bungalow-you-already-know) | 池尻洋史
 Hitomi Nishiyama | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 西山瞳
 Jun Miyakawa | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 宮川純
+Junichiro Ohkuchi | [Agora](/albums/yuka-ueda-agora) | 大口純一郎
 Kaori Nakajima | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 中島香里
 Kaoru Suzuki | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鈴木郁
 Kazuhide Motooka | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 元岡一英
@@ -95,7 +97,7 @@ Shikou Ito | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-thr
 Shin Kamimura | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 上村信
 Shingo Tanaka | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 田中晋吾
 Shinichi Kato | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) ・ [Duet](/albums/shinichi-kato-and-masahiko-sato-duet) | 加藤真一
-Shinji Hashimoto | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 橋本信二
+Shinji Hashimoto | [Agora](/albums/yuka-ueda-agora) ・ [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 橋本信二
 Shun Ishiwaka | [Humadope](/albums/keisuke-nakamura-humadope) | 石若俊
 Shunosuke Ishikawa | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 石川周之介
 Sohnosuke Imaizumi | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Rin](/albums/sohnosuke-imaizumi-rin) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 今泉総之輔
@@ -120,6 +122,7 @@ Yu Kudo | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 工藤
 Yuhei Honkawa | [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 本川悠平
 Yuichi Narita | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 成田祐一
 Yuichiro Hiraoka | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 平岡遊一郎
+Yuka Ueda | [Agora](/albums/yuka-ueda-agora) | 上田裕香
 Yukako Yamano | [1st Stage](/albums/yukako-yamano-1st-stage) | 山野友佳子
 Yukiko Hayakawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 早川由紀子
 maiko | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | マイコ
