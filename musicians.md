@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musicians
-date: 2022-01-16T12:02:16.1101269-08:00
+date: 2022-01-16T18:19:12.9109063-08:00
 ---
 # Musicians
 
@@ -18,6 +18,7 @@ Aya Kurosawa | [Beautiful Days](/albums/fumie-chiba-beautiful-days) ・ [Resonan
 Ayumi Koketsu | [Art](/albums/ayumi-koketsu-art) | 纐纈歩美
 Chihiro Yamanaka | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) ・ [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) ・ [When October Goes](/albums/chihiro-yamanaka-trio-when-october) | 山中千尋
 Dairiki Hara | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 原大力
+Daisuke Fujiwara | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 藤原大輔
 Dan Yoshikawa | [Protean](/albums/protean-protean) | 吉川弾
 EMiKO VOiCE | [Carta](/albums/emiko-voice-carta) ・ [Hall Tone](/albums/meu-coracao-hall-tone) | エミコヴォイス
 Fumie Chiba | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 千葉史絵
@@ -27,6 +28,7 @@ Hakuei Kim | [Open the Green Door](/albums/hakuei-kim-trio-open-the-green-door) 
 Harumi Nomoto | [Virgo](/albums/harumi-nomoto-trio-virgo) | 野本晴美
 Hideaki Hori | [Move On](/albums/hikari-ichihara-group-move-on) ・ [Resonance](/albums/duo-tremolo-resonance) ・ [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 堀秀彰
 Hikari Ichihara | [Move On](/albums/hikari-ichihara-group-move-on) | 市原ひかり
+Hiroki Chiba | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 千葉広樹
 Hiroki Miyano | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | 宮野弘紀
 Hiroshi Ikejiri | [You Already Know](/albums/bungalow-you-already-know) | 池尻洋史
 Hitomi Nishiyama | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 西山瞳
@@ -40,7 +42,7 @@ Keita Okada | [Carta](/albums/emiko-voice-carta) | 岡田ケイタ
 Keizo Kawano | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 河野啓三
 Kiyoshi Kitagawa | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 北川潔
 Ko Omura | [You Already Know](/albums/bungalow-you-already-know) | 大村亘
-Koichi Sato | [Carta](/albums/emiko-voice-carta) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
+Koichi Sato | [Carta](/albums/emiko-voice-carta) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
 Koji Tetsui | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鉄井孝司
 Koji Yasuda | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) | 安田幸司
 Kozo Komori | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 小森耕造
@@ -59,6 +61,7 @@ Miki Hayama | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 早間美紀
 Minoru Yoshiki | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 吉木稔
 Mitsuru Tanaka | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 田中充
 Momoko Aida | [Carta](/albums/emiko-voice-carta) | 会田桃子
+Motohiko Ichino | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 市野元彦
 Motoi Kanamori | [Humadope](/albums/keisuke-nakamura-humadope) | 金森もとい
 Nao Sakamoto | [Virgo](/albums/harumi-nomoto-trio-virgo) | 坂本直
 Nao Teraya | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 寺屋ナオ
@@ -68,6 +71,7 @@ Naoyuki Seto | [Protean](/albums/protean-protean) | 瀬戸尚幸
 Nobie | [Les Komatis](/albums/les-komatis-les-komatis) | ノビー
 Nobumasa Yamada | [Les Komatis](/albums/les-komatis-les-komatis) | 山田ノブマサ
 Noriko Satomi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 里見紀子
+Noritaka Tanaka | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 田中徳崇
 Ryoji Orihara | [Virgo](/albums/harumi-nomoto-trio-virgo) | 織原良次
 Ryosuke Asai | [Move On](/albums/hikari-ichihara-group-move-on) | 浅井良将
 Ryosuke Hashizume | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 橋爪亮督

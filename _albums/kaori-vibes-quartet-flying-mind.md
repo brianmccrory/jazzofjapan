@@ -6,6 +6,7 @@ artist: Kaori Vibes Quartet
 year: 2013
 label: Urban Jazz
 code: 151A-0007
+release_note: Re-released in 2014.
 cover: kaorinakajima-flyingmind-460.jpg
 members:
    - {name: Kaori Nakajima, instrument: "vibraphone", japanese_name: 中島香里, url: "http://kaorin.jazzman.club/"}
