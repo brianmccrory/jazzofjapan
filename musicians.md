@@ -20,6 +20,7 @@ Ayumi Koketsu | [Art](/albums/ayumi-koketsu-art) | 纐纈歩美
 Chihiro Yamanaka | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) ・ [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) ・ [When October Goes](/albums/chihiro-yamanaka-trio-when-october) | 山中千尋
 Daiki Yasukagawa | [Touch of Winter](/albums/taihei-asakawa-trio-touch-of-winter) | 安ヵ川大樹
 Dairiki Hara | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 原大力
+Daisuke Abe | [Lite Blue](/albums/takuji-yamada-lite-blue) | 阿部大輔
 Daisuke Fujiwara | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 藤原大輔
 Daisuke Toi | [Agora](/albums/yuka-ueda-agora) | トオイダイスケ
 Dan Yoshikawa | [Protean](/albums/protean-protean) | 吉川弾
@@ -110,6 +111,7 @@ Taihei Asakawa | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jaz
 Takashi Saito | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 齋藤たかし
 Takayoshi Baba | [Fever](/albums/trigraph-fever) ・ [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Resonance](/albums/duo-tremolo-resonance) | 馬場孝喜
 Takayuki Yagi | [New Departure](/albums/takayuki-yagi-new-departure) | 八木隆幸
+Takuji Yamada | [Lite Blue](/albums/takuji-yamada-lite-blue) | 山田拓児
 Takumi Seino | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 清野拓巳
 Tamashi Goto | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 後藤魂
 Taro Sukegawa | [Hall Tone](/albums/meu-coracao-hall-tone) | 助川太郎
@@ -138,6 +140,7 @@ Billy Drummond | [New Departure](/albums/takayuki-yagi-new-departure) |
 Blahmuzik | [Rin](/albums/sohnosuke-imaizumi-rin) | 
 Carl Allen | [Faith](/albums/mayuko-katakura-faith) | 
 Christian Vuust | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
+Danny Grissett | [Lite Blue](/albums/takuji-yamada-lite-blue) | 
 Dave Goodman | [Open the Green Door](/albums/hakuei-kim-trio-open-the-green-door) | 
 Gene Jackson | [Night & Day](/albums/akane-matsumoto-night-and-day) | 
 Jakob Buchanan | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
@@ -148,10 +151,12 @@ Johan Birgenius | [Flower Clouds](/albums/naoko-sakata-trio-flower-clouds) |
 Klaus Nørgaard | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
 LaFrae Olivia Sci | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) | 
 Larry Grenadier | [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) ・ [When October Goes](/albums/chihiro-yamanaka-trio-when-october) | 
+Luques Curtis | [Lite Blue](/albums/takuji-yamada-lite-blue) | 
 Mark Taylor | [Art](/albums/ayumi-koketsu-art) | 
 Mike Karn | [Art](/albums/ayumi-koketsu-art) | 
 Mike Rivett | [You Already Know](/albums/bungalow-you-already-know) | 
 Peter Washington | [Night & Day](/albums/akane-matsumoto-night-and-day) | 
+Quincy Davis | [Lite Blue](/albums/takuji-yamada-lite-blue) | 
 Ralph Bowen | [New Departure](/albums/takayuki-yagi-new-departure) | 
 Ray Parker | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) | 
 Rodney Green | [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) | 
