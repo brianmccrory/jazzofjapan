@@ -64,6 +64,7 @@ Manabu Hashimoto | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-j
 Masaaki Imaizumi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 今泉正明
 Masahiko Osaka | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 大坂昌彦
 Masahiko Sato | [Duet](/albums/shinichi-kato-and-masahiko-sato-duet) | 佐藤允彦
+Masaki Hayashi | [Mistral](/albums/toshihiko-inoue-and-masaki-hayashi) | 林正樹
 Masako Hamamura | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 浜村昌子
 Masanori Ando | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) ・ [Move On](/albums/hikari-ichihara-group-move-on) | 安藤正則
 Mayuko Katakura | [Faith](/albums/mayuko-katakura-faith) ・ [Les Komatis](/albums/les-komatis-les-komatis) | 片倉真由子
@@ -119,6 +120,7 @@ Terumasa Nishikawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 西川輝
 Tokuhiro Doi | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) | 土井徳浩
 Tomoyuki Konno | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) | 紺野智之
 Toru Nishijima | [Carta](/albums/emiko-voice-carta) | 西嶋徹
+Toshihiko Inoue | [Mistral](/albums/toshihiko-inoue-and-masaki-hayashi) | 井上淑彦
 Toshiki Nunokawa | [Childhood's Dream](/albums/shigeo-fukuda-and-toshiki-nunokawa) | 布川俊樹
 Toyomi Kobayashi | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) ・ [Sumitty & The Funfair](/albums/sumito-oi-sumitty-and-the-funfair) | 小林豊美
 Yasuhiko "Hachi" Sato | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 佐藤“ハチ”恭彦
