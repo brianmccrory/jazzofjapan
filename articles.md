@@ -22,7 +22,6 @@ title: Articles
 8. Ami Fukui: *Amizm*
 9. Ami Fukui Trio: *New Journey*
 11. Aquapit: *Aquapit*
-12. Arco: *Asymmetry*
 13. Arco: *Birth*
 15. Atomi Hamada: *This Is Atomi*
 17. Ayumi Koketsu: *Rainbow Tales*
@@ -41,9 +40,7 @@ title: Articles
 40. Harumi Nomoto Trio: *Belinda*
 42. Hideaki Hori Trio: *In My Words*
 44. Hideaki Kanazawa & Sumire Kuribayashi: *Nijuso*
-46. Hiroco Nagano: *Okurimono*
 47. Hiromi Miura: *We Don’t Know Yet*
-48. Hitomi Nishiyama Trio: *Many Seasons*
 50. Hitomi Nishiyama Trio: *Parallax Live*
 51. Hitomi Nishiyama Trio "parallax": *Shift*
 52. Hitomi Nishiyama Trio: *Sympathy*
