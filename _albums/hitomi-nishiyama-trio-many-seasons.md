@@ -3,8 +3,8 @@ layout: article
 date: Feb 8, 2018
 date_updated:
 title: Many Seasons
-artist: Hitomi Nishiyama
-sort_value: Hitomi Nishiyama Many Seasons
+artist: Hitomi Nishiyama Trio
+sort_value: Hitomi Nishiyama Trio Many Seasons
 year: 2007
 label: Spice of Life
 code: SOLJP-0005
