@@ -109,6 +109,7 @@ Sumito Oi | [Sumitty & The Funfair](/albums/sumito-oi-sumitty-and-the-funfair) |
 Taihei Asakawa | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) ・ [Touch of Winter](/albums/taihei-asakawa-trio-touch-of-winter) | 浅川太平
 Takashi Saito | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 齋藤たかし
 Takayoshi Baba | [Fever](/albums/trigraph-fever) ・ [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Resonance](/albums/duo-tremolo-resonance) | 馬場孝喜
+Takayuki Yagi | [New Departure](/albums/takayuki-yagi-new-departure) | 八木隆幸
 Takumi Seino | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 清野拓巳
 Tamashi Goto | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 後藤魂
 Taro Sukegawa | [Hall Tone](/albums/meu-coracao-hall-tone) | 助川太郎
@@ -133,12 +134,14 @@ Yukiko Hayakawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 早川由紀
 maiko | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | マイコ
 Anton Blomgren | [Flower Clouds](/albums/naoko-sakata-trio-flower-clouds) | 
 Ben "Donny" Waples | [Open the Green Door](/albums/hakuei-kim-trio-open-the-green-door) | 
+Billy Drummond | [New Departure](/albums/takayuki-yagi-new-departure) | 
 Blahmuzik | [Rin](/albums/sohnosuke-imaizumi-rin) | 
 Carl Allen | [Faith](/albums/mayuko-katakura-faith) | 
 Christian Vuust | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
 Dave Goodman | [Open the Green Door](/albums/hakuei-kim-trio-open-the-green-door) | 
 Gene Jackson | [Night & Day](/albums/akane-matsumoto-night-and-day) | 
 Jakob Buchanan | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
+Jay Anderson | [New Departure](/albums/takayuki-yagi-new-departure) | 
 Jeff Ballard | [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) ・ [When October Goes](/albums/chihiro-yamanaka-trio-when-october) | 
 Jeremy Manasia | [Art](/albums/ayumi-koketsu-art) | 
 Johan Birgenius | [Flower Clouds](/albums/naoko-sakata-trio-flower-clouds) | 
@@ -149,9 +152,11 @@ Mark Taylor | [Art](/albums/ayumi-koketsu-art) |
 Mike Karn | [Art](/albums/ayumi-koketsu-art) | 
 Mike Rivett | [You Already Know](/albums/bungalow-you-already-know) | 
 Peter Washington | [Night & Day](/albums/akane-matsumoto-night-and-day) | 
+Ralph Bowen | [New Departure](/albums/takayuki-yagi-new-departure) | 
 Ray Parker | [Living Without Friday](/albums/chihiro-yamanaka-trio-living-without-friday) | 
 Rodney Green | [Madrigal](/albums/chihiro-yamanaka-trio-madrigal) | 
 Rodney Whitaker | [Faith](/albums/mayuko-katakura-faith) | 
+Scott Wendholt | [New Departure](/albums/takayuki-yagi-new-departure) | 
 Soren Dahl Jeppesen | [Niwatazumi](/albums/kazumi-ikenaga-niwatazumi) | 
 Victor Lewis | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 
 

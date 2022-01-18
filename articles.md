@@ -96,7 +96,6 @@ title: Articles
 127. Syunichi Yanagi Trio: *Slope*
 129. Taihei Asakawa: *Waltz For Debby*
 131. Takako Yamada: *The Flow of Time*
-132. Takayuki Yagi: *New Departure*
 133. Takuji Yamada: *Lite Blue*
 134. TCQ: *Memories of T*
 135. Tokuhiro Doi Quartet: *Amalthea*
