@@ -17,8 +17,8 @@ header_pages:
 
 collections:
   albums:
-    output: true
     sort_by: sort_value
+    output: true
 
 # Build settings
 theme: minima
