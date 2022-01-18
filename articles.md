@@ -4,7 +4,8 @@ title: Articles
 ---
 
 # Articles
-{% for album in site.albums -%}
+{% assign sorted = site.albums | sort_natural: "sort_value" %}
+{% for album in sorted -%}
 1. <a href="{{ album.url }}">{{ album.artist }}: *{{ album.title }}*</a>
 {% endfor %}
 
