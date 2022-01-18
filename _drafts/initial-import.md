@@ -1,16 +1,17 @@
 ---
 layout: post
-title: 'Recent Updates: January 2022'
+title: 'Initial Import'
 image: /images/J-circle.png
 date: Jan 15, 2022
+excerpt_separator: <!--more-->
 ---
 
 * Moved a bunch (30?) of articles from ``jjazz.substack.com`` to this site.
+<!--more-->
 * Developed a method to regenerate the musicians index table from the articles.
 * Setup the general tasks like adding the site to google search index, adding a sitemap.xml, feed.xml, updating links, ...
 
 Since a lot of content was moved at once, there may be some issues that I haven't tracked down yet... I hope not, but broken links, typos, or ill-formated pages may pop up here and there. If you contact me about any issues I will address them promptly.
-
 NOTES IN PROGRESS:
 
 what I like about the new format:

@@ -3,7 +3,8 @@ layout: default
 title: Articles
 ---
 
-# Articles
+# Articles 
+
 {% assign sorted = site.albums | sort_natural: "sort_value" %}
 {% for album in sorted -%}
 1. <a href="{{ album.url }}">{{ album.artist }}: *{{ album.title }}*</a>
