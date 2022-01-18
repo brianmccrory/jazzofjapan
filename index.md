@@ -9,7 +9,7 @@ date: Jan 16, 2022
 * [Album Covers](/albums): List of the articles arranged by album covers
 * [Musicians](/musicians): An index of musicians and albums
 * [Audio](/audio): Audio excerpts for albums mentioned
-* [Notes](/notes): Notes and updates about this site
+* [Notes](/notes): News, updates, & miscellaneous notes
 
 ![Sax](/assets/images/sax-shadow-1024.jpeg)
 
