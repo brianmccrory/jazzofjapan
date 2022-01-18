@@ -58,6 +58,7 @@ Kozo Komori | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 小
 Kunpei Nakabayashi | [Move On](/albums/hikari-ichihara-group-move-on) | 中林薫平
 Layla Tomomi Sakai | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 坂井レイラ知美
 Maiko Sugawara | [Virgo](/albums/harumi-nomoto-trio-virgo) | 菅原牧子
+maiko | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | マイコ
 Mamoru Ishida | [Humadope](/albums/keisuke-nakamura-humadope) | 石田衛
 Manabu Fujii | [1st Stage](/albums/yukako-yamano-1st-stage) | 藤井学
 Manabu Hashimoto | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) | 橋本学
@@ -142,7 +143,6 @@ Yuichiro Hiraoka | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 平�
 Yuka Ueda | [Agora](/albums/yuka-ueda-agora) | 上田裕香
 Yukako Yamano | [1st Stage](/albums/yukako-yamano-1st-stage) | 山野友佳子
 Yukiko Hayakawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 早川由紀子
-maiko | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | マイコ
 Anton Blomgren | [Flower Clouds](/albums/naoko-sakata-trio-flower-clouds) | 
 Ben "Donny" Waples | [Open the Green Door](/albums/hakuei-kim-trio-open-the-green-door) | 
 Billy Drummond | [New Departure](/albums/takayuki-yagi-new-departure) | 
