@@ -97,7 +97,6 @@ title: Articles
 129. Taihei Asakawa: *Waltz For Debby*
 131. Takako Yamada: *The Flow of Time*
 134. TCQ: *Memories of T*
-135. Tokuhiro Doi Quartet: *Amalthea*
 136. Tomoka Miwa: *Colors In Silence*
 137. Toshihiko Inoue: *Vayu*
 138. Toshihiko Inoue & Masaki Hayashi: *Mistral*

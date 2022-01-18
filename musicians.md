@@ -51,7 +51,7 @@ Keizo Kawano | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 河野啓三
 Kiyoshi Kitagawa | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 北川潔
 Ko Omura | [You Already Know](/albums/bungalow-you-already-know) | 大村亘
 Koichi Osamu | [1st Stage](/albums/yukako-yamano-1st-stage) | 納浩一
-Koichi Sato | [Carta](/albums/emiko-voice-carta) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) ・ [Sumitty & The Funfair](/albums/sumito-oi-sumitty-and-the-funfair) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
+Koichi Sato | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) ・ [Carta](/albums/emiko-voice-carta) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) ・ [Sumitty & The Funfair](/albums/sumito-oi-sumitty-and-the-funfair) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
 Koji Tetsui | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鉄井孝司
 Koji Yasuda | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) ・ [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) | 安田幸司
 Kozo Komori | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 小森耕造
@@ -116,6 +116,8 @@ Takumi Seino | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 清�
 Tamashi Goto | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 後藤魂
 Taro Sukegawa | [Hall Tone](/albums/meu-coracao-hall-tone) | 助川太郎
 Terumasa Nishikawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 西川輝正
+Tokuhiro Doi | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) | 土井徳浩
+Tomoyuki Konno | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) | 紺野智之
 Toru Nishijima | [Carta](/albums/emiko-voice-carta) | 西嶋徹
 Toshiki Nunokawa | [Childhood's Dream](/albums/shigeo-fukuda-and-toshiki-nunokawa) | 布川俊樹
 Toyomi Kobayashi | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) ・ [Sumitty & The Funfair](/albums/sumito-oi-sumitty-and-the-funfair) | 小林豊美
@@ -127,7 +129,7 @@ Yoshihito "P" Koizumi | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincide
 Yoshihito Eto | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 江藤良人
 Yoshiro Okazaki | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 岡崎好朗
 Yu Kudo | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 工藤悠
-Yuhei Honkawa | [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 本川悠平
+Yuhei Honkawa | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) ・ [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 本川悠平
 Yuichi Narita | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 成田祐一
 Yuichiro Hiraoka | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 平岡遊一郎
 Yuka Ueda | [Agora](/albums/yuka-ueda-agora) | 上田裕香
