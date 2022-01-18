@@ -62,7 +62,7 @@ Mamoru Ishida | [Humadope](/albums/keisuke-nakamura-humadope) | 石田衛
 Manabu Fujii | [1st Stage](/albums/yukako-yamano-1st-stage) | 藤井学
 Manabu Hashimoto | [Catastrophe In Jazz](/albums/taihei-asakawa-catastrophe-in-jazz) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) | 橋本学
 Masaaki Imaizumi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 今泉正明
-Masahiko Osaka | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) | 大坂昌彦
+Masahiko Osaka | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) ・ [J-Straight Ahead](/albums/yasumasa-kumagai-j-straight-ahead) | 大坂昌彦
 Masahiko Sato | [Duet](/albums/shinichi-kato-and-masahiko-sato-duet) | 佐藤允彦
 Masaki Hayashi | [Mistral](/albums/toshihiko-inoue-and-masaki-hayashi) | 林正樹
 Masako Hamamura | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 浜村昌子
@@ -124,12 +124,14 @@ Toshihiko Inoue | [Mistral](/albums/toshihiko-inoue-and-masaki-hayashi) | 井上
 Toshiki Nunokawa | [Childhood's Dream](/albums/shigeo-fukuda-and-toshiki-nunokawa) | 布川俊樹
 Toyomi Kobayashi | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) ・ [Sumitty & The Funfair](/albums/sumito-oi-sumitty-and-the-funfair) | 小林豊美
 Yasuhiko "Hachi" Sato | [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 佐藤“ハチ”恭彦
+Yasumasa Kumagai | [J-Straight Ahead](/albums/yasumasa-kumagai-j-straight-ahead) | 熊谷ヤスマサ
 Yasushi Fukumori | [Fever](/albums/trigraph-fever) ・ [Humadope](/albums/keisuke-nakamura-humadope) | 福森康
 Yasushi Yoneki | [You've Changed](/albums/hara-dairiki-trio-youve-changed) | 米木康志
 Yasutaka Yorozu | [Needful Things](/albums/ryosuke-hashizume-needful-things) | 萬恭隆
 Yoshihito "P" Koizumi | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 小泉P克人
 Yoshihito Eto | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 江藤良人
 Yoshiro Okazaki | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 岡崎好朗
+Yosuke Inoue | [J-Straight Ahead](/albums/yasumasa-kumagai-j-straight-ahead) | 井上陽介
 Yu Kudo | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 工藤悠
 Yuhei Honkawa | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) ・ [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 本川悠平
 Yuichi Narita | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 成田祐一

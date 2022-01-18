@@ -106,7 +106,6 @@ title: Articles
 144. Water Me: *Water Me!*
 145. Yako Horikita: *Shining Hour*
 146. Yasumasa Kumagai: *I Need A Change, Too*
-147. Yasumasa Kumagai: *J-Straight Ahead*
 149. Yudo Matsuo: *Bonanza*
 150. Yuichiro Aratake: *Music Make Us One 2010 Live*
 151. Yuichiro Aratake: *The Light Flows In*
