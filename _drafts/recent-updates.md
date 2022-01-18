@@ -23,7 +23,7 @@ what I like about the new format:
 missing:
 - no emails go out with each publish (this could also be a good thing)
 - no "community" features like comment forums, likes (but this can happen on social media networks or email instead)
-
+- videos are no longer embedded within articles, but available through links
 
 TODO: 
 - add a 'featured' pinned post (or post as a new post every month or so)

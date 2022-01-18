@@ -74,6 +74,7 @@ Miki Hayama | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 早間美紀
 Minoru Yoshiki | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 吉木稔
 Mitsuru Tanaka | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 田中充
 Momoko Aida | [Carta](/albums/emiko-voice-carta) | 会田桃子
+Morihiro Omura | [Trispace](/albums/trispace-trispace) | 大村守弘
 Motohiko Ichino | [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 市野元彦
 Motoi Kanamori | [Humadope](/albums/keisuke-nakamura-humadope) | 金森もとい
 Nao Sakamoto | [Virgo](/albums/harumi-nomoto-trio-virgo) | 坂本直
@@ -131,9 +132,11 @@ Yasutaka Yorozu | [Needful Things](/albums/ryosuke-hashizume-needful-things) | �
 Yoshihito "P" Koizumi | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 小泉P克人
 Yoshihito Eto | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 江藤良人
 Yoshiro Okazaki | [Bass on Times](/albums/satoshi-kosugi-bass-on-times) | 岡崎好朗
+Yoshitaka Yamashita | [Trispace](/albums/trispace-trispace) | 山下佳孝
 Yosuke Inoue | [J-Straight Ahead](/albums/yasumasa-kumagai-j-straight-ahead) | 井上陽介
 Yu Kudo | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 工藤悠
 Yuhei Honkawa | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) ・ [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 本川悠平
+Yuichi Hayashi | [Trispace](/albums/trispace-trispace) | 林祐市
 Yuichi Narita | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 成田祐一
 Yuichiro Hiraoka | [Whisper Not](/albums/layla-tomomi-sakai-whisper-not) | 平岡遊一郎
 Yuka Ueda | [Agora](/albums/yuka-ueda-agora) | 上田裕香

@@ -101,7 +101,6 @@ title: Articles
 137. Toshihiko Inoue: *Vayu*
 140. Trio Export 63.1.0.X: *Small Pieces for Flying Padre*
 141. Trispace: *Aria*
-142. Trispace: *Trispace*
 143. Wataru Hamasaki Meets Akane Matsumoto Trio: *Big Catch*
 144. Water Me: *Water Me!*
 145. Yako Horikita: *Shining Hour*
