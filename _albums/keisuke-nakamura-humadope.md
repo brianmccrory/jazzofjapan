@@ -8,7 +8,7 @@ sort_value: Keisuke Nakamura Humadope
 year: 2014
 label: M581 Records
 code: SDR1401
-cover: keisukenakamura-humadope-460.jpg
+cover: keisukenakamura-humadope
 members:
    - {name: Keisuke Nakamura, instrument: "trumpet, flugelhorn", japanese_name: 中村恵介, url: "https://blackdevil729.wixsite.com/keisuke-nakamura"}
    - {name: Akihiro Nishiguchi, instrument: "tenor sax, soprano sax", japanese_name: 西口明宏}

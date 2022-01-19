@@ -8,7 +8,7 @@ sort_value: Yuka Ueda Agora
 year: 2011
 label: Audio Fab Records
 code: AFD-106
-cover: yukaueda-agora-460.jpg
+cover: yukaueda-agora
 members:
    - {name: Yuka Ueda, instrument: "vocals", japanese_name: 上田裕香, url: "http://yuuka-agora.com/wp/"}
    - {name: Junichiro Ohkuchi, instrument: "piano", japanese_name: 大口純一郎}

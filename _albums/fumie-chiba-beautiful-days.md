@@ -9,7 +9,7 @@ year: 2017
 label: USAGI Records
 code: UR-002
 subdir: 2022/01
-cover: fumiechiba-beautifuldays-460.jpg
+cover: fumiechiba-beautifuldays
 members:
    - {name: Fumie Chiba, instrument: "piano", japanese_name: 千葉史絵, url: "http://fumiechiba.com"}
    - {name: Mitsuru Tanaka, instrument: "trumpet, flugelhorn", japanese_name: 田中充}

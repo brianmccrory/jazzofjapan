@@ -9,7 +9,7 @@ year: 2013
 label: Urban Jazz
 code: 151A-0007
 release_note: Re-released in 2014.
-cover: kaorinakajima-flyingmind-460.jpg
+cover: kaorinakajima-flyingmind
 members:
    - {name: Kaori Nakajima, instrument: "vibraphone", japanese_name: 中島香里, url: "http://kaorin.jazzman.club/"}
    - {name: Tamashi Goto, instrument: "piano", japanese_name: 後藤魂, url: "https://ameblo.jp/jazzsoul-tamapi/"}

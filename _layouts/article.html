@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign cover_image_width = "460" %}
 {% assign image_subdir = page.date | date: "%Y/%m" %}
 {% assign image_dir = "/assets/images/" | append: image_subdir %}
 {% assign copyright_year = page.date | date: "%Y" %}
@@ -17,7 +18,7 @@ layout: default
   <div class="post-content">
 
 	<p align="center">
-	<img src="{{ image_dir }}/{{ page.cover }}">
+	<img src="{{ image_dir }}/{{ page.cover }}-{{ cover_image_width }}.jpeg" width={{ cover_image_width }}> {% comment %} jpeg files output from adobe bridge {% endcomment %}
 	</p>
 
 	<p>

@@ -8,7 +8,7 @@ sort_value: Hideaki Hori Trio Unconditional Love
 year: 2014
 label: BQ Records
 code: BQR-2064/2065
-cover: hideakihori-unconditional-300.jpg
+cover: hideakihori-unconditional
 members:
    - {name: Hideaki Hori, instrument: "piano", japanese_name: 堀秀彰, url: "https://www.hideakihori.com/"}
    - {name: Yuhei Honkawa, instrument: "bass", japanese_name: 本川悠平, url: "http://yuhei-ponkawajazz.cocolog-nifty.com/"}

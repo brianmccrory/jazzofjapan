@@ -9,7 +9,7 @@ year: 2013
 label: Yukako Yamano
 code: YKRN-0001
 release_note: Digitally remastered in 2016.
-cover: yukakoyamano-first.jpg
+cover: yukakoyamano-first
 members:
    - {name: Yukako Yamano, instrument: "piano", japanese_name: 山野友佳子, url: "https://yukakoyamano.com/"}
    - {name: Koichi Osamu, instrument: "bass", japanese_name: 納浩一, url: "https://www.osamukoichi.net/"}

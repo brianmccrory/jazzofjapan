@@ -8,7 +8,7 @@ sort_value: Meu Coracao Hall Tone
 year: 2009
 label: Coo Records
 code: COO-300
-cover: meucoracao-halltone-460.jpg
+cover: meucoracao-halltone
 members:
    - {name: EMiKO VOiCE, instrument: "vocal", japanese_name: エミコヴォイス, url: "http://www.emikovoice.com/"}
    - {name: Taro Sukegawa, instrument: "guitar", japanese_name: 助川太郎, url: "http://www.tarosukegawa.jp/"}

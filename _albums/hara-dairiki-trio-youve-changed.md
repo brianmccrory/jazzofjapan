@@ -8,7 +8,7 @@ sort_value: Hara Dairiki Trio You've Changed
 year: 2009
 label: Anturtle Tune
 code: ANTX-4004
-cover: haradairiki-youvechanged-460.jpeg
+cover: haradairiki-youvechanged
 members:
    - {name: Dairiki Hara, instrument: "drums", japanese_name: 原大力, url: "http://www.haradairiki.com/"}
    - {name: Atsushi Ikeda, instrument: "alto sax", japanese_name: 池田篤, url: "https://ameblo.jp/ats-music1963/"}

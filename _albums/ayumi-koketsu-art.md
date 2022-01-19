@@ -8,7 +8,7 @@ sort_value: Ayumi Koketsu Art
 year: 2016
 label: Pony Canyon
 code: MYCJ-30653
-cover: ayumikoketsu-art.jpg
+cover: ayumikoketsu-art
 members:
    - {name: Ayumi Koketsu, instrument: "alto sax", japanese_name: 纐纈歩美, url: "http://a-koketsu.com"}
    - {name: Jeremy Manasia, instrument: "piano"}

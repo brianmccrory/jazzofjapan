@@ -8,7 +8,7 @@ sort_value: Duo Tremolo Resonance
 year: 2019
 label: Orbit Records
 code: ORG-1004
-cover: duo-tremolo-resonance.jpg
+cover: duo-tremolo-resonance
 members:
    - {name: Hideaki Hori, instrument: "piano, voice and percussion on #11", japanese_name: 堀秀彰, url: "https://www.hideakihori.com/"}
    - {name: Takayoshi Baba, instrument: "guitar, voice on #11", japanese_name: 馬場孝喜, url: "https://babaviolao.wixsite.com/babatakayoshi"}

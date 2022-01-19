@@ -8,7 +8,7 @@ sort_value: Taihei Asakawa Trio Touch of Winter
 year: 2013
 label: D-musica Daiki Musica
 code: DMCD-26
-cover: taiheiasakawa-touch-460.jpg
+cover: taiheiasakawa-touch
 members:
    - {name: Taihei Asakawa, instrument: "piano, compositions", japanese_name: 浅川太平, url: "https://taiheiasakawa.wixsite.com/piano"}
    - {name: Daiki Yasukagawa, instrument: "bass", japanese_name: 安ヵ川大樹, url: "http://daikiyasukagawa.com/"}

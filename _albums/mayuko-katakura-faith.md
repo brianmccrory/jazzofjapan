@@ -8,7 +8,7 @@ sort_value: Mayuko Katakura Faith
 year: 2010
 label: Pony Canyon
 code: MYCJ-30578
-cover: mayukokatakura-faith-460.jpg
+cover: mayukokatakura-faith
 members:
    - {name: Mayuko Katakura, instrument: "piano", japanese_name: 片倉真由子, url: "https://ameblo.jp/mayukokatakura/"}
    - {name: Rodney Whitaker, instrument: "bass"}

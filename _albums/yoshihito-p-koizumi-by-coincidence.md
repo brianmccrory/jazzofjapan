@@ -8,7 +8,7 @@ sort_value: Yoshihito "P" Koizumi P-Project By Coincidence
 year: 2011
 label: Peace Bass Records
 code: PBRS-0001
-cover: p-project-coincidence-460.jpg
+cover: yoshihitopkoizumi-bycoin
 members:
    - {name: 'Yoshihito "P" Koizumi', instrument: "bass", japanese_name: 小泉P克人, url: "https://www.yoshihitopkoizumi.com/"}
    - {name: Jun Miyakawa, instrument: "keyboards", japanese_name: 宮川純}
