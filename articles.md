@@ -49,7 +49,6 @@ title: Articles
 59. Ken’ichiro Shinzawa: *Piano Works*
 60. Ko Omura: *Introspect*
 61. Kohsuke Mine Quintet: *Major to Minor*
-62. Koichi Sato: *Melancholy of a Journey*
 63. Koichi Sato: *Utopia*
 65. Layla Tomomi Sakai: *The Island*
 67. Mabumi Yamaguchi: *Let Your Mind Alone*
