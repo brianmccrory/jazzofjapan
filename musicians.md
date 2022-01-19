@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musicians
-date: 2022-01-18
+date: 2022-01-19
 ---
 # Musicians
 
@@ -30,10 +30,11 @@ Fumiko Yamazaki | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 山崎ふみ
 Gaku Hasegawa | [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 長谷川ガク
 Hakuei Kim | [Open the Green Door](/albums/hakuei-kim-trio-open-the-green-door) | ハクエイ・キム
 Harumi Nomoto | [Virgo](/albums/harumi-nomoto-trio-virgo) | 野本晴美
+Harutoshi Ito | [Melancholy of a Journey](/albums/koichi-sato-melancholy) | 伊藤ハルトシ
 Hideaki Hori | [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Move On](/albums/hikari-ichihara-group-move-on) ・ [Resonance](/albums/duo-tremolo-resonance) ・ [Unconditional Love](/albums/hideaki-hori-trio-unconditional-love) | 堀秀彰
 Hikari Ichihara | [Move On](/albums/hikari-ichihara-group-move-on) | 市原ひかり
 Hiroco Nagano | [Okurimono](/albums/hiroco-nagano-okurimono) | 永野寛子
-Hiroki Chiba | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 千葉広樹
+Hiroki Chiba | [Melancholy of a Journey](/albums/koichi-sato-melancholy) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 千葉広樹
 Hiroki Miyano | [Live! Three](/albums/maiko-trio-jazz-violinist-maiko-trio-live-three) | 宮野弘紀
 Hiroshi Ikejiri | [You Already Know](/albums/bungalow-you-already-know) | 池尻洋史
 Hitomi Nishiyama | [Many Seasons](/albums/hitomi-nishiyama-trio-many-seasons) ・ [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) | 西山瞳
@@ -52,7 +53,7 @@ Keizo Kawano | [Here Goes!](/albums/fumiko-yamazaki-here-goes) | 河野啓三
 Kiyoshi Kitagawa | [Wide Angle](/albums/miki-hayama-trio-wide-angle) | 北川潔
 Ko Omura | [You Already Know](/albums/bungalow-you-already-know) | 大村亘
 Koichi Osamu | [1st Stage](/albums/yukako-yamano-1st-stage) | 納浩一
-Koichi Sato | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) ・ [Carta](/albums/emiko-voice-carta) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) ・ [Sumitty & The Funfair](/albums/sumito-oi-sumitty-and-the-funfair) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
+Koichi Sato | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) ・ [Carta](/albums/emiko-voice-carta) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [Melancholy of a Journey](/albums/koichi-sato-melancholy) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) ・ [Sumitty & The Funfair](/albums/sumito-oi-sumitty-and-the-funfair) ・ [You Already Know](/albums/bungalow-you-already-know) | 佐藤浩一
 Koji Tetsui | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 鉄井孝司
 Koji Yasuda | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) ・ [Grown-up Christmas Gift](/albums/sanae-ishikawa-grown-up-christmas) ・ [Urban Clutter](/albums/ami-fukui-trio-urban-clutter) | 安田幸司
 Kozo Komori | [By Coincidence](/albums/yoshihito-p-koizumi-by-coincidence) | 小森耕造
@@ -77,7 +78,7 @@ Minoru Yoshiki | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 吉木
 Mitsuru Tanaka | [Beautiful Days](/albums/fumie-chiba-beautiful-days) | 田中充
 Momoko Aida | [Carta](/albums/emiko-voice-carta) | 会田桃子
 Morihiro Omura | [Trispace](/albums/trispace-trispace) | 大村守弘
-Motohiko Ichino | [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 市野元彦
+Motohiko Ichino | [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [Melancholy of a Journey](/albums/koichi-sato-melancholy) ・ [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 市野元彦
 Motoi Kanamori | [Humadope](/albums/keisuke-nakamura-humadope) | 金森もとい
 Nao Sakamoto | [Virgo](/albums/harumi-nomoto-trio-virgo) | 坂本直
 Nao Teraya | [Flowers On The Hill](/albums/akiko-suda-flowers-on-the-hill) | 寺屋ナオ
@@ -90,7 +91,7 @@ Noriko Satomi | [A Love Supreme](/albums/noriko-satomi-a-love-supreme) ・ [Blos
 Noritaka Tanaka | [National Anthem of Unknown Country](/albums/rabbitoo-national-anthem-of-unknown) | 田中徳崇
 Reikan Kobayashi | [Fever](/albums/trigraph-fever) | 小林鈴勘
 Ruriko Kawamura | [Blossoms](/albums/ruriko-kawamura-blossoms) | 河村留理子
-Ryo Noritake | [Touch of Winter](/albums/taihei-asakawa-trio-touch-of-winter) | 則武諒
+Ryo Noritake | [Melancholy of a Journey](/albums/koichi-sato-melancholy) ・ [Touch of Winter](/albums/taihei-asakawa-trio-touch-of-winter) | 則武諒
 Ryoji Orihara | [Fever](/albums/trigraph-fever) ・ [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [Virgo](/albums/harumi-nomoto-trio-virgo) | 織原良次
 Ryosuke Asai | [Move On](/albums/hikari-ichihara-group-move-on) | 浅井良将
 Ryosuke Hashizume | [Incomplete Voices](/albums/ryosuke-hashizume-group-incomplete) ・ [Music In You](/albums/hitomi-nishiyama-trio-music-in-you) ・ [Needful Things](/albums/ryosuke-hashizume-needful-things) | 橋爪亮督
@@ -122,7 +123,7 @@ Tamashi Goto | [Flying Mind](/albums/kaori-vibes-quartet-flying-mind) | 後藤�
 Tamaya Honda | [Invisible](/albums/junichiro-ohkuchi-trio-invisible) | 本田珠也
 Taro Sukegawa | [Hall Tone](/albums/meu-coracao-hall-tone) | 助川太郎
 Terumasa Nishikawa | [Gallery](/albums/yukiko-hayakawa-trio-gallery) | 西川輝正
-Tokuhiro Doi | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) | 土井徳浩
+Tokuhiro Doi | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) ・ [Melancholy of a Journey](/albums/koichi-sato-melancholy) | 土井徳浩
 Tomoyuki Konno | [Amalthea](/albums/tokuhiro-doi-quartet-amalthea) | 紺野智之
 Toru Nishijima | [Carta](/albums/emiko-voice-carta) | 西嶋徹
 Toshihiko Inoue | [Mistral](/albums/toshihiko-inoue-and-masaki-hayashi) | 井上淑彦
