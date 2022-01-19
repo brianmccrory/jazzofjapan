@@ -8,7 +8,7 @@ sort_value: Arco Asymmetry
 year: 2017
 label: dandanorchestra
 code: DAN-007
-cover: arco-asymmetry-460.jpg
+cover: arco-asymmetry
 members: 
    - {name: Sayaka Kishi, instrument: "piano, melodion", japanese_name: 岸淑香, url: "http://www.sayaketto.net/"}
    - {name: Mayumi Sano, instrument: "cello", japanese_name: 佐野まゆみ, url: "http://sanomayumi.com/"}

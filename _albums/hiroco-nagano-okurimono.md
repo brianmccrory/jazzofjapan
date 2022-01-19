@@ -8,7 +8,7 @@ sort_value: Hiroco Nagano Okurimono
 year: 2017
 label: Music Art Records
 code: MAR-1701
-cover: hiroconagano-okurimono-460.jpg
+cover: hiroconagano-okurimono
 members: 
    - {name: Hiroco Nagano, instrument: "vocals", japanese_name: 永野寛子, url: "https://hiroconaganoofficial.amebaownd.com/"}
    - {name: Seiji Endo, instrument: "piano", japanese_name: 遠藤征志, url: "https://seiji-piano-endo.com"}
