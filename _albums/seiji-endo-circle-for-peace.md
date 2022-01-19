@@ -8,7 +8,7 @@ sort_value: Seiji Endo Circle For Peace
 year: 2016
 label: Nippon Acoustic Records, Inc
 code: NARP-8009
-cover: seijiendo-circle-460.jpg
+cover: seijiendo-circle
 members:
    - {name: Seiji Endo, instrument: "solo piano and compositions", japanese_name: 遠藤征志, url: "https://seiji-piano-endo.com"}
 images:

@@ -8,7 +8,7 @@ sort_value: Trispace Trispace
 year: 2010
 label: Leccia Records / feel free products
 code: LRTR-0004
-cover: trispace-trispace-460.jpg
+cover: trispace-trispace
 members:
    - {name: Yuichi Hayashi, instrument: "Piano, Composition", japanese_name: 林祐市, url: "http://yuichihayashi.com/band/"}
    - {name: Morihiro Omura, instrument: "Bass", japanese_name: 大村守弘}

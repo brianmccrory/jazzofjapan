@@ -8,7 +8,7 @@ sort_value: Chihiro Yamanaka Trio When October Goes
 year: 2002
 label: Atelier Sawano
 code: AS-025
-cover: chihiroyamanaka-october-460.jpg
+cover: chihiroyamanaka-october
 members:
    - {name: Chihiro Yamanaka, instrument: "piano", japanese_name: 山中千尋, url: "https://www.chihiroyamanaka.net/"}
    - {name: Larry Grenadier, instrument: "bass", url: "http://larrygrenadier.com/"}

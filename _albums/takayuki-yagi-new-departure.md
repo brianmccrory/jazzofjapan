@@ -8,7 +8,7 @@ sort_value: Takayuki Yagi New Departure
 year: 2018
 label: JazzTOKYO RECORDS
 code: JTRC-002
-cover: takayukiyagi-newdeparture-460.jpg
+cover: takayukiyagi-newdeparture
 members:
    - {name: Takayuki Yagi, instrument: "piano", japanese_name: 八木隆幸, url: "https://yagitakayuki.com"}
    - {name: Scott Wendholt, instrument: "trumpet (#1, 2, 3, 5)", url: "https://www.scottwendholt.net/"}

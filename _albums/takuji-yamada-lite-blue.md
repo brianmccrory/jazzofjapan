@@ -8,7 +8,7 @@ sort_value: Takuji Yamada Lite Blue
 year: 2012
 label: D-Musica
 code: DMCD-18
-cover: takujiyamada-liteblue-460.jpg
+cover: takujiyamada-liteblue
 members:
    - {name: Takuji Yamada, instrument: "alto and soprano saxophones, bass clarinet", japanese_name: 山田拓児, url: "https://www.takujiyamada.com"}
    - {name: Danny Grissett, instrument: "piano", url: "https://dannygrissett.com/"}

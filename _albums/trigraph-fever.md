@@ -8,7 +8,7 @@ sort_value: Trigraph Fever
 year: 2014
 label: Haru Records
 code: HARU-20
-cover: trigraph-fever-460.jpg
+cover: trigraph-fever
 members:
    - {name: Takayoshi Baba, instrument: "guitar & chorus", japanese_name: 馬場孝喜, url: "https://babaviolao.wixsite.com/babatakayoshi"}
    - {name: Reikan Kobayashi, instrument: "shakuhachi, piano, keyboard, voice percussion, shaker, chorus", japanese_name: 小林鈴勘, url: "http://reikankobayashi.net/"}

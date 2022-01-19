@@ -8,7 +8,7 @@ sort_value: Kazumi Ikenaga Niwatazumi
 year: 2017
 label: Cloud
 code: DDCJ-4019
-cover: kazumiikenaga-niwatazumi-460.png
+cover: kazumiikenaga-niwatazumi
 members:
    - {name: Kazumi Ikenaga, instrument: "drums", japanese_name: 池長和美, url: "http://www.graphic-art.com/ikenaga/"}
    - {name: Christian Vuust, instrument: "tenor saxophone and clarinet"}

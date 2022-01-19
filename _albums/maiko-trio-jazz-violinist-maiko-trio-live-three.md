@@ -8,7 +8,7 @@ sort_value: Maiko Trio Live! Three
 year: 2016
 label: The Glee
 code: GPHR-16011
-cover: maikotrio-three-460.jpg
+cover: maikotrio-three
 members:
    - {name: maiko, instrument: "violin", japanese_name: マイコ, url: "https://jvmaiko.com"}
    - {name: Hiroki Miyano, instrument: "guitar", japanese_name: 宮野弘紀}

@@ -8,7 +8,7 @@ sort_value: Michiyo Matsushita Sally Gardens
 year: 2018
 label: Michiyo Matsushita
 code: Sally Gardens
-cover: michiyomatsushita-sally-460.jpg
+cover: michiyomatsushita-sally
 members:
    - {name: Michiyo Matsushita, instrument: "piano, melodion", japanese_name: 松下美千代, url: "https://michiyomatsushita.amebaownd.com/"}
 images:

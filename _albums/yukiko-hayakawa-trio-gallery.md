@@ -8,7 +8,7 @@ sort_value: Yukiko Hayakawa Trio Gallery
 year: 2008
 label: Ventain Records
 code: VJYH-8461
-cover: yukiko-hayakawa-gallery-460.jpg
+cover: yukiko-hayakawa-gallery
 members:
    - {name: Yukiko Hayakawa, instrument: "piano", japanese_name: 早川由紀子, url: "http://hayakawa-yukiko.com"}
    - {name: Terumasa Nishikawa, instrument: "bass", japanese_name: 西川輝正}
