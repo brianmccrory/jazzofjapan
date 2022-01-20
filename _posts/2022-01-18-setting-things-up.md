@@ -8,7 +8,7 @@ I started by migrating the data (articles and photos), adjusting the layout, and
 
 Initially, I decided to include all the articles I sent out in the newsletter in 2021-2022, which means that a lot of new content was added at once to get things started here. 
 
-The following 58 articles were added, which covers all of the relevant newsletter emails. Links to each article are on the [articles](/articles) page.
+The following 58 articles were added, which covers all of the relevant newsletter emails. Links to each article are on the [articles]({% link articles.md %}) page.
 
     Akane Matsumoto: Night & Day
     Akiko Suda: Flowers On The Hill
