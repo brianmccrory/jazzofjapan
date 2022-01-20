@@ -19,7 +19,7 @@ images:
    - L1180620-1024.JPG
    - L1180628-1024.JPG
 videos: 
-   - {url: "TBD", comment: "TBD"}
+   - {url: "https://youtu.be/fI9oqwSMdBE", comment: "Excerpt from \"Flood\", which opens this album"}
    - {url: "https://youtu.be/rRCe_sFD-cU", comment: "This video is a live performance of Nishiyama's original song \"SAKIRA\", track 3 from this album"}
 audio:
 ---

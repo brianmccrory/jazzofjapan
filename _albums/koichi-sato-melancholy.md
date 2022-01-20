@@ -22,7 +22,7 @@ images:
    - L1180498-1024.jpg
    - L1180500-1024.jpg
 videos: 
-   - {url: "TBD", comment: "Audio excerpt from the opening track on the album, \"The Railway Station\""}
+   - {url: "https://youtu.be/xRl0OkBnn-s", comment: "Excerpt from the opening track on the album, \"The Railway Station\""}
    - {url: "https://youtu.be/HU3XNXucB0Q", comment: "Video with samples from the CD"}
 audio:
 ---
