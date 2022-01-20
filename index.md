@@ -5,13 +5,13 @@ date: Jan 16, 2022
 ---
 **Welcome to jazzofjapan.com**, a site for sharing information about Japanese Jazz and related music from Japanese musicians. 
 
-* [Articles](/articles): List of the album reviews published here
-* [Album Covers](/albums): List of the articles arranged by album covers
-* [Musicians](/musicians): An index of musicians and albums
-* [Audio](/audio): Audio excerpts for albums mentioned
-* [Notes](/notes): News, updates, & miscellaneous notes
+* [Articles]({% link articles.md %}): List of the album reviews published here
+* [Album Covers]({% link albums.md %}): List of the articles arranged by album covers
+* [Musicians]({% link musicians.md %}): An index of musicians and albums
+* [Audio]({% link audio.md %}): Audio excerpts for albums mentioned
+* [Notes]({% link notes.md %}): News, updates, & miscellaneous notes
 
-![Sax](/assets/images/sax-shadow-1024.jpeg)
+![Sax]({% link /assets/images/sax-shadow-1024.jpeg %})
 
 *[Search this site]({% link search.md %})* &middot; *[RSS feed]({% link feed.xml %})*
 
