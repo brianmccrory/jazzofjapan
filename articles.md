@@ -7,7 +7,7 @@ title: Articles
 
 {% assign sorted = site.albums | sort_natural: "sort_value" %}
 {% for album in sorted -%}
-1. <a href="{{ album.url }}">{{ album.artist }}: *{{ album.title }}*</a>
+1. [{{ album.artist }}: *{{ album.title }}*]({{ album.url }})
 {% endfor %}
 
 ---
@@ -112,4 +112,4 @@ title: Articles
 159. Zephyr: *Zephyr*
 160. *... and more! Stay tuned...*
 
-*Looking for specific musicians, albums, or other terms? [Search this site](/search)*
+*Looking for specific musicians, albums, or other terms? [Search this site]({% link search.md %})*

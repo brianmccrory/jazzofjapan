@@ -9,9 +9,6 @@ google_analytics: UA-207659347-2
 #twitter_username: jjazzstack
 #instagram_username: jjazzstack
 
-site_search: Search
-rss: RSS feed
-
 header_pages:
   - articles.md
   - albums.md
