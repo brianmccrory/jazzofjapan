@@ -18,7 +18,7 @@ images:
    - L1180448-1024.jpg
    - L1180449-1024.jpg
 videos: 
-   - {url: "TBD", comment: "TBD"}
+   - {url: "https://youtu.be/zfgkLUmappU", comment: "Excerpt from \"Okurimono\", the second track on this album"}
    - {url: "https://youtu.be/W4NWcQnXS64", comment: "A promotional video for a different CD by Hiroco Nagano"}
 audio:
 ---
