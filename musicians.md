@@ -7,7 +7,6 @@ date: 2022-01-20
 .musician-sub {
 color: lightgray;
 font-style: italic;
-text-align: right;
 font-size: small;
 }
 </style>
