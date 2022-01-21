@@ -1,13 +1,10 @@
 title: Jazz of Japan
 author: Brian McCrory
-email: jazzstudy@gmail.com
 description: >-
   Sharing the best of new jazz from Japan... in English!
 baseurl: ""
 url: "https://www.jazzofjapan.com"
 google_analytics: UA-207659347-2
-#twitter_username: jjazzstack
-#instagram_username: jjazzstack
 
 header_pages:
   - articles.md
