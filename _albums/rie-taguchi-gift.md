@@ -15,7 +15,7 @@ members:
    - {name: Seiji Tada, instrument: "alto sax, flute", japanese_name: 多田誠司, url: "http://www.tadasei.net/"}
    - {name: Noriko Satomi, instrument: "violin", japanese_name: 里見紀子, url: "https://project-nori.wixsite.com/mysite"}
    - {name: Mitsukuni Tanabe, instrument: "guitar", japanese_name: 田辺充邦, url: "http://tanabe-mitsukuni.com/"}
-   - {name: Yusuke Nakaichi, instrument: "bass", japanese_name: 仲石裕介, url: "https://nowonmusic.com/members/258"}
+   - {name: Yusuke Nakaishi, instrument: "bass", japanese_name: 仲石裕介, url: "https://nowonmusic.com/members/258"}
    - {name: Akira Yamada, instrument: "drums", japanese_name: 山田玲, url: "https://akry0325.wixsite.com/akira-y-drums"}
 images:
    - L1180796-1024.jpg
