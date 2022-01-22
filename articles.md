@@ -73,7 +73,6 @@ title: Articles
 92. NHORHM: *New Heritage of Real Heavy Metal -Extra Edition-*
 93. Nobie: *Bénin Rio Tokyo*
 97. Reikan Kobayashi: *Gakudan Hitori*
-98. Rie Taguchi: *The Gift*
 99. Routine Jazz Sextet: *Routine Jazz Sextet*
 102. Ryosuke Hashizume Group: *Acoustic Fluid*
 103. Ryosuke Hashizume Group: *As We Breathe*
@@ -95,7 +94,6 @@ title: Articles
 131. Takako Yamada: *The Flow of Time*
 134. TCQ: *Memories of T*
 136. Tomoka Miwa: *Colors In Silence*
-137. Toshihiko Inoue: *Vayu*
 140. Trio Export 63.1.0.X: *Small Pieces for Flying Padre*
 141. Trispace: *Aria*
 143. Wataru Hamasaki Meets Akane Matsumoto Trio: *Big Catch*
