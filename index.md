@@ -13,7 +13,5 @@ date: Jan 16, 2022
 
 ![Sax]({% link /assets/images/sax-shadow-1024.jpeg %})
 
-*[Search this site]({% link search.md %})* &middot; *[RSS feed]({% link feed.xml %})*
-
 
 
