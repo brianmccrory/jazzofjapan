@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.subtext {
+color: lightgray;
+font-style: italic;
+font-size: small;
+}
+.subtext a {
+color: lightgray;
+font-style: italic;
+font-size: small;
+text-decoration: underline;
+}
+.searchtext a {
+font-style: italic;
+font-size: small;
+}
