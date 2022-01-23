@@ -21,12 +21,12 @@ date: Jan 16, 2022
   <tbody>
     <tr>
 {% for album in latest limit:3 -%}
-<td class="featured"><a href="{{ album.url }}"><img src="/assets/images/{{ album.date | date: "%Y/%m" }}/{{ album.cover }}-180.jpeg" alt="{{ album.title }}" width=90 height=auto>
+<td class="spotlight"><a href="{{ album.url }}"><img class="spotlight" width=135 height=135 src="/assets/images/{{ album.date | date: "%Y/%m" }}/{{ album.cover }}-180.jpeg" alt="{{ album.title }}">
 <br>
 {{ album.artist }}:<br><em>{{ album.title }}</em></a>
 <br>
-<span class="subtext">{{ album.date_updated | date: "%b %d, %Y" }}</span>
-<br>
+{% comment %}<span class="subtext">{{ album.date_updated | date: "%b %d, %Y" }}</span>
+<br>{% endcomment %}
 </td>
 {% endfor %}
    </tr>
