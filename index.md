@@ -12,7 +12,7 @@ date: Jan 16, 2022
 * [Notes]({% link notes.md %}): News, updates, & miscellaneous notes
 
 
-## Featured
+## Featured Albums
 
 {% assign latest = site.albums | where: "featured", "true" | sort: "date_updated" | reverse %}
 
