@@ -11,6 +11,29 @@ date: Jan 16, 2022
 * [Audio]({% link audio.md %}): Audio excerpts for albums mentioned
 * [Notes]({% link notes.md %}): News, updates, & miscellaneous notes
 
+
+## Featured
+
+{% assign latest = site.albums | where: "featured", "true" | sort: "date_updated" | reverse %}
+
+
+<table>
+  <tbody>
+    <tr valign=top>
+{% for album in latest limit:3 -%}
+<td width="33%" align=center><a href="{{ album.url }}"><img src="/assets/images/{{ album.date | date: "%Y/%m" }}/{{ album.cover }}-180.jpeg" alt="{{ album.title }}" width=90>
+<br>
+{{ album.artist }}:<br><em>{{ album.title }}</em></a>
+<br>
+<span class="subtext">{{ album.date_updated | date: "%b %d, %Y" }}</span>
+<br>
+</td>
+{% endfor %}
+   </tr>
+  </tbody>
+</table>
+
+
 ![Sax]({% link /assets/images/sax-shadow-1024.jpeg %})
 
 
