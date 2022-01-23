@@ -25,8 +25,8 @@ date: Jan 16, 2022
 <br>
 {{ album.artist }}:<br><em>{{ album.title }}</em></a>
 <br>
-{% comment %}<span class="subtext">{{ album.date_updated | date: "%b %d, %Y" }}</span>
-<br>{% endcomment %}
+<span class="subtext">{{ album.date_updated | date: "%b %d, %Y" }}</span>
+<br>
 </td>
 {% endfor %}
    </tr>
