@@ -1,6 +1,6 @@
 ---
 title: Search
-date: Jan 18, 2022
+date: 2022-01-18
 ---
 # Search
 

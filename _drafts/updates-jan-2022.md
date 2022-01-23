@@ -1,6 +1,6 @@
 ---
 title: Jan 2022 Updates
-date: Jan 19, 2022
+date: 2022-01-19
 ---
 
 The first batch of articles numbered 58, and with this new batch of 8, bringing the current article count to 66.
