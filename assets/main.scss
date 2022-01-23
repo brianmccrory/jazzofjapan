@@ -19,3 +19,19 @@ text-decoration: underline;
 font-style: italic;
 font-size: small;
 }
+.spotlight {
+  text-align: center;
+  vertical-align: top;
+  width: 33%;
+  font-size: small;
+  img {
+	width: 135px;
+	height: auto;
+  }
+}
+.albumgrid {
+  img {
+	width: 240px;
+	height: auto;
+  }
+}
