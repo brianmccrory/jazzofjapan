@@ -19,9 +19,9 @@ date: Jan 16, 2022
 
 <table>
   <tbody>
-    <tr valign=top>
+    <tr>
 {% for album in latest limit:3 -%}
-<td width="33%" align=center><a href="{{ album.url }}"><img src="/assets/images/{{ album.date | date: "%Y/%m" }}/{{ album.cover }}-180.jpeg" alt="{{ album.title }}" width=90>
+<td class="featured"><a href="{{ album.url }}"><img src="/assets/images/{{ album.date | date: "%Y/%m" }}/{{ album.cover }}-180.jpeg" alt="{{ album.title }}" width=90 height=auto>
 <br>
 {{ album.artist }}:<br><em>{{ album.title }}</em></a>
 <br>
