@@ -1,5 +1,5 @@
 ---
-title: Jan 2022 Updates
+title: January 2022 Updates
 date: 2022-01-19
 ---
 
