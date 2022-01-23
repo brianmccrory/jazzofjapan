@@ -1,7 +1,7 @@
 ---
 layout: article
-date: August 8, 2018
-date_updated: August 4, 2021
+date: 2018-08-08
+date_updated: 2021-08-04
 title: 1st Stage
 artist: Yukako Yamano
 sort_value: Yukako Yamano 1st Stage

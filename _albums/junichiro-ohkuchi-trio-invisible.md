@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 12, 2018
-date_updated:
+date: 2018-02-12
+date_updated: 2018-02-12
 title: Invisible
 artist: Junichiro Ohkuchi Trio
 sort_value: Junichiro Ohkuchi Trio Invisible

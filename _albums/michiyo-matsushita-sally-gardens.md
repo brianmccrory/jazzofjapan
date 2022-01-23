@@ -1,7 +1,7 @@
 ---
 layout: article
-date: October 25, 2018
-date_updated: November 23, 2021
+date: 2018-10-25
+date_updated: 2021-11-23
 title: Sally Gardens
 artist: Michiyo Matsushita
 sort_value: Michiyo Matsushita Sally Gardens

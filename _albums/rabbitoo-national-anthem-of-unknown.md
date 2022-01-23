@@ -1,7 +1,7 @@
 ---
 layout: article
-date: January 26, 2020
-date_updated: December 6, 2021
+date: 2020-01-26
+date_updated: 2021-12-06
 title: National Anthem of Unknown Country
 artist: Rabbitoo
 sort_value: Rabbitoo National Anthem of Unknown Country

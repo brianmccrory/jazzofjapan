@@ -1,7 +1,7 @@
 ---
 layout: article
-date: March 9, 2018
-date_updated: August 12, 2021
+date: 2018-03-09
+date_updated: 2021-08-12
 title: Music In You
 artist: Hitomi Nishiyama Trio
 sort_value: Hitomi Nishiyama Trio Music In You

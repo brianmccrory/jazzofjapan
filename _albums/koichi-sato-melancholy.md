@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 18, 2018
-date_updated:
+date: 2018-02-18
+date_updated: 2018-02-18
 title: Melancholy of a Journey
 artist: Koichi Sato
 sort_value: Koichi Sato Melancholy of a Journey

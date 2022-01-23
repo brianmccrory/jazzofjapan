@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Apr 3, 2019
-date_updated: May 18, 2021
+date: 2019-04-03
+date_updated: 2021-05-18
 title: Virgo
 artist: Harumi Nomoto Trio
 sort_value: Harumi Nomoto Trio Virgo

@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 13, 2018
-date_updated: July 21, 2021
+date: 2018-02-13
+date_updated: 2021-07-21
 title: Faith
 artist: Mayuko Katakura
 sort_value: Mayuko Katakura Faith

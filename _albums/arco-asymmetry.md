@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Jan 31, 2018
-date_updated: Jan 18, 2022
+date: 2018-01-31
+date_updated: 2022-01-18
 title: Asymmetry
 artist: Arco
 sort_value: Arco Asymmetry

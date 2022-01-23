@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 1, 2018
-date_updated: July 2, 2021
+date: 2018-02-01
+date_updated: 2021-07-02
 title: Flowers On The Hill
 artist: Akiko Suda
 sort_value: Akiko Suda Flowers On The Hill

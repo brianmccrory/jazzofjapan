@@ -1,7 +1,7 @@
 ---
 layout: article
-date: March 8, 2021
-date_updated: May 11, 2021
+date: 2021-03-08
+date_updated: 2021-05-11
 title: Whisper Not
 artist: Layla Tomomi Sakai
 sort_value: Layla Tomomi Sakai Whisper Not

@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 26, 2018
-date_updated:
+date: 2018-02-26
+date_updated: 2018-02-26
 title: Vayu
 artist: Toshihiko Inoue
 sort_value: Toshihiko Inoue Vayu

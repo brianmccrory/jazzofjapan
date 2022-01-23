@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Jan 30, 2018
-date_updated: June 11, 2021
+date: 2018-01-30
+date_updated: 2021-06-11
 title: Carta
 artist: Emiko Voice
 sort_value: Emiko Voice Carta

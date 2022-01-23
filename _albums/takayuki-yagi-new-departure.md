@@ -1,7 +1,7 @@
 ---
 layout: article
-date: January 19, 2021
-date_updated: January 7, 2022
+date: 2021-01-19
+date_updated: 2022-01-07
 title: New Departure
 artist: Takayuki Yagi
 sort_value: Takayuki Yagi New Departure

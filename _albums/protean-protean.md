@@ -1,7 +1,7 @@
 ---
 layout: article
-date: June 22, 2021
-date_updated: June 22, 2021
+date: 2021-06-22
+date_updated: 2021-06-22
 title: Protean
 artist: Protean
 sort_value: Protean Protean

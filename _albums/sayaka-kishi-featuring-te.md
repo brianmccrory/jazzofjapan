@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Jan 31, 2018
-date_updated: June 19, 2021
+date: 2018-01-31
+date_updated: 2021-06-19
 title: Featuring Te
 artist: Sayaka Kishi
 sort_value: Sayaka Kishi Featuring Te

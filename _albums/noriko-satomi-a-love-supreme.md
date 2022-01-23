@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Jan 30, 2020
-date_updated: November 3, 2021
+date: 2020-01-30
+date_updated: 2021-11-03
 title: A Love Supreme
 artist: Noriko Satomi
 sort_value: Noriko Satomi A Love Supreme

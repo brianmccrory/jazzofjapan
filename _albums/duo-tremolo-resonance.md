@@ -1,7 +1,7 @@
 ---
 layout: article
-date: March 3, 2021
-date_updated: May 9, 2021
+date: 2021-03-03
+date_updated: 2021-05-09
 title: Resonance
 artist: Duo Tremolo
 sort_value: Duo Tremolo Resonance

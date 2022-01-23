@@ -1,7 +1,7 @@
 ---
 layout: article
-date: January 30, 2018
-date_updated: May 22, 2021
+date: 2018-01-30
+date_updated: 2021-05-22
 title: J-Straight Ahead
 artist: Yasumasa Kumagai
 sort_value: Yasumasa Kumagai J-Straight Ahead

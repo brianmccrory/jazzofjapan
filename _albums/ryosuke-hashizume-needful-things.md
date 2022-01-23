@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 23, 2018
-date_updated: September 17, 2021
+date: 2018-02-23
+date_updated: 2021-09-17
 title: Needful Things
 artist: Ryosuke Hashizume
 sort_value: Ryosuke Hashizume Needful Things

@@ -1,7 +1,7 @@
 ---
 layout: article
-date: March 28, 2018
-date_updated: September 25, 2021
+date: 2018-03-28
+date_updated: 2021-09-25
 title: Les Komatis
 artist: Les Komatis
 sort_value: Les Komatis Les Komatis

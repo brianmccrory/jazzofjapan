@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Jan 21, 2022
-date_updated: 
+date: 2022-01-21
+date_updated: 2022-01-21
 title: Dubai Suite
 artist: Yukako Yamano & Yukari Inoue
 sort_value: Yukako Yamano 1st Stage

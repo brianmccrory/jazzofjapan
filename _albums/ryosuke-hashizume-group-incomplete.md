@@ -1,7 +1,7 @@
 ---
 layout: article
-date: January 30, 2018
-date_updated: June 4, 2021
+date: 2018-01-30
+date_updated: 2021-06-04
 title: Incomplete Voices
 artist: Ryosuke Hashizume Group
 sort_value: Ryosuke Hashizume Group Incomplete Voices

@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Oct 1, 2018
-date_updated: December 13, 2021
+date: 2018-10-01
+date_updated: 2021-12-13
 title: Touch of Winter
 artist: Taihei Asakawa Trio
 sort_value: Taihei Asakawa Trio Touch of Winter

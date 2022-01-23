@@ -1,7 +1,7 @@
 ---
 layout: article
-date: March 6, 2018
-date_updated: July 8, 2021
+date: 2018-03-06
+date_updated: 2021-07-08
 title: Sumitty & The Funfair
 artist: Sumito Oi
 sort_value: Sumito Oi Sumitty & The Funfair

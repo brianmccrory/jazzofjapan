@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Jan 26, 2018
-date_updated: May 12, 2021
+date: 2018-01-26
+date_updated: 2021-05-12
 title: Niwatazumi
 artist: Kazumi Ikenaga
 sort_value: Kazumi Ikenaga Niwatazumi

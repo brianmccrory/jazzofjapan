@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Jan 30, 2018
-date_updated: May 14, 2021
+date: 2018-01-30
+date_updated: 2021-05-14
 title: You Already Know
 artist: Bungalow
 sort_value: Bungalow You Already Know

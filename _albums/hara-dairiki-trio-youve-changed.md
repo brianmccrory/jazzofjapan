@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Apr 12, 2018
-date_updated: November 14, 2021
+date: 2018-08-12
+date_updated: 2021-11-14
 title: You've Changed
 artist: Hara Dairiki Trio
 sort_value: Hara Dairiki Trio You've Changed

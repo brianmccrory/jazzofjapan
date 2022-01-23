@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 17, 2018
-date_updated: October 1, 2021
+date: 2018-02-17
+date_updated: 2021-10-01
 title: Circle For Peace
 artist: Seiji Endo
 sort_value: Seiji Endo Circle For Peace

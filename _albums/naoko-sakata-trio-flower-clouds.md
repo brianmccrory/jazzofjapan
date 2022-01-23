@@ -1,7 +1,7 @@
 ---
 layout: article
-date: May 13, 2021
-date_updated: May 13, 2021
+date: 2021-05-13
+date_updated: 2021-05-13
 title: Flower Clouds
 artist: Naoko Sakata Trio
 sort_value: Naoko Sakata Trio Flower Clouds

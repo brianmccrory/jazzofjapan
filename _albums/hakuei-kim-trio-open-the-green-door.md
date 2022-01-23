@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Sep 5, 2018
-date_updated: June 16, 2021
+date: 2018-09-05
+date_updated: 2021-06-16
 title: Open the Green Door
 artist: Hakuei Kim Trio
 sort_value: Hakuei Kim Trio Open the Green Door

@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 3, 2018
-date_updated: May 30, 2021
+date: 2018-02-03
+date_updated: 2021-05-30
 title: Bass on Times
 artist: Satoshi Kosugi
 sort_value: Satoshi Kosugi Bass on Times

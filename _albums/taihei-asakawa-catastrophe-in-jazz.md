@@ -1,7 +1,7 @@
 ---
 layout: article
-date: May 22, 2018
-date_updated: May 9, 2021
+date: 2018-05-22
+date_updated: 2021-05-09
 title: Catastrophe In Jazz
 artist: Taihei Asakawa
 sort_value: Taihei Asakawa Catastrophe In Jazz

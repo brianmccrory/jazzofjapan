@@ -1,7 +1,7 @@
 ---
 layout: article
-date: April 13, 2021
-date_updated: May 8, 2021
+date: 2021-04-13
+date_updated: 2021-05-08
 title: Gallery
 artist: Yukiko Hayakawa Trio
 sort_value: Yukiko Hayakawa Trio Gallery

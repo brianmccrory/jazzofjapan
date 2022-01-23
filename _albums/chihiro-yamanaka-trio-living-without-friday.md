@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 21, 2020
-date_updated: October 5, 2021
+date: 2020-02-21
+date_updated: 2021-10-05
 title: Living Without Friday
 artist: Chihiro Yamanaka Trio
 sort_value: Chihiro Yamanaka Trio Living Without Friday

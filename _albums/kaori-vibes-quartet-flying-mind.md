@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 2, 2018
-date_updated: September 22, 2021
+date: 2018-02-02
+date_updated: 2021-09-22
 title: Flying Mind
 artist: Kaori Vibes Quartet
 sort_value: Kaori Vibes Quartet Flying Mind

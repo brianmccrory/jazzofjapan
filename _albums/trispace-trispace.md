@@ -1,7 +1,7 @@
 ---
 layout: article
-date: November 6, 2018
-date_updated: October 26, 2021
+date: 2018-11-06
+date_updated: 2021-10-26
 title: Trispace
 artist: Trispace
 sort_value: Trispace Trispace

@@ -1,7 +1,7 @@
 ---
 layout: article
-date: May 16, 2019
-date_updated: June 24, 2021
+date: 2019-05-16
+date_updated: 2021-06-24
 title: Move On
 artist: Hikari Ichihara Group
 sort_value: Hikari Ichihara Group Move On

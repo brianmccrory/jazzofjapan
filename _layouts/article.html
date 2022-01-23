@@ -6,7 +6,7 @@ layout: default
 {% assign image_dir = "/assets/images/" | append: image_subdir %}
 {% assign copyright_year = page.date | date: "%Y" %}
 {% unless copyright_year %}
-{% assign copyright-Year = site.time | date: "%Y" %}
+{% assign copyright_year = site.time | date: "%Y" %}
 {% endunless %}
 
 <article class="post">
@@ -86,7 +86,7 @@ layout: default
 
 <hr/>
 
-<p align="right"><em>&copy; Brian McCrory {{ copyright_year }}{% if page.date_updated %}<br/>(Updated {{ page.date_updated | date: date_to_string -}}){% endif %}</em></p>
+<p align="right"><em>&copy; Brian McCrory {{ copyright_year }}<br/>(Updated {{ page.date_updated | date: "%b %d, %Y" -}})</em></p>
 
   
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 11, 2018
-date_updated: June 28, 2021
+date: 2018-02-11
+date_updated: 2021-06-28
 title: Humadope
 artist: Keisuke Nakamura
 sort_value: Keisuke Nakamura Humadope

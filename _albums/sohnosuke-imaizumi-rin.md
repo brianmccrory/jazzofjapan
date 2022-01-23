@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 27, 2018
-date_updated: August 20, 2021
+date: 2018-02-27
+date_updated: 2021-08-20
 title: Rin
 artist: Sohnosuke Imaizumi
 sort_value: Sohnosuke Imaizumi Rin

@@ -1,7 +1,7 @@
 ---
 layout: article
-date: April 20, 2020
-date_updated: November 30, 2021
+date: 2020-04-20
+date_updated: 2021-11-30
 title: Agora
 artist: Yuka Ueda
 sort_value: Yuka Ueda Agora

@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 16, 2018
-date_updated: November 19, 2021
+date: 2018-02-16
+date_updated: 2021-11-19
 title: Lite Blue
 artist: Takuji Yamada
 sort_value: Takuji Yamada Lite Blue

@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 1, 2018
-date_updated:
+date: 2018-02-01
+date_updated: 2018-02-01
 title: Okurimono
 artist: Hiroco Nagano
 sort_value: Hiroco Nagano Okurimono

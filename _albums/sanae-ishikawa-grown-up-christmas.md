@@ -1,7 +1,7 @@
 ---
 layout: article
-date: December 24, 2018
-date_updated: December 23, 2021
+date: 2018-12-24
+date_updated: 2021-12-23
 title: Grown-up Christmas Gift
 artist: Sanae Ishikawa
 sort_value: Sanae Ishikawa Grown-up Christmas Gift

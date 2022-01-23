@@ -12,7 +12,7 @@ title: Articles
 
 ---
 
-### Upcoming:
+## Upcoming
 
 1. Akane Matsumoto: *Memories of You*
 3. Akane Matsumoto: *Playing New York*

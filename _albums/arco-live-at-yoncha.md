@@ -1,7 +1,7 @@
 ---
 layout: article
-date: March 23, 2021
-date_updated: May 17, 2021
+date: 2021-03-23
+date_updated: 2021-05-17
 title: Live At Yoncha
 artist: Arco
 sort_value: Arco Live At Yoncha

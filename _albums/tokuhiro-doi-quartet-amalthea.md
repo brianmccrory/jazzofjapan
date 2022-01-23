@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Jan 7, 2019
-date_updated: July 28, 2021
+date: 2019-01-07
+date_updated: 2021-07-28
 title: Amalthea
 artist: Tokuhiro Doi Quartet
 sort_value: Tokuhiro Doi Quartet Amalthea

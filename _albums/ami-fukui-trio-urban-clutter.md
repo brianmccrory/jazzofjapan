@@ -1,7 +1,7 @@
 ---
 layout: article
-date: December 30, 2021
-date_updated: December 30, 2021
+date: 2021-12-30
+date_updated: 2021-12-30
 title: Urban Clutter
 artist: Ami Fukui Trio
 sort_value: Ami Fukui Trio Urban Clutter

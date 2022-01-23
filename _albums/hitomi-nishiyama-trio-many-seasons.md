@@ -1,7 +1,7 @@
 ---
 layout: article
-date: Feb 8, 2018
-date_updated:
+date: 2018-02-08
+date_updated: 2018-02-08
 title: Many Seasons
 artist: Hitomi Nishiyama Trio
 sort_value: Hitomi Nishiyama Trio Many Seasons
