@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2021-05-13
 date_updated: 2021-05-13
 title: Flower Clouds

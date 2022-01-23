@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2020-01-26
 date_updated: 2021-12-06
 title: National Anthem of Unknown Country

@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2019-01-07
 date_updated: 2021-07-28
 title: Amalthea

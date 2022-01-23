@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Musicians
 date: 2022-01-22
 ---

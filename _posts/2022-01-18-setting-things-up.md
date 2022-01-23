@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Setting Things Up
-image: /assets/images/J-circle.png
 date: Jan 18, 2022
 ---
 I started by migrating the data (articles and photos), adjusting the layout, and setting up the site framework.

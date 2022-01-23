@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2020-01-30
 date_updated: 2021-11-03
 title: A Love Supreme

@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-08
 date_updated: 2018-02-08
 title: Many Seasons

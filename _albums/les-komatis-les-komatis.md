@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-03-28
 date_updated: 2021-09-25
 title: Les Komatis

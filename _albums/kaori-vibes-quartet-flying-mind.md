@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-02
 date_updated: 2021-09-22
 title: Flying Mind

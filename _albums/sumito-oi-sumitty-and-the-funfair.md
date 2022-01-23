@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-03-06
 date_updated: 2021-07-08
 title: Sumitty & The Funfair

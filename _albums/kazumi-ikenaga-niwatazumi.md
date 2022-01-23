@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-01-26
 date_updated: 2021-05-12
 title: Niwatazumi

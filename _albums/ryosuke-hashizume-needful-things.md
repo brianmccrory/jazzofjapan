@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-23
 date_updated: 2021-09-17
 title: Needful Things

@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2019-04-03
 date_updated: 2021-05-18
 title: Virgo

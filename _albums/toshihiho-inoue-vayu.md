@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-26
 date_updated: 2018-02-26
 title: Vayu

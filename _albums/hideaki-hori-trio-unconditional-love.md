@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-08-30
 date_updated: 2021-09-03
 title: Unconditional Love

@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-01-31
 date_updated: 2021-06-19
 title: Featuring Te

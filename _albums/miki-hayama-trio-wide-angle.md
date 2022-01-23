@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-04-19
 date_updated: 2021-09-10
 title: Wide Angle

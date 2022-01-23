@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-18
 date_updated: 2018-02-18
 title: Melancholy of a Journey

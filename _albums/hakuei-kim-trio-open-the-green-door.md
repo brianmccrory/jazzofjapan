@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-09-05
 date_updated: 2021-06-16
 title: Open the Green Door

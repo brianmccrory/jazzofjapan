@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-05-22
 date_updated: 2021-05-09
 title: Catastrophe In Jazz

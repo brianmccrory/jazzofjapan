@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2020-01-23
 date_updated: 2021-06-09
 title: Live! Three

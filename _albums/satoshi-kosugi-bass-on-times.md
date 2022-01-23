@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-03
 date_updated: 2021-05-30
 title: Bass on Times

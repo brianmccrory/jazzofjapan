@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2020-02-21
 date_updated: 2021-10-05
 title: Living Without Friday

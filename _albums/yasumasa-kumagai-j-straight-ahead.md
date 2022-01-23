@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-01-30
 date_updated: 2021-05-22
 title: J-Straight Ahead

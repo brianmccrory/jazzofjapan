@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-21
 date_updated: 2018-02-21
 title: The Gift

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Jan 2022 Updates
-image: /assets/images/J-circle.png
 date: Jan 19, 2022
 ---
 

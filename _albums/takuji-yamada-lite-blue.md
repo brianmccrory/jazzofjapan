@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-16
 date_updated: 2021-11-19
 title: Lite Blue

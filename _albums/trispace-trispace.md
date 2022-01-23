@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-11-06
 date_updated: 2021-10-26
 title: Trispace

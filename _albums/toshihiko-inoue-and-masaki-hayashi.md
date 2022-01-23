@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2021-07-16
 date_updated: 2021-07-16
 title: Mistral

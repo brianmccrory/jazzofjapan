@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-10-01
 date_updated: 2021-12-13
 title: Touch of Winter

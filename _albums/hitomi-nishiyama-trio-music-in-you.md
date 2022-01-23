@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-03-09
 date_updated: 2021-08-12
 title: Music In You

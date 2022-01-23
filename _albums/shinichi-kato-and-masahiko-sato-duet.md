@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2021-06-07
 date_updated: 2021-06-07
 title: Duet

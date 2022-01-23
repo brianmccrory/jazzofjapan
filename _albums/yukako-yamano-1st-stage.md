@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-08-08
 date_updated: 2021-08-04
 title: 1st Stage

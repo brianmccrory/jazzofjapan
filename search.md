@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Search
 date: Jan 18, 2022
 ---

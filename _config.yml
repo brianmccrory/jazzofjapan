@@ -24,6 +24,24 @@ collections:
     sort_by: sort_value
     output: true
 
+defaults:
+  - scope:
+      path: ""
+      type: "albums"
+    values:
+      layout: "article"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      image: "/assets/images/J-circle.png"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      
+
 # Build settings
 theme: minima
 plugins:

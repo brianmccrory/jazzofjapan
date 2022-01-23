@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2021-07-05
 date_updated: 2021-07-05
 title: Hall Tone

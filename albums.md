@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Album Covers
 ---
 {% assign image_width = "240" %}

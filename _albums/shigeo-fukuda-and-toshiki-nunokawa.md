@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2021-06-14
 date_updated: 2021-06-14
 title: Childhood's Dream

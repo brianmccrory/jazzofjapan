@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-10-25
 date_updated: 2021-11-23
 title: Sally Gardens

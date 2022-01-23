@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2020-08-13
 date_updated: 2021-12-17
 title: When October Goes

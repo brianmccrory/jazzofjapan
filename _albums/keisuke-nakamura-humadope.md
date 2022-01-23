@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-11
 date_updated: 2021-06-28
 title: Humadope

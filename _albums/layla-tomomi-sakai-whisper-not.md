@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2021-03-08
 date_updated: 2021-05-11
 title: Whisper Not

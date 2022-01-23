@@ -1,5 +1,6 @@
 ---
-layout: article
+featured: true
+
 date: 2021-01-19
 date_updated: 2022-01-07
 title: New Departure

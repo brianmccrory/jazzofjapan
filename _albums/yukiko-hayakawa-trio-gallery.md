@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2021-04-13
 date_updated: 2021-05-08
 title: Gallery

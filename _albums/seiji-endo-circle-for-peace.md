@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-17
 date_updated: 2021-10-01
 title: Circle For Peace

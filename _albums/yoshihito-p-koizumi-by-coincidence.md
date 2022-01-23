@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2021-05-05
 date_updated: 2021-05-08
 title: By Coincidence

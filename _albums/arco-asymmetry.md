@@ -1,5 +1,5 @@
 ---
-layout: article
+featured: true
 date: 2018-01-31
 date_updated: 2022-01-18
 title: Asymmetry

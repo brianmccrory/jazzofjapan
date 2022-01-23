@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-13
 date_updated: 2021-07-21
 title: Faith

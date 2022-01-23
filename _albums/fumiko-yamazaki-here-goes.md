@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2021-06-02
 date_updated: 2021-06-02
 title: Here Goes!

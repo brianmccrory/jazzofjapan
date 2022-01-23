@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2021-03-03
 date_updated: 2021-05-09
 title: Resonance

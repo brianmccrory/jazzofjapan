@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2020-04-20
 date_updated: 2021-11-30
 title: Agora

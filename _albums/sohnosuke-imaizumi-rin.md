@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-27
 date_updated: 2021-08-20
 title: Rin

@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2018-02-01
 date_updated: 2021-07-02
 title: Flowers On The Hill

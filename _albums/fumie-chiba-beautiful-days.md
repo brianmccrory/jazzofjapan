@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2021-05-27
 date_updated: 2021-05-27
 title: Beautiful Days

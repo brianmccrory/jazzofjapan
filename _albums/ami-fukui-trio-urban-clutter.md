@@ -1,5 +1,5 @@
 ---
-layout: article
+featured: true
 date: 2021-12-30
 date_updated: 2021-12-30
 title: Urban Clutter

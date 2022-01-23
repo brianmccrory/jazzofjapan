@@ -1,5 +1,4 @@
 ---
-layout: article
 date: 2021-03-23
 date_updated: 2021-05-17
 title: Live At Yoncha
