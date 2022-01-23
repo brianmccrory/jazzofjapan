@@ -1,6 +1,6 @@
 ---
 layout: article
-date: 2019-06-16
+date: 2019-07-16
 date_updated: 2021-07-10
 title: Genji Monogatari Volume 1
 artist: Seiji Endo
