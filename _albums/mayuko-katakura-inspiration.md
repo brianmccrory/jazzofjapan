@@ -25,4 +25,4 @@ videos:
 ---
 Pianist Mayuko Katakura’s 2009 debut album *Inspiration* immediately impresses, kicking off at a rapid pace with "Blues For Tyner", a tribute to one of her own jazz inspirations. Right from this fierce start, Katakura’s amazing technique is on full display with angular and acrobatic lines flying through this up-tempo tune.
 
-In addition to speed, Katakura’s confident jazz piano sense extends to bluesy grooves and touching sensitivity, played with dedication to the music and to those she has been inspired by. The ten tracks, with originals and nicely-arranged standards, make this a well-balanced album with a variety of tempos and moods.
+In addition to speed, Katakura’s confident jazz piano sense extends to bluesy grooves and touching sensitivity, played with a dedication to the music and to those she has been inspired by. The ten tracks, with originals and nicely-arranged standards, make this a well-balanced album with a variety of tempos and moods.
