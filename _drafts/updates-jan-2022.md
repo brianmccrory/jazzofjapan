@@ -1,26 +1,9 @@
 ---
-title: January 2022 Updates
+title: "Updates: Jan 2022"
 date: 2022-01-19
 ---
 
 The first batch of articles numbered 58, and with this new batch of 8, bringing the current article count to 66.
-
-New articles added recently:
-Links to each article are on the [articles](/articles) page.
-
-
-As a quoted area:
-
-    Arco: Asymmetry
-    Hiroco Nagano: Okurimono
-    Hitomi Nishiyama Trio: Many Seasons
-    Junichiro Ohkuchi Trio: Invisible
-    Koichi Sato: Melancholy of a Journey
-    Rie Taguchi: The Gift
-    Toshihiko Inoue: Vayu
-    
-    NEW: Yukako Yamano and Yukari Inoue: Dubai Suite
-
 
 
 As a linked list with descriptions:

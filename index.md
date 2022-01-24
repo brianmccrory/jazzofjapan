@@ -14,12 +14,12 @@ date: 2022-01-16
 ## Featured
 
 {% assign latest = site.albums | where: "featured", "true" | sort: "date_updated" | reverse %}
-
+{% assign img_width_latest = 140 %}
 <table>
   <tbody>
     <tr>
 {% for album in latest limit:3 -%}
-<td class="spotlight"><a href="{{ album.url }}"><img class="spotlight" width=135 height=135 src="/assets/images/{{ album.date | date: "%Y/%m" }}/{{ album.cover }}-180.jpeg" alt="{{ album.title }}">
+<td class="spotlight"><a href="{{ album.url }}"><img class="spotlight" width={{ img_width_latest }} height={{ img_width_latest }} src="{% link assets/images/{{ album.date | date: "%Y/%m" }}/{{ album.cover }}-{{ img_width_latest }}.jpeg %}" alt="{{ album.title }}">
 <br>
 {{ album.artist }}:<br><em>{{ album.title }}</em></a>
 <br>
@@ -27,6 +27,7 @@ date: 2022-01-16
 <br>
 </td>
 {% endfor %}
+
    </tr>
   </tbody>
 </table>
