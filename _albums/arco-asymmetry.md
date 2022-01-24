@@ -1,6 +1,6 @@
 ---
 date: 2018-01-31
-date_updated: 2022-01-18
+date_updated: 2022-01-24
 title: Asymmetry
 artist: Arco
 sort_value: Arco Asymmetry
@@ -20,5 +20,4 @@ videos:
    - {url: "https://youtu.be/oY8PypPVPuY", comment: "This promotional video contains samples from the album"}
 audio:
 ---
-The piano and cello duo Arco released their first album *Asymmetry* in 2017. The music consists of all originals with a single Bach composition, all played in lovely arrangements with verve and skill. With more than a slight touch of classical elegance, the music spans various moods: upbeat, fresh, somber, and refined. Although it may be apt to call this music classical-pop or pop-classical rather than typical jazz, the improvisational spirit and composed musicianship are definitely on display and quite enjoyable.
-
+Pianist Sayaki Kishi and cellist Mayumi Sano released their first album together under the moniker Arco with *Asymmetry* in 2017. The pair’s music consists of original songs with a single Bach composition, all played in lovely and skillful arrangements. With more than a slight touch of classical elegance, the music spans various moods with verve: upbeat, fresh, somber, and refined. Although it may be apt to call this music classical-pop or pop-classical rather than typical jazz, the improvisational spirit and composed musicianship are definitely on display and quite enjoyable. 
