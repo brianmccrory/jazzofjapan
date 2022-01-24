@@ -1,6 +1,6 @@
 ---
 title: Musicians
-date: 2022-01-22
+date: 2022-01-24
 ---
 # Musicians
 
@@ -70,7 +70,7 @@ Masahiko Sato<br><span class="subtext">佐藤允彦 piano</span> | [Duet]({% lin
 Masaki Hayashi<br><span class="subtext">林正樹 piano</span> | [Mistral]({% link _albums/toshihiko-inoue-and-masaki-hayashi.md %})
 Masako Hamamura<br><span class="subtext">浜村昌子 piano</span> | [Needful Things]({% link _albums/ryosuke-hashizume-needful-things.md %})
 Masanori Ando<br><span class="subtext">安藤正則 drums</span> | [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) ・ [Move On]({% link _albums/hikari-ichihara-group-move-on.md %})
-Mayuko Katakura<br><span class="subtext">片倉真由子 piano</span> | [Faith]({% link _albums/mayuko-katakura-faith.md %}) ・ [Les Komatis]({% link _albums/les-komatis-les-komatis.md %})
+Mayuko Katakura<br><span class="subtext">片倉真由子 piano</span> | [Faith]({% link _albums/mayuko-katakura-faith.md %}) ・ [Inspiration]({% link _albums/mayuko-katakura-inspiration.md %}) ・ [Les Komatis]({% link _albums/les-komatis-les-komatis.md %})
 Mayumi Sano<br><span class="subtext">佐野まゆみ cello</span> | [Asymmetry]({% link _albums/arco-asymmetry.md %}) ・ [Featuring Te]({% link _albums/sayaka-kishi-featuring-te.md %}) ・ [Live At Yoncha]({% link _albums/arco-live-at-yoncha.md %})
 Michiyo Matsushita<br><span class="subtext">松下美千代 piano</span> | [Sally Gardens]({% link _albums/michiyo-matsushita-sally-gardens.md %})
 Miki Hayama<br><span class="subtext">早間美紀 piano</span> | [Wide Angle]({% link _albums/miki-hayama-trio-wide-angle.md %})
@@ -135,6 +135,7 @@ Toyomi Kobayashi<br><span class="subtext">小林豊美 flute</span> | [Flowers O
 Yasuhiko "Hachi" Sato<br><span class="subtext">佐藤“ハチ”恭彦 bass</span> | [Music In You]({% link _albums/hitomi-nishiyama-trio-music-in-you.md %})
 Yasumasa Kumagai<br><span class="subtext">熊谷ヤスマサ piano</span> | [J-Straight Ahead]({% link _albums/yasumasa-kumagai-j-straight-ahead.md %})
 Yasushi Fukumori<br><span class="subtext">福森康 drums</span> | [Fever]({% link _albums/trigraph-fever.md %}) ・ [Humadope]({% link _albums/keisuke-nakamura-humadope.md %})
+Yasushi Nakamura<br><span class="subtext">中村恭士 bass</span> | [Inspiration]({% link _albums/mayuko-katakura-inspiration.md %})
 Yasushi Yoneki<br><span class="subtext">米木康志 bass</span> | [Invisible]({% link _albums/junichiro-ohkuchi-trio-invisible.md %}) ・ [You've Changed]({% link _albums/hara-dairiki-trio-youve-changed.md %})
 Yasutaka Yorozu<br><span class="subtext">萬恭隆 bass</span> | [Needful Things]({% link _albums/ryosuke-hashizume-needful-things.md %})
 Yoshihito "P" Koizumi<br><span class="subtext">小泉P克人 bass</span> | [By Coincidence]({% link _albums/yoshihito-p-koizumi-by-coincidence.md %})
@@ -157,7 +158,7 @@ Anton Blomgren<br><span class="subtext">bass</span> | [Flower Clouds]({% link _a
 Ben "Donny" Waples<br><span class="subtext">bass</span> | [Open the Green Door]({% link _albums/hakuei-kim-trio-open-the-green-door.md %})
 Billy Drummond<br><span class="subtext">drums</span> | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %})
 Blahmuzik<br><span class="subtext">sampler</span> | [Rin]({% link _albums/sohnosuke-imaizumi-rin.md %})
-Carl Allen<br><span class="subtext">drums</span> | [Faith]({% link _albums/mayuko-katakura-faith.md %})
+Carl Allen<br><span class="subtext">drums</span> | [Faith]({% link _albums/mayuko-katakura-faith.md %}) ・ [Inspiration]({% link _albums/mayuko-katakura-inspiration.md %})
 Christian Vuust<br><span class="subtext">sax</span> | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %})
 Danny Grissett<br><span class="subtext">piano</span> | [Lite Blue]({% link _albums/takuji-yamada-lite-blue.md %})
 Dave Goodman<br><span class="subtext">drums</span> | [Open the Green Door]({% link _albums/hakuei-kim-trio-open-the-green-door.md %})

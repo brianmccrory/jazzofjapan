@@ -3,9 +3,6 @@ title: "Updates: Jan 2022"
 date: 2022-01-19
 ---
 
-The first batch of articles numbered 58, and with this new batch of 8, bringing the current article count to 66.
-
-
 As a linked list with descriptions:
 
 * [Arco: *Asymmetry*]({% link _albums/arco-asymmetry.md %}) - piano and cello duet play jazz/classical/pop
@@ -13,6 +10,7 @@ As a linked list with descriptions:
 * [Hitomi Nishiyama Trio: *Many Seasons*]({% link _albums/hitomi-nishiyama-trio-many-seasons.md %}) - piano trio with European jazz flavor
 * [Junichiro Ohkuchi Trio: *Invisible*]({% link _albums/junichiro-ohkuchi-trio-invisible.md %}) - soulful Japanese jazz trio
 * [Koichi Sato: Melancholy of a Journey]({% link _albums/koichi-sato-melancholy.md %}) - desc
+* [Mayuko Katakura: Inspiration]({% link _albums/mayuko-katakura-inspiration.md %}) - desc
 * [Rie Taguchi: The Gift]({% link _albums/rie-taguchi-gift.md %}) - desc
 * [Toshihiko Inoue: Vayu]({% link _albums/toshihiho-inoue-vayu.md %}) - desc
 * [Yukako Yamano & Yukari Inoue: Dubai Suite]({% link _albums/yukakoyamano-yukariinoue-dubai.md %}) - a new 2022 release featuring a piano duo

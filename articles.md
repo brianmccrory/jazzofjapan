@@ -4,19 +4,6 @@ title: Articles
 
 # Articles 
 
-{% comment %}
-## Latest Articles
-
-{% assign latest = site.albums | where: "featured", "true" | sort: "date_updated" | reverse %}
-{% for album in latest limit:5 -%}
-* [{{ album.artist }}: *{{ album.title }}*]({{ album.url }}) <span class="subtext">(Updated {{ album.date_updated | date: "%b %d, %Y" }})</span>
-{% endfor %}
-
-
-## Articles
-
-{% endcomment %}
-
 {% assign sorted = site.albums | sort_natural: "sort_value" %}
 {% for album in sorted -%}
 1. [{{ album.artist }}: *{{ album.title }}*]({{ album.url }})
@@ -71,7 +58,6 @@ title: Articles
 73. Manabu Ohishi Trio: *Wish*
 74. Masako Kunisada: *M*
 75. Masako Kunisada: *Wonderful Life*
-77. Mayuko Katakura: *Inspiration*
 78. Mayuko Katakura: *The Echoes of Three*
 79. Meu Coracao: *A Tempo*
 82. Mie Joké: *Etrenne*

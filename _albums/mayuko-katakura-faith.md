@@ -10,8 +10,8 @@ code: MYCJ-30578
 cover: mayukokatakura-faith
 members:
    - {name: Mayuko Katakura, instrument: "piano", japanese_name: 片倉真由子, url: "https://ameblo.jp/mayukokatakura/"}
-   - {name: Rodney Whitaker, instrument: "bass"}
-   - {name: Carl Allen, instrument: "drums"}
+   - {name: Rodney Whitaker, instrument: "bass", url: "http://www.rodneywhitaker.com/"}
+   - {name: Carl Allen, instrument: "drums", url: "https://carlallen.com/"}
 images:
    - L1180720-1024.JPG
    - L1180721-1024.JPG
