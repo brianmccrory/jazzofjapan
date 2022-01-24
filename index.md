@@ -11,7 +11,7 @@ date: 2022-01-16
 * [Audio]({% link audio.md %}): Audio excerpts for albums mentioned
 * [Notes]({% link notes.md %}): News, updates, & miscellaneous notes
 
-## Featured
+## Featured Albums
 
 {% assign latest = site.albums | where: "featured", "true" | sort: "date_updated" | reverse %}
 {% assign img_width_latest = 140 %}
