@@ -8,7 +8,7 @@ sort_value: Ryosuke Hashizume Group Incomplete Voices
 year: 2017
 label: Apollo Sounds
 code: APLS1704
-cover: ryosukehashizume-incompletevoices
+image: /assets/images/2018/01/ryosukehashizume-incompletevoices-460.jpeg
 members:
    - {name: Ryosuke Hashizume, instrument: "tenor, soprano saxophones", japanese_name: 橋爪亮督, url: "http://www.ryohashizume.com/"}
    - {name: Motohiko Ichino, instrument: "guitar", japanese_name: 市野元彦}

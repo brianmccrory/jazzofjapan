@@ -8,7 +8,7 @@ sort_value: Ryosuke Hashizume Needful Things
 year: 2009
 label: Grapes Records
 code: GPS-1206
-cover: ryosukehashizume-needfulthings
+image: /assets/images/2018/02/ryosukehashizume-needfulthings-460.jpeg
 members:
    - {name: Ryosuke Hashizume, instrument: "tenor saxophone, clarinet, effects, voice", japanese_name: 橋爪亮督, url: "http://www.ryohashizume.com/"}
    - {name: Takumi Seino, instrument: "electric, acoustic guitars", japanese_name: 清野拓巳, url: "http://www.takumiseino.com/"}

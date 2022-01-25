@@ -8,7 +8,7 @@ sort_value: Fumiko Yamazaki Here Goes!
 year: 2011
 label: T&K Entertainment
 code: QACK-35024
-cover: fumiko-yamazaki-here
+image: /assets/images/2021/06/fumiko-yamazaki-here-460.jpeg
 members:
    - {name: Fumiko Yamazaki, instrument: "vibes, percussion", japanese_name: 山崎ふみこ, url: "http://trill.jp/"}
    - {name: Keizo Kawano, instrument: "piano, keyboard", japanese_name: 河野啓三}

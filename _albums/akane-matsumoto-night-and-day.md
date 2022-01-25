@@ -8,7 +8,7 @@ sort_value: Akane Matsumoto Night & Day
 year: 2017
 label: Concept Record
 code: CR07
-cover: akanematsumoto-night
+image: /assets/images/2018/01/akanematsumoto-night-460.jpeg
 members:
    - {name: Akane Matsumoto, instrument: "piano", japanese_name: 松本茜, url: "http://akanejazz.com"}
    - {name: Peter Washington, instrument: "bass"}

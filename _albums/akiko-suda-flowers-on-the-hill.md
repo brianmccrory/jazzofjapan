@@ -8,7 +8,7 @@ sort_value: Akiko Suda Flowers On The Hill
 year: 2016
 label: Diw The Grace
 code: DW-1008
-cover: akikosuda-flowersonthehill
+image: /assets/images/2018/02/akikosuda-flowersonthehill-460.jpeg
 members:
    - {name: Akiko Suda, instrument: "vocals", japanese_name: 須田晶子, url: "https://akikosuda.wixsite.com/akikosuda"}
    - {name: Yuichi Narita, instrument: "piano, accordion, chorus", japanese_name: 成田祐一}

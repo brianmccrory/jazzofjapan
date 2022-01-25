@@ -8,7 +8,7 @@ sort_value: Sohnosuke Imaizumi Rin
 year: 2015
 label: Flower Records
 code: FLRC-070
-cover: sohnosukeimaizumi-rin
+image: /assets/images/2018/02/sohnosukeimaizumi-rin-460.jpeg
 members:
    - {name: Sohnosuke Imaizumi, instrument: "drums", japanese_name: 今泉総之輔, url: "http://www.imaizumisohnosuke.com"}
    - {name: Kazuhiro Sunaga, instrument: "bass", japanese_name: 須長和広}

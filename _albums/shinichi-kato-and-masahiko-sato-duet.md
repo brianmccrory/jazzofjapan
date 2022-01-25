@@ -8,7 +8,7 @@ sort_value: Shinichi Kato & Masahiko Sato Duet
 year: 2001
 label: Nagel Heyer Records
 code: CD-2017
-cover: kato-sato-duet
+image: /assets/images/2021/06/kato-sato-duet-460.jpeg
 members:
    - {name: Shinichi Kato, instrument: "bass", japanese_name: 加藤真一, url: "https://katoshinichi.net/"}
    - {name: Masahiko Sato, instrument: "piano", japanese_name: 佐藤允彦, url: "http://www.mmjp.or.jp/m_satoh/"}

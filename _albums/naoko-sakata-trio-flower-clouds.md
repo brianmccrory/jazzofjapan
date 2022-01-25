@@ -8,7 +8,7 @@ sort_value: Naoko Sakata Trio Flower Clouds
 year: 2013
 label: Atelier Sawano
 code: AS-129
-cover: naokosakata-flowerclouds
+image: /assets/images/2021/05/naokosakata-flowerclouds-460.jpeg
 members:
    - {name: Naoko Sakata, instrument: "piano", japanese_name: 坂田尚子, url: "https://www.naokosakata.com/"}
    - {name: Anton Blomgren, instrument: "bass"}

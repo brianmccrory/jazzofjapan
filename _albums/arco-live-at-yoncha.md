@@ -8,7 +8,7 @@ sort_value: Arco Live At Yoncha
 year: 2018
 label: Arco
 code: handmade compact discs
-cover: arco-liveatyoncha
+image: /assets/images/2021/03/arco-liveatyoncha-460.jpeg
 members:
    - {name: Sayaka Kishi, instrument: "piano, melodion", japanese_name: 岸淑香, url: "http://www.sayaketto.net/"}
    - {name: Mayumi Sano, instrument: "cello", japanese_name: 佐野まゆみ, url: "http://sanomayumi.com/"}

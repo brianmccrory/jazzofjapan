@@ -8,7 +8,7 @@ sort_value: Ruriko Kawamura Blossoms
 year: 2016
 label: LooLoo Entertainment Records
 code: lulu001
-cover: rurikokawamura-blossoms
+image: /assets/images/2021/10/rurikokawamura-blossoms-460.jpeg
 members:
    - {name: Ruriko Kawamura, instrument: "vocals", japanese_name: 河村留理子, url: "https://ameblo.jp/salon-de-lulu/"}
    - {name: Seiji Endo, instrument: "piano", japanese_name: 遠藤征志, url: "https://seiji-piano-endo.com/"}

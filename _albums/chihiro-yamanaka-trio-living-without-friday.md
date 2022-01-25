@@ -8,7 +8,7 @@ sort_value: Chihiro Yamanaka Trio Living Without Friday
 year: 2001
 label: Atelier Sawano
 code: AS-016
-cover: chihiroyamanaka-living
+image: /assets/images/2020/02/chihiroyamanaka-living-460.jpeg
 members:
    - {name: Chihiro Yamanaka, instrument: "piano", japanese_name: 山中千尋, url: "https://www.chihiroyamanaka.net/"}
    - {name: Ray Parker, instrument: "bass"}

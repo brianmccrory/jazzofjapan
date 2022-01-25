@@ -8,7 +8,7 @@ sort_value: Sayaka Kishi Featuring Te
 year: 2014
 label: Roving Spirits
 code: RKC-8050
-cover: sayakakishi-featte
+image: /assets/images/2018/01/sayakakishi-featte-460.jpeg
 members:
    - {name: Sayaka Kishi, instrument: "piano", japanese_name: 岸淑香, url: "http://www.sayaketto.net"}
    - {name: Mayumi Sano, instrument: "cello (#2, 5, 9)", japanese_name: 佐野まゆみ}

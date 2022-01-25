@@ -8,7 +8,7 @@ sort_value: Miki Hayama Trio Wide Angle
 year: 2009
 label: ART UNION/@jazz
 code: ARTCD-114
-cover: miki-hayama-wideangle
+image: /assets/images/2018/04/miki-hayama-wideangle-460.jpeg
 members:
    - {name: Miki Hayama, instrument: "piano", japanese_name: 早間美紀, url: "http://www.mikihayama.com/"}
    - {name: Kiyoshi Kitagawa, instrument: "bass", japanese_name: 北川潔}

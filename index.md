@@ -20,8 +20,10 @@ date: Jan 16, 2022
 <table>
   <tbody>
     <tr>
+	{%- assign sorted = site.albums | sort_natural:"sort_value" -%}
 {% for album in latest limit:3 -%}
-<td class="spotlight"><a href="{{ album.url }}"><img class="spotlight" width=135 height=135 src="/assets/images/{{ album.date | date: "%Y/%m" }}/{{ album.cover }}-180.jpeg" alt="{{ album.title }}">
+	{%- assign image = album.image | replace_first: "-460.jpeg", "-180.jpeg" -%}
+<td class="spotlight"><a href="{{ album.url }}"><img class="spotlight" width=135 height=135 src="{% link {{ image }} %}" alt="{{ album.title | escape }}">
 <br>
 {{ album.artist }}:<br><em>{{ album.title }}</em></a>
 <br>

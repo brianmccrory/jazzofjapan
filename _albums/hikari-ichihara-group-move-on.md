@@ -8,7 +8,7 @@ sort_value: Hikari Ichihara Group Move On
 year: 2010
 label: After Beat
 code: PCCY-30157
-cover: hikariichihara-moveon
+image: /assets/images/2019/05/hikariichihara-moveon-460.jpeg
 members:
    - {name: Hikari Ichihara, instrument: "trumpet, flugelhorn", japanese_name: 市原ひかり, url: "http://www.hikari-ichihara.com/"}
    - {name: Ryosuke Asai, instrument: "alto sax", japanese_name: 浅井良将}

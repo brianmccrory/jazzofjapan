@@ -8,7 +8,7 @@ sort_value: Hakuei Kim Trio Open the Green Door
 year: 2005
 label: DIW Records
 code: DIW-631
-cover: hakueikim-open
+image: /assets/images/2018/09/hakueikim-open-460.jpeg
 members:
    - {name: Hakuei Kim, instrument: "piano", japanese_name: ハクエイ・キム, url: "https://www.universal-music.co.jp/hakuei-kim/"}
    - {name: Ben "Donny" Waples, instrument: "double bass"}

@@ -8,7 +8,7 @@ sort_value: Taihei Asakawa Catastrophe In Jazz
 year: 2011
 label: Roving Spirits
 code: RKCJ-2046
-cover: taiheiasakawa-catas
+image: /assets/images/2018/05/taiheiasakawa-catas-460.jpeg
 members:
    - {name: Taihei Asakawa, instrument: "piano, compositions", japanese_name: 浅川太平, url: "https://taiheiasakawa.wixsite.com/piano"}
    - {name: Shinichi Kato, instrument: "bass", japanese_name: 加藤真一}

@@ -8,7 +8,7 @@ sort_value: Tokuhiro Doi Quartet Amalthea
 year: 2011
 label: D-musica Daiki Music
 code: DMCD-15
-cover: tokuhirodoi-amalthea
+image: /assets/images/2019/01/tokuhirodoi-amalthea-460.jpeg
 members:
    - {name: Tokuhiro Doi, instrument: "clarinet", japanese_name: 土井徳浩, url: "https://www.doitoku.com/"}
    - {name: Koichi Sato, instrument: "piano", japanese_name: 佐藤浩一}

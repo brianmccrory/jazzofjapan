@@ -1,6 +1,5 @@
 ---
 featured: true
-image: /assets/images/2021/12/amifukui-urbanclutter-460.jpeg
 layout: article
 date: December 30, 2021
 date_updated: December 30, 2021
@@ -10,7 +9,7 @@ sort_value: Ami Fukui Trio Urban Clutter
 year: 2010
 label: Anturtle Analog Recordings
 code: ANTX-4008
-cover: amifukui-urbanclutter
+image: /assets/images/2021/12/amifukui-urbanclutter-460.jpeg
 members:
    - {name: Ami Fukui, instrument: "piano", japanese_name: 福井亜実, url: "https://amifukui.com/"}
    - {name: Koji Yasuda, instrument: "bass", japanese_name: 安田幸司, url: "http://jmsu.web.fc2.com/koji/"}

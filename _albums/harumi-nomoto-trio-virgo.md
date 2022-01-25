@@ -8,7 +8,7 @@ sort_value: Harumi Nomoto Trio Virgo
 year: 2014
 label: Okra Record
 code: MIKO-1009
-cover: haruminomoto-virgo
+image: /assets/images/2019/04/haruminomoto-virgo-460.jpeg
 members:
    - {name: Harumi Nomoto, instrument: "piano", japanese_name: 野本晴美, url: "https://haruminomoto.jimdo.com"}
    - {name: Ryoji Orihara, instrument: "electric fretless bass", japanese_name: 織原良次}

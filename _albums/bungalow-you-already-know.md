@@ -8,7 +8,7 @@ sort_value: Bungalow You Already Know
 year: 2017
 label: Studio Songs
 code: YZSO-10075
-cover: bungalow-youalreadyknow
+image: /assets/images/2018/01/bungalow-youalreadyknow-460.jpeg
 members:
    - {name: Mike Rivett, instrument: "Tenor Sax, Electronics"}
    - {name: Koichi Sato, instrument: "Piano, Fender Rhodes", japanese_name: 佐藤浩一}

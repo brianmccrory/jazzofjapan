@@ -8,7 +8,7 @@ sort_value: Toshihiko Inoue & Masaki Hayashi Mistral
 year: 2013
 label: 78 Label
 code: FNFY-06
-cover: toshihikoinoue-mistral
+image: /assets/images/2021/07/toshihikoinoue-mistral-460.jpeg
 members:
    - {name: Toshihiko Inoue, instrument: "tenor sax, soprano sax", japanese_name: 井上淑彦, url: "http://www.inouetoshihiko.com/"}
    - {name: Masaki Hayashi, instrument: "piano", japanese_name: 林正樹, url: "http://masakihayashi.com/"}
