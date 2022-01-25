@@ -2,6 +2,7 @@
 layout: home
 list_title: Notes and Updates
 date: Jan 16, 2022
+image: /assets/images/J-circle.png
 ---
 **Welcome to jazzofjapan.com**, a site for sharing information about Japanese Jazz and related music from Japanese musicians. 
 
