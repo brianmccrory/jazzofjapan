@@ -8,5 +8,5 @@ title: Album Covers
 {% assign sorted = site.albums | sort_natural:"sort_value" %}
 {% for album in sorted -%}
 {%- assign image = album.image | replace_first: "-460.jpeg", img_resize -%}
-<a href="{{ album.url }}"><img class="albumgrid" src="{% link {{ image }} %}" alt="{{ album.title | escape }}" width={{ img_width }} height={{ img_width }}></a>
+<a href="{{ album.url }}"><img class="albumgrid" src="{{ image }}" alt="{{ album.title | escape }}" width={{ img_width }} height={{ img_width }}></a>
 {% endfor %}
