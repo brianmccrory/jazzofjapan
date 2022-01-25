@@ -23,7 +23,7 @@ date: Jan 16, 2022
 	{%- assign sorted = site.albums | sort_natural:"sort_value" -%}
 {% for album in latest limit:3 -%}
 	{%- assign image = album.image | replace_first: "-460.jpeg", "-180.jpeg" -%}
-<td class="spotlight"><a href="{{ album.url }}"><img class="spotlight" width=135 height=135 src="{% link {{ image }} %}" alt="{{ album.title | escape }}">
+<td class="spotlight"><a href="{{ album.url }}"><img class="spotlight" width=135 height=135 src="{{ image }}" alt="{{ album.title | escape }}">
 <br>
 {{ album.artist }}:<br><em>{{ album.title }}</em></a>
 <br>
