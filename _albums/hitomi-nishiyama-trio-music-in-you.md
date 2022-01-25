@@ -7,7 +7,7 @@ sort_value: Hitomi Nishiyama Trio Music In You
 year: 2011
 label: Meantone Records
 code: MT-002
-cover: hitominishiyama-musicinyou
+image: /assets/images/2018/03/hitominishiyama-musicinyou-460.jpeg
 members:
    - {name: Hitomi Nishiyama, instrument: "piano", japanese_name: 西山瞳, url: "http://hitominishiyama.net"}
    - {name: Yasuhiko "Hachi" Sato, instrument: "bass", japanese_name: 佐藤“ハチ”恭彦, url: "https://twitter.com/hachi310"}

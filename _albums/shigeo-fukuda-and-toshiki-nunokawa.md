@@ -7,7 +7,7 @@ sort_value: Shigeo Fukuda & Toshiki Nunokawa Childhood's Dream
 year: 2011
 label: BQ Records
 code: BQR-2053
-cover: fukuda-nunokawa-childhood
+image: /assets/images/2021/06/fukuda-nunokawa-childhood-460.jpeg
 members:
    - {name: Shigeo Fukuda, instrument: "piano", japanese_name: 福田重男, url: "https://shigeofukuda.com/"}
    - {name: Toshiki Nunokawa, instrument: "guitar", japanese_name: 布川俊樹, url: "https://toshikinunokawa.jimdofree.com/"}

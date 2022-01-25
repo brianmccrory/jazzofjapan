@@ -1,6 +1,6 @@
 ---
 title: Search
-date: 2022-01-18
+image: /assets/images/J-shaded.jpg
 ---
 # Search
 

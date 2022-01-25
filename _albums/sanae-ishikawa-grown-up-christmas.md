@@ -7,7 +7,7 @@ sort_value: Sanae Ishikawa Grown-up Christmas Gift
 year: 2018
 label: Sanae Ishikawa Seasonal Japanese Songbook Project
 code: SJSP-002
-cover: sanaeishikawa-grownup
+image: /assets/images/2018/12/sanaeishikawa-grownup-460.jpeg
 members:
    - {name: Sanae Ishikawa, instrument: "vocal", japanese_name: 石川早苗, url: "http://blog.livedoor.jp/sanny_jazz/"}
    - {name: Takayoshi Baba, instrument: "guitar", japanese_name: 馬場孝喜, url: "https://babaviolao.wixsite.com/babatakayoshi"}

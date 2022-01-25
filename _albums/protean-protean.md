@@ -7,7 +7,7 @@ sort_value: Protean Protean
 year: 2009
 label: Protean
 code: Protean
-cover: protean-protean
+image: /assets/images/2021/06/protean-protean-460.jpeg
 members:
    - {name: Naoko Tanaka, instrument: "piano", japanese_name: 田中菜緒子, url: "http://tanakanaoko.com/"}
    - {name: Naoyuki Seto, instrument: "electric bass", japanese_name: 瀬戸尚幸}

@@ -1,6 +1,6 @@
 ---
 title: Musicians
-date: 2022-01-24
+image: /assets/images/J-shaded.jpg
 ---
 # Musicians
 

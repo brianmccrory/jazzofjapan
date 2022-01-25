@@ -7,7 +7,7 @@ sort_value: Sumito Oi Sumitty & The Funfair
 year: 2015
 label: S&T Music
 code: STMU-1001
-cover: sumito-oi-funfair
+image: /assets/images/2018/03/sumito-oi-funfair-460.jpeg
 members:
    - {name: Sumito Oi, instrument: "drums", japanese_name: 大井澄東, url: "https://www.sumitooi.com"}
    - {name: Toyomi Kobayashi, instrument: "flute, alto flute, bass flute, Andes25F", japanese_name: 小林豊美}

@@ -1,5 +1,6 @@
 ---
 title: Articles
+image: /assets/images/J-shaded.jpg
 ---
 
 # Articles 

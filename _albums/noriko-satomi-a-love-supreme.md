@@ -7,7 +7,7 @@ sort_value: Noriko Satomi A Love Supreme
 year: 2019
 label: T-Toc Records
 code: TTOC-0032
-cover: norikosatomi-lovesupreme
+image: /assets/images/2020/01/norikosatomi-lovesupreme-460.jpeg
 members:
    - {name: Noriko Satomi, instrument: "violin", japanese_name: 里見紀子, url: "https://project-nori.wixsite.com/mysite"}
    - {name: Masaaki Imaizumi, instrument: "piano", japanese_name: 今泉正明, url: "http://masaaki-imaizumi.music.coocan.jp/"}

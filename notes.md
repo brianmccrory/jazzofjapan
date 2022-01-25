@@ -1,5 +1,6 @@
 ---
 title: Notes
+image: /assets/images/J-shaded.jpg
 ---
 <div>
 <img src="/assets/images/J-circle.png" alt ="/assets/images/J-circle.png" align=right width=64/>

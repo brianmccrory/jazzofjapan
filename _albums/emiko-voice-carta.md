@@ -7,7 +7,7 @@ sort_value: Emiko Voice Carta
 year: 2017
 label: Zipangu Label
 code: ZIP-0058
-cover: emikovoice-carta-square
+image: /assets/images/2018/01/emikovoice-carta-square-460.jpeg
 members:
    - {name: EMiKO VOiCE, instrument: "vocal", japanese_name: エミコヴォイス, url: "http://www.emikovoice.com"}
    - {name: Koichi Sato, instrument: "piano, Rhodes", japanese_name: 佐藤浩一}

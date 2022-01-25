@@ -1,7 +1,7 @@
 ---
 layout: home
 list_title: Notes and Updates
-date: 2022-01-16
+image: /assets/images/J-shaded.jpg
 ---
 **Welcome to jazzofjapan.com**, a site for sharing information about Japanese Jazz and related music from Japanese musicians. 
 
@@ -18,8 +18,14 @@ date: 2022-01-16
 <table>
   <tbody>
     <tr>
+	{%- assign sorted = site.albums | sort_natural:"sort_value" -%}
 {% for album in latest limit:3 -%}
+<<<<<<< HEAD
 <td class="spotlight"><a href="{{ album.url }}"><img class="spotlight" width={{ img_width_latest }} height={{ img_width_latest }} src="{% link assets/images/{{ album.date | date: "%Y/%m" }}/{{ album.cover }}-{{ img_width_latest }}.jpeg %}" alt="{{ album.title }}">
+=======
+	{%- assign image = album.image | replace_first: "-460.jpeg", "-180.jpeg" -%}
+<td class="spotlight"><a href="{{ album.url }}"><img class="spotlight" width=135 height=135 src="{{ image }}" alt="{{ album.title | escape }}">
+>>>>>>> main
 <br>
 {{ album.artist }}:<br><em>{{ album.title }}</em></a>
 <br>

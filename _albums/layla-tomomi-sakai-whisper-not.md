@@ -7,7 +7,7 @@ sort_value: Layla Tomomi Sakai Whisper Not
 year: 2016
 label: Sakai Layla Tomomi
 code: 001
-cover: layla-tomomi-sakai-whisper
+image: /assets/images/2021/03/layla-tomomi-sakai-whisper-460.jpeg
 members:
    - {name: Layla Tomomi Sakai, instrument: "vocals", japanese_name: 坂井レイラ知美, url: "https://www.sakailaylatomomi.com/"}
    - {name: Yuichiro Hiraoka, instrument: "guitar", japanese_name: 平岡遊一郎}

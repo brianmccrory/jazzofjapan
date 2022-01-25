@@ -7,7 +7,7 @@ sort_value: Satoshi Kosugi Bass on Times
 year: 2009
 label: Pax Box Press
 code: PBP-0001
-cover: satoshikosugi-bassontimes
+image: /assets/images/2018/02/satoshikosugi-bassontimes-460.jpeg
 members:
    - {name: Satoshi Kosugi, instrument: "bass", japanese_name: 小杉敏, url: "http://www7b.biglobe.ne.jp/kosugibass/"}
    - {name: Yoshiro Okazaki, instrument: "trumpet", japanese_name: 岡崎好朗}

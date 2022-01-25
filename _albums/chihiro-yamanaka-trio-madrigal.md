@@ -7,7 +7,7 @@ sort_value: Chihiro Yamanaka Trio Madrigal
 year: 2004
 label: Atelier Sawano
 code: AS-038
-cover: chihiroyamanaka-madrigal
+image: /assets/images/2021/03/chihiroyamanaka-madrigal-460.jpeg
 members:
    - {name: Chihiro Yamanaka, instrument: "piano", japanese_name: 山中千尋, url: "http://www.chihiroyamanaka.net/"}
    - {name: Larry Grenadier, instrument: "bass"}

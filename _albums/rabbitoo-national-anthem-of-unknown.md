@@ -8,7 +8,7 @@ year: 2014
 label: SONG X JAZZ
 code: SONG X 019
 release_note: Also released in Europe in 2014 on French label naïve as NJ624611.
-cover: rabbitoo-national
+image: /assets/images/2020/01/rabbitoo-national-460.jpeg
 members:
    - {name: Motohiko Ichino, instrument: "guitars, keyboards", japanese_name: 市野元彦, url: "https://motohikoichino.com/"}
    - {name: Daisuke Fujiwara, instrument: "tenor saxophone, electronics", japanese_name: 藤原大輔, url: "http://www.fujiwaradaisuke.com/"}

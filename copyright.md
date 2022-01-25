@@ -1,5 +1,6 @@
 ---
 title: Copyright
+image: /assets/images/J-shaded.jpg
 ---
 # Copyright
 

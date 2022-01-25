@@ -1,6 +1,6 @@
 ---
 title: Audio
-date: 2022-01-15
+image: /assets/images/J-shaded.jpg
 ---
 # Audio
 
