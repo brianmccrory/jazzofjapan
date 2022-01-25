@@ -13,7 +13,7 @@ members:
    - {name: Koichi Sato, instrument: "piano", japanese_name: 佐藤浩一, url: "http://koichisato.com/"}
    - {name: Tokuhiro Doi, instrument: "clarinet, bass clarinet", japanese_name: 土井徳浩, url: "https://www.doitoku.com/"}
    - {name: Motohiko Ichino, instrument: "guitar", japanese_name: 市野元彦, url: "https://motohikoichino.com/"}
-   - {name: Harutoshi Ito, instrument: "cello", japanese_name: 伊藤ハルトシ}
+   - {name: Harutoshi Ito, instrument: "cello", japanese_name: 伊藤ハルトシ, url: "https://www.itoharutoshi.com"}
    - {name: Hiroki Chiba, instrument: "double bass", japanese_name: 千葉広樹, url: "https://linktr.ee/Hirokichiba"}
    - {name: Ryo Noritake, instrument: "drums", japanese_name: 則武諒, url: "http://www.ryonoritake.com/"}
 images:

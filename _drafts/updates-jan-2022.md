@@ -9,7 +9,7 @@ As a linked list with descriptions:
 * [Hiroco Nagano: *Okurimono*]({% link _albums/hiroco-nagano-okurimono.md %}) - vocal and piano duo on a mini-album
 * [Hitomi Nishiyama Trio: *Many Seasons*]({% link _albums/hitomi-nishiyama-trio-many-seasons.md %}) - piano trio with European jazz flavor
 * [Junichiro Ohkuchi Trio: *Invisible*]({% link _albums/junichiro-ohkuchi-trio-invisible.md %}) - soulful Japanese jazz trio
-* [Koichi Sato: Melancholy of a Journey]({% link _albums/koichi-sato-melancholy.md %}) - desc
+* [Koichi Sato: Melancholy of a Journey]({% link _albums/koichi-sato-melancholy.md %}) - piano trio plus guitar, cello, clarinet
 * [Mayuko Katakura: Inspiration]({% link _albums/mayuko-katakura-inspiration.md %}) - desc
 * [Rie Taguchi: The Gift]({% link _albums/rie-taguchi-gift.md %}) - desc
 * [Toshihiko Inoue: Vayu]({% link _albums/toshihiho-inoue-vayu.md %}) - desc
