@@ -1,5 +1,6 @@
 ---
 featured: true
+image: /assets/images/2021/12/amifukui-urbanclutter-460.jpeg
 layout: article
 date: December 30, 2021
 date_updated: December 30, 2021
