@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Musicians
-date: 2022-01-22
+image: /assets/images/J-shaded.jpg
 ---
 # Musicians
 

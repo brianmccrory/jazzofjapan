@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Album Covers
+image: /assets/images/J-shaded.jpg
 ---
 # Album Covers
 {% assign img_width = "240" %}

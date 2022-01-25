@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Audio
-date: Jan 15, 2022
+image: /assets/images/J-shaded.jpg
 ---
 # Audio
 
