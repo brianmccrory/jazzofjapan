@@ -7,7 +7,7 @@ sort_value: Hitomi Nishiyama Trio Many Seasons
 year: 2007
 label: Spice of Life
 code: SOLJP-0005
-cover: hitominishiyama-manyseasons
+image: /assets/images/2018/02/hitominishiyama-manyseasons-460.jpeg
 members: 
    - {name: Hitomi Nishiyama, instrument: "piano", japanese_name: 西山瞳, url: "http://hitominishiyama.net"}
    - {name: Hans Backenroth, instrument: "bass", url: "https://hansbackenroth.com/"}

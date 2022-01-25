@@ -8,7 +8,7 @@ sort_value: Koichi Sato Melancholy of a Journey
 year: 2016
 label: Song X Jazz
 code: SONG X 038
-cover: koichisato-melancholy
+image: /assets/images/2018/02/koichisato-melancholy-460.jpeg
 members:
    - {name: Koichi Sato, instrument: "piano", japanese_name: 佐藤浩一, url: "http://koichisato.com/"}
    - {name: Tokuhiro Doi, instrument: "clarinet, bass clarinet", japanese_name: 土井徳浩, url: "https://www.doitoku.com/"}

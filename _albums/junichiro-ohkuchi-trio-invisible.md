@@ -7,7 +7,7 @@ sort_value: Junichiro Ohkuchi Trio Invisible
 year: 2016
 label: Big Mouth Records
 code: Invisible
-cover: junichiroohkuchi-invisible
+image: /assets/images/2018/02/junichiroohkuchi-invisible-460.jpeg
 members: 
    - {name: Junichiro Ohkuchi, instrument: piano, japanese_name: 大口純一郎, url: "https://pianistjohkuchi.blogspot.com"}
    - {name: Yasushi Yoneki, instrument: "bass", japanese_name: 米木康志, url: "https://www.catfish-records.jp/product/27801"}

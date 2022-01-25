@@ -1,6 +1,5 @@
 ---
 featured: true
-
 date: 2022-01-21
 date_updated: 2022-01-21
 title: Dubai Suite
@@ -10,7 +9,7 @@ year: 2021
 label: Yukako Yamano
 code: YKCJ-0006
 release_note: 
-cover: yukakoyamano-dubai
+image: /assets/images/2022/01/yukakoyamano-dubai-460.jpeg
 members:
    - {name: Yukako Yamano, instrument: "piano", japanese_name: 山野友佳子, url: "https://yukakoyamano.com/"}
    - {name: Yukari Inoue, instrument: "piano", japanese_name: 井上ゆかり, url: "https://www.inoueyukari.com/"}

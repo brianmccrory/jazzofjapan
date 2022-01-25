@@ -7,7 +7,7 @@ sort_value: Toshihiko Inoue Vayu
 year: 2016
 label: Foot & Shoe
 code: FSCJ-0011
-cover: toshihikoinoue-vayu
+image: /assets/images/2018/02/toshihikoinoue-vayu-460.jpeg
 members:
    - {name: Toshihiko Inoue, instrument: "solo saxophone", japanese_name: 井上淑彦, url: "http://www.inouetoshihiko.com/"}
 images:

@@ -8,7 +8,7 @@ sort_value: Mayuko Katakura Inspiration
 year: 2009
 label: Pony Canyon
 code: MYCJ-30554
-cover: mayukokatakura-inspiration
+image: /assets/images/2018/03/mayukokatakura-inspiration-460.jpeg
 members:
    - {name: Mayuko Katakura, instrument: "piano", japanese_name: 片倉真由子, url: "https://ameblo.jp/mayukokatakura/"}
    - {name: Yasushi Nakamura, instrument: "bass", japanese_name: 中村恭士, url: "https://www.yasushinakamurabass.com/"}

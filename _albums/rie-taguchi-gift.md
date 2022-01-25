@@ -7,7 +7,7 @@ sort_value: Rie Taguchi Gift
 year: 2016
 label: Rose Happy Music
 code: RHM002
-cover: rietaguchi-gift
+image: /assets/images/2018/02/rietaguchi-gift-460.jpeg
 members:
    - {name: Rie Taguchi, instrument: "vocals, piano", japanese_name: 田口理恵, url: "https://riepihappymusic.wixsite.com/music"}
    - {name: Seiji Endo, instrument: "piano, arrangements", japanese_name: 遠藤征志, url: "https://seiji-piano-endo.com"}
