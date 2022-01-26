@@ -3,7 +3,7 @@ title: Notes
 image: /assets/images/J-shaded.jpg
 ---
 <div>
-<img src="/assets/images/J-circle.png" alt ="/assets/images/J-circle.png" align=right width=64/>
+<img src="/assets/images/J-circle.png" alt="" width=64 align=right>
 <h1 class="page-heading">News, Updates, & Miscellaneous Notes</h1>
 
   {% if site.paginate %}
@@ -54,4 +54,4 @@ image: /assets/images/J-shaded.jpg
 
   {%- endif -%}
 
-</div>
+</divs>

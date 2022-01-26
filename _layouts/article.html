@@ -10,86 +10,77 @@ layout: default
 
 <article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{page.artist}}: {{ page.title | escape}}<br/></h1>
-  </header>
+<header class="post-header">
+<h1 class="post-title">{{page.artist}}: {{ page.title | escape}}</h1>
+</header>
 
-  <div class="post-content">
+<div class="post-content">
 
-	<p align="center">
-	<img src="{{ page.image }}" width=460> {% comment %} jpeg files output from adobe bridge {% endcomment %}
-	</p>
+<p class="aligncenter">
+<img src="{{ page.image }}" width=460 alt="">
+</p>
 
-	<p>
-    {{ content }}
-	</p>
+{{ content }}
+
+<h3><em>{{ page.title | escape }}</em> by {{ page.artist | escape }}</h3>	
+
+<ul>
+{%- for member in page.members %}
+<li>{% if member.url %}<a href="{{ member.url }}">{% endif %}{{ member.name | escape }}{% if member.url %}</a>{% endif %} - {{ member.instrument | escape }}</li>
+{%- endfor %}
+</ul>
 	
-	<p>
-	
-<h3><em>{{ page.title }}</em> by {{ page.artist }}</h3>	
+<p>
+Released in {{ page.year }} on {{ page.label | escape }} as {{ page.code | escape }}.
+{% if page.release_note -%}
+{{ page.release_note | escape }}
+{% endif -%}
+</p>
 
-	<ul>
-	{% for member in page.members %}
-	<li>
-	{% if member.url %}<a href="{{ member.url }}">{% endif %}
-	{{ member.name }}
-	{% if member.url %}</a>{% endif %}
-	 - {{ member.instrument }}</li>
-	{% endfor %}
-	</ul>
-	</p>
-	
-	<p>
-	Released in {{ page.year }} on {{ page.label }} as {{ page.code }}.
-	{% if page.release_note -%}
-	{{ page.release_note }}
-	{% endif %}
-	</p>
-	
-	<p>	
-	<em>Names in Japanese:</em>
-	{% for member in page.members -%}
-	{% if member.japanese_name %}
-	<em>{{ member.name -}}&nbsp;{{ member.japanese_name -}}</em>
-	{% endif %}
-	{% endfor -%}
-	</p>
-	
+<p>	
+<em>Names in Japanese:
+{% for member in page.members -%}
+{% if member.japanese_name %}{{ member.name | escape }} {{ member.japanese_name | escape }} {% endif %}
+{% endfor -%}
+</em>
+</p>
 
-<p/>
+<hr>
 
-<hr/>
-
-<p/>
-
-<p align="center">
-	{% for image in page.images %}
-	<a href="{{ image_dir }}/{{ image }}"><img src="{{ image_dir }}/{{ image }}"></a>
-	{% endfor %}
+<p class="aligncenter">
+{% for image in page.images -%}
+<a href="{{ image_dir }}/{{ image }}"><img src="{{ image_dir }}/{{ image }}" alt=""></a>
+{% endfor -%}
 </p>
 
 
-<hr/>
+<hr>
 
 <h3>Audio and Video</h3>
 
-	<ul>
-	{% for video in page.videos %}
-	<li><a href="{{ video.url }}">{{ video.comment }}</a></li>
-	{% endfor %}
-    
-	{% for audio_link in page.audio %}
-	<li><a href="{{ audio_link.url }}">{{ audio_link.comment }}</a></li>
-	{% endfor %}
-	</ul>
+<ul>
+{%- for video in page.videos %}
+<li><a href="{{ video.url }}">{{ video.comment | escape }}</a></li>
+{%- endfor %}
 
-<hr/>
+{% for audio_link in page.audio %}
+<li><a href="{{ audio_link.url }}">{{ audio_link.comment | escape }}</a></li>
+{%- endfor %}
+</ul>
 
-<p align="right"><em>&copy; Brian McCrory {{ copyright_year }}<br/>(Updated {{ page.date_updated | date: "%B %e, %Y" -}})</em></p>
+<hr>
 
+<p class="alignright"><em>&copy; Brian McCrory {{ copyright_year }}</em><br>
+<em>{{ page.date | date: "%b %e, %Y" }}
+{%- if page.date_updated -%}
+{%- assign date_pub = page.date | date: "%s" -%}
+{%- assign date_upd = page.date_updated | date: "%s" -%}
+{%- if date_pub != date_upd %} (Updated {{ page.date_updated | date: "%b %e, %Y" }})
+{%- endif -%}
+{%- endif -%}
+</em></p>
   
 </div>
-
 
 </article>
 
