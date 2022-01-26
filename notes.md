@@ -55,4 +55,4 @@ image: /assets/images/J-shaded.jpg
 
   {%- endif -%}
 
-</divs>
+</div>
