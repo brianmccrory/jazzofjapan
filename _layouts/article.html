@@ -80,7 +80,20 @@ Released in {{ page.year }} on {{ page.label }} as {{ page.code }}.
 {%- endif -%}
 </em></p>
 
-  
+{% assign breakcounter = 0 -%}
+{%- assign sorted = site.albums | sort_natural: "sort_value" -%}
+{%- for item in sorted -%}
+{%- if breakcounter > 0 or item.path == page.path %}{% assign breakcounter = breakcounter | plus: 1 %}{% endif -%}
+{%- if breakcounter == 0 %}{% assign prev = item %}{% endif -%}
+{%- if breakcounter == 2 %}{% assign next = item %}{% break %}{% endif -%}
+{%- endfor -%}
+
+<p class="aligncenter">
+{% if prev -%}<span class="subtext"><a href="{{ prev.url }}">&laquo;&nbsp;Previous</a></span>{% endif %}
+{% if prev and next -%}<span class="subtext"> &middot; </span>{% endif %}
+{% if next -%}<span class="subtext"><a href="{{ next.url }}">Next&nbsp;&raquo;</a></span>{% endif %}
+</p>
+ 
 </div>
 
 

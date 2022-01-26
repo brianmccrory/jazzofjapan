@@ -1,8 +1,11 @@
 <ul class="social-media-list">
-  {%- if site.search -%}<li><span class="searchtext"><a href="{{ 'search.html' | relative_url }}">{{ site.search | escape }}</a></span></li>{%- endif -%}
-  <li><span class="subtext">SNS:&nbsp;</span>{%- if site.twitter_username -%}<a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><title>Twitter</title><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a>{%- endif -%}
-  {%- if site.instagram_username -%}<a href="https://instagram.com/{{ site.instagram_username | cgi_escape | escape }}"><svg class="svg-icon"><title>Instagram</title><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg></a>{%- endif -%}
-  {%- if site.youtube_channel -%}<a href="https://youtube.com/channel/{{ site.youtube_channel | cgi_escape | escape }}"><svg class="svg-icon"><title>Youtube</title><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg></a>{%- endif -%}</li>
-  {%- if site.rss -%}<li><span class="subtext">RSS:&nbsp;</span><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><title>RSS</title><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg></a></li>{%- endif -%}
+{%- if site.search -%}<li><span class="searchtext"><a href="{{ 'search.html' | relative_url }}">{{ site.search | escape }}</a></span></li>{%- endif %}
+<li>
+<span class="subtext">SNS: </span>
+{% if site.twitter_username -%}<a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><title>Twitter</title><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a>{%- endif %}
+{% if site.instagram_username -%}<a href="https://instagram.com/{{ site.instagram_username | cgi_escape | escape }}"><svg class="svg-icon"><title>Instagram</title><use xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"></use></svg></a>{%- endif %}
+{% if site.youtube_channel -%}<a href="https://youtube.com/channel/{{ site.youtube_channel | cgi_escape | escape }}"><svg class="svg-icon"><title>Youtube</title><use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use></svg></a>{%- endif %}
+</li>
+{% if site.rss -%}<li><span class="subtext">RSS: </span><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><title>RSS</title><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg></a></li>{%- endif %}
 </ul>
         
