@@ -16,7 +16,7 @@ layout: default
 
 <div class="post-content">
 
-<p align="center">
+<p class="aligncenter">
 <img src="{{ page.image }}" width=460> {% comment %} jpeg files output from adobe bridge {% endcomment %}
 </p>
 
@@ -47,7 +47,7 @@ Released in {{ page.year }} on {{ page.label }} as {{ page.code }}.
 
 <hr>
 
-<p align="center">
+<p class="aligncenter">
 {% for image in page.images -%}
 <a href="{{ image_dir }}/{{ image }}"><img src="{{ image_dir }}/{{ image }}"></a>
 {% endfor -%}
@@ -70,7 +70,7 @@ Released in {{ page.year }} on {{ page.label }} as {{ page.code }}.
 
 <hr>
 
-<p class="rightalign"><em>&copy; Brian McCrory {{ copyright_year }}</em><br>
+<p class="alignright"><em>&copy; Brian McCrory {{ copyright_year }}</em><br>
 <em>{{ page.date | date: "%b %e, %Y" }}
 {%- if page.date_updated -%}
 {%- assign date_pub = page.date | date: "%s" -%}
