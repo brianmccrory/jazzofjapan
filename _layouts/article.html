@@ -17,7 +17,7 @@ layout: default
 <div class="post-content">
 
 <p class="aligncenter">
-<img src="{{ page.image }}" width=460> {% comment %} jpeg files output from adobe bridge {% endcomment %}
+<img src="{{ page.image }}" width=460 alt=""> {% comment %} jpeg files output from adobe bridge {% endcomment %}
 </p>
 
 {{ content }}
@@ -49,7 +49,7 @@ Released in {{ page.year }} on {{ page.label }} as {{ page.code }}.
 
 <p class="aligncenter">
 {% for image in page.images -%}
-<a href="{{ image_dir }}/{{ image }}"><img src="{{ image_dir }}/{{ image }}"></a>
+<a href="{{ image_dir }}/{{ image }}"><img src="{{ image_dir }}/{{ image }}" alt=""></a>
 {% endfor -%}
 </p>
 
