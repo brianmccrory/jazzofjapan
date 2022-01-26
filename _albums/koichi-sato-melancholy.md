@@ -1,7 +1,7 @@
 ---
 featured: true
 date: 2018-02-18
-date_updated: 2018-02-18
+date_updated: 2022-01-25
 title: Melancholy of a Journey
 artist: Koichi Sato
 sort_value: Koichi Sato Melancholy of a Journey
@@ -26,10 +26,10 @@ videos:
    - {url: "https://youtu.be/HU3XNXucB0Q", comment: "Video with samples from the CD"}
 audio:
 ---
-Pianist/composer Koichi Sato releases his latest album with a distinctive sextet, clarinet and guitar adding modern groundedness, cello providing graceful maturity.
+Pianist and composer Koichi Sato's 2016 release *Melancholy of a Journey* features a distinctive jazz sextet: a piano trio adding clarinet and guitar for modern groundedness and cello providing graceful maturity.	
 
-The main theme was conceived while traveling in Norway and viewing a certain painting: Art Rolfsen's "The Big Station", which graces the cover and inspired "The Railway Station" four-part suite, distinct songs with common echoes.
+Sato conceived the main theme while traveling in Norway and viewing a certain painting. The work of art, Art Rolfsen's "The Big Station", graces the cover and inspired "The Railway Station", a four-part suite arranged over four tracks. This music emerges and recedes through tracks #1, 6, 9, and 12, resulting in four distinct songs with common echoes.
 
-From this blossom beautiful songs of travel scenes. Intelligent, dramatic compositions and full, earthy sounds create moods including exciting, relaxing, hectic, impressionistic, and, naturally, melancholic - emotions arising at different times during a long journey: a soundtrack to a trip, a modern work of art.
+From this setting and throughout the rest of the album, beautiful music blossoms and inspires scenes of travel. Dramatic compositions with full, earthy sounds create moods spanning excitement, relaxation, hectic impressionism, and, naturally, melancholy. This music embraces emotions that may arise at different times during a long journey, a soundtrack to a trip, a modern work of art.
 
 
