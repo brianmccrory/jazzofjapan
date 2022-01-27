@@ -1,7 +1,7 @@
 ---
 featured: true
 date: 2018-03-01
-date_updated: 2018-03-01
+date_updated: 2022-01-26
 title: Inspiration
 artist: Mayuko Katakura
 sort_value: Mayuko Katakura Inspiration
@@ -23,6 +23,6 @@ videos:
    - {url: "https://youtu.be/-wUwJnLzUtk", comment: "Audio from the first track on the album, \"Blues For Tyner\""}
    - {url: "https://youtu.be/O3V34fItd8Y", comment: "Live performance with Mayuko Katakura playing \"Linden Blvd\" with the Kiyoshi Kitakawa trio"}
 ---
-Pianist Mayuko Katakura’s 2009 debut album *Inspiration* immediately impresses, kicking off at a rapid pace with "Blues For Tyner", a tribute to one of her own jazz inspirations. Right from this fierce start, Katakura’s amazing technique is on full display with angular and acrobatic lines flying through this up-tempo tune.
+Pianist Mayuko Katakura’s 2009 debut album *Inspiration* immediately impresses. The album kicks off at a rapid pace with "Blues For Tyner", a tribute to one of her jazz inspirations pianist McCoy Tyner. Right from this fierce opening, Katakura’s amazing technique is on full display with angular, acrobatic lines flying through this up-tempo tune.
 
-In addition to speed, Katakura’s confident jazz piano sense extends to bluesy grooves and touching sensitivity, played with a dedication to the music and to those she has been inspired by. The ten tracks, with originals and nicely-arranged standards, make this a well-balanced album with a variety of tempos and moods.
+In addition to speed, Katakura’s confident jazz piano sense extends to bluesy grooves and touching sensitivity. This is a pianist who plays with a dedication to the music and to those she has been inspired by. The ten tracks on *Inspiration*, with originals and nicely-arranged standards, make this a well-balanced set with a variety of tempos and moods.
