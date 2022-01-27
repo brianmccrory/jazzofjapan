@@ -24,3 +24,8 @@ videos:
    - {url: "https://youtube.com/playlist?list=OLAK5uy_msOgHBlK08sbA0EyIiAuqh6a8jCRD1Tfw", comment: "Dubai Suite playlist"}
 ---
 TBD
+
+Pianists Yamano Yukako and Yukari Inoue team up on dual pianos for this suite-centered mini-album celebrating the aspects of Dubai. *Dubai Suite*, a five-part composition by Yamano Yukako, reflects her appreciation and experiences of that place, and was recorded in anticipation of a late 2021 return trip. 
+
+
+While the cover shows desert sands of a middle eastern setting, the image was actually shot near in Yamano's hometown of...

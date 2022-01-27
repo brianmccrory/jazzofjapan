@@ -15,7 +15,7 @@ members:
    - {name: Motoi Kanamori, instrument: "bass", japanese_name: 金森もとい}
    - {name: Yasushi Fukumori, instrument: "drums", japanese_name: 福森康}
    - {name: Mamoru Ishida, instrument: "Rhodes (tr. #5, 6)", japanese_name: 石田衛}
-   - {name: Shun Ishiwaka, instrument: "drums (tr. #1)", japanese_name: 石若俊}
+   - {name: Shun Ishiwaka, instrument: "drums (tr. #1)", japanese_name: 石若俊, url: "http://www.shun-ishiwaka.com/"}
 images:
    - L1180587-1024.jpg
    - L1180583-1024.jpg

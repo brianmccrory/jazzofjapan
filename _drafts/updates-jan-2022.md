@@ -12,6 +12,7 @@ As a linked list with descriptions:
 * [Koichi Sato: Melancholy of a Journey]({% link _albums/koichi-sato-melancholy.md %}) - piano trio plus guitar, cello, clarinet
 * [Mayuko Katakura: Inspiration]({% link _albums/mayuko-katakura-inspiration.md %}) - hard bop piano trio
 * [Rie Taguchi: The Gift]({% link _albums/rie-taguchi-gift.md %}) - sparkling vocal jazz with a full band
+* [Sachiko Ikuta Trio: Haru No Kaze]({% link _albums/sachiko-ikute-trio-haru.md %}) - swinging and solid piano trio
 * [Toshihiko Inoue: Vayu]({% link _albums/toshihiho-inoue-vayu.md %}) - desc
 * [Yukako Yamano & Yukari Inoue: Dubai Suite]({% link _albums/yukakoyamano-yukariinoue-dubai.md %}) - a new 2022 release featuring a piano duo
 
