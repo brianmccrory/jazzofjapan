@@ -1,6 +1,6 @@
 ---
 title: Musicians
-image: /assets/images/J-shaded.jpg
+date: 2022-01-27
 ---
 # Musicians
 
@@ -33,6 +33,7 @@ Hakuei Kim<br><span class="subtext">ハクエイ・キム piano</span> | [Open t
 Harumi Nomoto<br><span class="subtext">野本晴美 piano</span> | [Virgo]({% link _albums/harumi-nomoto-trio-virgo.md %})
 Harutoshi Ito<br><span class="subtext">伊藤ハルトシ cello</span> | [Melancholy of a Journey]({% link _albums/koichi-sato-melancholy.md %})
 Hideaki Hori<br><span class="subtext">堀秀彰 piano</span> | [Grown-up Christmas Gift]({% link _albums/sanae-ishikawa-grown-up-christmas.md %}) ・ [Move On]({% link _albums/hikari-ichihara-group-move-on.md %}) ・ [Resonance]({% link _albums/duo-tremolo-resonance.md %}) ・ [Unconditional Love]({% link _albums/hideaki-hori-trio-unconditional-love.md %})
+Hideaki Kanazawa<br><span class="subtext">金澤英明 bass</span> | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %})
 Hikari Ichihara<br><span class="subtext">市原ひかり trumpet</span> | [Move On]({% link _albums/hikari-ichihara-group-move-on.md %})
 Hiroco Nagano<br><span class="subtext">永野寛子 vocal</span> | [Okurimono]({% link _albums/hiroco-nagano-okurimono.md %})
 Hiroki Chiba<br><span class="subtext">千葉広樹 bass</span> | [Melancholy of a Journey]({% link _albums/koichi-sato-melancholy.md %}) ・ [National Anthem of Unknown Country]({% link _albums/rabbitoo-national-anthem-of-unknown.md %})
@@ -99,6 +100,7 @@ Ryoji Orihara<br><span class="subtext">織原良次 fretless bass</span> | [Feve
 Ryosuke Asai<br><span class="subtext">浅井良将 sax</span> | [Move On]({% link _albums/hikari-ichihara-group-move-on.md %})
 Ryosuke Hashizume<br><span class="subtext">橋爪亮督 sax</span> | [Incomplete Voices]({% link _albums/ryosuke-hashizume-group-incomplete.md %}) ・ [Music In You]({% link _albums/hitomi-nishiyama-trio-music-in-you.md %}) ・ [Needful Things]({% link _albums/ryosuke-hashizume-needful-things.md %})
 Ryuichi Takase<br><span class="subtext">高瀬龍一 trumpet</span> | [Whisper Not]({% link _albums/layla-tomomi-sakai-whisper-not.md %})
+Sachiko Ikuta<br><span class="subtext">生田さち子 piano</span> | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %})
 Sanae Ishikawa<br><span class="subtext">石川早苗 vocal</span> | [Fever]({% link _albums/trigraph-fever.md %}) ・ [Grown-up Christmas Gift]({% link _albums/sanae-ishikawa-grown-up-christmas.md %})
 Saori Sendo<br><span class="subtext">仙道さおり percussion</span> | [Resonance]({% link _albums/duo-tremolo-resonance.md %})
 Satoshi Kosugi<br><span class="subtext">小杉敏 bass</span> | [Bass on Times]({% link _albums/satoshi-kosugi-bass-on-times.md %})
@@ -112,7 +114,7 @@ Shingo Tanaka<br><span class="subtext">田中晋吾 bass</span> | [Here Goes!]({
 Shinichi Kato<br><span class="subtext">加藤真一 bass</span> | [Catastrophe In Jazz]({% link _albums/taihei-asakawa-catastrophe-in-jazz.md %}) ・ [Duet]({% link _albums/shinichi-kato-and-masahiko-sato-duet.md %})
 Shinji Hashimoto<br><span class="subtext">橋本信二 guitar</span> | [Agora]({% link _albums/yuka-ueda-agora.md %}) ・ [Bass on Times]({% link _albums/satoshi-kosugi-bass-on-times.md %})
 Show Kudo<br><span class="subtext">工藤精 bass</span> | [Sumitty & The Funfair]({% link _albums/sumito-oi-sumitty-and-the-funfair.md %})
-Shun Ishiwaka<br><span class="subtext">石若俊 drums</span> | [Humadope]({% link _albums/keisuke-nakamura-humadope.md %})
+Shun Ishiwaka<br><span class="subtext">石若俊 drums</span> | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %}) ・ [Humadope]({% link _albums/keisuke-nakamura-humadope.md %})
 Shunosuke Ishikawa<br><span class="subtext">石川周之介 sax</span> | [Beautiful Days]({% link _albums/fumie-chiba-beautiful-days.md %})
 Sohnosuke Imaizumi<br><span class="subtext">今泉総之輔 drums</span> | [Grown-up Christmas Gift]({% link _albums/sanae-ishikawa-grown-up-christmas.md %}) ・ [Rin]({% link _albums/sohnosuke-imaizumi-rin.md %}) ・ [Urban Clutter]({% link _albums/ami-fukui-trio-urban-clutter.md %}) ・ [Virgo]({% link _albums/harumi-nomoto-trio-virgo.md %})
 Sumito Oi<br><span class="subtext">大井澄東 drums</span> | [Sumitty & The Funfair]({% link _albums/sumito-oi-sumitty-and-the-funfair.md %})
@@ -125,6 +127,7 @@ Takumi Seino<br><span class="subtext">清野拓巳 guitar</span> | [Needful Thin
 Tamashi Goto<br><span class="subtext">後藤魂 piano</span> | [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %})
 Tamaya Honda<br><span class="subtext">本田珠也 drums</span> | [Invisible]({% link _albums/junichiro-ohkuchi-trio-invisible.md %})
 Taro Sukegawa<br><span class="subtext">助川太郎 guitar</span> | [Hall Tone]({% link _albums/meu-coracao-hall-tone.md %})
+Terumasa Hino<br><span class="subtext">日野皓正 trumpet</span> | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %})
 Terumasa Nishikawa<br><span class="subtext">西川輝正 bass</span> | [Gallery]({% link _albums/yukiko-hayakawa-trio-gallery.md %})
 Tokuhiro Doi<br><span class="subtext">土井徳浩 clarinet</span> | [Amalthea]({% link _albums/tokuhiro-doi-quartet-amalthea.md %}) ・ [Melancholy of a Journey]({% link _albums/koichi-sato-melancholy.md %})
 Tomoyuki Konno<br><span class="subtext">紺野智之 drums</span> | [Amalthea]({% link _albums/tokuhiro-doi-quartet-amalthea.md %})
