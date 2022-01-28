@@ -10,9 +10,9 @@ code: DMCD-15
 image: /assets/images/2019/01/tokuhirodoi-amalthea-460.jpeg
 members:
    - {name: Tokuhiro Doi, instrument: "clarinet", japanese_name: 土井徳浩, url: "https://www.doitoku.com/"}
-   - {name: Koichi Sato, instrument: "piano", japanese_name: 佐藤浩一}
-   - {name: Yuhei Honkawa, instrument: "bass", japanese_name: 本川悠平}
-   - {name: Tomoyuki Konno, instrument: "drums", japanese_name: 紺野智之}
+   - {name: Koichi Sato, instrument: "piano", japanese_name: 佐藤浩一, url: "https://koichisato.com/"}
+   - {name: Yuhei Honkawa, instrument: "bass", japanese_name: 本川悠平, url: "http://yuhei-ponkawajazz.cocolog-nifty.com/"}
+   - {name: Tomoyuki Konno, instrument: "drums", japanese_name: 紺野智之, url: "http://tomoyukikonno.blogspot.com/"}
 images:
    - L1200329-1024.JPG
    - L1200332-1024.JPG

@@ -10,10 +10,10 @@ code: APLS1704
 image: /assets/images/2018/01/ryosukehashizume-incompletevoices-460.jpeg
 members:
    - {name: Ryosuke Hashizume, instrument: "tenor, soprano saxophones", japanese_name: 橋爪亮督, url: "http://www.ryohashizume.com/"}
-   - {name: Motohiko Ichino, instrument: "guitar", japanese_name: 市野元彦}
-   - {name: Koichi Sato, instrument: "piano", japanese_name: 佐藤浩一}
-   - {name: Ryoji Orihara, instrument: "fretless bass", japanese_name: 織原良次}
-   - {name: Manabu Hashimoto, instrument: "drums, percussion", japanese_name: 橋本学}
+   - {name: Motohiko Ichino, instrument: "guitar", japanese_name: 市野元彦, url: "https://motohikoichino.com/"}
+   - {name: Koichi Sato, instrument: "piano", japanese_name: 佐藤浩一, url: "https://koichisato.com/"}
+   - {name: Ryoji Orihara, instrument: "fretless bass", japanese_name: 織原良次, url: "https://www.ryojiorihara.com/"}
+   - {name: Manabu Hashimoto, instrument: "drums, percussion", japanese_name: 橋本学, url: "http://mh-ob.blogspot.com/"}
 images:
    - L1180434-1024.JPG
    - L1180436-1024.JPG

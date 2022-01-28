@@ -9,7 +9,7 @@ label: Pony Canyon
 code: MYCJ-30653
 image: /assets/images/2018/01/ayumikoketsu-art-460.jpeg
 members:
-   - {name: Ayumi Koketsu, instrument: "alto sax", japanese_name: 纐纈歩美, url: "http://a-koketsu.com"}
+   - {name: Ayumi Koketsu, instrument: "alto sax", japanese_name: 纐纈歩美, url: "http://a-koketsu.com/"}
    - {name: Jeremy Manasia, instrument: "piano"}
    - {name: Mike Karn, instrument: "bass"}
    - {name: Mark Taylor, instrument: "drums"}

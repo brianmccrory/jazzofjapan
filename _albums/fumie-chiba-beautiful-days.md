@@ -10,10 +10,10 @@ code: UR-002
 subdir: 2022/01
 image: /assets/images/2021/05/fumiechiba-beautifuldays-460.jpeg
 members:
-   - {name: Fumie Chiba, instrument: "piano", japanese_name: 千葉史絵, url: "http://fumiechiba.com"}
-   - {name: Mitsuru Tanaka, instrument: "trumpet, flugelhorn", japanese_name: 田中充}
+   - {name: Fumie Chiba, instrument: "piano", japanese_name: 千葉史絵, url: "https://fumiechiba.com"}
+   - {name: Mitsuru Tanaka, instrument: "trumpet, flugelhorn", japanese_name: 田中充, url: "http://www.mitzru.com/"}
    - {name: Shunosuke Ishikawa, instrument: "tenor sax, soprano sax, flute", japanese_name: 石川周之介}
-   - {name: Aya Kurosawa, instrument: "voice", japanese_name: 黒沢綾}
+   - {name: Aya Kurosawa, instrument: "voice", japanese_name: 黒沢綾, url: "https://ayakurosawa.me/"}
    - {name: Koji Tetsui, instrument: "bass", japanese_name: 鉄井孝司}
    - {name: Kaoru Suzuki, instrument: "drums", japanese_name: 鈴木郁}
 images:

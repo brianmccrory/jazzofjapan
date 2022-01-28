@@ -11,10 +11,10 @@ image: /assets/images/2018/02/keisukenakamura-humadope-460.jpeg
 members:
    - {name: Keisuke Nakamura, instrument: "trumpet, flugelhorn", japanese_name: 中村恵介, url: "https://blackdevil729.wixsite.com/keisuke-nakamura"}
    - {name: Akihiro Nishiguchi, instrument: "tenor sax, soprano sax", japanese_name: 西口明宏}
-   - {name: Akane Matsumoto, instrument: "piano", japanese_name: 松本茜}
-   - {name: Motoi Kanamori, instrument: "bass", japanese_name: 金森もとい}
-   - {name: Yasushi Fukumori, instrument: "drums", japanese_name: 福森康}
-   - {name: Mamoru Ishida, instrument: "Rhodes (tr. #5, 6)", japanese_name: 石田衛}
+   - {name: Akane Matsumoto, instrument: "piano", japanese_name: 松本茜, url: "http://akanejazz.com"}
+   - {name: Motoi Kanamori, instrument: "bass", japanese_name: 金森もとい, url: "https://ameblo.jp/mottoi-bass/"}
+   - {name: Yasushi Fukumori, instrument: "drums", japanese_name: 福森康, url: "https://ameblo.jp/su-shi84/"}
+   - {name: Mamoru Ishida, instrument: "Rhodes (tr. #5, 6)", japanese_name: 石田衛, url: "http://mamoruishida.blogspot.com/"}
    - {name: Shun Ishiwaka, instrument: "drums (tr. #1)", japanese_name: 石若俊, url: "http://www.shun-ishiwaka.com/"}
 images:
    - L1180587-1024.jpg

@@ -11,9 +11,9 @@ image: /assets/images/2019/05/hikariichihara-moveon-460.jpeg
 members:
    - {name: Hikari Ichihara, instrument: "trumpet, flugelhorn", japanese_name: 市原ひかり, url: "http://www.hikari-ichihara.com/"}
    - {name: Ryosuke Asai, instrument: "alto sax", japanese_name: 浅井良将}
-   - {name: Hideaki Hori, instrument: "piano", japanese_name: 堀秀彰}
+   - {name: Hideaki Hori, instrument: "piano", japanese_name: 堀秀彰, url: "https://www.hideakihori.com/"}
    - {name: Kunpei Nakabayashi, instrument: "bass", japanese_name: 中林薫平}
-   - {name: Masanori Ando, instrument: "drums", japanese_name: 安藤正則}
+   - {name: Masanori Ando, instrument: "drums", japanese_name: 安藤正則, url: "http://www.andomasanori.com/"}
 images:
    - L1200512-1024.jpg
    - L1200513-1024.jpg

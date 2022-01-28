@@ -10,8 +10,8 @@ code: RKCJ-2046
 image: /assets/images/2018/05/taiheiasakawa-catas-460.jpeg
 members:
    - {name: Taihei Asakawa, instrument: "piano, compositions", japanese_name: 浅川太平, url: "https://taiheiasakawa.wixsite.com/piano"}
-   - {name: Shinichi Kato, instrument: "bass", japanese_name: 加藤真一}
-   - {name: Manabu Hashimoto, instrument: "drums", japanese_name: 橋本学}
+   - {name: Shinichi Kato, instrument: "bass", japanese_name: 加藤真一, url: "https://katoshinichi.net/"}
+   - {name: Manabu Hashimoto, instrument: "drums", japanese_name: 橋本学, url: "http://mh-ob.blogspot.com/"}
 images:
    - L1200201-1024.jpg
    - L1200202-1024.jpg

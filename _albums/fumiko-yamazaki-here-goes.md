@@ -12,7 +12,7 @@ members:
    - {name: Fumiko Yamazaki, instrument: "vibes, percussion", japanese_name: 山崎ふみこ, url: "http://trill.jp/"}
    - {name: Keizo Kawano, instrument: "piano, keyboard", japanese_name: 河野啓三}
    - {name: Shingo Tanaka, instrument: "bass", japanese_name: 田中晋吾}
-   - {name: Takashi Saito, instrument: "drums, percussion", japanese_name: 齋藤たかし}
+   - {name: Takashi Saito, instrument: "drums, percussion", japanese_name: 齋藤たかし, url: "https://staxiverhp.wixsite.com/takashisaito"}
 images:
    - L1200539-1024.JPG
    - L1200538-1024.JPG

@@ -10,10 +10,10 @@ code: PBP-0001
 image: /assets/images/2018/02/satoshikosugi-bassontimes-460.jpeg
 members:
    - {name: Satoshi Kosugi, instrument: "bass", japanese_name: 小杉敏, url: "http://www7b.biglobe.ne.jp/kosugibass/"}
-   - {name: Yoshiro Okazaki, instrument: "trumpet", japanese_name: 岡崎好朗}
+   - {name: Yoshiro Okazaki, instrument: "trumpet", japanese_name: 岡崎好朗, url: "http://www.yoshirojazz.sakura.ne.jp/"}
    - {name: Kazuhide Motooka, instrument: "piano", japanese_name: 元岡一英}
    - {name: Shinji Hashimoto, instrument: "guitar", japanese_name: 橋本信二}
-   - {name: Yoshihito Eto, instrument: "drums", japanese_name: 江藤良人}
+   - {name: Yoshihito Eto, instrument: "drums", japanese_name: 江藤良人, url: "http://eto.mockhillrecords.com/"}
 images:
    - L1180545-1024.jpg
    - L1180547-1024.jpg

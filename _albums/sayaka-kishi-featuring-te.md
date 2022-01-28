@@ -9,9 +9,9 @@ label: Roving Spirits
 code: RKC-8050
 image: /assets/images/2018/01/sayakakishi-featte-460.jpeg
 members:
-   - {name: Sayaka Kishi, instrument: "piano", japanese_name: 岸淑香, url: "http://www.sayaketto.net"}
-   - {name: Mayumi Sano, instrument: "cello (#2, 5, 9)", japanese_name: 佐野まゆみ}
-   - {name: Aya Kurosawa, instrument: "vocal (#11)", japanese_name: 黒沢綾}
+   - {name: Sayaka Kishi, instrument: "piano", japanese_name: 岸淑香, url: "http://www.sayaketto.net/"}
+   - {name: Mayumi Sano, instrument: "cello (#2, 5, 9)", japanese_name: 佐野まゆみ, url: "http://sanomayumi.com/"}
+   - {name: Aya Kurosawa, instrument: "vocal (#11)", japanese_name: 黒沢綾, url: "https://ayakurosawa.me/"}
 images:
    - L1180437-1024.JPG
    - L1180440-1024.JPG

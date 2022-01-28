@@ -12,7 +12,7 @@ image: /assets/images/2020/01/rabbitoo-national-460.jpeg
 members:
    - {name: Motohiko Ichino, instrument: "guitars, keyboards", japanese_name: 市野元彦, url: "https://motohikoichino.com/"}
    - {name: Daisuke Fujiwara, instrument: "tenor saxophone, electronics", japanese_name: 藤原大輔, url: "http://www.fujiwaradaisuke.com/"}
-   - {name: Koichi Sato, instrument: "Rhodes, Minimoog, Nord, piano", japanese_name: 佐藤浩一, url: "http://koichisato.com/"}
+   - {name: Koichi Sato, instrument: "Rhodes, Minimoog, Nord, piano", japanese_name: 佐藤浩一, url: "https://koichisato.com/"}
    - {name: Hiroki Chiba, instrument: "contrabass, electric bass, electronics", japanese_name: 千葉広樹, url: "https://linktr.ee/Hirokichiba"}
    - {name: Noritaka Tanaka, instrument: "drums", japanese_name: 田中徳崇, url: "https://www.jazz.co.jp/Mus/tanakatokutakashi.html"}
 images:

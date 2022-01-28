@@ -9,7 +9,7 @@ label: Nippon Acoustic Records, Inc
 code: NARP-8009
 image: /assets/images/2018/02/seijiendo-circle-460.jpeg
 members:
-   - {name: Seiji Endo, instrument: "solo piano and compositions", japanese_name: 遠藤征志, url: "https://seiji-piano-endo.com"}
+   - {name: Seiji Endo, instrument: "solo piano and compositions", japanese_name: 遠藤征志, url: "https://seiji-piano-endo.com/"}
 images:
    - L1180870-1024.jpg
    - L1180872-1024.jpg

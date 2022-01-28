@@ -9,9 +9,9 @@ label: The Glee
 code: GPHR-16011
 image: /assets/images/2020/01/maikotrio-three-460.jpeg
 members:
-   - {name: maiko, instrument: "violin", japanese_name: マイコ, url: "https://jvmaiko.com"}
-   - {name: Hiroki Miyano, instrument: "guitar", japanese_name: 宮野弘紀}
-   - {name: Shikou Ito, instrument: "piano", japanese_name: 伊藤志宏}
+   - {name: maiko, instrument: "violin", japanese_name: マイコ, url: "https://jvmaiko.com/"}
+   - {name: Hiroki Miyano, instrument: "guitar", japanese_name: 宮野弘紀, url: "https://ameblo.jp/hiroki-miyano/"}
+   - {name: Shikou Ito, instrument: "piano", japanese_name: 伊藤志宏, url: "https://www.shikoupf.com/"}
 images:
    - L1220314-1024.jpg
    - L1220317-1024.JPG

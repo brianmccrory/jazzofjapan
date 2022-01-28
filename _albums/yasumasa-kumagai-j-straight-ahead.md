@@ -10,8 +10,8 @@ code: JZBR-0001
 image: /assets/images/2018/01/yasumasakumagai-jstraightahead-460.jpeg
 members:
    - {name: Yasumasa Kumagai, instrument: "piano", japanese_name: 熊谷ヤスマサ, url: "https://yasumasakumagai.com/"}
-   - {name: Yosuke Inoue, instrument: "bass", japanese_name: 井上陽介}
-   - {name: Masahiko Osaka, instrument: "drums", japanese_name: 大坂昌彦}
+   - {name: Yosuke Inoue, instrument: "bass", japanese_name: 井上陽介, url: "http://yosukeinouejazz.sakura.ne.jp/"}
+   - {name: Masahiko Osaka, instrument: "drums", japanese_name: 大坂昌彦, url: "https://osaka-masahiko.com/"}
 images:
    - L1180491-1024.jpg
    - L1180493-1024.jpg

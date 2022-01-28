@@ -9,9 +9,9 @@ label: Flower Records
 code: FLRC-070
 image: /assets/images/2018/02/sohnosukeimaizumi-rin-460.jpeg
 members:
-   - {name: Sohnosuke Imaizumi, instrument: "drums", japanese_name: 今泉総之輔, url: "http://www.imaizumisohnosuke.com"}
-   - {name: Kazuhiro Sunaga, instrument: "bass", japanese_name: 須長和広}
-   - {name: Kazuhiro Tamura, instrument: "piano", japanese_name: 田村和大}
+   - {name: Sohnosuke Imaizumi, instrument: "drums", japanese_name: 今泉総之輔, url: "http://www.imaizumisohnosuke.com/"}
+   - {name: Kazuhiro Sunaga, instrument: "bass", japanese_name: 須長和広, url: "http://kazz.arrow.jp/"}
+   - {name: Kazuhiro Tamura, instrument: "piano", japanese_name: 田村和大, url: "https://ameblo.jp/kazu-piano/"}
    - {name: Blahmuzik, instrument: "sampler"}
 images:
    - L1180955-1024.jpg

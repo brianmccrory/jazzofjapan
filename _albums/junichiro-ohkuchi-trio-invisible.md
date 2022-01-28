@@ -9,7 +9,7 @@ label: Big Mouth Records
 code: Invisible
 image: /assets/images/2018/02/junichiroohkuchi-invisible-460.jpeg
 members: 
-   - {name: Junichiro Ohkuchi, instrument: piano, japanese_name: 大口純一郎, url: "https://pianistjohkuchi.blogspot.com"}
+   - {name: Junichiro Ohkuchi, instrument: piano, japanese_name: 大口純一郎, url: "https://pianistjohkuchi.blogspot.com/"}
    - {name: Yasushi Yoneki, instrument: "bass", japanese_name: 米木康志, url: "https://www.catfish-records.jp/product/27801"}
    - {name: Tamaya Honda, instrument: drums, japanese_name: 本田珠也, url: "http://tamayahonda.blogspot.com/"}
 images:

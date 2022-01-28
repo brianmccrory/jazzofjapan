@@ -9,7 +9,7 @@ label: Leccia Records / feel free products
 code: LRTR-0004
 image: /assets/images/2018/11/trispace-trispace-460.jpeg
 members:
-   - {name: Yuichi Hayashi, instrument: "Piano, Composition", japanese_name: 林祐市, url: "http://yuichihayashi.com/band/"}
+   - {name: Yuichi Hayashi, instrument: "Piano, Composition", japanese_name: 林祐市, url: "http://yuichihayashi.com/"}
    - {name: Morihiro Omura, instrument: "Bass", japanese_name: 大村守弘}
    - {name: Yoshitaka Yamashita, instrument: "Drums", japanese_name: 山下佳孝}
 images:

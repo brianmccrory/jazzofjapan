@@ -10,9 +10,9 @@ code: AFD-106
 image: /assets/images/2020/04/yukaueda-agora-460.jpeg
 members:
    - {name: Yuka Ueda, instrument: "vocals", japanese_name: 上田裕香, url: "http://yuuka-agora.com/wp/"}
-   - {name: Junichiro Ohkuchi, instrument: "piano", japanese_name: 大口純一郎}
+   - {name: Junichiro Ohkuchi, instrument: "piano", japanese_name: 大口純一郎, url: "https://pianistjohkuchi.blogspot.com/"}
    - {name: Shinji Hashimoto, instrument: "guitar", japanese_name: 橋本信二}
-   - {name: Daisuke Toi, instrument: "piano (#8), electric bass (#10)", japanese_name: トオイダイスケ}
+   - {name: Daisuke Toi, instrument: "piano (#8), electric bass (#10)", japanese_name: トオイダイスケ, url: "http://www.daisuketoi.com/"}
 images:
    - L1210478-1024.jpg
    - L1210480-1024.jpg

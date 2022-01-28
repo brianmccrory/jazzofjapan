@@ -10,7 +10,7 @@ label: Song X Jazz
 code: SONG X 038
 image: /assets/images/2018/02/koichisato-melancholy-460.jpeg
 members:
-   - {name: Koichi Sato, instrument: "piano", japanese_name: 佐藤浩一, url: "http://koichisato.com/"}
+   - {name: Koichi Sato, instrument: "piano", japanese_name: 佐藤浩一, url: "https://koichisato.com/"}
    - {name: Tokuhiro Doi, instrument: "clarinet, bass clarinet", japanese_name: 土井徳浩, url: "https://www.doitoku.com/"}
    - {name: Motohiko Ichino, instrument: "guitar", japanese_name: 市野元彦, url: "https://motohikoichino.com/"}
    - {name: Harutoshi Ito, instrument: "cello", japanese_name: 伊藤ハルトシ, url: "https://www.itoharutoshi.com"}

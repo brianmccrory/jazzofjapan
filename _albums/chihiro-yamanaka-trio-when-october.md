@@ -10,7 +10,7 @@ code: AS-025
 image: /assets/images/2020/08/chihiroyamanaka-october-460.jpeg
 members:
    - {name: Chihiro Yamanaka, instrument: "piano", japanese_name: 山中千尋, url: "https://www.chihiroyamanaka.net/"}
-   - {name: Larry Grenadier, instrument: "bass", url: "http://larrygrenadier.com/"}
+   - {name: Larry Grenadier, instrument: "bass", url: "https://larrygrenadier.com/"}
    - {name: Jeff Ballard, instrument: "drums", url: "https://www.jeffballard.com/"}
 images:
    - L1210615-1024.jpg

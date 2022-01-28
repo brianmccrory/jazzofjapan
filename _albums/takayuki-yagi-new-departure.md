@@ -9,7 +9,7 @@ label: JazzTOKYO RECORDS
 code: JTRC-002
 image: /assets/images/2021/01/takayukiyagi-newdeparture-460.jpeg
 members:
-   - {name: Takayuki Yagi, instrument: "piano", japanese_name: 八木隆幸, url: "https://yagitakayuki.com"}
+   - {name: Takayuki Yagi, instrument: "piano", japanese_name: 八木隆幸, url: "https://yagitakayuki.com/"}
    - {name: Scott Wendholt, instrument: "trumpet (#1, 2, 3, 5)", url: "https://www.scottwendholt.net/"}
    - {name: Ralph Bowen, instrument: "tenor saxophone (#1, 2, 3, 5)", url: "http://www.ralphbowen.com/"}
    - {name: Jay Anderson, instrument: "bass", url: "http://www.jayandersonbass.com/"}

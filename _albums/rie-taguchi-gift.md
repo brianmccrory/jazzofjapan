@@ -10,7 +10,7 @@ code: RHM002
 image: /assets/images/2018/02/rietaguchi-gift-460.jpeg
 members:
    - {name: Rie Taguchi, instrument: "vocals, piano", japanese_name: 田口理恵, url: "https://riepihappymusic.wixsite.com/music"}
-   - {name: Seiji Endo, instrument: "piano, arrangements", japanese_name: 遠藤征志, url: "https://seiji-piano-endo.com"}
+   - {name: Seiji Endo, instrument: "piano, arrangements", japanese_name: 遠藤征志, url: "https://seiji-piano-endo.com/"}
    - {name: Seiji Tada, instrument: "alto sax, flute", japanese_name: 多田誠司, url: "http://www.tadasei.net/"}
    - {name: Noriko Satomi, instrument: "violin", japanese_name: 里見紀子, url: "https://project-nori.wixsite.com/mysite"}
    - {name: Mitsukuni Tanabe, instrument: "guitar", japanese_name: 田辺充邦, url: "http://tanabe-mitsukuni.com/"}

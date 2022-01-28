@@ -9,10 +9,10 @@ label: S&T Music
 code: STMU-1001
 image: /assets/images/2018/03/sumito-oi-funfair-460.jpeg
 members:
-   - {name: Sumito Oi, instrument: "drums", japanese_name: 大井澄東, url: "https://www.sumitooi.com"}
-   - {name: Toyomi Kobayashi, instrument: "flute, alto flute, bass flute, Andes25F", japanese_name: 小林豊美}
-   - {name: Koichi Sato, instrument: "piano, Fender Rhodes, Wurlitzer", japanese_name: 佐藤浩一}
-   - {name: Show Kudo, instrument: "double bass, electric bass", japanese_name: 工藤精}
+   - {name: Sumito Oi, instrument: "drums", japanese_name: 大井澄東, url: "https://www.sumitooi.com/"}
+   - {name: Toyomi Kobayashi, instrument: "flute, alto flute, bass flute, Andes25F", japanese_name: 小林豊美, url: "https://toyomikobayashi.theblog.me/"}
+   - {name: Koichi Sato, instrument: "piano, Fender Rhodes, Wurlitzer", japanese_name: 佐藤浩一, url: "https://koichisato.com/"}
+   - {name: Show Kudo, instrument: "double bass, electric bass", japanese_name: 工藤精, url: "https://showgun65.exblog.jp/"}
 images:
    - L1180745-1024.JPG
    - L1180744-1024.JPG

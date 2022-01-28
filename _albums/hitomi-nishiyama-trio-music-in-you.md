@@ -9,7 +9,7 @@ label: Meantone Records
 code: MT-002
 image: /assets/images/2018/03/hitominishiyama-musicinyou-460.jpeg
 members:
-   - {name: Hitomi Nishiyama, instrument: "piano", japanese_name: 西山瞳, url: "http://hitominishiyama.net"}
+   - {name: Hitomi Nishiyama, instrument: "piano", japanese_name: 西山瞳, url: "http://hitominishiyama.net/"}
    - {name: Yasuhiko "Hachi" Sato, instrument: "bass", japanese_name: 佐藤“ハチ”恭彦, url: "https://twitter.com/hachi310"}
    - {name: Kazumi Ikenaga, instrument: "drums", japanese_name: 池長和美, url: "http://www.graphic-art.com/ikenaga/"}
    - {name: Ryosuke Hashizume, instrument: "tenor sax (#12)", japanese_name: 橋爪亮督, url: "http://www.ryohashizume.com/"}

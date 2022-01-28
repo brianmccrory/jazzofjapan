@@ -10,7 +10,7 @@ code: 001
 image: /assets/images/2021/03/layla-tomomi-sakai-whisper-460.jpeg
 members:
    - {name: Layla Tomomi Sakai, instrument: "vocals", japanese_name: 坂井レイラ知美, url: "https://www.sakailaylatomomi.com/"}
-   - {name: Yuichiro Hiraoka, instrument: "guitar", japanese_name: 平岡遊一郎}
+   - {name: Yuichiro Hiraoka, instrument: "guitar", japanese_name: 平岡遊一郎, url: "http://tuhiraoka.fc2web.com/"}
    - {name: Ryuichi Takase, instrument: "trumpet", japanese_name: 高瀬龍一}
 images:
    - L1220622-1024.jpg

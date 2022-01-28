@@ -9,9 +9,9 @@ label: Zipangu Label
 code: ZIP-0058
 image: /assets/images/2018/01/emikovoice-carta-square-460.jpeg
 members:
-   - {name: EMiKO VOiCE, instrument: "vocal", japanese_name: エミコヴォイス, url: "http://www.emikovoice.com"}
-   - {name: Koichi Sato, instrument: "piano, Rhodes", japanese_name: 佐藤浩一}
-   - {name: Akemi Ohta, instrument: "flute", japanese_name: 太田朱美}
+   - {name: EMiKO VOiCE, instrument: "vocal", japanese_name: エミコヴォイス, url: "http://www.emikovoice.com/"}
+   - {name: Koichi Sato, instrument: "piano, Rhodes", japanese_name: 佐藤浩一, url: "https://koichisato.com/"}
+   - {name: Akemi Ohta, instrument: "flute", japanese_name: 太田朱美, url: "https://ohakemi454.wixsite.com/mysite"}
    - {name: Momoko Aida, instrument: "violin", japanese_name: 会田桃子}
    - {name: Akira Tanidono, instrument: "trumpet", japanese_name: 谷殿明良}
    - {name: Toru Nishijima, instrument: "bass", japanese_name: 西嶋徹}

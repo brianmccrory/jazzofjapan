@@ -9,10 +9,10 @@ label: Atelier Sawano
 code: AS-038
 image: /assets/images/2021/03/chihiroyamanaka-madrigal-460.jpeg
 members:
-   - {name: Chihiro Yamanaka, instrument: "piano", japanese_name: 山中千尋, url: "http://www.chihiroyamanaka.net/"}
-   - {name: Larry Grenadier, instrument: "bass"}
-   - {name: Rodney Green, instrument: "drums (#1, 3, 4)"}
-   - {name: Jeff Ballard, instrument: "drums"}
+   - {name: Chihiro Yamanaka, instrument: "piano", japanese_name: 山中千尋, url: "https://www.chihiroyamanaka.net/"}
+   - {name: Larry Grenadier, instrument: "bass", url: "https://larrygrenadier.com/"}
+   - {name: Rodney Green, instrument: "drums (#1, 3, 4)", url: "http://rodneygreenjazz.com/"}
+   - {name: Jeff Ballard, instrument: "drums", url: "https://www.jeffballard.com/"}
 images:
    - L1210630-1024.jpg
    - L1210637-1024.jpg

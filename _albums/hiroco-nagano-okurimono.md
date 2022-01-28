@@ -10,7 +10,7 @@ code: MAR-1701
 image: /assets/images/2018/02/hiroconagano-okurimono-460.jpeg
 members: 
    - {name: Hiroco Nagano, instrument: "vocals", japanese_name: 永野寛子, url: "https://hiroconaganoofficial.amebaownd.com/"}
-   - {name: Seiji Endo, instrument: "piano", japanese_name: 遠藤征志, url: "https://seiji-piano-endo.com"}
+   - {name: Seiji Endo, instrument: "piano", japanese_name: 遠藤征志, url: "https://seiji-piano-endo.com/"}
    - {name: Arata Umehara, instrument: "guitar", japanese_name: 梅原新, url: "https://www.aratata.com/"}
 images:
    - L1180447-1024.jpg

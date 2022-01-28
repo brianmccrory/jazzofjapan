@@ -9,7 +9,7 @@ label: D-Musica
 code: DMCD-18
 image: /assets/images/2018/02/takujiyamada-liteblue-460.jpeg
 members:
-   - {name: Takuji Yamada, instrument: "alto and soprano saxophones, bass clarinet", japanese_name: 山田拓児, url: "https://www.takujiyamada.com"}
+   - {name: Takuji Yamada, instrument: "alto and soprano saxophones, bass clarinet", japanese_name: 山田拓児, url: "https://www.takujiyamada.com/"}
    - {name: Danny Grissett, instrument: "piano", url: "https://dannygrissett.com/"}
    - {name: Daisuke Abe, instrument: "guitar (tr. 3, 5, 6, 8, 9, 10)", japanese_name: 阿部大輔, url: "https://daisukeabe.com/"}
    - {name: Luques Curtis, instrument: "bass", url: "https://www.luquescurtis.com/"}

@@ -14,7 +14,7 @@ Following on the heels of the [recent migration]({% link _posts/2022-01-18-setti
 1. [Rie Taguchi: The Gift]({% link _albums/rie-taguchi-gift.md %}) - sparkling vocal jazz with a full band
 1. [Sachiko Ikuta Trio: Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %}) - swinging and solid piano trio
 1. [Toshihiko Inoue: Vayu]({% link _albums/toshihiho-inoue-vayu.md %}) - solo sax performance on nature's stage
-1. [Yukako Yamano & Yukari Inoue: Dubai Suite]({% link _albums/yukakoyamano-yukariinoue-dubai.md %}) - a 2022 **new release** with two pianos
+1. [Yukako Yamano & Yukari Inoue: Dubai Suite]({% link _albums/yukakoyamano-yukariinoue-dubai.md %}) - a new Dec 2021 release featuring two pianos
 
 
 Going forward I will continue to resurrect and revise the older articles and add new, previously unpublished content as well.

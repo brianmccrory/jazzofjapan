@@ -9,9 +9,9 @@ label: Okra Record
 code: MIKO-1009
 image: /assets/images/2019/04/haruminomoto-virgo-460.jpeg
 members:
-   - {name: Harumi Nomoto, instrument: "piano", japanese_name: 野本晴美, url: "https://haruminomoto.jimdo.com"}
-   - {name: Ryoji Orihara, instrument: "electric fretless bass", japanese_name: 織原良次}
-   - {name: Sohnosuke Imaizumi, instrument: "drums", japanese_name: 今泉総之輔}
+   - {name: Harumi Nomoto, instrument: "piano", japanese_name: 野本晴美, url: "https://haruminomoto.jimdofree.com/"}
+   - {name: Ryoji Orihara, instrument: "electric fretless bass", japanese_name: 織原良次, url: "https://www.ryojiorihara.com/"}
+   - {name: Sohnosuke Imaizumi, instrument: "drums", japanese_name: 今泉総之輔, url: "http://www.imaizumisohnosuke.com/"}
    - {name: Maiko Sugawara, instrument: "violin (track #8)", japanese_name: 菅原牧子}
    - {name: Nao Sakamoto, instrument: "Chromasomus/prepared guitar (track #8)", japanese_name: 坂本直}
 images:

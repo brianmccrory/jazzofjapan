@@ -9,9 +9,9 @@ label: F.S.L
 code: FSCJ-0007
 image: /assets/images/2018/03/leskomatis-leskomatis-460.jpeg
 members:
-   - {name: Nobie, instrument: "vocal, voice, percussion", japanese_name: ノビー, url: "http://nobie.net"}
+   - {name: Nobie, instrument: "vocal, voice, percussion", japanese_name: ノビー, url: "http://www.nobie.net/"}
    - {name: Akemi Ohta, instrument: "flute, alto flute, percussion, chorus", japanese_name: 太田朱美, url: "https://ohakemi454.wixsite.com/mysite"}
-   - {name: Mayuko Katakura, instrument: "piano, Rhodes piano, chorus", japanese_name: 片倉真由子, url: "https://twitter.com/mayukokatakura"}
+   - {name: Mayuko Katakura, instrument: "piano, Rhodes piano, chorus", japanese_name: 片倉真由子, url: "https://ameblo.jp/mayukokatakura/"}
    - {name: Nobumasa Yamada, instrument: "percussion", japanese_name: 山田ノブマサ}
 images:
    - L1180805-1024.jpg

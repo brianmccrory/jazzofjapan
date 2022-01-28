@@ -9,10 +9,10 @@ label: Studio Songs
 code: YZSO-10075
 image: /assets/images/2018/01/bungalow-youalreadyknow-460.jpeg
 members:
-   - {name: Mike Rivett, instrument: "Tenor Sax, Electronics"}
-   - {name: Koichi Sato, instrument: "Piano, Fender Rhodes", japanese_name: 佐藤浩一}
-   - {name: Hiroshi Ikejiri, instrument: "Acoustic Bass, Ukelele Bass", japanese_name: 池尻洋史}
-   - {name: Ko Omura, instrument: "Drums, Tabla", japanese_name: 大村亘}
+   - {name: Mike Rivett, instrument: "Tenor Sax, Electronics", url: "https://www.mikerivett.com/"}
+   - {name: Koichi Sato, instrument: "Piano, Fender Rhodes", japanese_name: 佐藤浩一, url: "https://koichisato.com/"}
+   - {name: Hiroshi Ikejiri, instrument: "Acoustic Bass, Ukelele Bass", japanese_name: 池尻洋史, url: "https://www.hiroshiikejiri.com/"}
+   - {name: Ko Omura, instrument: "Drums, Tabla", japanese_name: 大村亘, url: "https://kojazz0829.wixsite.com/1981"}
 images:
    - L1180441-1024.jpg
    - L1180443-1024.jpg

@@ -11,8 +11,8 @@ image: /assets/images/2021/03/duo-tremolo-resonance-460.jpeg
 members:
    - {name: Hideaki Hori, instrument: "piano, voice and percussion on #11", japanese_name: 堀秀彰, url: "https://www.hideakihori.com/"}
    - {name: Takayoshi Baba, instrument: "guitar, voice on #11", japanese_name: 馬場孝喜, url: "https://babaviolao.wixsite.com/babatakayoshi"}
-   - {name: Saori Sendo, instrument: "percussion on #3, #8", japanese_name: 仙道さおり}
-   - {name: Aya Kurosawa, instrument: "voice on #11", japanese_name: 黒沢綾}
+   - {name: Saori Sendo, instrument: "percussion on #3, #8", japanese_name: 仙道さおり, url: "http://www.c-a-s-net.co.jp/saoli/"}
+   - {name: Aya Kurosawa, instrument: "voice on #11", japanese_name: 黒沢綾, url: "https://ayakurosawa.me/"}
 images:
    - L1220661-1024.jpg
    - L1220662-1024.jpg

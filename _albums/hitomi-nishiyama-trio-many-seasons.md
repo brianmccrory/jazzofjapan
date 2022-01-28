@@ -9,7 +9,7 @@ label: Spice of Life
 code: SOLJP-0005
 image: /assets/images/2018/02/hitominishiyama-manyseasons-460.jpeg
 members: 
-   - {name: Hitomi Nishiyama, instrument: "piano", japanese_name: 西山瞳, url: "http://hitominishiyama.net"}
+   - {name: Hitomi Nishiyama, instrument: "piano", japanese_name: 西山瞳, url: "http://hitominishiyama.net/"}
    - {name: Hans Backenroth, instrument: "bass", url: "https://hansbackenroth.com/"}
    - {name: Anders Kjellberg, instrument: "drums", url: "https://sv.wikipedia.org/wiki/Anders_Kjellberg_(musiker)"}
 images:
