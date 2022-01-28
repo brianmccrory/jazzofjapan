@@ -9,7 +9,7 @@ label: Ventain Records
 code: VJYH-8461
 image: /assets/images/2021/04/yukiko-hayakawa-gallery-460.jpeg
 members:
-   - {name: Yukiko Hayakawa, instrument: "piano", japanese_name: 早川由紀子, url: "http://hayakawa-yukiko.com/"}
+   - {name: Yukiko Hayakawa, instrument: "piano", japanese_name: 早川由紀子, url: "https://hayakawa-yukiko.com/"}
    - {name: Terumasa Nishikawa, instrument: "bass", japanese_name: 西川輝正}
    - {name: Keiichirou Uemura, instrument: "drums", japanese_name: 上村計一郎}
 images:

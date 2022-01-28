@@ -1,6 +1,6 @@
 ---
 title: Musicians
-date: 2022-01-27
+date: 2022-01-28
 ---
 # Musicians
 
@@ -188,4 +188,3 @@ Rodney Whitaker<br><span class="subtext">bass</span> | [Faith]({% link _albums/m
 Scott Wendholt<br><span class="subtext">trumpet</span> | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %})
 Soren Dahl Jeppesen<br><span class="subtext">guitar</span> | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %})
 Victor Lewis<br><span class="subtext">drums</span> | [Wide Angle]({% link _albums/miki-hayama-trio-wide-angle.md %})
-
