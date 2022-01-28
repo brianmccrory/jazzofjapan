@@ -42,8 +42,8 @@ The following 58 articles were added, which covers all of the relevant newslette
     Protean: Protean
     Rabbitoo: National Anthem of Unknown Country
     Ruriko Kawamura: Blossoms
-    Ryosuke Hashizume Group: Incomplete Voices
     Ryosuke Hashizume: Needful Things
+    Ryosuke Hashizume Group: Incomplete Voices
     Sanae Ishikawa: Grown-up Christmas Gift
     Satoshi Kosugi: Bass on Times
     Sayaka Kishi: Featuring Te

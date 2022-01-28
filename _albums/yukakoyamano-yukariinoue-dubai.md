@@ -1,10 +1,10 @@
 ---
 featured: true
-date: 2022-01-21
+date: 2022-01-27
 date_updated:
 title: Dubai Suite
 artist: Yukako Yamano & Yukari Inoue
-sort_value: Yukako Yamano 1st Stage
+sort_value: Yukako Yamano zzz Yukari Inoue Dubai Suite
 year: 2021
 label: Yukako Yamano
 code: YKCJ-0006

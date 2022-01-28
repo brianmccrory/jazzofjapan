@@ -3,7 +3,7 @@ date: 2021-07-16
 date_updated: 2021-07-16
 title: Mistral
 artist: Toshihiko Inoue & Masaki Hayashi
-sort_value: Toshihiko Inoue & Masaki Hayashi Mistral
+sort_value: Toshihiko Inoue zzz Masaki Hayashi Mistral
 year: 2013
 label: 78 Label
 code: FNFY-06

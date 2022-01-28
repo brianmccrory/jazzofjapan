@@ -3,7 +3,7 @@ date: 2021-05-05
 date_updated: 2021-05-08
 title: By Coincidence
 artist: Yoshihito "P" Koizumi P-Project
-sort_value: Yoshihito "P" Koizumi P-Project By Coincidence
+sort_value: Yoshihito P Koizumi P-Project By Coincidence
 year: 2011
 label: Peace Bass Records
 code: PBRS-0001
