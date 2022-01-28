@@ -13,26 +13,23 @@ image: /assets/images/J-shaded.jpg
 
 ## Featured Albums
 
-{% assign latest = site.albums | where: "featured", "true" | sort: "date_updated" | reverse %}
+{%- assign new = site.albums | where: "featured", "true" | where: "date_updated", nil | sort: "date" | reverse | limit: 3 -%}
+{%- assign updated_size = 3 | minus: new.size -%}
+{%- if updated_size > 0 -%}
+{%- assign updated = site.albums | where: "featured", "true" | sort: "date_updated" | reverse | limit: updated_size -%}
+{%- endif %}
 <table>
   <tbody>
     <tr>
-	{%- assign sorted = site.albums | sort_natural:"sort_value" -%}
-{% for album in latest limit:3 -%}
-	{%- assign image = album.image | replace_first: "-460.jpeg", "-140.jpeg" -%}
-<td class="spotlight"><a href="{{ album.url }}"><img class="spotlight" width=140 height=140 src="{{ image }}" alt="{{ album.title | escape }}">
-<br>
-{{ album.artist }}:<br><em>{{ album.title }}</em></a>
-<br>
-<span class="subtext">{{ album.date_updated | date: "%b %e, %Y" }}</span>
-<br>
-</td>
+{% for album in new limit:3 -%}
+{% include featured.md %}
 {% endfor %}
-
+{% for album in updated limit: updated_size -%}
+{% include featured.md %}
+{% endfor %}
    </tr>
   </tbody>
 </table>
-
 
 ![Sax]({% link /assets/images/sax-shadow-1024.jpeg %})
 
