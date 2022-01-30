@@ -10,8 +10,8 @@ code: CR07
 image: /assets/images/2018/01/akanematsumoto-night-460.jpeg
 members:
    - {name: Akane Matsumoto, instrument: "piano", japanese_name: 松本茜, url: "http://akanejazz.com"}
-   - {name: Peter Washington, instrument: "bass"}
-   - {name: Gene Jackson, instrument: "drums"}
+   - {name: Peter Washington, instrument: "bass", url: "https://en.wikipedia.org/wiki/Peter_Washington"}
+   - {name: Gene Jackson, instrument: "drums", url: "https://www.genejacksonmusic.com/"}
 images:
    - L1180421-1024.jpg
    - L1180422-1024.jpg

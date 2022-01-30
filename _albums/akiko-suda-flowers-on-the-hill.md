@@ -12,8 +12,8 @@ members:
    - {name: Akiko Suda, instrument: "vocals", japanese_name: 須田晶子, url: "https://akikosuda.wixsite.com/akikosuda"}
    - {name: Yuichi Narita, instrument: "piano, accordion, chorus", japanese_name: 成田祐一, url: "http://www.yuichinarita.com/"}
    - {name: Koji Yasuda, instrument: "bass", japanese_name: 安田幸司, url: "http://jmsu.web.fc2.com/koji/"}
-   - {name: Yu Kudo, instrument: "drums, percussion", japanese_name: 工藤悠}
-   - {name: Nao Teraya, instrument: "guitar", japanese_name: 寺屋ナオ}
+   - {name: Yu Kudo, instrument: "drums, percussion", japanese_name: 工藤悠, url: "http://yu-drum.com/"}
+   - {name: Nao Teraya, instrument: "guitar", japanese_name: 寺屋ナオ, url: "http://www.naoteraya.com/"}
    - {name: Toyomi Kobayashi, instrument: "flute, andes", japanese_name: 小林豊美, url: "https://toyomikobayashi.theblog.me/"}
 images:
    - L1180460-1024.JPG
