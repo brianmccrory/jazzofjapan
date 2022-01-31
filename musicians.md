@@ -15,6 +15,7 @@ Akira Tanidono | [Carta]({% link _albums/emiko-voice-carta.md %}) | <span class=
 Akira Yamada | [The Gift]({% link _albums/rie-taguchi-gift.md %}) | <span class="jname-nowrap">山田玲</span><br><span class="subtext">drums</span>
 Ami Fukui | [New Journey]({% link _albums/ami-fukui-trio-new-journey.md %}) ・ [Urban Clutter]({% link _albums/ami-fukui-trio-urban-clutter.md %}) | <span class="jname-nowrap">福井亜実</span><br><span class="subtext">piano</span>
 Arata Umehara | [Okurimono]({% link _albums/hiroco-nagano-okurimono.md %}) ・ [Tsutaete Ikou]({% link _albums/seiji-endo-tsutaete-ikou.md %}) | <span class="jname-nowrap">梅原新</span><br><span class="subtext">guitar</span>
+Atomi Hamada | [This Is Atomi]({% link _albums/atomi-hamada-this-is-atomi.md %}) | <span class="jname-nowrap">浜田亜東実</span><br><span class="subtext">vocal</span>
 Atsushi Ikeda | [You've Changed]({% link _albums/hara-dairiki-trio-youve-changed.md %}) | <span class="jname-nowrap">池田篤</span><br><span class="subtext">sax</span>
 Aya Kurosawa | [Beautiful Days]({% link _albums/fumie-chiba-beautiful-days.md %}) ・ [Featuring Te]({% link _albums/sayaka-kishi-featuring-te.md %}) ・ [Resonance]({% link _albums/duo-tremolo-resonance.md %}) | <span class="jname-nowrap">黒沢綾</span><br><span class="subtext">vocal</span>
 Ayumi Koketsu | [Art]({% link _albums/ayumi-koketsu-art.md %}) | <span class="jname-nowrap">纐纈歩美</span><br><span class="subtext">sax</span>
@@ -36,6 +37,7 @@ Harutoshi Ito | [Melancholy of a Journey]({% link _albums/koichi-sato-melancholy
 Hideaki Hori | [Grown-up Christmas Gift]({% link _albums/sanae-ishikawa-grown-up-christmas.md %}) ・ [Move On]({% link _albums/hikari-ichihara-group-move-on.md %}) ・ [Resonance]({% link _albums/duo-tremolo-resonance.md %}) ・ [Unconditional Love]({% link _albums/hideaki-hori-trio-unconditional-love.md %}) | <span class="jname-nowrap">堀秀彰</span><br><span class="subtext">piano</span>
 Hideaki Kanazawa | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %}) | <span class="jname-nowrap">金澤英明</span><br><span class="subtext">bass</span>
 Hikari Ichihara | [Move On]({% link _albums/hikari-ichihara-group-move-on.md %}) | <span class="jname-nowrap">市原ひかり</span><br><span class="subtext">trumpet</span>
+Hiroaki Mizutani | [This Is Atomi]({% link _albums/atomi-hamada-this-is-atomi.md %}) | <span class="jname-nowrap">水谷浩章</span><br><span class="subtext">bass</span>
 Hiroco Nagano | [Okurimono]({% link _albums/hiroco-nagano-okurimono.md %}) ・ [Tsutaete Ikou]({% link _albums/seiji-endo-tsutaete-ikou.md %}) | <span class="jname-nowrap">永野寛子</span><br><span class="subtext">vocal</span>
 Hiroki Chiba | [Melancholy of a Journey]({% link _albums/koichi-sato-melancholy.md %}) ・ [National Anthem of Unknown Country]({% link _albums/rabbitoo-national-anthem-of-unknown.md %}) | <span class="jname-nowrap">千葉広樹</span><br><span class="subtext">bass</span>
 Hiroki Miyano | [Live! Three]({% link _albums/maiko-trio-jazz-violinist-maiko-trio-live-three.md %}) | <span class="jname-nowrap">宮野弘紀</span><br><span class="subtext">guitar</span>
@@ -82,6 +84,7 @@ Miki Hayama | [Wide Angle]({% link _albums/miki-hayama-trio-wide-angle.md %}) | 
 Minoru Yoshiki | [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) | <span class="jname-nowrap">吉木稔</span><br><span class="subtext">bass</span>
 Mitsukuni Tanabe | [The Gift]({% link _albums/rie-taguchi-gift.md %}) | <span class="jname-nowrap">田辺充邦</span><br><span class="subtext">guitar</span>
 Mitsuru Tanaka | [Beautiful Days]({% link _albums/fumie-chiba-beautiful-days.md %}) | <span class="jname-nowrap">田中充</span><br><span class="subtext">trumpet</span>
+Momo Nonami | [This Is Atomi]({% link _albums/atomi-hamada-this-is-atomi.md %}) | <span class="jname-nowrap">野波桃</span><br><span class="subtext">piano</span>
 Momoko Aida | [Carta]({% link _albums/emiko-voice-carta.md %}) | <span class="jname-nowrap">会田桃子</span><br><span class="subtext">violin</span>
 Morihiro Omura | [Trispace]({% link _albums/trispace-trispace.md %}) | <span class="jname-nowrap">大村守弘</span><br><span class="subtext">bass</span>
 Motohiko Ichino | [Incomplete Voices]({% link _albums/ryosuke-hashizume-group-incomplete.md %}) ・ [Melancholy of a Journey]({% link _albums/koichi-sato-melancholy.md %}) ・ [National Anthem of Unknown Country]({% link _albums/rabbitoo-national-anthem-of-unknown.md %}) | <span class="jname-nowrap">市野元彦</span><br><span class="subtext">guitar</span>
@@ -197,4 +200,3 @@ Scott Wendholt | [New Departure]({% link _albums/takayuki-yagi-new-departure.md 
 Sebastiaan Kaptein | [Colors in Silence]({% link _albums/tomoka-miwa-colors.md %}) | <span class="subtext">drums</span>
 Soren Dahl Jeppesen | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %}) | <span class="subtext">guitar</span>
 Victor Lewis | [Wide Angle]({% link _albums/miki-hayama-trio-wide-angle.md %}) | <span class="subtext">drums</span>
-

@@ -22,7 +22,6 @@ image: /assets/images/J-shaded.jpg
 8. Ami Fukui: *Amizm*
 11. Aquapit: *Aquapit*
 13. Arco: *Birth*
-15. Atomi Hamada: *This Is Atomi*
 17. Ayumi Koketsu: *Rainbow Tales*
 18. Azumi: *Almost Like Being In Love*
 19. Baby brothers: *Bb*
