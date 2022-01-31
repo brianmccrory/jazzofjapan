@@ -60,7 +60,6 @@ image: /assets/images/J-shaded.jpg
 74. Masako Kunisada: *M*
 75. Masako Kunisada: *Wonderful Life*
 78. Mayuko Katakura: *The Echoes of Three*
-79. Meu Coracao: *A Tempo*
 82. Mie Joké: *Etrenne*
 83. Miki Hayama: *Prelude to a Kiss*
 85. Miki Hirose: *Scratch*
@@ -82,7 +81,6 @@ image: /assets/images/J-shaded.jpg
 113. Sayaka Kishi Trio: *Life is too Great*
 114. Sayaketts: *Colors*
 117. Seiji Endo: *Sakura Meditation*
-118. Seiji Endo: *Tsutaete Ikou*
 119. Seiji Tada: *Workout!!*
 121. Shinichi Kato: *Bass on Cinema*
 123. Shinpei Ruike & George Nakajima: *N.40°*
@@ -91,7 +89,6 @@ image: /assets/images/J-shaded.jpg
 129. Taihei Asakawa: *Waltz For Debby*
 131. Takako Yamada: *The Flow of Time*
 134. TCQ: *Memories of T*
-136. Tomoka Miwa: *Colors In Silence*
 140. Trio Export 63.1.0.X: *Small Pieces for Flying Padre*
 141. Trispace: *Aria*
 143. Wataru Hamasaki Meets Akane Matsumoto Trio: *Big Catch*

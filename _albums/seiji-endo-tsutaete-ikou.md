@@ -21,7 +21,8 @@ images:
    - L1180632x-1024.jpeg
 videos: 
    - {url: "TBD", comment: "TBD"}
-   - {url: "", comment: ""}
+   - {url: "https://youtu.be/23zd-3JgmV4", comment: "Video for the song"}
+   - {url: "https://youtu.be/H7QlmnVCqMA", comment: "Solo piano version of the song for karaoke"}
 audio: 
 ---
 

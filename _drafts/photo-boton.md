@@ -1,7 +1,8 @@
 ---
-title: "Photo Spotlight: Boton at Velera"
+title: "Photo: Boton at Velera"
 date: 2022-01-30
 image: assets/images/gallery/IMG_20190613_210531278_HDR-1024.jpeg
+tag: photo
 ---
 
 ![Image of duo Boton]({% link assets/images/gallery/IMG_20190613_210531278_HDR-1024.jpeg %})
