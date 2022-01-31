@@ -20,7 +20,6 @@ image: /assets/images/J-shaded.jpg
 5. Akiko Toyama Trio: *All Is In The Sky*
 6. Akiko Toyama Trio: *Ambition*
 8. Ami Fukui: *Amizm*
-9. Ami Fukui Trio: *New Journey*
 11. Aquapit: *Aquapit*
 13. Arco: *Birth*
 15. Atomi Hamada: *This Is Atomi*
