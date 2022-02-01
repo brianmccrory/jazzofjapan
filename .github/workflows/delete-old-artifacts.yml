@@ -1,4 +1,4 @@
-name: Remove old artifacts
+name: Remove old artifacts 1 month
 
 on: push
 
@@ -8,10 +8,10 @@ jobs:
     timeout-minutes: 10
 
     steps:
-    - name: Remove old artifacts
+    - name: Remove old artifacts 1 month
       uses: c-hive/gha-remove-artifacts@v1
       with:
-        age: '3 days'
+        age: '1 month'
         # Optional inputs
         # skip-tags: true
         # skip-recent: 5
