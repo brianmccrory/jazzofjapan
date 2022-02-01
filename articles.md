@@ -26,7 +26,6 @@ image: /assets/images/J-shaded.jpg
 19. Baby brothers: *Bb*
 20. Blue Dot: *Halo*
 21. Bungalow: *Metropolitan Oasis*
-22. Bungalow: *Past Life*
 27. Daiki Yasukagawa Trio: *Kanmai*
 28. Daiki Yasukagawa Trio: *Trios II*
 31. Emiko Voice x Suga Dairo: *Phase 2*
