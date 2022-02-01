@@ -43,7 +43,6 @@ image: /assets/images/J-shaded.jpg
 51. Hitomi Nishiyama Trio "parallax": *Shift*
 52. Hitomi Nishiyama Trio: *Sympathy*
 53. Jazz Spot Intro: *Soulful Intro Live! 20th Anniversary*
-55. Kaori Nakajima & KVQ: *Cross Point*
 59. Ken’ichiro Shinzawa: *Piano Works*
 60. Ko Omura: *Introspect*
 61. Kohsuke Mine Quintet: *Major to Minor*

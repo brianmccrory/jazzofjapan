@@ -45,7 +45,7 @@ Hiroshi Ikejiri | [You Already Know]({% link _albums/bungalow-you-already-know.m
 Hitomi Nishiyama | [Many Seasons]({% link _albums/hitomi-nishiyama-trio-many-seasons.md %}) ・ [Music In You]({% link _albums/hitomi-nishiyama-trio-music-in-you.md %}) | <span class="jname-nowrap">西山瞳</span><br><span class="subtext">piano</span>
 Jun Miyakawa | [By Coincidence]({% link _albums/yoshihito-p-koizumi-by-coincidence.md %}) | <span class="jname-nowrap">宮川純</span><br><span class="subtext">piano</span>
 Junichiro Ohkuchi | [Agora]({% link _albums/yuka-ueda-agora.md %}) ・ [Invisible]({% link _albums/junichiro-ohkuchi-trio-invisible.md %}) | <span class="jname-nowrap">大口純一郎</span><br><span class="subtext">piano</span>
-Kaori Nakajima | [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) | <span class="jname-nowrap">中島香里</span><br><span class="subtext">vibraphone</span>
+Kaori Nakajima | [Cross Point]({% link _albums/kaori-vibes-quartet-cross-point.md %}) ・ [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) | <span class="jname-nowrap">中島香里</span><br><span class="subtext">vibraphone</span>
 Kaoru Suzuki | [Beautiful Days]({% link _albums/fumie-chiba-beautiful-days.md %}) | <span class="jname-nowrap">鈴木郁</span><br><span class="subtext">drums</span>
 Kazuhide Motooka | [Bass on Times]({% link _albums/satoshi-kosugi-bass-on-times.md %}) | <span class="jname-nowrap">元岡一英</span><br><span class="subtext">piano</span>
 Kazuhiro Sunaga | [Rin]({% link _albums/sohnosuke-imaizumi-rin.md %}) | <span class="jname-nowrap">須長和広</span><br><span class="subtext">bass</span>
@@ -76,12 +76,12 @@ Masahiko Osaka | [A Love Supreme]({% link _albums/noriko-satomi-a-love-supreme.m
 Masahiko Sato | [Duet]({% link _albums/shinichi-kato-and-masahiko-sato-duet.md %}) | <span class="jname-nowrap">佐藤允彦</span><br><span class="subtext">piano</span>
 Masaki Hayashi | [Mistral]({% link _albums/toshihiko-inoue-and-masaki-hayashi.md %}) | <span class="jname-nowrap">林正樹</span><br><span class="subtext">piano</span>
 Masako Hamamura | [Needful Things]({% link _albums/ryosuke-hashizume-needful-things.md %}) | <span class="jname-nowrap">浜村昌子</span><br><span class="subtext">piano</span>
-Masanori Ando | [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) ・ [Move On]({% link _albums/hikari-ichihara-group-move-on.md %}) | <span class="jname-nowrap">安藤正則</span><br><span class="subtext">drums</span>
+Masanori Ando | [Cross Point]({% link _albums/kaori-vibes-quartet-cross-point.md %}) ・ [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) ・ [Move On]({% link _albums/hikari-ichihara-group-move-on.md %}) | <span class="jname-nowrap">安藤正則</span><br><span class="subtext">drums</span>
 Mayuko Katakura | [Faith]({% link _albums/mayuko-katakura-faith.md %}) ・ [Inspiration]({% link _albums/mayuko-katakura-inspiration.md %}) ・ [Les Komatis]({% link _albums/les-komatis-les-komatis.md %}) | <span class="jname-nowrap">片倉真由子</span><br><span class="subtext">piano</span>
 Mayumi Sano | [Asymmetry]({% link _albums/arco-asymmetry.md %}) ・ [Featuring Te]({% link _albums/sayaka-kishi-featuring-te.md %}) ・ [Live At Yoncha]({% link _albums/arco-live-at-yoncha.md %}) | <span class="jname-nowrap">佐野まゆみ</span><br><span class="subtext">cello</span>
 Michiyo Matsushita | [Sally Gardens]({% link _albums/michiyo-matsushita-sally-gardens.md %}) | <span class="jname-nowrap">松下美千代</span><br><span class="subtext">piano</span>
 Miki Hayama | [Wide Angle]({% link _albums/miki-hayama-trio-wide-angle.md %}) | <span class="jname-nowrap">早間美紀</span><br><span class="subtext">piano</span>
-Minoru Yoshiki | [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) | <span class="jname-nowrap">吉木稔</span><br><span class="subtext">bass</span>
+Minoru Yoshiki | [Cross Point]({% link _albums/kaori-vibes-quartet-cross-point.md %}) ・ [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) | <span class="jname-nowrap">吉木稔</span><br><span class="subtext">bass</span>
 Mitsukuni Tanabe | [The Gift]({% link _albums/rie-taguchi-gift.md %}) | <span class="jname-nowrap">田辺充邦</span><br><span class="subtext">guitar</span>
 Mitsuru Tanaka | [Beautiful Days]({% link _albums/fumie-chiba-beautiful-days.md %}) | <span class="jname-nowrap">田中充</span><br><span class="subtext">trumpet</span>
 Momo Nonami | [This Is Atomi]({% link _albums/atomi-hamada-this-is-atomi.md %}) | <span class="jname-nowrap">野波桃</span><br><span class="subtext">piano</span>
@@ -131,7 +131,7 @@ Takayoshi Baba | [Fever]({% link _albums/trigraph-fever.md %}) ・ [Grown-up Chr
 Takayuki Yagi | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %}) | <span class="jname-nowrap">八木隆幸</span><br><span class="subtext">piano</span>
 Takuji Yamada | [Lite Blue]({% link _albums/takuji-yamada-lite-blue.md %}) | <span class="jname-nowrap">山田拓児</span><br><span class="subtext">sax</span>
 Takumi Seino | [Needful Things]({% link _albums/ryosuke-hashizume-needful-things.md %}) | <span class="jname-nowrap">清野拓巳</span><br><span class="subtext">guitar</span>
-Tamashi Goto | [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) | <span class="jname-nowrap">後藤魂</span><br><span class="subtext">piano</span>
+Tamashi Goto | [Cross Point]({% link _albums/kaori-vibes-quartet-cross-point.md %}) ・ [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) | <span class="jname-nowrap">後藤魂</span><br><span class="subtext">piano</span>
 Tamaya Honda | [Invisible]({% link _albums/junichiro-ohkuchi-trio-invisible.md %}) | <span class="jname-nowrap">本田珠也</span><br><span class="subtext">drums</span>
 Taro Sukegawa | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) ・ [Hall Tone]({% link _albums/meu-coracao-hall-tone.md %}) | <span class="jname-nowrap">助川太郎</span><br><span class="subtext">guitar</span>
 Terumasa Hino | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %}) | <span class="jname-nowrap">日野皓正</span><br><span class="subtext">trumpet</span>
