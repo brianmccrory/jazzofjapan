@@ -32,7 +32,7 @@ image: /assets/images/J-shaded.jpg
 28. Daiki Yasukagawa Trio: *Trios II*
 31. Emiko Voice x Suga Dairo: *Phase 2*
 32. Eriko Shimizu: *Sora*
-34. Fumie Chiba Trio: *Tip Of Dream*
+34. Fumie Chiba Trio: *Tip of Dream*
 36. Fumio Karashima Trio: *It’s Just Beginning*
 37. Fuse: *Live Fuse*
 40. Harumi Nomoto Trio: *Belinda*
@@ -56,7 +56,6 @@ image: /assets/images/J-shaded.jpg
 73. Manabu Ohishi Trio: *Wish*
 74. Masako Kunisada: *M*
 75. Masako Kunisada: *Wonderful Life*
-78. Mayuko Katakura: *The Echoes of Three*
 82. Mie Joké: *Etrenne*
 83. Miki Hayama: *Prelude to a Kiss*
 85. Miki Hirose: *Scratch*
@@ -97,7 +96,7 @@ image: /assets/images/J-shaded.jpg
 151. Yuichiro Aratake: *The Light Flows In*
 153. Yuka Ueda: *Dois*
 155. Yukari Inoue: *Sakura*
-157. Yuko Miyawaki: *Song Of Flower*
+157. Yuko Miyawaki: *Song of Flower*
 158. Yuya Wakai: *Images*
 159. Zephyr: *Zephyr*
 160. *... and more! Stay tuned...*

@@ -11,3 +11,4 @@ tag: update
 1. [Ami Fukui Trio: *New Journey*]({% link _albums/ami-fukui-trio-new-journey.md %}) - TBD
 1. [Atomi Hamada: *This Is Atomi*]({% link _albums/atomi-hamada-this-is-atomi.md %}) - TBD
 1. [Kaori Vibes Quartet: *Cross Point*]({% link _albums/kaori-vibes-quartet-cross-point.md %}) - TBD
+1. [Mayuko Katakura: *The Echoes of Three*]({% link _albums/mayuko-katakura-echoes-of-three.md %}) - TBD
