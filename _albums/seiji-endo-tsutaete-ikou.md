@@ -1,6 +1,6 @@
 ---
 date: 2018-03-11 
-date_updated: 2022-01-31
+date_updated:
 title: Tsutaete Ikou
 artist: Seiji Endo
 sort_value: Seiji Endo Tsutaete Ikou

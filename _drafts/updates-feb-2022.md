@@ -13,3 +13,6 @@ tag: update
 1. [Kaori Vibes Quartet: *Cross Point*]({% link _albums/kaori-vibes-quartet-cross-point.md %}) - TBD
 1. [Mayuko Katakura: *The Echoes of Three*]({% link _albums/mayuko-katakura-echoes-of-three.md %}) - TBD
 1. [Hitomi Nishiyama Trio "Parallax": *Live*]({% link _albums/hitomi-nishiyama-trio-parallax-live.md %}) - TBD
+1. [Manabu Ohishi Trio: *Wish*]({% link _albums/manabu-ohishi-wish.md %}) - TBD
+1. [Ken'ichiro Shinzawa: *Piano Works*]({% link _albums/kenichiro-shinzawa-piano-works.md %}) - TBD
+1. [Yuya Wakai: *Images*]({% link _albums/yuya-wakai-images.md %}) - TBD

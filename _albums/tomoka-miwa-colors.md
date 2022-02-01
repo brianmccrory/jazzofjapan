@@ -1,6 +1,6 @@
 ---
 date: 2018-03-07
-date_updated: 2022-01-31
+date_updated:
 title: Colors in Silence
 artist: Tokoma Miwa
 sort_value: Tomoka Miwa Colors in Silence

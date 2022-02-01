@@ -1,7 +1,6 @@
 ---
-featured:
 date: 2018-04-02
-date_updated: 2022-01-31
+date_updated:
 title: The Echoes of Three
 artist: Mayuko Katakura
 sort_value: Mayuko Katakura Echoes of Three

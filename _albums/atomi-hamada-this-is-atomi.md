@@ -1,6 +1,6 @@
 ---
 date: 2018-03-20
-date_updated: 2022-01-31
+date_updated:
 title: This Is Atomi
 artist: Atomi Hamada
 sort_value: Atomi Hamada This Is Atomi

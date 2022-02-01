@@ -42,7 +42,6 @@ image: /assets/images/J-shaded.jpg
 51. Hitomi Nishiyama Trio "Parallax": *Shift*
 52. Hitomi Nishiyama Trio: *Sympathy*
 53. Jazz Spot Intro: *Soulful Intro Live! 20th Anniversary*
-59. Ken’ichiro Shinzawa: *Piano Works*
 60. Ko Omura: *Introspect*
 61. Kohsuke Mine Quintet: *Major to Minor*
 63. Koichi Sato: *Utopia*
@@ -52,7 +51,6 @@ image: /assets/images/J-shaded.jpg
 70. Maki Fujimura: *Best Wishes*
 71. Maki Nakao: *Super Moon*
 72. Manabu Ohishi Trio: *Gift*
-73. Manabu Ohishi Trio: *Wish*
 74. Masako Kunisada: *M*
 75. Masako Kunisada: *Wonderful Life*
 82. Mie Joké: *Etrenne*
@@ -96,7 +94,6 @@ image: /assets/images/J-shaded.jpg
 153. Yuka Ueda: *Dois*
 155. Yukari Inoue: *Sakura*
 157. Yuko Miyawaki: *Song of Flower*
-158. Yuya Wakai: *Images*
 159. Zephyr: *Zephyr*
 160. *... and more! Stay tuned...*
 

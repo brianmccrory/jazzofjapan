@@ -1,7 +1,7 @@
 ---
 featured: true
 date: 2018-03-16
-date_updated: 2022-01-31
+date_updated:
 title: New Journey
 artist: Ami Fukui Trio
 sort_value: Ami Fukui Trio New Journey

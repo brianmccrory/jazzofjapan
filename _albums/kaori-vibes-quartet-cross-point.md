@@ -1,7 +1,7 @@
 ---
 featured: 
 date: 2018-03-23
-date_updated: 2022-01-31
+date_updated:
 title: Cross Point
 artist: Kaori Vibes Quartet
 sort_value: Kaori Vibes Quartet Cross Point

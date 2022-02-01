@@ -1,6 +1,6 @@
 ---
 date: 2018-03-14
-date_updated: 2022-01-31
+date_updated:
 title: A Tempo
 artist: Meu Coracao
 sort_value: Meu Coracao A Tempo

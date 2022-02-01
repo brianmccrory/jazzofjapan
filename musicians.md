@@ -1,6 +1,6 @@
 ---
 title: Musicians
-date: 2022-01-31
+date: 2022-02-01
 ---
 # Musicians
 
@@ -55,7 +55,7 @@ Keiichirou Uemura | [Gallery]({% link _albums/yukiko-hayakawa-trio-gallery.md %}
 Keisuke Nakamura | [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) | <span class="jname-nowrap">中村恵介</span><br><span class="subtext">trumpet</span>
 Keita Okada | [Carta]({% link _albums/emiko-voice-carta.md %}) | <span class="jname-nowrap">岡田ケイタ</span><br><span class="subtext">drums</span>
 Keizo Kawano | [Here Goes!]({% link _albums/fumiko-yamazaki-here-goes.md %}) | <span class="jname-nowrap">河野啓三</span><br><span class="subtext">piano</span>
-Ken'ichiro Shinzawa | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) | <span class="jname-nowrap">新澤健一郎</span><br><span class="subtext">piano</span>
+Ken'ichiro Shinzawa | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) ・ [Piano Works]({% link _albums/kenichiro-shinzawa-piano-works.md %}) | <span class="jname-nowrap">新澤健一郎</span><br><span class="subtext">piano</span>
 Kiyoshi Kitagawa | [Wide Angle]({% link _albums/miki-hayama-trio-wide-angle.md %}) | <span class="jname-nowrap">北川潔</span><br><span class="subtext">bass</span>
 Kiyotaka Kuroda | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) | <span class="jname-nowrap">黒田清高</span><br><span class="subtext">drums</span>
 Ko Omura | [You Already Know]({% link _albums/bungalow-you-already-know.md %}) | <span class="jname-nowrap">大村亘</span><br><span class="subtext">drums</span>
@@ -71,6 +71,7 @@ maiko | [Live! Three]({% link _albums/maiko-trio-jazz-violinist-maiko-trio-live-
 Mamoru Ishida | [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) | <span class="jname-nowrap">石田衛</span><br><span class="subtext">piano</span>
 Manabu Fujii | [1st Stage]({% link _albums/yukako-yamano-1st-stage.md %}) | <span class="jname-nowrap">藤井学</span><br><span class="subtext">drums</span>
 Manabu Hashimoto | [Catastrophe In Jazz]({% link _albums/taihei-asakawa-catastrophe-in-jazz.md %}) ・ [Incomplete Voices]({% link _albums/ryosuke-hashizume-group-incomplete.md %}) | <span class="jname-nowrap">橋本学</span><br><span class="subtext">percussion</span>
+Manabu Ohishi | [Wish]({% link _albums/manabu-ohishi-wish.md %}) | <span class="jname-nowrap">大石学</span><br><span class="subtext">piano</span>
 Masaaki Imaizumi | [A Love Supreme]({% link _albums/noriko-satomi-a-love-supreme.md %}) | <span class="jname-nowrap">今泉正明</span><br><span class="subtext">piano</span>
 Masahiko Osaka | [A Love Supreme]({% link _albums/noriko-satomi-a-love-supreme.md %}) ・ [J-Straight Ahead]({% link _albums/yasumasa-kumagai-j-straight-ahead.md %}) | <span class="jname-nowrap">大坂昌彦</span><br><span class="subtext">drums</span>
 Masahiko Sato | [Duet]({% link _albums/shinichi-kato-and-masahiko-sato-duet.md %}) | <span class="jname-nowrap">佐藤允彦</span><br><span class="subtext">piano</span>
@@ -169,6 +170,7 @@ Yukako Yamano | [1st Stage]({% link _albums/yukako-yamano-1st-stage.md %}) ・ [
 Yukari Inoue | [Dubai Suite]({% link _albums/yukakoyamano-yukariinoue-dubai.md %}) | <span class="jname-nowrap">井上ゆかり</span><br><span class="subtext">piano</span>
 Yukiko Hayakawa | [Gallery]({% link _albums/yukiko-hayakawa-trio-gallery.md %}) | <span class="jname-nowrap">早川由紀子</span><br><span class="subtext">piano</span>
 Yusuke Nakaishi | [The Gift]({% link _albums/rie-taguchi-gift.md %}) | <span class="jname-nowrap">仲石裕介</span><br><span class="subtext">bass</span>
+Yuya Wakai | [Images]({% link _albums/yuya-wakai-images.md %}) | <span class="jname-nowrap">若井優也</span><br><span class="subtext">piano</span>
 Anders Kjellberg | [Many Seasons]({% link _albums/hitomi-nishiyama-trio-many-seasons.md %}) | <span class="subtext">drums</span>
 Anton Blomgren | [Flower Clouds]({% link _albums/naoko-sakata-trio-flower-clouds.md %}) | <span class="subtext">bass</span>
 Ben "Donny" Waples | [Open the Green Door]({% link _albums/hakuei-kim-trio-open-the-green-door.md %}) | <span class="subtext">bass</span>
@@ -183,6 +185,7 @@ Gene Jackson | [Night & Day]({% link _albums/akane-matsumoto-night-and-day.md %}
 Hans Backenroth | [Many Seasons]({% link _albums/hitomi-nishiyama-trio-many-seasons.md %}) | <span class="subtext">bass</span>
 Jakob Buchanan | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %}) | <span class="subtext">flugelhorn</span>
 Jay Anderson | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %}) | <span class="subtext">bass</span>
+Jean-Philippe Viret | [Wish]({% link _albums/manabu-ohishi-wish.md %}) | <span class="subtext">bass</span>
 Jeff Ballard | [Madrigal]({% link _albums/chihiro-yamanaka-trio-madrigal.md %}) ・ [When October Goes]({% link _albums/chihiro-yamanaka-trio-when-october.md %}) | <span class="subtext">drums</span>
 Jeremy Manasia | [Art]({% link _albums/ayumi-koketsu-art.md %}) | <span class="subtext">piano</span>
 Johan Birgenius | [Flower Clouds]({% link _albums/naoko-sakata-trio-flower-clouds.md %}) | <span class="subtext">drums</span>
@@ -201,5 +204,6 @@ Rodney Green | [Madrigal]({% link _albums/chihiro-yamanaka-trio-madrigal.md %}) 
 Rodney Whitaker | [Faith]({% link _albums/mayuko-katakura-faith.md %}) | <span class="subtext">bass</span>
 Scott Wendholt | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %}) | <span class="subtext">trumpet</span>
 Sebastiaan Kaptein | [Colors in Silence]({% link _albums/tomoka-miwa-colors.md %}) | <span class="subtext">drums</span>
+Simon Goubert | [Wish]({% link _albums/manabu-ohishi-wish.md %}) | <span class="subtext">drums</span>
 Soren Dahl Jeppesen | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %}) | <span class="subtext">guitar</span>
 Victor Lewis | [Wide Angle]({% link _albums/miki-hayama-trio-wide-angle.md %}) | <span class="subtext">drums</span>

@@ -1,6 +1,6 @@
 ---
 date: 2018-04-06
-date_updated: 2022-01-31
+date_updated:
 title: Live
 artist: Hitomi Nishiyama Trio "Parallax"
 sort_value: Hitomi Nishiyama Trio zzz Parallax Live
