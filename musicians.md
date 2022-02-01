@@ -18,7 +18,7 @@ Arata Umehara | [Okurimono]({% link _albums/hiroco-nagano-okurimono.md %}) ・ [
 Atomi Hamada | [This Is Atomi]({% link _albums/atomi-hamada-this-is-atomi.md %}) | <span class="jname-nowrap">浜田亜東実</span><br><span class="subtext">vocal</span>
 Atsushi Ikeda | [You've Changed]({% link _albums/hara-dairiki-trio-youve-changed.md %}) | <span class="jname-nowrap">池田篤</span><br><span class="subtext">sax</span>
 Aya Kurosawa | [Beautiful Days]({% link _albums/fumie-chiba-beautiful-days.md %}) ・ [Featuring Te]({% link _albums/sayaka-kishi-featuring-te.md %}) ・ [Resonance]({% link _albums/duo-tremolo-resonance.md %}) | <span class="jname-nowrap">黒沢綾</span><br><span class="subtext">vocal</span>
-Ayumi Koketsu | [Art]({% link _albums/ayumi-koketsu-art.md %}) | <span class="jname-nowrap">纐纈歩美</span><br><span class="subtext">sax</span>
+Ayumi Koketsu | [Art]({% link _albums/ayumi-koketsu-art.md %}) ・ [Rainbow Tales]({% link _albums/ayumi-koketsu-rainbow-tales.md %}) | <span class="jname-nowrap">纐纈歩美</span><br><span class="subtext">sax</span>
 Chihiro Yamanaka | [Living Without Friday]({% link _albums/chihiro-yamanaka-trio-living-without-friday.md %}) ・ [Madrigal]({% link _albums/chihiro-yamanaka-trio-madrigal.md %}) ・ [When October Goes]({% link _albums/chihiro-yamanaka-trio-when-october.md %}) | <span class="jname-nowrap">山中千尋</span><br><span class="subtext">piano</span>
 Cokky | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) | <span class="jname-nowrap">コッキー</span><br><span class="subtext">bass</span>
 Daiki Yasukagawa | [Touch of Winter]({% link _albums/taihei-asakawa-trio-touch-of-winter.md %}) | <span class="jname-nowrap">安ヵ川大樹</span><br><span class="subtext">bass</span>
@@ -193,9 +193,11 @@ Klaus Nørgaard | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %}) 
 LaFrae Olivia Sci | [Living Without Friday]({% link _albums/chihiro-yamanaka-trio-living-without-friday.md %}) | <span class="subtext">drums</span>
 Larry Grenadier | [Madrigal]({% link _albums/chihiro-yamanaka-trio-madrigal.md %}) ・ [When October Goes]({% link _albums/chihiro-yamanaka-trio-when-october.md %}) | <span class="subtext">bass</span>
 Luques Curtis | [Lite Blue]({% link _albums/takuji-yamada-lite-blue.md %}) | <span class="subtext">bass</span>
+Magne Thormodsæter | [Rainbow Tales]({% link _albums/ayumi-koketsu-rainbow-tales.md %}) | <span class="subtext">bass</span>
 Mark Taylor | [Art]({% link _albums/ayumi-koketsu-art.md %}) | <span class="subtext">drums</span>
 Mike Karn | [Art]({% link _albums/ayumi-koketsu-art.md %}) | <span class="subtext">bass</span>
 Mike Rivett | [You Already Know]({% link _albums/bungalow-you-already-know.md %}) | <span class="subtext">sax</span>
+Per Oddvar Johansen | [Rainbow Tales]({% link _albums/ayumi-koketsu-rainbow-tales.md %}) | <span class="subtext">drums</span>
 Peter Washington | [Night & Day]({% link _albums/akane-matsumoto-night-and-day.md %}) | <span class="subtext">bass</span>
 Quincy Davis | [Lite Blue]({% link _albums/takuji-yamada-lite-blue.md %}) | <span class="subtext">drums</span>
 Ralph Bowen | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %}) | <span class="subtext">sax</span>
@@ -206,4 +208,5 @@ Scott Wendholt | [New Departure]({% link _albums/takayuki-yagi-new-departure.md 
 Sebastiaan Kaptein | [Colors in Silence]({% link _albums/tomoka-miwa-colors.md %}) | <span class="subtext">drums</span>
 Simon Goubert | [Wish]({% link _albums/manabu-ohishi-wish.md %}) | <span class="subtext">drums</span>
 Soren Dahl Jeppesen | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %}) | <span class="subtext">guitar</span>
+Svein Olav Herstad | [Rainbow Tales]({% link _albums/ayumi-koketsu-rainbow-tales.md %}) | <span class="subtext">piano</span>
 Victor Lewis | [Wide Angle]({% link _albums/miki-hayama-trio-wide-angle.md %}) | <span class="subtext">drums</span>

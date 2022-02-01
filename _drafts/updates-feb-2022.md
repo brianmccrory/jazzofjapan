@@ -16,3 +16,4 @@ tag: update
 1. [Manabu Ohishi Trio: *Wish*]({% link _albums/manabu-ohishi-wish.md %}) - TBD
 1. [Ken'ichiro Shinzawa: *Piano Works*]({% link _albums/kenichiro-shinzawa-piano-works.md %}) - TBD
 1. [Yuya Wakai: *Images*]({% link _albums/yuya-wakai-images.md %}) - TBD
+1. [Ayumi Koketsu: *Rainbow Tales*]({% link _albums/ayumi-koketsu-rainbow-tales.md %}) - TBD

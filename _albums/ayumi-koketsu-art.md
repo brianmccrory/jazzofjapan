@@ -10,9 +10,9 @@ code: MYCJ-30653
 image: /assets/images/2018/01/ayumikoketsu-art-460.jpeg
 members:
    - {name: Ayumi Koketsu, instrument: "alto sax", japanese_name: 纐纈歩美, url: "http://a-koketsu.com/"}
-   - {name: Jeremy Manasia, instrument: "piano"}
-   - {name: Mike Karn, instrument: "bass"}
-   - {name: Mark Taylor, instrument: "drums"}
+   - {name: Jeremy Manasia, instrument: "piano", url: "http://www.jeremymanasia.com/"}
+   - {name: Mike Karn, instrument: "bass", url: "https://mikekarnbass.wordpress.com/"}
+   - {name: Mark Taylor, instrument: "drums", url: "https://en.wikipedia.org/wiki/Mark_Taylor_(drummer)"}
 images:
    - L1180452-1024.jpg
    - L1180456-1024.jpg
