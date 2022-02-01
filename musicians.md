@@ -77,7 +77,7 @@ Masahiko Sato | [Duet]({% link _albums/shinichi-kato-and-masahiko-sato-duet.md %
 Masaki Hayashi | [Mistral]({% link _albums/toshihiko-inoue-and-masaki-hayashi.md %}) | <span class="jname-nowrap">林正樹</span><br><span class="subtext">piano</span>
 Masako Hamamura | [Needful Things]({% link _albums/ryosuke-hashizume-needful-things.md %}) | <span class="jname-nowrap">浜村昌子</span><br><span class="subtext">piano</span>
 Masanori Ando | [Cross Point]({% link _albums/kaori-vibes-quartet-cross-point.md %}) ・ [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) ・ [Move On]({% link _albums/hikari-ichihara-group-move-on.md %}) | <span class="jname-nowrap">安藤正則</span><br><span class="subtext">drums</span>
-Mayuko Katakura | [Faith]({% link _albums/mayuko-katakura-faith.md %}) ・ [Inspiration]({% link _albums/mayuko-katakura-inspiration.md %}) ・ [Les Komatis]({% link _albums/les-komatis-les-komatis.md %}) ・ [The Echoes Of Three]({% link _albums/mayuko-katakura-echoes-of-three.md %}) | <span class="jname-nowrap">片倉真由子</span><br><span class="subtext">piano</span>
+Mayuko Katakura | [Faith]({% link _albums/mayuko-katakura-faith.md %}) ・ [Inspiration]({% link _albums/mayuko-katakura-inspiration.md %}) ・ [Les Komatis]({% link _albums/les-komatis-les-komatis.md %}) ・ [The Echoes of Three]({% link _albums/mayuko-katakura-echoes-of-three.md %}) | <span class="jname-nowrap">片倉真由子</span><br><span class="subtext">piano</span>
 Mayumi Sano | [Asymmetry]({% link _albums/arco-asymmetry.md %}) ・ [Featuring Te]({% link _albums/sayaka-kishi-featuring-te.md %}) ・ [Live At Yoncha]({% link _albums/arco-live-at-yoncha.md %}) | <span class="jname-nowrap">佐野まゆみ</span><br><span class="subtext">cello</span>
 Michiyo Matsushita | [Sally Gardens]({% link _albums/michiyo-matsushita-sally-gardens.md %}) | <span class="jname-nowrap">松下美千代</span><br><span class="subtext">piano</span>
 Miki Hayama | [Wide Angle]({% link _albums/miki-hayama-trio-wide-angle.md %}) | <span class="jname-nowrap">早間美紀</span><br><span class="subtext">piano</span>
@@ -148,7 +148,7 @@ Yasuhiro Hasegawa | [Tsutaete Ikou]({% link _albums/seiji-endo-tsutaete-ikou.md 
 Yasuhiro Yoshigaki | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) | <span class="jname-nowrap">芳垣安洋</span><br><span class="subtext">percussion</span>
 Yasumasa Kumagai | [J-Straight Ahead]({% link _albums/yasumasa-kumagai-j-straight-ahead.md %}) | <span class="jname">熊谷ヤスマサ</span><br><span class="subtext">piano</span>
 Yasushi Fukumori | [Fever]({% link _albums/trigraph-fever.md %}) ・ [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) ・ [New Journey]({% link _albums/ami-fukui-trio-new-journey.md %}) | <span class="jname-nowrap">福森康</span><br><span class="subtext">drums</span>
-Yasushi Nakamura | [Inspiration]({% link _albums/mayuko-katakura-inspiration.md %}) ・ [The Echoes Of Three]({% link _albums/mayuko-katakura-echoes-of-three.md %}) | <span class="jname-nowrap">中村恭士</span><br><span class="subtext">bass</span>
+Yasushi Nakamura | [Inspiration]({% link _albums/mayuko-katakura-inspiration.md %}) ・ [The Echoes of Three]({% link _albums/mayuko-katakura-echoes-of-three.md %}) | <span class="jname-nowrap">中村恭士</span><br><span class="subtext">bass</span>
 Yasushi Yoneki | [Invisible]({% link _albums/junichiro-ohkuchi-trio-invisible.md %}) ・ [You've Changed]({% link _albums/hara-dairiki-trio-youve-changed.md %}) | <span class="jname-nowrap">米木康志</span><br><span class="subtext">bass</span>
 Yasutaka Yorozu | [Needful Things]({% link _albums/ryosuke-hashizume-needful-things.md %}) | <span class="jname-nowrap">萬恭隆</span><br><span class="subtext">bass</span>
 Yoshihito "P" Koizumi | [By Coincidence]({% link _albums/yoshihito-p-koizumi-by-coincidence.md %}) | <span class="jname-nowrap">小泉P克人</span><br><span class="subtext">bass</span>
@@ -173,7 +173,7 @@ Ben "Donny" Waples | [Open the Green Door]({% link _albums/hakuei-kim-trio-open-
 Billy Drummond | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %}) | <span class="subtext">drums</span>
 Blahmuzik | [Rin]({% link _albums/sohnosuke-imaizumi-rin.md %}) | <span class="subtext">sampler</span>
 Carl Allen | [Faith]({% link _albums/mayuko-katakura-faith.md %}) ・ [Inspiration]({% link _albums/mayuko-katakura-inspiration.md %}) | <span class="subtext">drums</span>
-Carmen Intorre Jr. | [The Echoes Of Three]({% link _albums/mayuko-katakura-echoes-of-three.md %}) | <span class="subtext">drums</span>
+Carmen Intorre Jr. | [The Echoes of Three]({% link _albums/mayuko-katakura-echoes-of-three.md %}) | <span class="subtext">drums</span>
 Christian Vuust | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %}) | <span class="subtext">sax</span>
 Danny Grissett | [Lite Blue]({% link _albums/takuji-yamada-lite-blue.md %}) | <span class="subtext">piano</span>
 Dave Goodman | [Open the Green Door]({% link _albums/hakuei-kim-trio-open-the-green-door.md %}) | <span class="subtext">drums</span>
