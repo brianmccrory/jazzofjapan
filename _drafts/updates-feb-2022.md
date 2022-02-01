@@ -12,3 +12,4 @@ tag: update
 1. [Atomi Hamada: *This Is Atomi*]({% link _albums/atomi-hamada-this-is-atomi.md %}) - TBD
 1. [Kaori Vibes Quartet: *Cross Point*]({% link _albums/kaori-vibes-quartet-cross-point.md %}) - TBD
 1. [Mayuko Katakura: *The Echoes of Three*]({% link _albums/mayuko-katakura-echoes-of-three.md %}) - TBD
+1. [Hitomi Nishiyama Trio "Parallax": *Live*]({% link _albums/hitomi-nishiyama-trio-parallax-live.md %}) - TBD

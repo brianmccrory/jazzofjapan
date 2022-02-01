@@ -39,8 +39,7 @@ image: /assets/images/J-shaded.jpg
 42. Hideaki Hori Trio: *In My Words*
 44. Hideaki Kanazawa & Sumire Kuribayashi: *Nijuso*
 47. Hiromi Miura: *We Don’t Know Yet*
-50. Hitomi Nishiyama Trio: *Parallax Live*
-51. Hitomi Nishiyama Trio "parallax": *Shift*
+51. Hitomi Nishiyama Trio "Parallax": *Shift*
 52. Hitomi Nishiyama Trio: *Sympathy*
 53. Jazz Spot Intro: *Soulful Intro Live! 20th Anniversary*
 59. Ken’ichiro Shinzawa: *Piano Works*

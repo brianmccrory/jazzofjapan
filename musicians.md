@@ -42,7 +42,7 @@ Hiroco Nagano | [Okurimono]({% link _albums/hiroco-nagano-okurimono.md %}) ・ [
 Hiroki Chiba | [Melancholy of a Journey]({% link _albums/koichi-sato-melancholy.md %}) ・ [National Anthem of Unknown Country]({% link _albums/rabbitoo-national-anthem-of-unknown.md %}) | <span class="jname-nowrap">千葉広樹</span><br><span class="subtext">bass</span>
 Hiroki Miyano | [Live! Three]({% link _albums/maiko-trio-jazz-violinist-maiko-trio-live-three.md %}) | <span class="jname-nowrap">宮野弘紀</span><br><span class="subtext">guitar</span>
 Hiroshi Ikejiri | [You Already Know]({% link _albums/bungalow-you-already-know.md %}) | <span class="jname-nowrap">池尻洋史</span><br><span class="subtext">bass</span>
-Hitomi Nishiyama | [Many Seasons]({% link _albums/hitomi-nishiyama-trio-many-seasons.md %}) ・ [Music In You]({% link _albums/hitomi-nishiyama-trio-music-in-you.md %}) | <span class="jname-nowrap">西山瞳</span><br><span class="subtext">piano</span>
+Hitomi Nishiyama | [Live]({% link _albums/hitomi-nishiyama-trio-parallax-live.md %}) ・ [Many Seasons]({% link _albums/hitomi-nishiyama-trio-many-seasons.md %}) ・ [Music In You]({% link _albums/hitomi-nishiyama-trio-music-in-you.md %}) | <span class="jname-nowrap">西山瞳</span><br><span class="subtext">piano</span>
 Jun Miyakawa | [By Coincidence]({% link _albums/yoshihito-p-koizumi-by-coincidence.md %}) | <span class="jname-nowrap">宮川純</span><br><span class="subtext">piano</span>
 Junichiro Ohkuchi | [Agora]({% link _albums/yuka-ueda-agora.md %}) ・ [Invisible]({% link _albums/junichiro-ohkuchi-trio-invisible.md %}) | <span class="jname-nowrap">大口純一郎</span><br><span class="subtext">piano</span>
 Kaori Nakajima | [Cross Point]({% link _albums/kaori-vibes-quartet-cross-point.md %}) ・ [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) | <span class="jname-nowrap">中島香里</span><br><span class="subtext">vibraphone</span>
@@ -129,8 +129,10 @@ Taihei Asakawa | [Catastrophe In Jazz]({% link _albums/taihei-asakawa-catastroph
 Takashi Saito | [Here Goes!]({% link _albums/fumiko-yamazaki-here-goes.md %}) | <span class="jname-nowrap">齋藤たかし</span><br><span class="subtext">drums</span>
 Takayoshi Baba | [Fever]({% link _albums/trigraph-fever.md %}) ・ [Grown-up Christmas Gift]({% link _albums/sanae-ishikawa-grown-up-christmas.md %}) ・ [Resonance]({% link _albums/duo-tremolo-resonance.md %}) | <span class="jname-nowrap">馬場孝喜</span><br><span class="subtext">guitar</span>
 Takayuki Yagi | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %}) | <span class="jname-nowrap">八木隆幸</span><br><span class="subtext">piano</span>
+Takehiro Shimizu | [Live]({% link _albums/hitomi-nishiyama-trio-parallax-live.md %}) | <span class="jname-nowrap">清水勇博</span><br><span class="subtext">drums</span>
 Takuji Yamada | [Lite Blue]({% link _albums/takuji-yamada-lite-blue.md %}) | <span class="jname-nowrap">山田拓児</span><br><span class="subtext">sax</span>
 Takumi Seino | [Needful Things]({% link _albums/ryosuke-hashizume-needful-things.md %}) | <span class="jname-nowrap">清野拓巳</span><br><span class="subtext">guitar</span>
+Takuya Sakazaki | [Live]({% link _albums/hitomi-nishiyama-trio-parallax-live.md %}) | <span class="jname-nowrap">坂崎拓也</span><br><span class="subtext">bass</span>
 Tamashi Goto | [Cross Point]({% link _albums/kaori-vibes-quartet-cross-point.md %}) ・ [Flying Mind]({% link _albums/kaori-vibes-quartet-flying-mind.md %}) | <span class="jname-nowrap">後藤魂</span><br><span class="subtext">piano</span>
 Tamaya Honda | [Invisible]({% link _albums/junichiro-ohkuchi-trio-invisible.md %}) | <span class="jname-nowrap">本田珠也</span><br><span class="subtext">drums</span>
 Taro Sukegawa | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) ・ [Hall Tone]({% link _albums/meu-coracao-hall-tone.md %}) | <span class="jname-nowrap">助川太郎</span><br><span class="subtext">guitar</span>
