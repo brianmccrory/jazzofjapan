@@ -68,7 +68,6 @@ image: /assets/images/J-shaded.jpg
 105. Ryosuke Hashizume Group: *Side Two*
 106. Ryosuke Hashizume Group: *Visible/Invisible*
 107. Ryosuke Hashizume Group: *Wordless*
-109. Sanae Ishikawa: *Feel Like Makin' Love*
 113. Sayaka Kishi Trio: *Life is too Great*
 114. Sayaketts: *Colors*
 117. Seiji Endo: *Sakura Meditation*

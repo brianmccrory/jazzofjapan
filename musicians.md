@@ -25,7 +25,7 @@ Daiki Yasukagawa | [Touch of Winter]({% link _albums/taihei-asakawa-trio-touch-o
 Dairiki Hara | [You've Changed]({% link _albums/hara-dairiki-trio-youve-changed.md %}) | <span class="jname-nowrap">原大力</span><br><span class="subtext">drums</span>
 Daisuke Abe | [Lite Blue]({% link _albums/takuji-yamada-lite-blue.md %}) | <span class="jname-nowrap">阿部大輔</span><br><span class="subtext">guitar</span>
 Daisuke Fujiwara | [National Anthem of Unknown Country]({% link _albums/rabbitoo-national-anthem-of-unknown.md %}) | <span class="jname-nowrap">藤原大輔</span><br><span class="subtext">sax</span>
-Daisuke Toi | [Agora]({% link _albums/yuka-ueda-agora.md %}) ・ [Colors in Silence]({% link _albums/tomoka-miwa-colors.md %}) | <span class="jname">トオイダイスケ</span><br><span class="subtext">bass</span>
+Daisuke Toi | [Agora]({% link _albums/yuka-ueda-agora.md %}) ・ [Colors in Silence]({% link _albums/tomoka-miwa-colors.md %}) ・ [Feel Like Makin' Love]({% link _albums/sanae-ishikawa-feel-like-makin-love.md %}) | <span class="jname">トオイダイスケ</span><br><span class="subtext">bass</span>
 Dan Yoshikawa | [Protean]({% link _albums/protean-protean.md %}) | <span class="jname-nowrap">吉川弾</span><br><span class="subtext">drums</span>
 EMiKO VOiCE | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) ・ [Carta]({% link _albums/emiko-voice-carta.md %}) ・ [Hall Tone]({% link _albums/meu-coracao-hall-tone.md %}) | <span class="jname">エミコヴォイス</span><br><span class="subtext">voice</span>
 Fumie Chiba | [Beautiful Days]({% link _albums/fumie-chiba-beautiful-days.md %}) | <span class="jname-nowrap">千葉史絵</span><br><span class="subtext">piano</span>
@@ -109,18 +109,18 @@ Ryosuke Asai | [Move On]({% link _albums/hikari-ichihara-group-move-on.md %}) | 
 Ryosuke Hashizume | [Incomplete Voices]({% link _albums/ryosuke-hashizume-group-incomplete.md %}) ・ [Music In You]({% link _albums/hitomi-nishiyama-trio-music-in-you.md %}) ・ [Needful Things]({% link _albums/ryosuke-hashizume-needful-things.md %}) | <span class="jname-nowrap">橋爪亮督</span><br><span class="subtext">sax</span>
 Ryuichi Takase | [Whisper Not]({% link _albums/layla-tomomi-sakai-whisper-not.md %}) | <span class="jname-nowrap">高瀬龍一</span><br><span class="subtext">trumpet</span>
 Sachiko Ikuta | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %}) | <span class="jname-nowrap">生田さち子</span><br><span class="subtext">piano</span>
-Sanae Ishikawa | [Fever]({% link _albums/trigraph-fever.md %}) ・ [Grown-up Christmas Gift]({% link _albums/sanae-ishikawa-grown-up-christmas.md %}) | <span class="jname-nowrap">石川早苗</span><br><span class="subtext">vocal</span>
+Sanae Ishikawa | [Feel Like Makin' Love]({% link _albums/sanae-ishikawa-feel-like-makin-love.md %}) ・ [Fever]({% link _albums/trigraph-fever.md %}) ・ [Grown-up Christmas Gift]({% link _albums/sanae-ishikawa-grown-up-christmas.md %}) | <span class="jname-nowrap">石川早苗</span><br><span class="subtext">vocal</span>
 Saori Sendo | [Resonance]({% link _albums/duo-tremolo-resonance.md %}) | <span class="jname-nowrap">仙道さおり</span><br><span class="subtext">percussion</span>
-Satoshi Kosugi | [Bass on Times]({% link _albums/satoshi-kosugi-bass-on-times.md %}) | <span class="jname-nowrap">小杉敏</span><br><span class="subtext">bass</span>
+Satoshi Kosugi | [Bass on Times]({% link _albums/satoshi-kosugi-bass-on-times.md %}) ・ [Feel Like Makin' Love]({% link _albums/sanae-ishikawa-feel-like-makin-love.md %}) | <span class="jname-nowrap">小杉敏</span><br><span class="subtext">bass</span>
 Sayaka Kishi | [Asymmetry]({% link _albums/arco-asymmetry.md %}) ・ [Featuring Te]({% link _albums/sayaka-kishi-featuring-te.md %}) ・ [Live At Yoncha]({% link _albums/arco-live-at-yoncha.md %}) | <span class="jname-nowrap">岸淑香</span><br><span class="subtext">piano</span>
 Seiji Endo | [Blossoms]({% link _albums/ruriko-kawamura-blossoms.md %}) ・ [Circle For Peace]({% link _albums/seiji-endo-circle-for-peace.md %}) ・ [Genji Monogatari Volume 1]({% link _albums/seiji-endo-genji-monogatari-volume-1.md %}) ・ [Okurimono]({% link _albums/hiroco-nagano-okurimono.md %}) ・ [The Gift]({% link _albums/rie-taguchi-gift.md %}) ・ [Tsutaete Ikou]({% link _albums/seiji-endo-tsutaete-ikou.md %}) | <span class="jname-nowrap">遠藤征志</span><br><span class="subtext">piano</span>
 Seiji Tada | [The Gift]({% link _albums/rie-taguchi-gift.md %}) | <span class="jname-nowrap">多田誠司</span><br><span class="subtext">sax</span>
-Shigeo Fukuda | [Childhood's Dream]({% link _albums/shigeo-fukuda-and-toshiki-nunokawa.md %}) | <span class="jname-nowrap">福田重男</span><br><span class="subtext">piano</span>
+Shigeo Fukuda | [Childhood's Dream]({% link _albums/shigeo-fukuda-and-toshiki-nunokawa.md %}) ・ [Feel Like Makin' Love]({% link _albums/sanae-ishikawa-feel-like-makin-love.md %}) | <span class="jname-nowrap">福田重男</span><br><span class="subtext">piano</span>
 Shikou Ito | [Live! Three]({% link _albums/maiko-trio-live-three.md %}) | <span class="jname-nowrap">伊藤志宏</span><br><span class="subtext">piano</span>
 Shin Kamimura | [A Love Supreme]({% link _albums/noriko-satomi-a-love-supreme.md %}) | <span class="jname-nowrap">上村信</span><br><span class="subtext">bass</span>
 Shingo Tanaka | [Here Goes!]({% link _albums/fumiko-yamazaki-here-goes.md %}) | <span class="jname-nowrap">田中晋吾</span><br><span class="subtext">bass</span>
 Shinichi Kato | [Catastrophe In Jazz]({% link _albums/taihei-asakawa-catastrophe-in-jazz.md %}) ・ [Duet]({% link _albums/shinichi-kato-and-masahiko-sato-duet.md %}) | <span class="jname-nowrap">加藤真一</span><br><span class="subtext">bass</span>
-Shinji Hashimoto | [Agora]({% link _albums/yuka-ueda-agora.md %}) ・ [Bass on Times]({% link _albums/satoshi-kosugi-bass-on-times.md %}) | <span class="jname-nowrap">橋本信二</span><br><span class="subtext">guitar</span>
+Shinji Hashimoto | [Agora]({% link _albums/yuka-ueda-agora.md %}) ・ [Bass on Times]({% link _albums/satoshi-kosugi-bass-on-times.md %}) ・ [Feel Like Makin' Love]({% link _albums/sanae-ishikawa-feel-like-makin-love.md %}) | <span class="jname-nowrap">橋本信二</span><br><span class="subtext">guitar</span>
 Shinya Nitta | [Tsutaete Ikou]({% link _albums/seiji-endo-tsutaete-ikou.md %}) | <span class="jname-nowrap">仁田真也</span><br><span class="subtext">vocal</span>
 Show Kudo | [New Journey]({% link _albums/ami-fukui-trio-new-journey.md %}) ・ [Sumitty & The Funfair]({% link _albums/sumito-oi-sumitty-and-the-funfair.md %}) | <span class="jname-nowrap">工藤精</span><br><span class="subtext">bass</span>
 Shun Ishiwaka | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %}) ・ [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) | <span class="jname-nowrap">石若俊</span><br><span class="subtext">drums</span>
@@ -179,6 +179,7 @@ Billy Drummond | [New Departure]({% link _albums/takayuki-yagi-new-departure.md 
 Blahmuzik | [Rin]({% link _albums/sohnosuke-imaizumi-rin.md %}) | <span class="subtext">sampler</span>
 Carl Allen | [Faith]({% link _albums/mayuko-katakura-faith.md %}) ・ [Inspiration]({% link _albums/mayuko-katakura-inspiration.md %}) | <span class="subtext">drums</span>
 Carmen Intorre Jr. | [The Echoes of Three]({% link _albums/mayuko-katakura-echoes-of-three.md %}) | <span class="subtext">drums</span>
+Cecil Monroe | [Feel Like Makin' Love]({% link _albums/sanae-ishikawa-feel-like-makin-love.md %}) | <span class="subtext">drums</span>
 Christian Vuust | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %}) | <span class="subtext">sax</span>
 Danny Grissett | [Lite Blue]({% link _albums/takuji-yamada-lite-blue.md %}) | <span class="subtext">piano</span>
 Dave Goodman | [Open the Green Door]({% link _albums/hakuei-kim-trio-open-the-green-door.md %}) | <span class="subtext">drums</span>

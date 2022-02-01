@@ -18,3 +18,4 @@ tag: update
 1. [Yuya Wakai: *Images*]({% link _albums/yuya-wakai-images.md %}) - TBD
 1. [Ayumi Koketsu: *Rainbow Tales*]({% link _albums/ayumi-koketsu-rainbow-tales.md %}) - TBD
 1. [Bungalow: *Past Life*]({% link _albums/bungalow-past-life.md %}) - TBD
+1. [Sanae Ishikawa: *Feel Like Makin' Love*]({% link _albums/sanae-ishikawa-feel-like-makin-love.md %}) - TBD
