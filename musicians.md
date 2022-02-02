@@ -1,14 +1,15 @@
 ---
 title: Musicians
-date: 2022-02-01
+date: 2022-02-02
 ---
 # Musicians
 
 Musician | Albums | 
 -------- | ------ | -
-Akane Matsumoto | [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) ・ [Night & Day]({% link _albums/akane-matsumoto-night-and-day.md %}) | <span class="jname-nowrap">松本茜</span><br><span class="subtext">piano</span>
+Akane Matsumoto | [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) ・ [Memories of You]({% link _albums/akane-matsumoto-memories-of-you.md %}) ・ [Night & Day]({% link _albums/akane-matsumoto-night-and-day.md %}) ・ [Playing New York]({% link _albums/akane-matsumoto-playing-new-york.md %}) | <span class="jname-nowrap">松本茜</span><br><span class="subtext">piano</span>
 Akemi Ohta | [Carta]({% link _albums/emiko-voice-carta.md %}) ・ [Les Komatis]({% link _albums/les-komatis-les-komatis.md %}) | <span class="jname-nowrap">太田朱美</span><br><span class="subtext">flute</span>
 Akihiro Nishiguchi | [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) | <span class="jname-nowrap">西口明宏</span><br><span class="subtext">sax</span>
+Akihiro Yoshimoto | [Moving Color]({% link _albums/akihiro-yoshimoto-quartet-moving-color.md %}) | <span class="jname-nowrap">吉本章紘</span><br><span class="subtext">sax</span>
 Akiko Suda | [Flowers On The Hill]({% link _albums/akiko-suda-flowers-on-the-hill.md %}) ・ [New Journey]({% link _albums/ami-fukui-trio-new-journey.md %}) | <span class="jname-nowrap">須田晶子</span><br><span class="subtext">vocal</span>
 Akira Sekine | [Blossoms]({% link _albums/ruriko-kawamura-blossoms.md %}) | <span class="jname-nowrap">関根彰良</span><br><span class="subtext">guitar</span>
 Akira Tanidono | [Carta]({% link _albums/emiko-voice-carta.md %}) | <span class="jname-nowrap">谷殿明良</span><br><span class="subtext">trumpet</span>
@@ -70,7 +71,7 @@ Maiko Sugawara | [Virgo]({% link _albums/harumi-nomoto-trio-virgo.md %}) | <span
 maiko | [Live! Three]({% link _albums/maiko-trio-live-three.md %}) | <span class="jname-nowrap">マイコ</span><br><span class="subtext">violin</span>
 Mamoru Ishida | [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) | <span class="jname-nowrap">石田衛</span><br><span class="subtext">piano</span>
 Manabu Fujii | [1st Stage]({% link _albums/yukako-yamano-1st-stage.md %}) | <span class="jname-nowrap">藤井学</span><br><span class="subtext">drums</span>
-Manabu Hashimoto | [Catastrophe In Jazz]({% link _albums/taihei-asakawa-catastrophe-in-jazz.md %}) ・ [Incomplete Voices]({% link _albums/ryosuke-hashizume-group-incomplete.md %}) | <span class="jname-nowrap">橋本学</span><br><span class="subtext">percussion</span>
+Manabu Hashimoto | [Catastrophe in Jazz]({% link _albums/taihei-asakawa-catastrophe-in-jazz.md %}) ・ [Incomplete Voices]({% link _albums/ryosuke-hashizume-group-incomplete.md %}) | <span class="jname-nowrap">橋本学</span><br><span class="subtext">percussion</span>
 Manabu Ohishi | [Wish]({% link _albums/manabu-ohishi-wish.md %}) | <span class="jname-nowrap">大石学</span><br><span class="subtext">piano</span>
 Masaaki Imaizumi | [A Love Supreme]({% link _albums/noriko-satomi-a-love-supreme.md %}) | <span class="jname-nowrap">今泉正明</span><br><span class="subtext">piano</span>
 Masahiko Osaka | [A Love Supreme]({% link _albums/noriko-satomi-a-love-supreme.md %}) ・ [J-Straight Ahead]({% link _albums/yasumasa-kumagai-j-straight-ahead.md %}) | <span class="jname-nowrap">大坂昌彦</span><br><span class="subtext">drums</span>
@@ -119,16 +120,17 @@ Shigeo Fukuda | [Childhood's Dream]({% link _albums/shigeo-fukuda-and-toshiki-nu
 Shikou Ito | [Live! Three]({% link _albums/maiko-trio-live-three.md %}) | <span class="jname-nowrap">伊藤志宏</span><br><span class="subtext">piano</span>
 Shin Kamimura | [A Love Supreme]({% link _albums/noriko-satomi-a-love-supreme.md %}) | <span class="jname-nowrap">上村信</span><br><span class="subtext">bass</span>
 Shingo Tanaka | [Here Goes!]({% link _albums/fumiko-yamazaki-here-goes.md %}) | <span class="jname-nowrap">田中晋吾</span><br><span class="subtext">bass</span>
-Shinichi Kato | [Catastrophe In Jazz]({% link _albums/taihei-asakawa-catastrophe-in-jazz.md %}) ・ [Duet]({% link _albums/shinichi-kato-and-masahiko-sato-duet.md %}) | <span class="jname-nowrap">加藤真一</span><br><span class="subtext">bass</span>
+Shinichi Kato | [Catastrophe in Jazz]({% link _albums/taihei-asakawa-catastrophe-in-jazz.md %}) ・ [Duet]({% link _albums/shinichi-kato-and-masahiko-sato-duet.md %}) | <span class="jname-nowrap">加藤真一</span><br><span class="subtext">bass</span>
 Shinji Hashimoto | [Agora]({% link _albums/yuka-ueda-agora.md %}) ・ [Bass on Times]({% link _albums/satoshi-kosugi-bass-on-times.md %}) ・ [Feel Like Makin' Love]({% link _albums/sanae-ishikawa-feel-like-makin-love.md %}) | <span class="jname-nowrap">橋本信二</span><br><span class="subtext">guitar</span>
 Shinya Nitta | [Tsutaete Ikou]({% link _albums/seiji-endo-tsutaete-ikou.md %}) | <span class="jname-nowrap">仁田真也</span><br><span class="subtext">vocal</span>
 Show Kudo | [New Journey]({% link _albums/ami-fukui-trio-new-journey.md %}) ・ [Sumitty & The Funfair]({% link _albums/sumito-oi-sumitty-and-the-funfair.md %}) | <span class="jname-nowrap">工藤精</span><br><span class="subtext">bass</span>
-Shun Ishiwaka | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %}) ・ [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) | <span class="jname-nowrap">石若俊</span><br><span class="subtext">drums</span>
+Shun Ishiwaka | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %}) ・ [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) ・ [Moving Color]({% link _albums/akihiro-yoshimoto-quartet-moving-color.md %}) | <span class="jname-nowrap">石若俊</span><br><span class="subtext">drums</span>
 Shunosuke Ishikawa | [Beautiful Days]({% link _albums/fumie-chiba-beautiful-days.md %}) | <span class="jname-nowrap">石川周之介</span><br><span class="subtext">sax</span>
 Sohnosuke Imaizumi | [Grown-up Christmas Gift]({% link _albums/sanae-ishikawa-grown-up-christmas.md %}) ・ [Rin]({% link _albums/sohnosuke-imaizumi-rin.md %}) ・ [Urban Clutter]({% link _albums/ami-fukui-trio-urban-clutter.md %}) ・ [Virgo]({% link _albums/harumi-nomoto-trio-virgo.md %}) | <span class="jname-nowrap">今泉総之輔</span><br><span class="subtext">drums</span>
 Sumito Oi | [Sumitty & The Funfair]({% link _albums/sumito-oi-sumitty-and-the-funfair.md %}) | <span class="jname-nowrap">大井澄東</span><br><span class="subtext">drums</span>
-Taihei Asakawa | [Catastrophe In Jazz]({% link _albums/taihei-asakawa-catastrophe-in-jazz.md %}) ・ [Touch of Winter]({% link _albums/taihei-asakawa-trio-touch-of-winter.md %}) | <span class="jname-nowrap">浅川太平</span><br><span class="subtext">piano</span>
+Taihei Asakawa | [Catastrophe in Jazz]({% link _albums/taihei-asakawa-catastrophe-in-jazz.md %}) ・ [Touch of Winter]({% link _albums/taihei-asakawa-trio-touch-of-winter.md %}) | <span class="jname-nowrap">浅川太平</span><br><span class="subtext">piano</span>
 Takashi Saito | [Here Goes!]({% link _albums/fumiko-yamazaki-here-goes.md %}) | <span class="jname-nowrap">齋藤たかし</span><br><span class="subtext">drums</span>
+Takashi Sugawa | [Moving Color]({% link _albums/akihiro-yoshimoto-quartet-moving-color.md %}) | <span class="jname-nowrap">須川崇志</span><br><span class="subtext">bass</span>
 Takayoshi Baba | [Fever]({% link _albums/trigraph-fever.md %}) ・ [Grown-up Christmas Gift]({% link _albums/sanae-ishikawa-grown-up-christmas.md %}) ・ [Resonance]({% link _albums/duo-tremolo-resonance.md %}) | <span class="jname-nowrap">馬場孝喜</span><br><span class="subtext">guitar</span>
 Takayuki Yagi | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %}) | <span class="jname-nowrap">八木隆幸</span><br><span class="subtext">piano</span>
 Takehiro Shimizu | [Live]({% link _albums/hitomi-nishiyama-trio-parallax-live.md %}) | <span class="jname-nowrap">清水勇博</span><br><span class="subtext">drums</span>
@@ -172,6 +174,7 @@ Yukari Inoue | [Dubai Suite]({% link _albums/yukakoyamano-yukariinoue-dubai.md %
 Yukiko Hayakawa | [Gallery]({% link _albums/yukiko-hayakawa-trio-gallery.md %}) | <span class="jname-nowrap">早川由紀子</span><br><span class="subtext">piano</span>
 Yusuke Nakaishi | [The Gift]({% link _albums/rie-taguchi-gift.md %}) | <span class="jname-nowrap">仲石裕介</span><br><span class="subtext">bass</span>
 Yuya Wakai | [Images]({% link _albums/yuya-wakai-images.md %}) | <span class="jname-nowrap">若井優也</span><br><span class="subtext">piano</span>
+Aaron Choulai | [Moving Color]({% link _albums/akihiro-yoshimoto-quartet-moving-color.md %}) | <span class="subtext">piano</span>
 Anders Kjellberg | [Many Seasons]({% link _albums/hitomi-nishiyama-trio-many-seasons.md %}) | <span class="subtext">drums</span>
 Anton Blomgren | [Flower Clouds]({% link _albums/naoko-sakata-trio-flower-clouds.md %}) | <span class="subtext">bass</span>
 Ben "Donny" Waples | [Open the Green Door]({% link _albums/hakuei-kim-trio-open-the-green-door.md %}) | <span class="subtext">bass</span>
@@ -183,13 +186,14 @@ Cecil Monroe | [Feel Like Makin' Love]({% link _albums/sanae-ishikawa-feel-like-
 Christian Vuust | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %}) | <span class="subtext">sax</span>
 Danny Grissett | [Lite Blue]({% link _albums/takuji-yamada-lite-blue.md %}) | <span class="subtext">piano</span>
 Dave Goodman | [Open the Green Door]({% link _albums/hakuei-kim-trio-open-the-green-door.md %}) | <span class="subtext">drums</span>
-Gene Jackson | [Night & Day]({% link _albums/akane-matsumoto-night-and-day.md %}) | <span class="subtext">drums</span>
+Gene Jackson | [Memories of You]({% link _albums/akane-matsumoto-memories-of-you.md %}) ・ [Night & Day]({% link _albums/akane-matsumoto-night-and-day.md %}) | <span class="subtext">drums</span>
 Hans Backenroth | [Many Seasons]({% link _albums/hitomi-nishiyama-trio-many-seasons.md %}) | <span class="subtext">bass</span>
 Jakob Buchanan | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %}) | <span class="subtext">flugelhorn</span>
 Jay Anderson | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %}) | <span class="subtext">bass</span>
 Jean-Philippe Viret | [Wish]({% link _albums/manabu-ohishi-wish.md %}) | <span class="subtext">bass</span>
 Jeff Ballard | [Madrigal]({% link _albums/chihiro-yamanaka-trio-madrigal.md %}) ・ [When October Goes]({% link _albums/chihiro-yamanaka-trio-when-october.md %}) | <span class="subtext">drums</span>
 Jeremy Manasia | [Art]({% link _albums/ayumi-koketsu-art.md %}) | <span class="subtext">piano</span>
+Joe Farnsworth | [Playing New York]({% link _albums/akane-matsumoto-playing-new-york.md %}) | <span class="subtext">drums</span>
 Johan Birgenius | [Flower Clouds]({% link _albums/naoko-sakata-trio-flower-clouds.md %}) | <span class="subtext">drums</span>
 Klaus Nørgaard | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %}) | <span class="subtext">bass</span>
 LaFrae Olivia Sci | [Living Without Friday]({% link _albums/chihiro-yamanaka-trio-living-without-friday.md %}) | <span class="subtext">drums</span>
@@ -199,8 +203,9 @@ Magne Thormodsæter | [Rainbow Tales]({% link _albums/ayumi-koketsu-rainbow-tale
 Mark Taylor | [Art]({% link _albums/ayumi-koketsu-art.md %}) | <span class="subtext">drums</span>
 Mike Karn | [Art]({% link _albums/ayumi-koketsu-art.md %}) | <span class="subtext">bass</span>
 Mike Rivett | [You Already Know]({% link _albums/bungalow-you-already-know.md %}) | <span class="subtext">sax</span>
+Nat Reeves | [Playing New York]({% link _albums/akane-matsumoto-playing-new-york.md %}) | <span class="subtext">bass</span>
 Per Oddvar Johansen | [Rainbow Tales]({% link _albums/ayumi-koketsu-rainbow-tales.md %}) | <span class="subtext">drums</span>
-Peter Washington | [Night & Day]({% link _albums/akane-matsumoto-night-and-day.md %}) | <span class="subtext">bass</span>
+Peter Washington | [Memories of You]({% link _albums/akane-matsumoto-memories-of-you.md %}) ・ [Night & Day]({% link _albums/akane-matsumoto-night-and-day.md %}) | <span class="subtext">bass</span>
 Quincy Davis | [Lite Blue]({% link _albums/takuji-yamada-lite-blue.md %}) | <span class="subtext">drums</span>
 Ralph Bowen | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %}) | <span class="subtext">sax</span>
 Ray Parker | [Living Without Friday]({% link _albums/chihiro-yamanaka-trio-living-without-friday.md %}) | <span class="subtext">bass</span>
