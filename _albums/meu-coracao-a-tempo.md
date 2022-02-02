@@ -20,9 +20,10 @@ images:
    - L1190126-1024.jpg
    - L1190136-1024.jpg
 videos: 
-   - {url: "TBD", comment: ""}
    - {url: "https://youtu.be/EDWnasfxIRw", comment: "Live performance of \"Corrida De Jangada\", the third track on this album"}
    - {url: "https://youtu.be/-5KLQHihHgw", comment: "Promotional video showing another side of Meu Coração on the second track \"Lawns\""}
+audio_embed:
+   {filename: "01-Samba-De-Uma-Nota-So.mp3", comment: "Excerpt from \"Samba de Una Nota So\", which opens the album:"}
 ---
 The Japanese vocal-guitar duo Meu Coração releases the stunning *A Tempo* as a return to an earlier form. Well-known for playing acoustic Brazilian music at sold-out concert halls, their sixth album presents dramatic variations with an exciting full-band sound.
 

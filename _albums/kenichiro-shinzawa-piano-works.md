@@ -18,9 +18,9 @@ images:
    - L1200165-1024.jpg
    - L1110922-1024.jpg
 videos: 
-   - {url: "TBD", comment: "TBD"}
    - {url: "https://youtu.be/99CzcQx9Kb0", comment: "A solo performance giving a great sense of Ken'ichiro Shinzawa's solo piano style"}
-audio: 
+audio_embed:
+   {filename: "01-２つの命-Two-Lives.mp3", comment: "Excerpt from the first track on the album, \"Two Lives\":"}
 ---
 Ideal for peaceful, calming piano, Ken'ichiro Shinzawa's *Piano Works* features seven original compositions with a sweet purity in the musical message.
 

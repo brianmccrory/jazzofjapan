@@ -17,9 +17,9 @@ images:
    - L1200178-1024.jpg
    - IMG_20150326_125526-002-1024.jpg
 videos: 
-   - {url: "TBD", comment: "TBD"}
    - {url: "https://youtu.be/q5gpBi0RSFw", comment: "Yuya Wakai playing \"All The Things You Are\" in a jazz trio setting"}
-audio: 
+audio_embed:
+   {filename: "01-There-Will-Never-Be-Another-You.mp3", comment: "Excerpt from the opening track on this album, \"There Will Never Be Another You\":"}
 ---
 Joyful notes flow effortlessly from pianist Yuya Wakai as he confidently opens his solo piano album *Images*.
 

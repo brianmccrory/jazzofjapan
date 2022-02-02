@@ -18,8 +18,9 @@ images:
    - L1180642-1024.jpg
    - L1180645-1024.jpg
 videos: 
-   - {url: "TBD", comment: "TBD"}
    - {url: "https://youtu.be/zQPD6kEigIA", comment: "This promotional video features partial samples of the first two tracks on the album, the exciting \"Heavens Fall\" and the gospel-like \"Keys\""}
+audio_embed:
+   {filename: "03-Move.mp3", comment: "Excerpt from the opening of the third track on this album, \"Move\":"}
 ---
 This 2016 album simply entitled *Live* from Hitomi Nishiyama's Parallax piano trio marks 10 years since her label debut *Cubium* in 2006. With various projects and albums released under her name, this is the third release for her Parallax group, an edgier, groovier, and rhythmically-energized jazz piano trio.
 

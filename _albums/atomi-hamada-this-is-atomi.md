@@ -18,8 +18,9 @@ images:
    - L1190148-1024.jpg
    - L1190159-1024.jpg
 videos: 
-   - {url: "TBD", comment: "TBD"}
    - {url: "https://youtu.be/Okl0bUUC9Z0", comment: "Live performance of \"Ladies in Mercedes\", track four on this album"}
+audio_embed:
+   {filename: "03-オール・ザ・シングス・ユー・アー.mp3", comment: "Excerpt from track 3 on this album, \"All The Things You Are\":"}
 ---
 Jazz singer Atomi Hamada releases *This Is Atomi*, a five-track debut featuring songs she loved as jazz instrumental standards. Here, she adds her voice as an instrument, adding a fresh dimension to songs that some listeners may have often heard as instrumental versions.
 

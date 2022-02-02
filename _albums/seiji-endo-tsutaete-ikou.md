@@ -20,10 +20,10 @@ images:
    - L1180631x-1024.jpeg
    - L1180632x-1024.jpeg
 videos: 
-   - {url: "TBD", comment: "TBD"}
    - {url: "https://youtu.be/23zd-3JgmV4", comment: "Video for the song"}
    - {url: "https://youtu.be/H7QlmnVCqMA", comment: "Solo piano version of the song for karaoke"}
-audio: 
+audio_embed:
+   {filename: "01-Tsutaete-Ikou.mp3", comment: "Excerpt from the first track on the album:"}
 ---
 
 Inspired by brave, kindhearted students at a benefit concert, musicians Hiroco Nakano, Shinya Nitta, and Seiji Endo created the *Tsutaete Ikou* project to offer support and pay homage to lives taken by the devastating Tohoku earthquake of March 11, 2011.

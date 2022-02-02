@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{% assign image_subdir = page.date | date: "%Y/%m" %}
-{% assign image_dir = "/assets/images/" | append: image_subdir %}
+{% assign yyyymm_subdir = page.date | date: "%Y/%m" %}
+{% assign image_dir = "/assets/images/" | append: yyyymm_subdir %}
 {% assign copyright_year = page.date | date: "%Y" %}
 {% unless copyright_year %}
 {% assign copyright_year = site.time | date: "%Y" %}
@@ -67,6 +67,17 @@ Released in {{ page.year }} on {{ page.label | escape }} as {{ page.code | escap
 <li><a href="{{ audio_link.url }}">{{ audio_link.comment | escape }}</a></li>
 {%- endfor %}
 </ul>
+
+
+{% if page.audio_embed and page.audio_embed.filename and page.audio_embed.comment and page.audio_embed.filename != "" and page.audio_embed.comment != "" %}
+{% assign audio_dir = "/assets/audio/" | append: yyyymm_subdir %}
+<em>{{ page.audio_embed.comment }}</em><br>
+<audio controls>
+   <source src="{{ audio_dir}}/{{ page.audio_embed.filename }}" type="audio/mpeg">
+    <em>This browser does not support the audio element.</em>
+</audio>
+{% endif %}
+
 
 <hr>
 

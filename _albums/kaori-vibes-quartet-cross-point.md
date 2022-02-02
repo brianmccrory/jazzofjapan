@@ -21,8 +21,9 @@ images:
    - L1190221-1024.jpg
    - L1190226-1024.jpg
 videos: 
-   - {url: "TBD", comment: "TBD"}
    - {url: "https://youtu.be/Tvni2-L10GM", comment: "Kaori Nakajima plays \"At That Room\", the final song on this album"}
+audio_embed:
+   {filename: "01-Cross-Point.mp3", comment: "Excerpt from \"Cross Point\", the first song on this album:"}
 ---
 Vibist Kaori Nakajima returns with her second album *Cross Point* featuring KVQ: Kaori Vibes Quartet (formerly Vangy!!), a jubilant combo with jazz vibraphone springing out mellow tones at the center.
 

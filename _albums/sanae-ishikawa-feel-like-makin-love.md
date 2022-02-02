@@ -24,11 +24,12 @@ images:
    - IMG_20150318_153927.jpg
    - IMG_20150318_153942-001.jpg
 videos: 
-   - {url: "TBD", comment: ""}
    - {url: "https://youtu.be/H1atAzE62wY", comment: '"Tea For Two" played live from an album release performance, featuring the recording musicians who played on the album'}
    - {url: "https://youtu.be/04eLziJ6yKo", comment: '"So Many Stars" from the album release performance'}
    - {url: "https://youtu.be/Y_GXSDOHgrU", comment: '"Day In, Day Out" from the album release performance'}
    - {url: "https://youtu.be/bYr5CPRr91Y", comment: '"Cheek To Cheek" from the album release performance'}
+audio_embed:
+   {filename: "07-チーク・トゥ・チーク.mp3", comment: "Excerpt from \"Cheek To Cheek\" from this album:"}
 ---
 Tokyo-based jazz singer Sanae Ishikawa sings from her heart, presenting her full, confident voice on choice jazz standards with her 2007 debut *Feel Like Makin' Love*.
 
