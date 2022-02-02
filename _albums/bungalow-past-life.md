@@ -18,6 +18,7 @@ images:
    - L1200189-1024.jpg
    - L1200190-1024.jpg
    - L1200192-1024.jpg
+   - L1120184-1024.jpg
 videos: 
    - {url: "TBD", comment: ""}
    - {url: "https://youtu.be/fpzcz7PJN7w", comment: "Live performance of the title track \"Past Life\""}

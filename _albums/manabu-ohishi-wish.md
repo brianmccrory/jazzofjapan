@@ -18,6 +18,7 @@ images:
    - L1200152-1024.jpg
    - L1200154-1024.jpg
    - L1200157-1024.jpg
+   - L1120054-1024.jpeg
 videos: 
    - {url: "TBD", comment: "TBD"}
    - {url: "https://youtu.be/muxhlGhBnIQ", comment: "A different version of Ohishi's song \"Continuous Rain\""}

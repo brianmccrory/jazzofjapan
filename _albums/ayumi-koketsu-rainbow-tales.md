@@ -17,7 +17,8 @@ images:
    - L1200179-1024.jpg
    - L1200180-1024.jpg
    - L1200181-1024.jpg
-   - L1200187-1024.jpg   
+   - L1200187-1024.jpg
+   - L1110684-003-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "https://youtu.be/nimLiOrT4-0", comment: "Ayumi Koketsu performs her song \"Near The Clouds\" in a duo setting with guitar"}

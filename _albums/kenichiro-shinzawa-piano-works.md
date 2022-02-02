@@ -16,6 +16,7 @@ images:
    - L1200163-1024.jpg
    - L1200164-1024.jpg
    - L1200165-1024.jpg
+   - L1110922-1024.jpg
 videos: 
    - {url: "TBD", comment: "TBD"}
    - {url: "https://youtu.be/99CzcQx9Kb0", comment: "A solo performance giving a great sense of Ken'ichiro Shinzawa's solo piano style"}

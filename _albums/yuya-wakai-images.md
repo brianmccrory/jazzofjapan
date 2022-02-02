@@ -15,6 +15,7 @@ images:
    - L1200175-1024.jpg
    - L1200177-1024.jpg
    - L1200178-1024.jpg
+   - IMG_20150326_125526-002-1024.jpg
 videos: 
    - {url: "TBD", comment: "TBD"}
    - {url: "https://youtu.be/q5gpBi0RSFw", comment: "Yuya Wakai playing \"All The Things You Are\" in a jazz trio setting"}
