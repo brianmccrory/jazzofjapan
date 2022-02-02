@@ -1,0 +1,50 @@
+---
+date: 2018-12-02
+date_updated: 
+title: Tip Of Dream
+artist: Fumie Chiba Trio
+sort_value: Fumie Chiba Trio Tip Of Dream
+year: 
+label: 
+code: 
+release_note: 
+
+members:
+   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: , instrument: "", japanese_name: , url: ""}
+images: 
+   - L1200528.jpg
+   - L1200530.jpg
+   - L1200532.jpg
+   - L1200535.jpg
+videos: 
+   - {url: "", comment: ""}
+   - {url: "", comment: ""}
+audio_embed:
+   {filename: "01-11th-Door.mp3", comment: "Excerpt from \"11th Door\", the first track on the album:"}
+---
+[audio mp3="http://www.jjazzist.com/wp-content/uploads/2018/11/01-11th-Door.mp3"][/audio]
+
+<a href="http://www.jjazzist.com/wp-content/uploads/2018/11/L1200528.jpg"><img class="size-medium wp-image-3115 alignright" src="http://www.jjazzist.com/wp-content/uploads/2018/11/L1200528-300x286.jpg" alt="" width="300" height="286" /></a>Jazz pianist and composer Fumie Chiba's *Tip Of Dream* is a great example of modern jazz piano from Japan, displaying high-caliber technique and creative approaches to modern jazz composition.
+
+Through the album's eight tracks, Chiba plays with confidence and verve, showing shades of McCoy Tyner's rapid abstractions, Bills Evans' melodic sentimentality, and Mulgrew Miller's well-rounded fluency and swinging groove.
+
+The set starts off strong with "11th Door" which quickly demonstrates the control and power that this trio delivers. The performance is sleek and modern, at times aggressively powerful yet not lacking a sensitive touch and deep energy. From the attention-grabbing opening, the music moves into pretty ballads, lyrical sentimentality with modern flourishes, Herbie Hancock-style funky jazz, and finishes with a piano solo with balanced pop prettiness.
+
+Along with the six original songs, Chiba's reharmonizations and arrangements also demand attention: a slightly dark "Our Love Is Here To Stay" adds a mysterious, hypnotic twist to an old standard. In addition, a sharp re-interpretation of Ravel's "Pavane For A Dead Princess" shows how beautifully classical music can be adapted to classy modern jazz.
+
+<a href="http://www.jjazzist.com/wp-content/uploads/2018/11/L1200530.jpg"><img class="alignnone size-medium wp-image-3116" src="http://www.jjazzist.com/wp-content/uploads/2018/11/L1200530-300x300.jpg" alt="" width="300" height="300" /></a><a href="http://www.jjazzist.com/wp-content/uploads/2018/11/L1200532.jpg"><img class="alignnone size-medium wp-image-3117" src="http://www.jjazzist.com/wp-content/uploads/2018/11/L1200532-300x197.jpg" alt="" width="300" height="197" /></a><a href="http://www.jjazzist.com/wp-content/uploads/2018/11/L1200535.jpg"><img class="alignnone size-medium wp-image-3118" src="http://www.jjazzist.com/wp-content/uploads/2018/11/L1200535-300x180.jpg" alt="" width="300" height="180" /></a>
+
+Leader: <strong>Fumie Chiba · 千葉史絵</strong> · <a href="http://fumiechiba.com">http://fumiechiba.com</a>
+
+Members:
+<ul>
+ 	<li>Fumie Chiba - piano</li>
+ 	<li>Koichi Kuniwake - bass</li>
+ 	<li>Shigehito Kawamura - drums</li>
+</ul>
+Released in 2009 on TRL Music as TRL-0826.
+
+** Audio sample at top of page from "11th Door", the first track on the album. *

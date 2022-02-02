@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{% assign yyyymm_subdir = page.date | date: "%Y/%m" %}
-{% assign image_dir = "/assets/images/" | append: yyyymm_subdir %}
+{% assign yyyymm_dir = page.date | date: "%Y/%m" %}
+{% assign image_dir = "/assets/images/" | append: yyyymm_dir %}
 {% assign copyright_year = page.date | date: "%Y" %}
 {% unless copyright_year %}
 {% assign copyright_year = site.time | date: "%Y" %}
@@ -16,10 +16,11 @@ layout: default
 
 <div class="post-content">
 
+{% if page.image -%}
 <p class="aligncenter">
-<img src="{{ page.image }}" width=460 alt="">
+<img src="{% link {{ page.image }} %}" width=460 alt="">
 </p>
-
+{%- endif %}
 {{ content }}
 
 <h3><em>{{ page.title | escape }}</em> by {{ page.artist | escape }}</h3>	
@@ -70,7 +71,7 @@ Released in {{ page.year }} on {{ page.label | escape }} as {{ page.code | escap
 
 
 {% if page.audio_embed and page.audio_embed.filename and page.audio_embed.comment and page.audio_embed.filename != "" and page.audio_embed.comment != "" %}
-{% assign audio_dir = "/assets/audio/" | append: yyyymm_subdir %}
+{% assign audio_dir = "/assets/audio/" | append: yyyymm_dir %}
 <em>{{ page.audio_embed.comment }}</em><br>
 <audio controls>
    <source src="{{ audio_dir}}/{{ page.audio_embed.filename }}" type="audio/mpeg">
