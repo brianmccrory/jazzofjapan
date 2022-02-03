@@ -29,7 +29,7 @@ audio_embed:
 
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/12/L1220090.jpg"><img class="size-medium wp-image-3346 alignright" src="http://www.jjazzist.com/wp-content/uploads/2018/12/L1220090-300x295.jpg" alt="" width="300" height="295" /></a>
 
-On *<i lang="fr">Bénin</i> Rio Tokyo*, Japanese vocalist Nobie takes us on a musical journey spanning West Africa, Brazil, and Tokyo with sparkling duo collaborations. This music is catchy and deep, with layers of voice and guitar infused with a spirit of love, respect, and masterful finesse. With an ideal selection of musical partners and songs, Nobie's rhythmically thrilling and lush voice cascades through the music like water over rocks, beautifully soft and dynamic.
+On *Bénin Rio Tokyo*, Japanese vocalist Nobie takes us on a musical journey spanning West Africa, Brazil, and Tokyo with sparkling duo collaborations. This music is catchy and deep, with layers of voice and guitar infused with a spirit of love, respect, and masterful finesse. With an ideal selection of musical partners and songs, Nobie's rhythmically thrilling and lush voice cascades through the music like water over rocks, beautifully soft and dynamic.
 
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/12/L1220094.jpg"><img class="size-medium wp-image-3347 alignright" src="http://www.jjazzist.com/wp-content/uploads/2018/12/L1220094-300x284.jpg" alt="" width="300" height="284" /></a>The first four tracks represent Benin with Nobie and guitarist Lionel Loueke playing African and Brazilian music with flair over slick, fun rhythms. Nobie's gorgeous vocal and percussive sounds add layers to the music, counterpointed beautifully by the deeper voice of Loueke, playing confidently together with joyful ease.
 

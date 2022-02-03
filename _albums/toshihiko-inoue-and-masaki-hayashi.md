@@ -1,6 +1,6 @@
 ---
 date: 2021-07-16
-date_updated: 2021-07-16
+date_updated: 
 title: Mistral
 artist: Toshihiko Inoue & Masaki Hayashi
 sort_value: Toshihiko Inoue zzz Masaki Hayashi Mistral

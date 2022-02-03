@@ -1,6 +1,6 @@
 ---
 date: 2021-06-14
-date_updated: 2021-06-14
+date_updated: 
 title: Childhood's Dream
 artist: Shigeo Fukuda & Toshiki Nunokawa
 sort_value: Shigeo Fukuda & Toshiki Nunokawa Childhood's Dream

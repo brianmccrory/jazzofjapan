@@ -1,6 +1,6 @@
 ---
 date: 2021-06-02
-date_updated: 2021-06-02
+date_updated: 
 title: Here Goes!
 artist: Fumiko Yamazaki
 sort_value: Fumiko Yamazaki Here Goes!

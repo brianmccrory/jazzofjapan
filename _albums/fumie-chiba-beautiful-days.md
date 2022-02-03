@@ -1,6 +1,6 @@
 ---
 date: 2021-05-27
-date_updated: 2021-05-27
+date_updated: 
 title: Beautiful Days
 artist: Fumie Chiba
 sort_value: Fumie Chiba Beautiful Days

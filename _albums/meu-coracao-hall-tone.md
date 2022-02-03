@@ -1,6 +1,6 @@
 ---
 date: 2021-07-05
-date_updated: 2021-07-05
+date_updated: 
 title: Hall Tone
 artist: Meu Coracao
 sort_value: Meu Coracao Hall Tone

@@ -54,4 +54,4 @@ https://youtu.be/xQPSz5yOzEE
 
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/11/L1110647.jpg"><img class="alignnone size-medium wp-image-3689" src="http://www.jjazzist.com/wp-content/uploads/2018/11/L1110647-300x200.jpg" alt="" width="300" height="200" data-temp-aztec-id="c16cb8ec-02bc-441d-8da2-de3bc869b3a0" /></a>
 
-<i>* Audio sample at top of page from "From A Distance", track #8 on this album.</i>
+** Audio sample at top of page from "From A Distance", track #8 on this album.*

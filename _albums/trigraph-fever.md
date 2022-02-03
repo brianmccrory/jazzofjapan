@@ -1,6 +1,6 @@
 ---
 date: 2021-08-27
-date_updated: 2021-08-27
+date_updated: 
 title: Fever
 artist: Trigraph
 sort_value: Trigraph Fever

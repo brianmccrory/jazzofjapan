@@ -1,6 +1,6 @@
 ---
 date: 2021-06-07
-date_updated: 2021-06-07
+date_updated: 
 title: Duet
 artist: Shinichi Kato & Masahiko Sato
 sort_value: Shinichi Kato & Masahiko Sato Duet

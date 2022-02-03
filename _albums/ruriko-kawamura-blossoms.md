@@ -1,6 +1,6 @@
 ---
 date: 2021-10-19
-date_updated: 2021-10-19
+date_updated: 
 title: Blossoms
 artist: Ruriko Kawamura
 sort_value: Ruriko Kawamura Blossoms
