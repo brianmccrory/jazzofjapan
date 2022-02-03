@@ -4,28 +4,31 @@ date_updated:
 title: Routine Jazz Sextet
 artist: Routine Jazz Sextet
 sort_value: Routine Jazz Sextet Routine Jazz Sextet
-year: 
-label: 
-code: 
+year: 2008
+label: Routine Records
+code: RCJP-002
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Tomoyuki Konno", instrument: "紺野智之 - drums", japanese_name: , url: ""}
+   - {name: "Shinpei Ruike", instrument: "類家心平 - trumpet", japanese_name: , url: ""}
+   - {name: "Wataru Hamasaki", instrument: "浜崎航 - flute, tenor sax, soprano sax", japanese_name: , url: ""}
+   - {name: "Taku Akiyama", instrument: "秋山卓 - alto sax", japanese_name: , url: ""}
+   - {name: "Koichi Sato", instrument: "佐藤浩一 - piano", japanese_name: , url: ""}
+   - {name: "Haruhisa Takamichi", instrument: "高道晴久 - bass", japanese_name: , url: ""}
 images: 
-   - L1230058.jpg
-   - L1230060.jpg
-   - L1230066.jpg
-   - L1230067.jpg
-   - L1230069.jpg
-   - L1230065.jpg
+   - L1230058-1024.jpg
+   - L1230060-1024.jpg
+   - L1230066-1024.jpg
+   - L1230067-1024.jpg
+   - L1230069-1024.jpg
+   - L1230065-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "03-The-Crosseyed-Cat.mp3", comment: "Excerpt from \"The Crosseyed Cat\", the third track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/01/03-The-Crosseyed-Cat.mp3"][/audio]
 
@@ -69,3 +72,4 @@ https://youtu.be/ltWzjdsZsKo
 &nbsp;
 
 ** Audio sample at top of page from "The Crosseyed Cat", the third track on this album.*
+

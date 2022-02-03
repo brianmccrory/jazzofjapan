@@ -4,27 +4,27 @@ date_updated:
 title: Colors
 artist: Sayaketts
 sort_value: Sayaketts Colors
-year: 
-label: 
-code: 
+year: 2009
+label: Sayaketts
+code: SKTS-001
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Sayaka Kishi", instrument: "piano, Rhodes, keyboards, pianica", japanese_name: , url: ""}
+   - {name: "Satoshi Kohno", instrument: "electric bass", japanese_name: , url: ""}
+   - {name: "Yoshihiro Nakagawa", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1200417.jpg
-   - L1200418.jpg
-   - L1200421.jpg
-   - L1200424.jpg
-   - L1120080.jpg
+   - L1200417-1024.jpg
+   - L1200418-1024.jpg
+   - L1200421-1024.jpg
+   - L1200424-1024.jpg
+   - L1120080-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "08-ビチグソロック.mp3", comment: "Excerpt from \"Bichigusorock\" on this album:"}
+---
 ---
 [audio mp3="http://www.jjazzist.com/wp-content/uploads/2018/10/08-ビチグソロック.mp3"][/audio]
 
@@ -56,3 +56,5 @@ https://youtu.be/WB36Gz5SGrQ
 &nbsp;
 
 ** Audio sample at top of page from "Bichigusorock" on this album.*
+
+

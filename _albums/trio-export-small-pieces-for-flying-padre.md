@@ -4,26 +4,26 @@ date_updated:
 title: Small Pieces for Flying Padre
 artist: Trio Export 63.1.0.X
 sort_value: Trio Export 63.1.0.X Small Pieces for Flying Padre
-year: 
-label: 
-code: 
+year: 2019
+label: Trio Export 63.1.0.X
+code: Small Pieces for Flying Padre
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Heitetsu Rin", instrument: "リンヘイテツ - piano", japanese_name: , url: ""}
+   - {name: "Keisuke Furuki", instrument: "古木佳祐 - bass", japanese_name: , url: ""}
+   - {name: "Masatsugu Hattori", instrument: "服部正嗣 - drums", japanese_name: , url: ""}
 images: 
-   - L1220721.jpg
-   - L1220722.jpg
-   - L1220725.jpg
-   - IMG_20190517_224529937.jpg
+   - L1220721-1024.jpg
+   - L1220722-1024.jpg
+   - L1220725-1024.jpg
+   - IMG_20190517_224529937-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Track-1.mp3", comment: "Excerpt from \"Part I\", the first track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/02/01-Track-1.mp3"][/audio]
 
@@ -43,9 +43,9 @@ Original, catchy, and unique, this handmade album is available for sale at the j
 
 Members:
 <ul>
- 	<li><a href="https://www.rinheitetsu.com/">Heitetsu Rin</a> · リンヘイテツ - piano</li>
- 	<li><a href="https://ameblo.jp/keisuke-jazz">Keisuke Furuki</a> · 古木佳祐 - bass</li>
- 	<li><a href="https://masatsuguhattori.tumblr.com/">Masatsugu Hattori</a> · 服部正嗣 - drums</li>
+ 	<li>Heitetsu Rin · リンヘイテツ - piano</li>
+ 	<li>Keisuke Furuki · 古木佳祐 - bass</li>
+ 	<li>Masatsugu Hattori · 服部正嗣 - drums</li>
 </ul>
 Released in 2019.
 
@@ -68,3 +68,5 @@ https://www.instagram.com/p/B1ZOTIvHnJD/?utm_source=ig_web_copy_link
 &nbsp;
 
 ** Audio sample at top of page from "Part I", the first track on the album.*
+
+

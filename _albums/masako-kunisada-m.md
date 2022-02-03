@@ -4,27 +4,27 @@ date_updated:
 title: M
 artist: Masako Kunisada
 sort_value: Masako Kunisada M
-year: 
-label: 
-code: 
+year: 2014
+label: Masaki Kunisada
+code: M
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Masako Kunisada", instrument: "vocals", japanese_name: , url: ""}
+   - {name: "Manabu Ohishi", instrument: "all instruments, arrangements", japanese_name: , url: ""}
+   - {name: "DJ M", instrument: "oto - human beat box (tracks #2, 4, 5, 7)", japanese_name: , url: ""}
 images: 
-   - L1200924.jpg
-   - L1200923.jpg
-   - L1200927.jpg
-   - L1200928.jpg
-   - L1110647.jpg
+   - L1200924-1024.jpg
+   - L1200923-1024.jpg
+   - L1200927-1024.jpg
+   - L1200928-1024.jpg
+   - L1110647-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "08-From-a-distance.mp3", comment: "M,:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/03/08-From-a-distance.mp3"][/audio]
 
@@ -55,3 +55,5 @@ https://youtu.be/xQPSz5yOzEE
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/11/L1110647.jpg"><img class="alignnone size-medium wp-image-3689" src="http://www.jjazzist.com/wp-content/uploads/2018/11/L1110647-300x200.jpg" alt="" width="300" height="200" data-temp-aztec-id="c16cb8ec-02bc-441d-8da2-de3bc869b3a0" /></a>
 
 ** Audio sample at top of page from "From A Distance", track #8 on this album.*
+
+

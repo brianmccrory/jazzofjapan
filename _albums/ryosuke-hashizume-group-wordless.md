@@ -4,26 +4,27 @@ date_updated:
 title: Wordless
 artist: Ryosuke Hashizume Group
 sort_value: Ryosuke Hashizume Group Wordless
-year: 
-label: 
-code: 
+year: 2006
+label: Polystar Jazz Library
+code: MTCJ-3031
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Ryosuke Hashizume", instrument: "tenor saxophones, loops", japanese_name: , url: ""}
+   - {name: "Motohiko Ichino", instrument: "guitar", japanese_name: , url: ""}
+   - {name: "Manabu Hashimoto", instrument: "drums", japanese_name: , url: ""}
+   - {name: "Ryoji Orihara", instrument: "fretless bass", japanese_name: , url: ""}
 images: 
-   - L1200727.jpg
-   - L1200728.jpg
-   - L1200731.jpg
-   - L1200733.jpg
+   - L1200727-1024.jpg
+   - L1200728-1024.jpg
+   - L1200731-1024.jpg
+   - L1200733-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Ｆａｃｅ.mp3", comment: "Excerpt from \"Face\", the first track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/02/01-Ｆａｃｅ.mp3"][/audio]
 
@@ -54,3 +55,4 @@ Released in 2006 on Polystar Jazz Library as MTCJ-3031.
 https://youtu.be/z9mOOA055Lw
 
 ** Audio sample at top of page from "Face", the first track on this album.*
+

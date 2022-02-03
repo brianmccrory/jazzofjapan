@@ -4,28 +4,31 @@ date_updated:
 title: Dois
 artist: Yuka Ueda
 sort_value: Yuka Ueda Dois
-year: 
-label: 
-code: 
+year: 2013
+label: Audio Fab Records
+code: <a href="https://www
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Yuka Ueda 上田裕香", instrument: "vocal", japanese_name: , url: ""}
+   - {name: "Junichiro Ohkuchi 大口純一郎", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Ryoji Orihara 織原良次", instrument: "electric fretless bass", japanese_name: , url: ""}
+   - {name: "Nobuyuki Komatsu 小松伸之", instrument: "drums", japanese_name: , url: ""}
+   - {name: "Shinji Hashimoto 橋本信二", instrument: "electric guitar (#1, 5, 7)", japanese_name: , url: ""}
+   - {name: "Jo Da Babylonia", instrument: "ョー・ダ・バビロニア - cavaquinho (#1, 8, 9)", japanese_name: , url: ""}
 images: 
-   - L1210448.jpg
-   - L1210454.jpg
-   - L1210462.jpg
-   - L1210467.jpg
-   - L1210473.jpg
-   - L1110657.jpg
+   - L1210448-1024.jpg
+   - L1210454-1024.jpg
+   - L1210462-1024.jpg
+   - L1210467-1024.jpg
+   - L1210473-1024.jpg
+   - L1110657-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Meu-Escudo.mp3", comment: "Excerpt from \"Meu Escudo\", the first track on this album:"}
+---
 ---
 [audio mp3="https://www.jjazzist.com/wp-content/uploads/2021/02/01-Meu-Escudo.mp3"][/audio]
 
@@ -65,3 +68,4 @@ https://youtu.be/2MHUgYgV4uE
 ** Audio sample at top of page from "Meu Escudo", the first track on this album.*
 
 &nbsp;
+

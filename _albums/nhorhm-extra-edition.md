@@ -4,21 +4,20 @@ date_updated:
 title: New Heritage of Real Heavy Metal -Extra Edition-
 artist: NHORHM
 sort_value: NHORHM New Heritage of Real Heavy Metal -Extra Edition-
-year: 
-label: 
-code: 
+year: 2019
+label: Apollo Sounds
+code: APLS1905
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Hitomi Nishiyama", instrument: "piano, arrangements, composition", japanese_name: 西山瞳, url: "http://hitominishiyama.net"}
+   - {name: "Ryoji Orihara", instrument: "fretless bass", japanese_name: , url: "https://orioriori.exblog.jp"}
+   - {name: "Manabu Hashimoto", instrument: "drums", japanese_name: , url: "http://manabuhashimoto.com"}
 images: 
-   - L1220779.jpg
-   - L1220781.jpg
-   - L1220783.jpg
-   - L1220785.jpg
+   - L1220779-1024.jpg
+   - L1220781-1024.jpg
+   - L1220783-1024.jpg
+   - L1220785-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}

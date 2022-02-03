@@ -79,7 +79,7 @@ Makoto Rikitake | [Halo]({% link _albums/blue-dot-halo.md %}) | <span class="jna
 Mamoru Ishida | [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) ・ [Trios II]({% link _albums/daiki-yasukagawa-trio-trios-ii.md %}) | <span class="jname-nowrap">石田衛</span><br><span class="subtext">piano</span>
 Manabu Fujii | [1st Stage]({% link _albums/yukako-yamano-1st-stage.md %}) | <span class="jname-nowrap">藤井学</span><br><span class="subtext">drums</span>
 Manabu Hashimoto | [Catastrophe in Jazz]({% link _albums/taihei-asakawa-catastrophe-in-jazz.md %}) ・ [Incomplete Voices]({% link _albums/ryosuke-hashizume-group-incomplete.md %}) ・ [Kanmai]({% link _albums/daiki-yasukagawa-trio-kanmai.md %}) ・ [Trios II]({% link _albums/daiki-yasukagawa-trio-trios-ii.md %}) | <span class="jname-nowrap">橋本学</span><br><span class="subtext">percussion</span>
-Manabu Ohishi | [Wish]({% link _albums/manabu-ohishi-wish.md %}) | <span class="jname-nowrap">大石学</span><br><span class="subtext">piano</span>
+Manabu Ohishi | [Wish]({% link _albums/manabu-ohishi-trio-wish.md %}) | <span class="jname-nowrap">大石学</span><br><span class="subtext">piano</span>
 Masaaki Imaizumi | [A Love Supreme]({% link _albums/noriko-satomi-a-love-supreme.md %}) | <span class="jname-nowrap">今泉正明</span><br><span class="subtext">piano</span>
 Masahiko Osaka | [A Love Supreme]({% link _albums/noriko-satomi-a-love-supreme.md %}) ・ [J-Straight Ahead]({% link _albums/yasumasa-kumagai-j-straight-ahead.md %}) | <span class="jname-nowrap">大坂昌彦</span><br><span class="subtext">drums</span>
 Masahiko Sato | [Duet]({% link _albums/shinichi-kato-and-masahiko-sato-duet.md %}) | <span class="jname-nowrap">佐藤允彦</span><br><span class="subtext">piano</span>
@@ -202,7 +202,7 @@ Gene Jackson | [Memories of You]({% link _albums/akane-matsumoto-memories-of-you
 Hans Backenroth | [Many Seasons]({% link _albums/hitomi-nishiyama-trio-many-seasons.md %}) | <span class="subtext">bass</span>
 Jakob Buchanan | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %}) | <span class="subtext">flugelhorn</span>
 Jay Anderson | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %}) | <span class="subtext">bass</span>
-Jean-Philippe Viret | [Wish]({% link _albums/manabu-ohishi-wish.md %}) | <span class="subtext">bass</span>
+Jean-Philippe Viret | [Wish]({% link _albums/manabu-ohishi-trio-wish.md %}) | <span class="subtext">bass</span>
 Jeff Ballard | [Madrigal]({% link _albums/chihiro-yamanaka-trio-madrigal.md %}) ・ [When October Goes]({% link _albums/chihiro-yamanaka-trio-when-october.md %}) | <span class="subtext">drums</span>
 Jeremy Manasia | [Art]({% link _albums/ayumi-koketsu-art.md %}) | <span class="subtext">piano</span>
 Joe Farnsworth | [Playing New York]({% link _albums/akane-matsumoto-playing-new-york.md %}) | <span class="subtext">drums</span>
@@ -226,7 +226,7 @@ Rodney Green | [Madrigal]({% link _albums/chihiro-yamanaka-trio-madrigal.md %}) 
 Rodney Whitaker | [Faith]({% link _albums/mayuko-katakura-faith.md %}) | <span class="subtext">bass</span>
 Scott Wendholt | [New Departure]({% link _albums/takayuki-yagi-new-departure.md %}) | <span class="subtext">trumpet</span>
 Sebastiaan Kaptein | [Colors in Silence]({% link _albums/tomoka-miwa-colors.md %}) | <span class="subtext">drums</span>
-Simon Goubert | [Wish]({% link _albums/manabu-ohishi-wish.md %}) | <span class="subtext">drums</span>
+Simon Goubert | [Wish]({% link _albums/manabu-ohishi-trio-wish.md %}) | <span class="subtext">drums</span>
 Soren Dahl Jeppesen | [Niwatazumi]({% link _albums/kazumi-ikenaga-niwatazumi.md %}) | <span class="subtext">guitar</span>
 Svein Olav Herstad | [Rainbow Tales]({% link _albums/ayumi-koketsu-rainbow-tales.md %}) | <span class="subtext">piano</span>
 Takahiko Goto | [Bb]({% link _albums/baby-brothers-bb.md %}) | <span class="subtext">vocal</span>

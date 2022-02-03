@@ -3,28 +3,31 @@ date: 2018-07-27
 date_updated: 
 title: The Flow of Time
 artist: Takako Yamada
-sort_value: Takako Yamada The Flow of Time
-year: 
-label: 
-code: 
-release_note: 
-
+sort_value: Takako Yamada Flow of Time
+year: 2013
+label: GoodNessPlus
+code: Records as GNPR-1146
+release_note:
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Takako Yamada", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Shinpei Ruike", instrument: "trumpet", japanese_name: , url: ""}
+   - {name: "Teriver Cheung", instrument: "guitar", japanese_name: , url: ""}
+   - {name: "Koji Yasuda", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Gaku Hasegawa", instrument: "drums", japanese_name: , url: ""}
+   - {name: "Ko Omura", instrument: "tabla, drums", japanese_name: , url: ""}
 images: 
-   - L1200224.jpg
-   - L1200225.jpg
-   - L1200226.jpg
-   - L1200232.jpg
-   - L1110574.jpg
+   - L1200224-1024.jpg
+   - L1200225-1024.jpg
+   - L1200226-1024.jpg
+   - L1200232-1024.jpg
+   - L1110574-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-ランドスケープ.mp3", comment: "Note: Audio sample from the opening track entitled \"Land Scape\":"}
+---
 ---
 [audio mp3="http://www.jjazzist.com/wp-content/uploads/2018/07/01-ランドスケープ.mp3"][/audio]
 
@@ -76,3 +79,4 @@ https://youtu.be/YMeVmtrxIGo
 &nbsp;
 
 *Note: Audio sample from the opening track entitled "Land Scape".*
+

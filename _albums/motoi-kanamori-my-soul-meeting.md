@@ -4,27 +4,29 @@ date_updated:
 title: My Soul Meeting
 artist: Motoi Kanamori
 sort_value: Motoi Kanamori My Soul Meeting
-year: 
-label: 
-code: 
+year: 2018
+label: Laplace Records
+code: LPDCD-103
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Motoi Kanamori", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Hiroyuki Takubo", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Akira Yamada", instrument: "drums", japanese_name: , url: ""}
+   - {name: "Erena Terakubo", instrument: "alto sax", japanese_name: , url: ""}
+   - {name: "Akihiro Yoshimoto", instrument: "tenor sax", japanese_name: , url: ""}
 images: 
-   - L1220405.jpg
-   - L1220407.jpg
-   - L1220411.jpg
-   - L1220412.jpg
-   - L1220414.jpg
+   - L1220405-1024.jpg
+   - L1220407-1024.jpg
+   - L1220411-1024.jpg
+   - L1220412-1024.jpg
+   - L1220414-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "07-Metro-Maniac.mp3", comment: "Excerpt from \"Metro Maniac\", the seventh track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/04/07-Metro-Maniac.mp3"][/audio]
 
@@ -66,3 +68,4 @@ https://youtu.be/YhQnfXHlBVg
 &nbsp;
 
 ** Audio sample at top of page from "Metro Maniac", the seventh track on the album.*
+

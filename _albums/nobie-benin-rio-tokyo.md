@@ -4,26 +4,27 @@ date_updated:
 title: Bénin Rio Tokyo
 artist: Nobie
 sort_value: Nobie Bénin Rio Tokyo
-year: 
-label: 
-code: 
+year: 2018 as DBCW-3333
+label: Dear
+code: Heart
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Nobie", instrument: "vocals", japanese_name: , url: ""}
+   - {name: "Lionel Loueke", instrument: "guitar, vocals (#1-4)", japanese_name: , url: ""}
+   - {name: "Toninho Horta", instrument: "guitar, vocals (#5-6)", japanese_name: , url: ""}
+   - {name: "Takayoshi Baba", instrument: "guitar (#8)", japanese_name: , url: ""}
 images: 
-   - L1220090.jpg
-   - L1220094.jpg
-   - L1220100.jpg
-   - L1220105.jpg
+   - L1220090-1024.jpg
+   - L1220094-1024.jpg
+   - L1220100-1024.jpg
+   - L1220105-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Karibu.mp3", comment: "The audio sample at the top of page is from \"Karibou\", written by Lionel Loueke, the first track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/08/01-Karibu.mp3"][/audio]
 
@@ -63,3 +64,5 @@ https://youtu.be/oC0JKyAlfHI
 &nbsp;
 
 ** The audio sample at the top of page is from "Karibou", written by Lionel Loueke, the first track on this album.*
+
+

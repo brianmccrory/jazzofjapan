@@ -4,27 +4,26 @@ date_updated:
 title: Bass on Cinema
 artist: Shinichi Kato
 sort_value: Shinichi Kato Bass on Cinema
-year: 
-label: 
-code: 
+year: 2011
+label: <a href="http://rovingspirits.co.jp/">Roving Spirits</a>
+code: RKCJ-2048
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Shinichi Kato", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Taihei Asakawa", instrument: "piano, synthesizers, arrangements", japanese_name: , url: ""}
 images: 
-   - L1220543.jpg
-   - L1220544.jpg
-   - L1220547.jpg
-   - L1220548.jpg
-   - L1220550.jpg
+   - L1220543-1024.jpg
+   - L1220544-1024.jpg
+   - L1220547-1024.jpg
+   - L1220548-1024.jpg
+   - L1220550-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Cavatina.mp3", comment: "Excerpt from \"Cavatina\", the first track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/09/01-Cavatina.mp3"][/audio]
 
@@ -54,3 +53,4 @@ https://youtu.be/WyW0YU5h3Rw
 &nbsp;
 
 ** Audio sample at top of page from "Cavatina", the first track on the album.*
+

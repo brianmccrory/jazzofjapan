@@ -4,26 +4,23 @@ date_updated:
 title: Waltz For Debby
 artist: Taihei Asakawa
 sort_value: Taihei Asakawa Waltz For Debby
-year: 
-label: 
-code: 
+year: 2018
+label: Cortez Sound
+code: CSJ0008
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
 images: 
-   - L1220050.jpg
-   - L1220051.jpg
-   - L1220060.jpg
-   - L1220071.jpg
+   - L1220050-1024.jpg
+   - L1220051-1024.jpg
+   - L1220060-1024.jpg
+   - L1220071-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-My-Foolish-Heart.mp3", comment: "Excerpt from the opening track, \"My Foolish Heart\":"}
+---
 ---
 [audio mp3="http://www.jjazzist.com/wp-content/uploads/2018/12/01-My-Foolish-Heart.mp3"][/audio]
 
@@ -52,3 +49,4 @@ https://youtu.be/dwlx_AA7Xws
 &nbsp;
 
 ** Audio sample at top of page from the opening track, "My Foolish Heart".*
+

@@ -3,27 +3,27 @@ date: 2019-05-09
 date_updated: 
 title: The Light Flows In
 artist: Yuichiro Aratake
-sort_value: Yuichiro Aratake The Light Flows In
-year: 
-label: 
-code: 
+sort_value: Yuichiro Aratake Light Flows In
+year: 2010
+label: Urban
+code: Jazz as 151A-0002
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Tamaya Honda", instrument: "drums (track #10)", japanese_name: , url: ""}
+   - {name: "Hideaki Kawamura", instrument: "tenor sax (track #2)", japanese_name: , url: ""}
+   - {name: "Noboru Ando", instrument: "bass (track #7)", japanese_name: , url: ""}
 images: 
-   - L1210227.jpg
-   - L1210234.jpg
-   - L1210239.jpg
-   - L1210240.jpg
+   - L1210227-1024.jpg
+   - L1210234-1024.jpg
+   - L1210239-1024.jpg
+   - L1210240-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Ｉ　ｌｏｖｅｓ　Ｙｏｕ，Ｐｏｒｇｙ.mp3", comment: "Excerpt from \"I Loves You, Porgy\" which opens this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/04/01-Ｉ　ｌｏｖｅｓ　Ｙｏｕ，Ｐｏｒｇｙ.mp3"][/audio]
 
@@ -58,3 +58,4 @@ https://youtu.be/ebEHjCZrLi8
 &nbsp;
 
 ** Audio sample at top of page from "I Loves You, Porgy" which opens this album.*
+

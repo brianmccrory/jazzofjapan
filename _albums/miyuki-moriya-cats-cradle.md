@@ -4,26 +4,28 @@ date_updated:
 title: Cat's Cradle
 artist: Miyuki Moriya
 sort_value: Miyuki Moriya Cat's Cradle
-year: 
-label: 
-code: 
+year: 2010
+label: Coume Music
+code: DQC-565
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Miyuki Moriya", instrument: "alto sax", japanese_name: , url: ""}
+   - {name: "Mamoru Ishida", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Kohei Kamuro", instrument: "guitar", japanese_name: , url: ""}
+   - {name: "Hiroshi Ikejiri", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Sohnosuke Imaizumi", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1200308.jpg
-   - L1210508.jpg
-   - L1200316.jpg
-   - L1210517.jpg
+   - L1200308-1024.jpg
+   - L1210508-1024.jpg
+   - L1200316-1024.jpg
+   - L1210517-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Ｔｕｃｋ　Ｂｏｘ.mp3", comment: "Excerpt from \"Tuck Box\", the first track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/02/01-Ｔｕｃｋ　Ｂｏｘ.mp3"][/audio]
 
@@ -66,3 +68,4 @@ https://youtu.be/Du9CvQHpYD0
 &nbsp;
 
 ** Audio sample at top of page from "Tuck Box", the first track on this album.*
+

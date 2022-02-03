@@ -4,27 +4,28 @@ date_updated:
 title: Workout!!
 artist: Seiji Tada
 sort_value: Seiji Tada Workout!!
-year: 
-label: 
-code: 
+year: 2018
+label: Studio TLive Records
+code: STLR-018
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Seiji Tada", instrument: "alto sax, flute, alto flute", japanese_name: , url: ""}
+   - {name: "Renee Rosnes", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Peter Washington", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Kenny Washington", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1220626.jpg
-   - L1220627.jpg
-   - L1220629.jpg
-   - L1220630.jpg
-   - L1220631.jpg
+   - L1220626-1024.jpg
+   - L1220627-1024.jpg
+   - L1220629-1024.jpg
+   - L1220630-1024.jpg
+   - L1220631-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Workout.mp3", comment: "Audio clip at top of page from \"Workout\", the opening track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/01/01-Workout.mp3"][/audio]
 
@@ -63,3 +64,4 @@ https://youtu.be/LEzJqz_YJPs
 &nbsp;
 
 ** Audio clip at top of page from "Workout", the opening track on this album.*
+

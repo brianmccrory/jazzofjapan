@@ -4,27 +4,30 @@ date_updated:
 title: Song Of Flower
 artist: Yuko Miyawaki
 sort_value: Yuko Miyawaki Song Of Flower
-year: 
-label: 
-code: 
+year: 2011
+label: Coume Music
+code: DQC-614
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Yuko Miyawaki", instrument: "trumpet, flugelhorn", japanese_name: , url: ""}
+   - {name: "Yutaka Handa", instrument: "tenor sax", japanese_name: , url: ""}
+   - {name: "Taeko Kurita", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Yutaka Kaido", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Masashi Tomikawa", instrument: "drums", japanese_name: , url: ""}
+   - {name: "Special Guest", instrument: "Junichiro Ohkuchi - piano (#3, 5, 6, 8, 9)", japanese_name: , url: ""}
 images: 
-   - L1200337.jpg
-   - L1200338.jpg
-   - L1200339.jpg
-   - L1200342.jpg
-   - L1110816.jpg
+   - L1200337-1024.jpg
+   - L1200338-1024.jpg
+   - L1200339-1024.jpg
+   - L1200342-1024.jpg
+   - L1110816-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-SAKURA.mp3", comment: "Excerpt from \"Sakura\", the first track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/03/01-SAKURA.mp3"][/audio]
 
@@ -60,3 +63,4 @@ https://youtu.be/AwS9X3VLXf4
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/12/L1110816.jpg"><img class="alignnone size-medium wp-image-3709" src="http://www.jjazzist.com/wp-content/uploads/2018/12/L1110816-300x215.jpg" alt="" width="300" height="215" /></a>
 
 ** Audio sample at top of page from "Sakura", the first track on the album.*
+

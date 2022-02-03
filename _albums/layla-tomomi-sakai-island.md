@@ -3,27 +3,32 @@ date: 2019-07-24
 date_updated: 
 title: The Island
 artist: Layla Tomomi Sakai
-sort_value: Layla Tomomi Sakai The Island
-year: 
-label: 
-code: 
+sort_value: Layla Tomomi Sakai Island
+year: 2018
+label: Laydrunker
+code: Records as LAYLA-002
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Layla Tomomi Sakai", instrument: "vocals", japanese_name: "坂井レイラ知美", url: "https://www.sakailaylatomomi.com/"}
+   - {name: "Yuichiro Hiraoka", instrument: "guitar (#1, 3, 4, 5, 6)", japanese_name: 平岡遊一郎, url: ""}
+   - {name: "Ryuichi Takase", instrument: "trumpet (#1, 4)", japanese_name: 高瀬龍一, url: ""}
+   - {name: "Toshio Miki", instrument: "sax (#3, 5)", japanese_name: 三木俊雄, url: ""}
+   - {name: "Masaru Okuyama", instrument: "piano (#1, 3, 4)", japanese_name: 奥山勝, url: ""}
+   - {name: "Satoshi Ishikawa", instrument: "drums (#1, 3, 4)", japanese_name: 石川智, url: ""}
+   - {name: "Matsumonica", instrument: "harmonica (from Momijin) (#2)", japanese_name: ツモニカ, url: ""}
+   - {name: "Norihiko Nagazawa", instrument: "guitar (from Momijin) (#2)", japanese_name: 長澤紀仁, url: ""}
 images: 
-   - L1220603.jpg
-   - L1220604.jpg
-   - L1220612.jpg
-   - L1220608.jpg
+   - L1220603-1024.jpg
+   - L1220604-1024.jpg
+   - L1220612-1024.jpg
+   - L1220608-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Only-Trust-Your-Heart.mp3", comment: "Audio excerpt at top of page from \"Only Trust Your Heart\", the first track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/07/01-Only-Trust-Your-Heart.mp3"][/audio]
 
@@ -63,3 +68,4 @@ https://youtu.be/xZjA59QRfj8
 &nbsp;
 
 ** Audio excerpt at top of page from "Only Trust Your Heart", the first track on this album.*
+

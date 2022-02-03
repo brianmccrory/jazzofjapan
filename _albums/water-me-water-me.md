@@ -4,27 +4,29 @@ date_updated:
 title: Water Me!
 artist: Water Me!
 sort_value: Water Me! Water Me!
-year: 
-label: 
-code: 
+year: 2014
+label: Sunmoon Music
+code: SMCD-0005
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Ayako Taira", instrument: "vocal", japanese_name: 平良亜矢子, url: "https://blog.goo.ne.jp/tairaayako"}
+   - {name: "Noriko Kotani", instrument: "vocal", japanese_name: 小谷のりこ, url: "https://norikokotani.amebaownd.com"}
+   - {name: "Norihiko Kawakubo", instrument: "piano", japanese_name: 川久保典彦, url: ""}
+   - {name: "Yohei Tanaka", instrument: "bass", japanese_name: 田中洋平, url: ""}
+   - {name: "Tomohiro Ota", instrument: "drums", japanese_name: 大田智洋, url: ""}
 images: 
-   - L1210584.jpg
-   - L1200275.jpg
-   - L1210598.jpg
-   - L1210593.jpg
-   - IMG_20150118_175116.jpg
+   - L1210584-1024.jpg
+   - L1200275-1024.jpg
+   - L1210598-1024.jpg
+   - L1210593-1024.jpg
+   - IMG_20150118_175116-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Satin-Doll.mp3", comment: "Excerpt from \"Satin Doll\", the first track on the album:"}
+---
 ---
 [audio mp3="https://www.jjazzist.com/wp-content/uploads/2021/02/01-Satin-Doll.mp3"][/audio]
 
@@ -54,3 +56,4 @@ https://youtu.be/lxUNjeSn190
 <a href="https://www.jjazzist.com/wp-content/uploads/2018/12/IMG_20150118_175116.jpg"><img class="alignnone size-medium wp-image-3521" src="https://www.jjazzist.com/wp-content/uploads/2018/12/IMG_20150118_175116-300x276.jpg" alt="" width="300" height="276" /></a>
 
 ** Audio sample at top of page from "Satin Doll", the first track on the album.*
+

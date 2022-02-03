@@ -4,27 +4,27 @@ date_updated:
 title: Utopia
 artist: Koichi Sato
 sort_value: Koichi Sato Utopia
-year: 
-label: 
-code: 
+year: 2011
+label: Pony
+code: Canyon / Twinkle Note as PCCY-30186
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Koichi Sato", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Hiroshi Ikejiri", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Ko Omura", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1200237.jpg
-   - L1200240.jpg
-   - L1200239.jpg
-   - L1200236.jpg
-   - IMG_20150318_153908.jpg
+   - L1200237-1024.jpg
+   - L1200240-1024.jpg
+   - L1200239-1024.jpg
+   - L1200236-1024.jpg
+   - IMG_20150318_153908-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "05-ミラード・ミラー.mp3", comment: "Excerpt from \"Mirrored Mirror\" on this album:"}
+---
 ---
 [audio mp3="http://www.jjazzist.com/wp-content/uploads/2018/09/05-ミラード・ミラー.mp3"][/audio]
 
@@ -42,6 +42,8 @@ Members:
 </ul>
 &nbsp;
 
+Released in 2011 on Pony Canyon / Twinkle Note as PCCY-30186.
+
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/07/L1200240.jpg"><img class="size-medium wp-image-2112 alignnone" src="http://www.jjazzist.com/wp-content/uploads/2018/07/L1200240-300x184.jpg" alt="" width="300" height="184" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/07/L1200239.jpg"><img class="size-medium wp-image-2111 alignnone" src="http://www.jjazzist.com/wp-content/uploads/2018/07/L1200239-300x207.jpg" alt="" width="300" height="207" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/07/L1200236.jpg"><img class="size-medium wp-image-2109 alignnone" src="http://www.jjazzist.com/wp-content/uploads/2018/07/L1200236-300x240.jpg" alt="" width="300" height="240" /></a>
 
 https://youtu.be/PAoCKNGeD-I
@@ -49,3 +51,5 @@ https://youtu.be/PAoCKNGeD-I
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/07/IMG_20150318_153908.jpg"><img class="alignright size-medium wp-image-2114" src="http://www.jjazzist.com/wp-content/uploads/2018/07/IMG_20150318_153908-300x224.jpg" alt="" width="300" height="224" /></a>
 
 ** Audio sample at top of page is an excerpt from "Mirrored Mirror" on this album.*
+
+

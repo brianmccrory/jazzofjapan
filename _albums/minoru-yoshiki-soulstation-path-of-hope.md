@@ -4,25 +4,25 @@ date_updated:
 title: Path of Hope
 artist: Minoru Yoshiki Soulstation
 sort_value: Minoru Yoshiki Soulstation Path of Hope
-year: 
-label: 
-code: 
+year: 2019
+label: Urban Jazz
+code: Path of Hope
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Minoru Yoshiki", instrument: "contrabass", japanese_name: , url: ""}
+   - {name: "Osamu Soda", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Shuji Morita", instrument: "tenor sax", japanese_name: , url: ""}
 images: 
-   - cdjkt02.jpg
-   - soulstation-flierJPG.jpg
-   - soulstation-flierJPG-725x1024.jpg
+   - cdjkt02-1024.jpg
+   - soulstation-flierJPG-1024.jpg
+   - soulstation-flierJPG-725x1024-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Zi-Zi-1.mp3", comment: "Excerpt from \"Zi-Zi\", the first track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/09/01-Zi-Zi-1.mp3"][/audio]
 <pre><strong>Special Guest Contribution // Press Release</strong></pre>
@@ -61,8 +61,13 @@ Members:
  	<li>Osamu Soda - piano</li>
  	<li>Shuji Morita - tenor sax</li>
 </ul>
+
+Released in 2019 on Urban Jazz as Path of Hope.
+
 <a href="http://jjazzist.com/wp-content/uploads/2019/09/soulstation-flierJPG.jpg"><img class="alignnone wp-image-4556 size-large" src="http://jjazzist.com/wp-content/uploads/2019/09/soulstation-flierJPG-725x1024.jpg" alt="" width="720" height="1017" /></a>
 
 &nbsp;
 
 ** Audio sample at top of page from "Zi-Zi", the first track on this album.*
+
+

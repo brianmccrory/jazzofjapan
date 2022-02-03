@@ -4,27 +4,29 @@ date_updated:
 title: Let Your Mind Alone
 artist: Mabumi Yamaguchi
 sort_value: Mabumi Yamaguchi Let Your Mind Alone
-year: 
-label: 
-code: 
+year: 2017
+label: Spice of Life
+code: SOLJP-0015
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Mabumi Yamaguchi", instrument: "Tenor &amp; Soprano Sax", japanese_name: , url: ""}
+   - {name: "Yoshitaka Shoji", instrument: "Guitar", japanese_name: , url: ""}
+   - {name: "Misato Okumura", instrument: "Piano", japanese_name: , url: ""}
+   - {name: "Ryohei Komaki", instrument: "Bass", japanese_name: , url: ""}
+   - {name: "Nobuyuki Komatsu", instrument: "Drums", japanese_name: , url: ""}
 images: 
-   - L1220375.jpg
-   - L1220376.jpg
-   - L1220381.jpg
-   - L1220382.jpg
-   - L1220385.jpg
+   - L1220375-1024.jpg
+   - L1220376-1024.jpg
+   - L1220381-1024.jpg
+   - L1220382-1024.jpg
+   - L1220385-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Sequel-to-a-Dream.mp3", comment: "Excerpt from “Sequel To A Dream”, the opening track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/11/01-Sequel-to-a-Dream.mp3"][/audio]
 
@@ -49,3 +51,4 @@ Released in 2017 on Spice of Life as SOLJP-0015.
 https://youtu.be/l9tLbegpVpo
 
 ** Audio sample at top of page from “Sequel To A Dream”, the opening track on this album.*
+

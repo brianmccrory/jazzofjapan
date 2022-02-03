@@ -4,25 +4,27 @@ date_updated:
 title: Shining Hour
 artist: Yako Horikita
 sort_value: Yako Horikita Shining Hour
-year: 
-label: 
-code: 
+year: 2017
+label: Kylym Records
+code: KYLYM-0001
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Yako Horikita", instrument: "vocals", japanese_name: , url: ""}
+   - {name: "Takenori Sawaki", instrument: "alto saxophone", japanese_name: , url: ""}
+   - {name: "Makoto Deguchi", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Ken Kaneko", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Nobuhiko Yamashita", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1220614.jpg
-   - L1220616.jpg
-   - L1220621.jpg
+   - L1220614-1024.jpg
+   - L1220616-1024.jpg
+   - L1220621-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "11-Under-A-Blanket-Of-Blue.mp3", comment: "Audio clip at top of page from \"Under A Blanket Of Blue\", the 11th track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/12/11-Under-A-Blanket-Of-Blue.mp3"][/audio]
 
@@ -49,3 +51,4 @@ Released in 2017 on Kylym Records as KYLYM-0001.
 https://youtu.be/EColU1KjlxY
 
 ** Audio clip at top of page from "Under A Blanket Of Blue", the 11th track on the album.*
+

@@ -4,26 +4,28 @@ date_updated:
 title: Wonderful Life
 artist: Masako Kunisada
 sort_value: Masako Kunisada Wonderful Life
-year: 
-label: 
-code: 
+year: 2012
+label: Urban Jazz
+code: 151A-0005
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Masako Kunisada 国貞雅子", instrument: "vocal", japanese_name: , url: ""}
+   - {name: "Shigeru Morishita 森下滋", instrument: "piano, Rhodes piano, Hammond organ (#1-6, 8-12)", japanese_name: , url: ""}
+   - {name: "Ryo Ogihara 荻原亮", instrument: "electric guitar (#1-3, 7, 10)", japanese_name: , url: ""}
+   - {name: "Shinichi Sato 佐藤慎一", instrument: "acoustic bass, electric bass", japanese_name: , url: ""}
+   - {name: "Manabu Fujii 藤井学", instrument: "drums (tr. 1-6, 8-11)", japanese_name: , url: ""}
 images: 
-   - L1200960.jpg
-   - L1200962.jpg
-   - L1200968.jpg
-   - L1200966.jpg
+   - L1200960-1024.jpg
+   - L1200962-1024.jpg
+   - L1200968-1024.jpg
+   - L1200966-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "08-For-All-We-Know.mp3", comment: "Excerpt from \"For All We Know\", the eighth track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/09/08-For-All-We-Know.mp3"][/audio]
 
@@ -76,3 +78,4 @@ https://youtu.be/awL_5LXeMeI
 &nbsp;
 
 &nbsp;
+

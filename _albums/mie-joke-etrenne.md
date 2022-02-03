@@ -4,27 +4,33 @@ date_updated:
 title: Etrenne
 artist: Mie Joké
 sort_value: Mie Joké Etrenne
-year: 
-label: 
-code: 
+year: 2018
+label: <a href="http://ultra-art.jp/">Ultra Art Record</a>
+code: UA-1001
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Mie Joké", instrument: "vocal", japanese_name: , url: ""}
+   - {name: "Tsuyoshi Yamamoto", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Hiroshi Kagawa", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Toshio Osumi", instrument: "drums", japanese_name: , url: ""}
+   - {name: "Mie Joké", instrument: "vocal", japanese_name: , url: ""}
+   - {name: "Koji Goto", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Satsuki Kusui", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Akira Yamada", instrument: "drums", japanese_name: , url: ""}
+   - {name: "Wataru Hamasaki", instrument: "sax, flute", japanese_name: , url: ""}
 images: 
-   - L1220358.jpg
-   - L1220335.jpg
-   - L1220337.jpg
-   - L1220341.jpg
-   - L1220343.jpg
+   - L1220358-1024.jpg
+   - L1220335-1024.jpg
+   - L1220337-1024.jpg
+   - L1220341-1024.jpg
+   - L1220343-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Cheek-To-Cheek.mp3", comment: "Excerpt from \"Cheek To Cheek\", the first track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/10/01-Cheek-To-Cheek.mp3"][/audio]
 
@@ -64,3 +70,4 @@ https://youtu.be/dYNBHkCeMtI
 &nbsp;
 
 ** Audio sample at top of page from "Cheek To Cheek", the first track on this album.*
+

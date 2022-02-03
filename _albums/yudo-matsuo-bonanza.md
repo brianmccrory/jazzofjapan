@@ -4,27 +4,29 @@ date_updated:
 title: Bonanza
 artist: Yudo Matsuo
 sort_value: Yudo Matsuo Bonanza
-year: 
-label: 
-code: 
+year: 2012
+label: Coume Music
+code: DQC-919
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Yudo Matsuo", instrument: "electric &amp; acoustic guitar", japanese_name: , url: ""}
+   - {name: "Keisuke Nakamura", instrument: "trumpet, flugelhorn", japanese_name: , url: ""}
+   - {name: "Ryoji Orihara", instrument: "fretless electric bass", japanese_name: , url: ""}
+   - {name: "Yasushi Fukuromi", instrument: "drums", japanese_name: , url: ""}
+   - {name: "Takeru Yamazaki", instrument: "keyboards (#2, 4, 9)", japanese_name: , url: ""}
 images: 
-   - L1200253.jpg
-   - L1200255.jpg
-   - L1200256.jpg
-   - L1200259.jpg
-   - L1110427.jpg
+   - L1200253-1024.jpg
+   - L1200255-1024.jpg
+   - L1200256-1024.jpg
+   - L1200259-1024.jpg
+   - L1110427-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "04-Ｗｉｃｋｅｄ　Ｗｉｎｄ.mp3", comment: "Excerpt from \"Wicked Wind\", the fourth track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/02/04-Ｗｉｃｋｅｄ　Ｗｉｎｄ.mp3"][/audio]
 
@@ -63,3 +65,4 @@ https://youtu.be/Q20K_CbMosU
 &nbsp;
 
 ** Audio sample at top of page from "Wicked Wind", the fourth track on this album.*
+

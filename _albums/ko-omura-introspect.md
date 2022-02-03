@@ -4,27 +4,29 @@ date_updated:
 title: Introspect
 artist: Ko Omura
 sort_value: Ko Omura Introspect
-year: 
-label: 
-code: 
+year: 2011
+label: Daiki Musica
+code: DMCD 12
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Hakuei Kim", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Koichi Sato", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Mamoru Ishida", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Koji Yasuda", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Ko Omura", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1120033.jpg
-   - L1190764.jpg
-   - L1190758.jpg
-   - L1190760.jpg
-   - IMG_20150326_125425.jpg
+   - L1120033-1024.jpg
+   - L1190764-1024.jpg
+   - L1190758-1024.jpg
+   - L1190760-1024.jpg
+   - IMG_20150326_125425-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "05-Slow-Highway.mp3", comment: "Audio clip at top of page is an excerpt from track 5 on this album, \"Slow Highway\":"}
+---
 ---
 [audio mp3="http://www.jjazzist.com/wp-content/uploads/2018/06/05-Slow-Highway.mp3"][/audio]
 
@@ -60,3 +62,4 @@ https://youtu.be/b1CBzM7vJsM
 ** Audio clip at top of page is an excerpt from track 5 on this album, "Slow Highway".*
 
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/06/IMG_20150326_125425.jpg"><img class="size-medium wp-image-2020 alignnone" src="http://www.jjazzist.com/wp-content/uploads/2018/06/IMG_20150326_125425-300x223.jpg" alt="" width="300" height="223" /></a>
+

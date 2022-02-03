@@ -4,26 +4,26 @@ date_updated:
 title: Zephyr
 artist: Zephyr
 sort_value: Zephyr Zephyr
-year: 
-label: 
-code: 
+year: 2013
+label: What's New Records
+code: WNCJ-2249
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Toshihiko Inoue", instrument: "soprano, tenor sax", japanese_name: 井上淑彦, url: "http://inouetoshihiko.com"}
+   - {name: "Teiji Taguchi", instrument: "acoustic guitar", japanese_name: 田口悌治, url: "https://tag-gtr.wixsite.com/home"}
+   - {name: "Takashi Amano", instrument: "electric guitar", japanese_name: 天野丘, url: "https://blog.goo.ne.jp/amaqguitar"}
 images: 
-   - L1200808.jpg
-   - L1200810.jpg
-   - L1200812.jpg
-   - L1200818.jpg
+   - L1200808-1024.jpg
+   - L1200810-1024.jpg
+   - L1200812-1024.jpg
+   - L1200818-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Ｆａｉｒｌｙ　Ｗｏｏｄｓ.mp3", comment: "Excerpt from \"Fairy Woods\", the first track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/03/01-Ｆａｉｒｌｙ　Ｗｏｏｄｓ.mp3"]
 
@@ -54,3 +54,4 @@ Released in 2013 on <a href="http://www.wn-records.com">What's New Records</a> a
 https://youtu.be/NLQwWs7ho0U
 
 **　Audio sample at top of page from "Fairy Woods", the first track on this album.*
+

@@ -4,25 +4,22 @@ date_updated:
 title: Sakura
 artist: Yukari Inoue
 sort_value: Yukari Inoue Sakura
-year: 
-label: 
-code: 
+year: 2012
+label: Silver Fingers/Roving Spirits
+code: RKCJ-2053
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
 images: 
-   - L1220442.jpg
-   - L1220445.jpg
-   - L1220448.jpg
+   - L1220442-1024.jpg
+   - L1220445-1024.jpg
+   - L1220448-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "13-いつか王子様が.mp3", comment: "Excerpt from \"Someday My Prince Will Come\", track 13 on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/02/13-いつか王子様が.mp3"][/audio]
 
@@ -55,3 +52,4 @@ https://youtu.be/c2jwF_F8kFI
 ** Audio sample at top of page from "Someday My Prince Will Come", track 13 on this album.*
 
 &nbsp;
+

@@ -4,27 +4,27 @@ date_updated:
 title: Gift
 artist: Manabu Ohishi Trio
 sort_value: Manabu Ohishi Trio Gift
-year: 
-label: 
-code: 
+year: 2012
+label: <a href="https://ateliersawano.com/">Atelier Sawano</a>
+code: <a href="https://ateliersawano
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Manabu Ohishi", instrument: "piano, pianica", japanese_name: , url: ""}
+   - {name: "Jean", instrument: "Philippe Viret - bass", japanese_name: , url: ""}
+   - {name: "Simon Goubert", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1200395.jpg
-   - L1200396.jpg
-   - L1200399.jpg
-   - L1200397.jpg
-   - L1110797.jpg
+   - L1200395-1024.jpg
+   - L1200396-1024.jpg
+   - L1200399-1024.jpg
+   - L1200397-1024.jpg
+   - L1110797-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "02-Hisyo.mp3", comment: "Excerpt from \"Hisyô\", the second track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/03/02-Hisyo.mp3"][/audio]
 
@@ -63,3 +63,4 @@ Released in 2012 on <a href="https://ateliersawano.com/">Atelier Sawano</a> as <
 https://youtu.be/Bgm0qg6goPI
 
 ** Audio sample at top of page from "Hisyô", the second track on the album.*
+

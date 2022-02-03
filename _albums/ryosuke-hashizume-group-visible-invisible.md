@@ -4,25 +4,27 @@ date_updated:
 title: Visible/Invisible
 artist: Ryosuke Hashizume Group
 sort_value: Ryosuke Hashizume Group Visible/Invisible
-year: 
-label: 
-code: 
+year: 2013
+label: Apollo Sounds
+code: APLS-1304
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Ryosuke Hashizume", instrument: "tenor, soprano saxophones", japanese_name: , url: ""}
+   - {name: "Motohiko Ichino", instrument: "guitar", japanese_name: , url: ""}
+   - {name: "Koichi Sato", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Ryoji Orihara", instrument: "fretless bass", japanese_name: , url: ""}
+   - {name: "Manabu Hashimoto", instrument: "drums, percussion", japanese_name: , url: ""}
 images: 
-   - L1200748.jpg
-   - L1200752.jpg
-   - L1200757.jpg
+   - L1200748-1024.jpg
+   - L1200752-1024.jpg
+   - L1200757-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "04-Ｃｙｃｌｅｓ.mp3", comment: "Excerpt is from \"Cycles\", one of the tunes on this album:"}
+---
 ---
 [audio mp3="http://www.jjazzist.com/wp-content/uploads/2019/01/04-Ｃｙｃｌｅｓ.mp3"][/audio]
 
@@ -47,3 +49,4 @@ Released in 2013 on Apollo Sounds as APLS-1304.
 https://youtu.be/uY5A-3jph-o
 
 ** Audio sample at top of page is from "Cycles", one of the tunes on this album.*
+

@@ -3,7 +3,11 @@
 ---
 
 @import "minima";
-
+.latest {
+  vertical-align: top;
+  width: 50%;
+  font-size: small;
+}
 .subtext {
 color: lightgray;
 font-style: italic;

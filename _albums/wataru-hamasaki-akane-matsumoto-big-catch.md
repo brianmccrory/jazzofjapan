@@ -4,28 +4,34 @@ date_updated:
 title: Big Catch
 artist: Wataru Hamasaki Meets Akane Matsumoto Trio
 sort_value: Wataru Hamasaki Meets Akane Matsumoto Trio Big Catch
-year: 
-label: 
-code: 
+year: 2013
+label: Concept Records
+code: CR-01
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Wataru Hamasaki", instrument: "浜崎航", japanese_name: , url: ""}
+   - {name: "Akane Matsumoto", instrument: "松本茜", japanese_name: , url: ""}
+   - {name: "Wataru Hamasaki", instrument: "tenor and soprano sax, flute", japanese_name: , url: ""}
+   - {name: "Akane Matsumoto", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Yasushi Gonjyo", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Tatsuhiko Takeda", instrument: "drums", japanese_name: , url: ""}
+   - {name: "Osamu Hikage", instrument: "bass (#3, 5, 6, 9)", japanese_name: , url: ""}
+   - {name: "Kazuyoshi Kuroda", instrument: "drums (#3, 5, 6, 9)", japanese_name: , url: ""}
+   - {name: "Ryosuke Asai", instrument: "alto sax (#6)", japanese_name: , url: ""}
 images: 
-   - L1210131.jpg
-   - L1210133.jpg
-   - L1210142.jpg
-   - L1210140.jpg
-   - L1210144.jpg
-   - IMG_20150318_161744.jpg
+   - L1210131-1024.jpg
+   - L1210133-1024.jpg
+   - L1210142-1024.jpg
+   - L1210140-1024.jpg
+   - L1210144-1024.jpg
+   - IMG_20150318_161744-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-BIG-CATCH.mp3", comment: "Excerpt from \"Big Catch\", the first song on the album:"}
+---
 ---
 [audio mp3="http://www.jjazzist.com/wp-content/uploads/2018/08/01-BIG-CATCH.mp3"][/audio]
 
@@ -45,8 +51,8 @@ Cover art by Akane Matsumoto (*dig those Big Catch big cats having a ball on the
 
 Leaders:
 <ul>
- 	<li><strong>Wataru Hamasaki · 浜崎航</strong> · <a href="http://watarujazz.com">http://watarujazz.com</a></li>
- 	<li><strong>Akane Matsumoto · 松本茜</strong> · <a href="http://akanejazz.com">http://akanejazz.com</a></li>
+ 	<li><strong>Wataru Hamasaki · 浜崎航</strong></li>
+ 	<li><strong>Akane Matsumoto · 松本茜</strong></li>
 </ul>
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/07/IMG_20150318_161744.jpg"><img class="size-medium wp-image-2228 alignright" src="http://www.jjazzist.com/wp-content/uploads/2018/07/IMG_20150318_161744-300x225.jpg" alt="" width="300" height="225" /></a>Members:
 <ul>
@@ -63,3 +69,4 @@ Released in 2013 on Concept Records as CR-01.
 https://youtu.be/q-TOrjegB_o
 
 ** Audio sample at top of page from "Big Catch", the first song on the album.*
+

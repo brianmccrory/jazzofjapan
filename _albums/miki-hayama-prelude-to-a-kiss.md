@@ -4,29 +4,29 @@ date_updated:
 title: Prelude to a Kiss
 artist: Miki Hayama
 sort_value: Miki Hayama Prelude to a Kiss
-year: 
-label: 
-code: 
+year: 2006
+label: Art Jazz Records
+code: ARTCD-112
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Miki Hayama", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Kiyoshi Kitagawa", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Eric McPherson", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1200693.jpg
-   - L1210550.jpg
-   - L1210554.jpg
-   - L1210557.jpg
-   - L1210558.jpg
-   - L1210561.jpg
-   - L1120179.jpg
+   - L1200693-1024.jpg
+   - L1210550-1024.jpg
+   - L1210554-1024.jpg
+   - L1210557-1024.jpg
+   - L1210558-1024.jpg
+   - L1210561-1024.jpg
+   - L1120179-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Beatrice.mp3", comment: "Excerpt from \"Beatrice\", the first track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/01/01-Beatrice.mp3"][/audio]
 
@@ -59,3 +59,4 @@ https://youtu.be/GLwlp2M6c_M
 &nbsp;
 
 ** Audio sample at top of page is an excerpt from "Beatrice", the first track on the album.*
+

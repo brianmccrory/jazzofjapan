@@ -4,27 +4,30 @@ date_updated:
 title: I Need A Change, Too
 artist: Yasumasa Kumagai
 sort_value: Yasumasa Kumagai I Need A Change, Too
-year: 
-label: 
-code: 
+year: 2008
+label: Anturtle Tune
+code: ANTX-4001
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Yasumasa Kumagai", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Koji Yasuda", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Shunsuke Umino", instrument: "drums", japanese_name: , url: ""}
+   - {name: "Afra", instrument: "human beatbox (#7)", japanese_name: , url: ""}
+   - {name: "Shinobu Ishizaki", instrument: "alto sax (#9, 13)", japanese_name: , url: ""}
+   - {name: "Tabu Zombie", instrument: "trumpet (#13)", japanese_name: , url: ""}
 images: 
-   - L1200454.jpg
-   - IMG_20150124_102116.jpg
-   - L1200459.jpg
-   - L1200457.jpg
-   - L1200455.jpg
+   - L1200454-1024.jpg
+   - IMG_20150124_102116-1024.jpg
+   - L1200459-1024.jpg
+   - L1200457-1024.jpg
+   - L1200455-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "02-I-Need-A-Change-Too.mp3", comment: "Excerpt from the title track \"I Need A Change, Too\":"}
+---
 ---
 [audio mp3="http://www.jjazzist.com/wp-content/uploads/2018/08/02-I-Need-A-Change-Too.mp3"][/audio]
 
@@ -56,3 +59,4 @@ https://youtu.be/-kiz2K70Glg
 &nbsp;
 
 ** Audio sample at top of page from the title track "I Need A Change, Too".*
+

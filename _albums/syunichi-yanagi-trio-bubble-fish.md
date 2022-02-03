@@ -4,25 +4,25 @@ date_updated:
 title: Bubble Fish
 artist: Syunichi Yanagi Trio
 sort_value: Syunichi Yanagi Trio Bubble Fish
-year: 
-label: 
-code: 
+year: 2012
+label: Truestar Entertainment
+code: TSR-51102
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Syunichi Yanagi", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Ryo Shibata", instrument: "drums", japanese_name: , url: ""}
+   - {name: "Motoi Kanamori", instrument: "bass", japanese_name: , url: ""}
 images: 
-   - L1220276.jpg
-   - L1220279.jpg
-   - L1220282.jpg
+   - L1220276-1024.jpg
+   - L1220279-1024.jpg
+   - L1220282-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "07-渋谷の交差点.mp3", comment: "Excerpt from \"Shibuya Crossing\", the seventh track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/03/07-渋谷の交差点.mp3"][/audio]
 
@@ -57,3 +57,4 @@ https://youtu.be/NFZnUM_-auY
 &nbsp;
 
 ** Audio sample at top of page from "Shibuya Crossing", the seventh track on the album.*
+

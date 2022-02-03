@@ -4,28 +4,27 @@ date_updated:
 title: Best Wishes
 artist: Maki Fujimura
 sort_value: Maki Fujimura Best Wishes
-year: 
-label: 
-code: 
+year: 2013
+label: Maki Fujimura
+code: MAKI.TV-0002
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Maki Fujimura (Vocals)", instrument: "藤村麻紀", japanese_name: , url: ""}
+   - {name: "Hideaki Hori (Piano)", instrument: "堀秀彰", japanese_name: , url: ""}
 images: 
-   - L1210009.jpg
-   - L1210012.jpg
-   - L1210016.jpg
-   - L1210019.jpg
-   - L1210026.jpg
-   - IMG_1519.jpg
+   - L1210009-1024.jpg
+   - L1210012-1024.jpg
+   - L1210016-1024.jpg
+   - L1210019-1024.jpg
+   - L1210026-1024.jpg
+   - IMG_1519-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Ray.mp3", comment: "Excerpt from Maki Fujimura's song \"Ray\", the first track on this album:"}
+---
 ---
 [audio mp3="http://www.jjazzist.com/wp-content/uploads/2019/01/01-Ray.mp3"][/audio]
 
@@ -42,8 +41,8 @@ In addition, the duo thrills with arrangements of standards such as "Summertime"
 
 Members:
 <ul>
- 	<li><strong>Maki Fujimura (Vocals) · 藤村麻紀</strong> · <a href="http://maki.tv/">https://maki.tv/</a></li>
- 	<li><strong>Hideaki Hori (Piano) · 堀秀彰</strong> · <a href="https://horinky.withmusic.jp/">https://horinky.withmusic.jp/</a></li>
+ 	<li><strong>Maki Fujimura (Vocals) · 藤村麻紀</strong></li>
+ 	<li><strong>Hideaki Hori (Piano) · 堀秀彰</strong></li>
 </ul>
 Released in 2013 as MAKI.TV-0001.
 
@@ -54,3 +53,5 @@ Released in 2013 as MAKI.TV-0001.
 https://youtu.be/oU004sMm7rE
 
 ** Audio sample at top of page from Maki Fujimura's song "Ray", the first track on this album.*
+
+

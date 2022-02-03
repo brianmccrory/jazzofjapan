@@ -4,27 +4,24 @@ date_updated:
 title: Solo
 artist: maiko
 sort_value: maiko Solo
-year: 
-label: 
-code: 
+year: 2018
+label: T-Toc Records
+code: TTOC-0029
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
 images: 
-   - L1220346.jpg
-   - L1220348.jpg
-   - L1220351.jpg
-   - L1220352.jpg
-   - L1220356.jpg
+   - L1220346-1024.jpg
+   - L1220348-1024.jpg
+   - L1220351-1024.jpg
+   - L1220352-1024.jpg
+   - L1220356-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "09-Improvisation.mp3", comment: "Audio sample at top from \"Improvisation\", the ninth track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/02/09-Improvisation.mp3"][/audio]
 
@@ -53,3 +50,4 @@ Released in 2018 on T-Toc Records as TTOC-0029.
 https://youtu.be/VIXWYIHwUnE
 
 ** Audio sample at top from "Improvisation", the ninth track on this album.*
+

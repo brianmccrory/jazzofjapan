@@ -4,33 +4,34 @@ date_updated:
 title: Memories of T
 artist: TCQ
 sort_value: TCQ Memories of T
-year: 
-label: 
-code: 
+year: 2017
+label: D-neo Daiki Musica
+code: DNCD-13
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: Shawna Yang, instrument: "alto sax", japanese_name: 楊曉恩, url: "http://www.jazzinvention.com/"}
+   - {name: Naoko Tanaka, instrument: "piano", japanese_name: 田中菜緒子, url: "http://tanakanaoko.com"}
+   - {name: Daiki Yasukagawa, instrument: "bass", japanese_name: 安ヵ川大樹, url: "http://daikiyasukagawa.com/"}
+   - {name: Takeshi Sakamoto, instrument: "drums",  japanese_name: 坂本健志, url: "https://www.facebook.com/takeshidrums/"}
 images: 
-   - L1220848.jpg
-   - L1220852.jpg
-   - L1220862.jpg
-   - L1220872.jpg
-   - L1220863.jpg
-   - L1220864.jpg
-   - L1220865.jpg
-   - L1220866.jpg
-   - L1220868.jpg
-   - L1220869.jpg
-   - L1220870.jpg
+   - L1220848-1024.jpg
+   - L1220852-1024.jpg
+   - L1220862-1024.jpg
+   - L1220872-1024.jpg
+   - L1220863-1024.jpg
+   - L1220864-1024.jpg
+   - L1220865-1024.jpg
+   - L1220866-1024.jpg
+   - L1220868-1024.jpg
+   - L1220869-1024.jpg
+   - L1220870-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "02-G　Island.mp3", comment: "Excerpt from \"G Island\", the second track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/11/02-G　Island.mp3"][/audio]
 
@@ -80,3 +81,4 @@ https://youtu.be/tfrg3oOZMpM
 &nbsp;
 
 ** Audio sample at top of page from "G Island", the second track on the album.*
+

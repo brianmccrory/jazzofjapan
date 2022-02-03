@@ -4,27 +4,29 @@ date_updated:
 title: Major to Minor
 artist: Kohsuke Mine Quintet
 sort_value: Kohsuke Mine Quintet Major to Minor
-year: 
-label: 
-code: 
+year: 1993
+label: Verve Records
+code: POCJ-1195
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Kohsuke Mine 峰厚介", instrument: "tenor saxophone", japanese_name: , url: ""}
+   - {name: "Kazumasa Akiyama 秋山一将", instrument: "guitar", japanese_name: , url: ""}
+   - {name: "Junichiro Ohkuchi 大口純一郎", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Tsutomu Okada 岡田勉", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Ryojiro Furusawa 古澤良治郎", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1220713.jpg
-   - L1220715.jpg
-   - L1220717.jpg
-   - L1220718.jpg
-   - L1220719.jpg
+   - L1220713-1024.jpg
+   - L1220715-1024.jpg
+   - L1220717-1024.jpg
+   - L1220718-1024.jpg
+   - L1220719-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Major-to-Minor.mp3", comment: "Excerpt from \"Major to Minor\", the first track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/08/01-Major-to-Minor.mp3"][/audio]
 
@@ -74,3 +76,4 @@ https://youtu.be/mcOFpNauLDs
 &nbsp;
 
 ** Audio sample at top of page from "Major to Minor", the first track on the album.*
+

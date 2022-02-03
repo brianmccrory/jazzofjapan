@@ -4,27 +4,26 @@ date_updated:
 title: N.40°
 artist: Shinpei Ruike & George Nakajima
 sort_value: Shinpei Ruike & George Nakajima N.40°
-year: 
-label: 
-code: 
+year: 2014
+label: Apollo
+code: Sounds as APLS-1403
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Shinpei Ruike (trumpet)", instrument: "類家心平", japanese_name: , url: ""}
+   - {name: "George Nakajima (piano)", instrument: "中嶋錠二", japanese_name: , url: ""}
 images: 
-   - L1200597.jpg
-   - L1200598.jpg
-   - L1200600.jpg
-   - L1200601.jpg
-   - L1120090.jpg
+   - L1200597-1024.jpg
+   - L1200598-1024.jpg
+   - L1200600-1024.jpg
+   - L1200601-1024.jpg
+   - L1120090-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Ｎｅａｒｎｅｓｓ　ｏｆ　ｙｏｕ.mp3", comment: "The audio clip at the top of this page is from \"The Nearness of You\", which opens this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/02/01-Ｎｅａｒｎｅｓｓ　ｏｆ　ｙｏｕ.mp3"][/audio]
 
@@ -40,8 +39,8 @@ Art music from two musician artists, *N.40°* is sweet and stimulating, mellow 
 
 Musicians:
 <ul>
- 	<li><strong>Shinpei Ruike (trumpet) · 類家心平 · <a href="https://ruikeshinpei.com/">https://ruikeshinpei.com/</a></strong></li>
- 	<li><strong>George Nakajima (piano) · 中嶋錠二 · <a href="https://georgenpf.exblog.jp/">https://georgenpf.exblog.jp/</a></strong></li>
+ 	<li><strong>Shinpei Ruike (trumpet) · 類家心平</li>
+ 	<li><strong>George Nakajima (piano) · 中嶋錠二</li>
 </ul>
 Released in 2014 on Apollo Sounds as APLS-1403.
 
@@ -50,3 +49,4 @@ https://youtu.be/pYi27kjmEMc
 &nbsp;
 
 ** The audio clip at the top of this page is from "The Nearness of You", which opens this album.*
+

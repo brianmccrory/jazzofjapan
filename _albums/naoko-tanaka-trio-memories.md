@@ -4,27 +4,29 @@ date_updated:
 title: Memories
 artist: Naoko Tanaka Trio
 sort_value: Naoko Tanaka Trio Memories
-year: 
-label: 
-code: 
+year: 2015
+label: D-neo Daiki Musica
+code: DNCD-05
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Naoko Tanaka", instrument: "田中菜緒子 - piano", japanese_name: , url: ""}
+   - {name: "Koji Yasuda", instrument: "安田幸司 - bass", japanese_name: , url: ""}
+   - {name: "Masanori Ando", instrument: "安藤正則 - drums", japanese_name: , url: ""}
+   - {name: "Yoshiro Okazaki", instrument: "岡崎好朗 - trumpet on #6, 8", japanese_name: , url: ""}
+   - {name: "Daiki Yasukagawa", instrument: "安ヵ川大樹 - bass on #9", japanese_name: , url: ""}
 images: 
-   - L1200322.jpg
-   - L1200321.jpg
-   - L1200323.jpg
-   - L1200327.jpg
-   - L1120025.jpg
+   - L1200322-1024.jpg
+   - L1200321-1024.jpg
+   - L1200323-1024.jpg
+   - L1200327-1024.jpg
+   - L1120025-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Sailing.mp3", comment: "Excerpt from \"Sailing\", the opening track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/10/01-Sailing.mp3"][/audio]
 
@@ -61,3 +63,4 @@ https://youtu.be/WxALugIHpPI
 &nbsp;
 
 ** Audio sample at top of page from "Sailing", the opening track on the album.*
+

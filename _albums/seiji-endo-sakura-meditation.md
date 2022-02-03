@@ -4,28 +4,25 @@ date_updated:
 title: Sakura Meditation
 artist: Seiji Endo
 sort_value: Seiji Endo Sakura Meditation
-year: 
-label: 
-code: 
+year: 2012
+label: Concordia
+code: CONR-002
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
 images: 
-   - L1210400.jpg
-   - L1210403.jpg
-   - L1210406.jpg
-   - L1210412.jpg
-   - L1210418.jpg
-   - L1110546.jpg
+   - L1210400-1024.jpg
+   - L1210403-1024.jpg
+   - L1210406-1024.jpg
+   - L1210412-1024.jpg
+   - L1210418-1024.jpg
+   - L1110546-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Ｓｕｎ，Ｍｏｏｎ　ａｎｄ　Ｃｈｉｌｄｒｅｎ　Ｓｍｉｌｅ.mp3", comment: "Audio sample at top from \"Sun, Moon, and Children Smile\", the first track on this album:"}
+---
 ---
 [audio mp3="http://www.jjazzist.com/wp-content/uploads/2018/10/01-Ｓｕｎ，Ｍｏｏｎ　ａｎｄ　Ｃｈｉｌｄｒｅｎ　Ｓｍｉｌｅ.mp3"]
 
@@ -56,3 +53,4 @@ https://youtu.be/CrcbwOTOeSM
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/10/L1110546.jpg"><img class="alignnone size-medium wp-image-2937" src="http://www.jjazzist.com/wp-content/uploads/2018/10/L1110546-300x200.jpg" alt="" width="300" height="200"></a>
 
 ** Audio sample at top from "Sun, Moon, and Children Smile", the first track on this album.*
+

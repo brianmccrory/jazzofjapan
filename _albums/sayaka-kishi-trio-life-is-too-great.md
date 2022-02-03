@@ -4,27 +4,27 @@ date_updated:
 title: Life is too Great
 artist: Sayaka Kishi Trio
 sort_value: Sayaka Kishi Trio Life is too Great
-year: 
-label: 
-code: 
+year: 2019 as TTOC-0034
+label: T-TOC
+code: Records
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Sayaka Kishi", instrument: "piano, keyboard, keyharmonica, percussion", japanese_name: , url: ""}
+   - {name: "Ryoji Orihara", instrument: "fretless bass", japanese_name: , url: ""}
+   - {name: "Akira Yamada", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1220679.jpg
-   - L1220687.jpg
-   - L1220697.jpg
-   - L1220691.jpg
-   - L1220693.jpg
+   - L1220679-1024.jpg
+   - L1220687-1024.jpg
+   - L1220697-1024.jpg
+   - L1220691-1024.jpg
+   - L1220693-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-DON　PAPA.mp3", comment: "Excerpt from \"DON PAPA\", the first track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/09/01-DON　PAPA.mp3"][/audio]
 
@@ -57,3 +57,5 @@ https://youtu.be/UQTR60p8qyE
 &nbsp;
 
 ** Audio sample at top of page from "DON PAPA", the first track on this album.*
+
+
