@@ -14,7 +14,7 @@ Akiko Suda | [Flowers On The Hill]({% link _albums/akiko-suda-flowers-on-the-hil
 Akira Sekine | [Blossoms]({% link _albums/ruriko-kawamura-blossoms.md %}) | <span class="jname-nowrap">関根彰良</span><br><span class="subtext">guitar</span>
 Akira Tanidono | [Carta]({% link _albums/emiko-voice-carta.md %}) | <span class="jname-nowrap">谷殿明良</span><br><span class="subtext">trumpet</span>
 Akira Yamada | [The Gift]({% link _albums/rie-taguchi-gift.md %}) | <span class="jname-nowrap">山田玲</span><br><span class="subtext">drums</span>
-Ami Fukui | [New Journey]({% link _albums/ami-fukui-trio-new-journey.md %}) ・ [Urban Clutter]({% link _albums/ami-fukui-trio-urban-clutter.md %}) | <span class="jname-nowrap">福井亜実</span><br><span class="subtext">piano</span>
+Ami Fukui | [Amizm]({% link _albums/ami-fukui-amizm.md %}) ・ [New Journey]({% link _albums/ami-fukui-trio-new-journey.md %}) ・ [Urban Clutter]({% link _albums/ami-fukui-trio-urban-clutter.md %}) | <span class="jname-nowrap">福井亜実</span><br><span class="subtext">piano</span>
 Arata Umehara | [Okurimono]({% link _albums/hiroco-nagano-okurimono.md %}) ・ [Tsutaete Ikou]({% link _albums/seiji-endo-tsutaete-ikou.md %}) | <span class="jname-nowrap">梅原新</span><br><span class="subtext">guitar</span>
 Atomi Hamada | [This Is Atomi]({% link _albums/atomi-hamada-this-is-atomi.md %}) | <span class="jname-nowrap">浜田亜東実</span><br><span class="subtext">vocal</span>
 Atsushi Ikeda | [You've Changed]({% link _albums/hara-dairiki-trio-youve-changed.md %}) | <span class="jname-nowrap">池田篤</span><br><span class="subtext">sax</span>
@@ -153,11 +153,11 @@ Yasuhiko "Hachi" Sato | [Music In You]({% link _albums/hitomi-nishiyama-trio-mus
 Yasuhiro Hasegawa | [Tsutaete Ikou]({% link _albums/seiji-endo-tsutaete-ikou.md %}) | <span class="jname-nowrap">長谷川泰弘</span><br><span class="subtext">bass</span>
 Yasuhiro Yoshigaki | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) | <span class="jname-nowrap">芳垣安洋</span><br><span class="subtext">percussion</span>
 Yasumasa Kumagai | [J-Straight Ahead]({% link _albums/yasumasa-kumagai-j-straight-ahead.md %}) | <span class="jname">熊谷ヤスマサ</span><br><span class="subtext">piano</span>
-Yasushi Fukumori | [Fever]({% link _albums/trigraph-fever.md %}) ・ [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) ・ [New Journey]({% link _albums/ami-fukui-trio-new-journey.md %}) | <span class="jname-nowrap">福森康</span><br><span class="subtext">drums</span>
+Yasushi Fukumori | [Amizm]({% link _albums/ami-fukui-amizm.md %}) ・ [Fever]({% link _albums/trigraph-fever.md %}) ・ [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) ・ [New Journey]({% link _albums/ami-fukui-trio-new-journey.md %}) | <span class="jname-nowrap">福森康</span><br><span class="subtext">drums</span>
 Yasushi Nakamura | [Inspiration]({% link _albums/mayuko-katakura-inspiration.md %}) ・ [The Echoes of Three]({% link _albums/mayuko-katakura-echoes-of-three.md %}) | <span class="jname-nowrap">中村恭士</span><br><span class="subtext">bass</span>
 Yasushi Yoneki | [Invisible]({% link _albums/junichiro-ohkuchi-trio-invisible.md %}) ・ [You've Changed]({% link _albums/hara-dairiki-trio-youve-changed.md %}) | <span class="jname-nowrap">米木康志</span><br><span class="subtext">bass</span>
 Yasutaka Yorozu | [Needful Things]({% link _albums/ryosuke-hashizume-needful-things.md %}) | <span class="jname-nowrap">萬恭隆</span><br><span class="subtext">bass</span>
-Yoshihito "P" Koizumi | [By Coincidence]({% link _albums/yoshihito-p-koizumi-by-coincidence.md %}) | <span class="jname-nowrap">小泉P克人</span><br><span class="subtext">bass</span>
+Yoshihito "P" Koizumi | [Amizm]({% link _albums/ami-fukui-amizm.md %}) ・ [By Coincidence]({% link _albums/yoshihito-p-koizumi-by-coincidence.md %}) | <span class="jname-nowrap">小泉P克人</span><br><span class="subtext">bass</span>
 Yoshihito Eto | [Bass on Times]({% link _albums/satoshi-kosugi-bass-on-times.md %}) | <span class="jname-nowrap">江藤良人</span><br><span class="subtext">drums</span>
 Yoshiro Okazaki | [Bass on Times]({% link _albums/satoshi-kosugi-bass-on-times.md %}) | <span class="jname-nowrap">岡崎好朗</span><br><span class="subtext">trumpet</span>
 Yoshitaka Yamashita | [Trispace]({% link _albums/trispace-trispace.md %}) | <span class="jname-nowrap">山下佳孝</span><br><span class="subtext">drums</span>
