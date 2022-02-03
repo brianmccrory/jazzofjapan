@@ -37,6 +37,7 @@ Harumi Nomoto | [Virgo]({% link _albums/harumi-nomoto-trio-virgo.md %}) | <span 
 Harutoshi Ito | [Melancholy of a Journey]({% link _albums/koichi-sato-melancholy.md %}) | <span class="jname">伊藤ハルトシ</span><br><span class="subtext">cello</span>
 Hideaki Hori | [Grown-up Christmas Gift]({% link _albums/sanae-ishikawa-grown-up-christmas.md %}) ・ [Move On]({% link _albums/hikari-ichihara-group-move-on.md %}) ・ [Resonance]({% link _albums/duo-tremolo-resonance.md %}) ・ [Unconditional Love]({% link _albums/hideaki-hori-trio-unconditional-love.md %}) | <span class="jname-nowrap">堀秀彰</span><br><span class="subtext">piano</span>
 Hideaki Kanazawa | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %}) | <span class="jname-nowrap">金澤英明</span><br><span class="subtext">bass</span>
+Hidenobu "Kalta" Otsuki | [Aquapit]({% link _albums/aquapit-aquapit.md %}) | <span class="jname">大槻“KALTA”英宣</span><br><span class="subtext">drums</span>
 Hikari Ichihara | [Move On]({% link _albums/hikari-ichihara-group-move-on.md %}) | <span class="jname-nowrap">市原ひかり</span><br><span class="subtext">trumpet</span>
 Hiroaki Mizutani | [This Is Atomi]({% link _albums/atomi-hamada-this-is-atomi.md %}) | <span class="jname-nowrap">水谷浩章</span><br><span class="subtext">bass</span>
 Hiroco Nagano | [Okurimono]({% link _albums/hiroco-nagano-okurimono.md %}) ・ [Tsutaete Ikou]({% link _albums/seiji-endo-tsutaete-ikou.md %}) | <span class="jname-nowrap">永野寛子</span><br><span class="subtext">vocal</span>
@@ -163,6 +164,7 @@ Yoshiro Okazaki | [Bass on Times]({% link _albums/satoshi-kosugi-bass-on-times.m
 Yoshitaka Yamashita | [Trispace]({% link _albums/trispace-trispace.md %}) | <span class="jname-nowrap">山下佳孝</span><br><span class="subtext">drums</span>
 Yoshiyuki Nakaya | [Tsutaete Ikou]({% link _albums/seiji-endo-tsutaete-ikou.md %}) | <span class="jname-nowrap">中屋啓之</span><br><span class="subtext">drums</span>
 Yosuke Inoue | [J-Straight Ahead]({% link _albums/yasumasa-kumagai-j-straight-ahead.md %}) | <span class="jname-nowrap">井上陽介</span><br><span class="subtext">bass</span>
+Yosuke Onuma | [Aquapit]({% link _albums/aquapit-aquapit.md %}) | <span class="jname">小沼ようすけ</span><br><span class="subtext">guitar</span>
 Yu Kudo | [Flowers On The Hill]({% link _albums/akiko-suda-flowers-on-the-hill.md %}) | <span class="jname-nowrap">工藤悠</span><br><span class="subtext">drums</span>
 Yuhei Honkawa | [Amalthea]({% link _albums/tokuhiro-doi-quartet-amalthea.md %}) ・ [Unconditional Love]({% link _albums/hideaki-hori-trio-unconditional-love.md %}) | <span class="jname-nowrap">本川悠平</span><br><span class="subtext">bass</span>
 Yuichi Hayashi | [Trispace]({% link _albums/trispace-trispace.md %}) | <span class="jname-nowrap">林祐市</span><br><span class="subtext">piano</span>
@@ -173,6 +175,7 @@ Yukako Yamano | [1st Stage]({% link _albums/yukako-yamano-1st-stage.md %}) ・ [
 Yukari Inoue | [Dubai Suite]({% link _albums/yukakoyamano-yukariinoue-dubai.md %}) | <span class="jname-nowrap">井上ゆかり</span><br><span class="subtext">piano</span>
 Yukiko Hayakawa | [Gallery]({% link _albums/yukiko-hayakawa-trio-gallery.md %}) | <span class="jname-nowrap">早川由紀子</span><br><span class="subtext">piano</span>
 Yusuke Nakaishi | [The Gift]({% link _albums/rie-taguchi-gift.md %}) | <span class="jname-nowrap">仲石裕介</span><br><span class="subtext">bass</span>
+Yuta Kaneko | [Aquapit]({% link _albums/aquapit-aquapit.md %}) | <span class="jname-nowrap">金子雄太</span><br><span class="subtext">organ</span>
 Yuya Wakai | [Images]({% link _albums/yuya-wakai-images.md %}) | <span class="jname-nowrap">若井優也</span><br><span class="subtext">piano</span>
 Aaron Choulai | [Moving Color]({% link _albums/akihiro-yoshimoto-quartet-moving-color.md %}) | <span class="subtext">piano</span>
 Anders Kjellberg | [Many Seasons]({% link _albums/hitomi-nishiyama-trio-many-seasons.md %}) | <span class="subtext">drums</span>
