@@ -4,27 +4,30 @@ date_updated:
 title: Scratch
 artist: Miki Hirose
 sort_value: Miki Hirose Scratch
-year: 
-label: 
-code: 
+year: 2013
+label: Jazz Lab Records
+code: JLR-1301
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Miki Hirose", instrument: "広瀬未来 - trumpet &amp; flugelhorn", japanese_name: , url: ""}
+   - {name: "Xavier Perez", instrument: "tenor sax", japanese_name: , url: ""}
+   - {name: "Toru Dodo", instrument: "百々徹 - piano, Fender Rhodes", japanese_name: , url: ""}
+   - {name: "Aidan O'Donnell", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Jerome Jennings", instrument: "drums", japanese_name: , url: ""}
+   - {name: "Mauricio Herrera", instrument: "congas (#1, 3, 4)", japanese_name: , url: ""}
 images: 
-   - L1200655.jpg
-   - L1200658.jpg
-   - L1200659.jpg
-   - L1200661.jpg
-   - IMG_20150324_123553.jpg
+   - L1200655-1024.jpg
+   - L1200658-1024.jpg
+   - L1200659-1024.jpg
+   - L1200661-1024.jpg
+   - IMG_20150324_123553-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-スクラッチ.mp3", comment: "Excerpt from \"Scratch\", the first track on this album:"}
+---
 ---
 [audio mp3="https://www.jjazzist.com/wp-content/uploads/2021/02/01-スクラッチ.mp3"][/audio]
 
@@ -58,3 +61,4 @@ https://youtu.be/1kizkvPJKAY
 &nbsp;
 
 ** Audio sample at top of page from "Scratch", the first track on this album.*
+

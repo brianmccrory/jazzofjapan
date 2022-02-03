@@ -4,29 +4,29 @@ date_updated:
 title: Belinda
 artist: Harumi Nomoto Trio
 sort_value: Harumi Nomoto Trio Belinda
-year: 
-label: 
-code: 
+year: 2007
+label: Anturtle Tune/BQ Records
+code: BQR-2040
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Harumi Nomoto", instrument: "piano, Fender Rhodes electric piano", japanese_name: , url: ""}
+   - {name: "Noboru Ando", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Daisuke Yoshioka", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1210329.jpg
-   - L1210328.jpg
-   - L1210334.jpg
-   - L1210346.jpg
-   - L1210348.jpg
-   - L1210341.jpg
-   - IMG_20150128_151339_hdr.jpg
+   - L1210329-1024.jpg
+   - L1210328-1024.jpg
+   - L1210334-1024.jpg
+   - L1210346-1024.jpg
+   - L1210348-1024.jpg
+   - L1210341-1024.jpg
+   - IMG_20150128_151339_hdr-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "7up.mp3", comment: "Excerpt from \"7up\", the second track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/04/7up.mp3"][/audio]
 
@@ -71,3 +71,4 @@ https://youtu.be/QC7IO4XFzfE
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/12/IMG_20150128_151339_hdr.jpg"><img class="alignnone size-medium wp-image-3668" src="http://www.jjazzist.com/wp-content/uploads/2018/12/IMG_20150128_151339_hdr-300x232.jpg" alt="" width="300" height="232" /></a>
 
 ** Audio sample at top of page from "7up", the second track on the album.*
+

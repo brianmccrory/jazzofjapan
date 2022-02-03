@@ -4,26 +4,26 @@ date_updated:
 title: Tip Of Dream
 artist: Fumie Chiba Trio
 sort_value: Fumie Chiba Trio Tip Of Dream
-year: 
-label: 
-code: 
+year: 2009
+label: TRL Music
+code: TRL-0826
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Fumie Chiba", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Koichi Kuniwake", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Shigehito Kawamura", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1200528.jpg
-   - L1200530.jpg
-   - L1200532.jpg
-   - L1200535.jpg
+   - L1200528-1024.jpg
+   - L1200530-1024.jpg
+   - L1200532-1024.jpg
+   - L1200535-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-11th-Door.mp3", comment: "Excerpt from \"11th Door\", the first track on the album:"}
+---
 ---
 [audio mp3="http://www.jjazzist.com/wp-content/uploads/2018/11/01-11th-Door.mp3"][/audio]
 
@@ -48,3 +48,4 @@ Members:
 Released in 2009 on TRL Music as TRL-0826.
 
 ** Audio sample at top of page from "11th Door", the first track on the album. *
+

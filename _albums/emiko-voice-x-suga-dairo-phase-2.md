@@ -4,27 +4,26 @@ date_updated:
 title: Phase 2
 artist: Emiko Voice x Suga Dairo
 sort_value: Emiko Voice x Suga Dairo Phase 2
-year: 
-label: 
-code: 
+year: 2009
+label: Cool Fool
+code: CLFL-0003
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "EMiKO VOiCE", instrument: "vocal", japanese_name: , url: "http://www.emikovoice.com/"}
+   - {name: "Dairo Suga", instrument: "piano", japanese_name: スガダイロー, url: "https://sugadairo.blogspot.com"}
 images: 
-   - L1200759.jpg
-   - L1200761.jpg
-   - L1200764.jpg
-   - L1200766.jpg
-   - L1200769.jpg
+   - L1200759-1024.jpg
+   - L1200761-1024.jpg
+   - L1200764-1024.jpg
+   - L1200766-1024.jpg
+   - L1200769-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "08-コンファメーション.mp3", comment: "Excerpt from \"Confirmation\", the eighth track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/02/08-コンファメーション.mp3"][/audio]
 
@@ -52,3 +51,4 @@ Released in 2009 on Cool Fool as CLFL-0003.
 https://youtu.be/IktVtSTtgH0
 
 ** Audio sample at top of page from "Confirmation", the eighth track on the album.*
+

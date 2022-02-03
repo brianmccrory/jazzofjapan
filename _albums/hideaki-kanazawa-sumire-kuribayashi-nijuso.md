@@ -4,28 +4,25 @@ date_updated:
 title: Nijuso
 artist: Hideaki Kanazawa & Sumire Kuribayashi
 sort_value: Hideaki Kanazawa & Sumire Kuribayashi Nijuso
-year: 
-label: 
-code: 
+year: 2017
+label: Roving Spirits
+code: RKCJ-2063
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
 images: 
-   - L1220265.jpg
-   - L1220267.jpg
-   - L1220270.jpg
-   - L1220271.jpg
-   - L1220273.jpg
-   - L1220274.jpg
+   - L1220265-1024.jpg
+   - L1220267-1024.jpg
+   - L1220270-1024.jpg
+   - L1220271-1024.jpg
+   - L1220273-1024.jpg
+   - L1220274-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Mary-Hartman-Mary-Hartman.mp3", comment: "Excerpt from \"Mary Hartman, Mary Hartman\", the first track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/01/01-Mary-Hartman-Mary-Hartman.mp3"][/audio]
 
@@ -45,8 +42,8 @@ From the opening Ornette Coleman number "Mary Hartman, Mary Hartman", the drama 
 
 Members:
 <ul>
- 	<li>Hideaki Kanazawa · 金澤英明 - contrabass - <a href="http://kanabass.web.fc2.com/">http://kanabass.web.fc2.com/</a></li>
- 	<li>Sumire Kuribayashi · 栗林すみれ - piano, percussion - <a href="https://sumirekuribayashi.tumblr.com/">https://sumirekuribayashi.tumblr.com/</a></li>
+ 	<li>Hideaki Kanazawa 金澤英明 - contrabass</li>
+ 	<li>Sumire Kuribayashi 栗林すみれ - piano, percussion</li>
 </ul>
 &nbsp;
 
@@ -59,3 +56,4 @@ https://youtu.be/pbo8gq466iw
 &nbsp;
 
 ** Audio sample at top of page from "Mary Hartman, Mary Hartman", the first track on this album.*
+

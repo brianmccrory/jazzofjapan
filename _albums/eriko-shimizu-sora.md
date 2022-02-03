@@ -4,25 +4,27 @@ date_updated:
 title: Sora
 artist: Eriko Shimizu
 sort_value: Eriko Shimizu Sora
-year: 
-label: 
-code: 
+year: 2010
+label: <a href="http://www.c-a-s-net.co.jp/">Casnet</a>
+code: CSNT-8003
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Eriko Shimizu", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Toshihiko Inoue", instrument: "saxophone", japanese_name: , url: ""}
+   - {name: "Saori Sendo", instrument: "percussion", japanese_name: , url: ""}
+   - {name: "Kunpei Nakabayashi", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Daisuke Yoshioka", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1200403.jpg
-   - L1200404.jpg
-   - L1200405.jpg
+   - L1200403-1024.jpg
+   - L1200404-1024.jpg
+   - L1200405-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-ＳＯＲＡ.mp3", comment: "Excerpt from \"Sora\", the opening track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/02/01-ＳＯＲＡ.mp3"][/audio]
 
@@ -55,3 +57,4 @@ https://youtu.be/AGgOdMhmv30
 https://youtu.be/hWM8mchO_oE
 
 ** Audio sample at top of page from "Sora", the opening track on this album.*
+

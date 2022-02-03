@@ -4,28 +4,28 @@ date_updated:
 title: Sympathy
 artist: Hitomi Nishiyama Trio
 sort_value: Hitomi Nishiyama Trio Sympathy
-year: 
-label: 
-code: 
+year: 2014
+label: Meantone
+code: Records MT-004
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Hitomi Nishiyama", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Yasuhiko \"Hachi\" Sato", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Kazumi Ikenaga", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1210117.jpg
-   - L1210120.jpg
-   - L1210125.jpg
-   - L1210121.jpg
-   - L1210128.jpg
-   - L1110811.jpg
+   - L1210117-1024.jpg
+   - L1210120-1024.jpg
+   - L1210125-1024.jpg
+   - L1210121-1024.jpg
+   - L1210128-1024.jpg
+   - L1110811-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Sympathy.mp3", comment: "Excerpt from \"Sympathy\", the opening track on the album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2018/07/01-Sympathy.mp3"][/audio]
 
@@ -47,13 +47,15 @@ Leader: <strong>Hitomi Nishiyama · 西山瞳</strong> · <a href="http://hitomi
 
 Members:
 <ul>
- 	<li><a href="http://www.jjazzist.com/album/tag/hitomi-nishiyama/">Hitomi Nishiyama</a> - piano</li>
+ 	<li>Hitomi Nishiyama - piano</li>
  	<li>Yasuhiko "Hachi" Sato - bass</li>
- 	<li><a href="http://www.jjazzist.com/album/tag/kazumi-ikenaga/">Kazumi Ikenaga</a> - drums</li>
+ 	<li>Kazumi Ikenaga - drums</li>
 </ul>
 Cover art by Akiko Ikeuchi - <a href="http://akikoikeuchi.silk.to/">http://akikoikeuchi.silk.to/</a>
 
-<a href="http://www.jjazzist.com/wp-content/uploads/2018/07/L1110811.jpg"><img class="alignright size-medium wp-image-2207" src="http://www.jjazzist.com/wp-content/uploads/2018/07/L1110811-300x177.jpg" alt="" width="300" height="177" /></a>Released in 2014 on Meantone Records MT-004.
+<a href="http://www.jjazzist.com/wp-content/uploads/2018/07/L1110811.jpg"><img class="alignright size-medium wp-image-2207" src="http://www.jjazzist.com/wp-content/uploads/2018/07/L1110811-300x177.jpg" alt="" width="300" height="177" /></a>
+
+Released in 2014 on Meantone Records MT-004.
 
 &nbsp;
 
@@ -62,3 +64,5 @@ Cover art by Akiko Ikeuchi - <a href="http://akikoikeuchi.silk.to/">http://akiko
 https://youtu.be/OHW5hbGSByo
 
 ** Audio sample at top of page from "Sympathy", the opening track on the album.*
+
+

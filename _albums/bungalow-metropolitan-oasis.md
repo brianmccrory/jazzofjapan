@@ -4,9 +4,9 @@ date_updated:
 title: Metropolitan Oasis
 artist: Bungalow
 sort_value: Bungalow Metropolitan Oasis
-year: 
-label: 
-code: 
+year: 2011
+label: Daiki Musica
+code: DMCD-17
 release_note: 
 image: /assets/images/2020/03/bungalow-metropolitan-460.jpeg
 members:
@@ -29,3 +29,4 @@ Jazz quartet Bungalow issued an imaginative and flavorful debut album with *Metr
 Masahiro Yamamoto, an original member of Bungalow featured on their first two albums, plays alto sax with a warm, textured tone which bends and flutters with visceral energy while the band lays out arcane jazz sounds not confined to the genre. Whether on the free opener "Metropolitan Oasis", the slinky rocker "Underpass", the mysterious drama of "Human Lost", or the elaborate pieces "Bastristurgisism" and "O.P.P.M.", the album cleverly navigates and develops their art of sound with lovely constructions and comfortable escapism.
 
 Released in 2011 on Daiki Musica as DMCD-17.
+

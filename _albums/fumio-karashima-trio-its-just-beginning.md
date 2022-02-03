@@ -4,26 +4,26 @@ date_updated:
 title: It's Just Beginning
 artist: Fumio Karashima Trio
 sort_value: Fumio Karashima Trio It's Just Beginning
-year: 
-label: 
-code: 
+year: 2004
+label: Pit Inn Music
+code: VACM-1240
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Fumio Karashima", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Yosuke Inoue", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Shingo Okudaira", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1200645.jpg
-   - L1200646.jpg
-   - L1200650.jpg
-   - L1200653.jpg
+   - L1200645-1024.jpg
+   - L1200646-1024.jpg
+   - L1200650-1024.jpg
+   - L1200653-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "05-ミスター・Ｐ．Ｃ．.mp3", comment: "Excerpt from \"Mr. P.C.\", the fifth track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/02/05-ミスター・Ｐ．Ｃ．.mp3"][/audio]
 
@@ -52,3 +52,4 @@ Released in 2004 on Pit Inn Music as VACM-1240.
 https://youtu.be/dC-5imUSTZE
 
 ** Audio sample at top of page from "Mr. P.C.", the fifth track on this album.*
+

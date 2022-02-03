@@ -4,27 +4,28 @@ date_updated:
 title: Live fuse
 artist: fuse
 sort_value: fuse Live fuse
-year: 
-label: 
-code: 
+year: 2007
+label: Ewe Records
+code: EWCD-0119
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Toshihiko Inoue", instrument: "井上淑彦 - soprano sax, tenor sax", japanese_name: , url: ""}
+   - {name: "Nobumasa Tanaka", instrument: "田中信正 - piano", japanese_name: , url: ""}
+   - {name: "Benisuke Sakai", instrument: "坂井紅介 - bass", japanese_name: , url: ""}
+   - {name: "Tsunoken/Ken Tsunoda", instrument: "つの犬/角田健 - drums", japanese_name: , url: ""}
 images: 
-   - L1200820.jpg
-   - L1200822.jpg
-   - L1200825.jpg
-   - L1200830.jpg
-   - L1110527.jpg
+   - L1200820-1024.jpg
+   - L1200822-1024.jpg
+   - L1200825-1024.jpg
+   - L1200830-1024.jpg
+   - L1110527-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-Ｇｒａｓｓｈｏｐｐｅｒ.mp3", comment: "Excerpt from \"Grasshopper\", the first track on the second disc:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/08/01-Ｇｒａｓｓｈｏｐｐｅｒ.mp3"][/audio]
 
@@ -66,3 +67,4 @@ Videos of <strong>fuse</strong> are hard to find, yet the individual members can
 https://youtu.be/6LjeLHYNhLQ
 
 ** Audio sample at top of page from "Grasshopper", the first track on the second disc.*
+

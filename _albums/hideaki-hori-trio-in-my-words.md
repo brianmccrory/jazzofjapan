@@ -4,27 +4,27 @@ date_updated:
 title: In my words
 artist: Hideaki Hori Trio
 sort_value: Hideaki Hori Trio In my words
-year: 
-label: 
-code: 
+year: 2010
+label: Daiki Musica
+code: DMCD-06
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Hideaki Hori", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Daiki Yasukagawa", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Gene Jackson", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1220726.jpg
-   - L1220728.jpg
-   - L1220730.jpg
-   - L1220732.jpg
-   - L1220735.jpg
+   - L1220726-1024.jpg
+   - L1220728-1024.jpg
+   - L1220730-1024.jpg
+   - L1220732-1024.jpg
+   - L1220735-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "01-This-is-New.mp3", comment: "Excerpt from \"This Is New\", the first track on this album:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/01/01-This-is-New.mp3"][/audio]
 
@@ -57,3 +57,4 @@ Released in 2010 on Daiki Musica as DMCD-06.
 https://www.youtube.com/playlist?list=OLAK5uy_morwEyaxjpntajS6166zoRQ0G9OT-_hus
 
 ** Audio sample at top of page from "This Is New", the first track on this album.*
+

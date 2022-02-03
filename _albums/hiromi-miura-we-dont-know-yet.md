@@ -4,27 +4,29 @@ date_updated:
 title: We Don't Know Yet
 artist: Hiromi Miura
 sort_value: Hiromi Miura We Don't Know Yet
-year: 
-label: 
-code: 
+year: 2013
+label: <a href="http://www.d-musica.co.jp/release/neo/DNCD-03.html">D-neo Daiki Musica</a>
+code: DNCD-03
 release_note: 
-
+image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
 members:
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
-   - {name: , instrument: "", japanese_name: , url: ""}
+   - {name: "Hiromi Miura", instrument: "alto and soprano saxophone", japanese_name: , url: ""}
+   - {name: "Yago Vazquez", instrument: "piano", japanese_name: , url: ""}
+   - {name: "Greg Ruggiero", instrument: "guitar", japanese_name: , url: ""}
+   - {name: "Ryoichi Zakota", instrument: "bass", japanese_name: , url: ""}
+   - {name: "Paolo Orlandi", instrument: "drums", japanese_name: , url: ""}
 images: 
-   - L1200268.jpg
-   - L1200269.jpg
-   - L1200271.jpg
-   - L1200273.jpg
-   - L1120170.jpg
+   - L1200268-1024.jpg
+   - L1200269-1024.jpg
+   - L1200271-1024.jpg
+   - L1200273-1024.jpg
+   - L1120170-1024.jpg
 videos: 
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
    {filename: "02-Ｉ　Ｄｏｎｔ　Ｋｎｏｗ　Ｙｅｔ.mp3", comment: "http://www.d-musica.co.jp/release/neo/DNCD-03.html:"}
+---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/02/02-Ｉ　Ｄｏｎｔ　Ｋｎｏｗ　Ｙｅｔ.mp3"][/audio]
 
@@ -61,3 +63,4 @@ Released in 2013 on <a href="http://www.d-musica.co.jp/release/neo/DNCD-03.html"
 ** More audio samples from this album available at: *<a href="http://www.d-musica.co.jp/release/neo/DNCD-03.html">*http://www.d-musica.co.jp/release/neo/DNCD-03.html*</a>
 
 &nbsp;
+

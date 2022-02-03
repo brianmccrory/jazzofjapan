@@ -31,6 +31,27 @@ image: /assets/images/J-shaded.jpg
   </tbody>
 </table>
 
+
+## Latest Articles
+{%- assign latest_new = site.albums | sort: "date" | reverse -%}
+{%- assign latest_updated = site.albums | sort: "date_updated" | reverse %}
+<table><tbody><tr><td class="latest">
+<em>New:</em><br>
+<ul>
+{% for album in latest_new limit:3 -%}
+<li><a href="{{ album.url }}">{{ album.artist | escape }}: <em>{{ album.title | escape }}</em></a> <span class="subtext">{{ album.date | date: "%b %e, %Y" }}</span></li>
+{% endfor %}
+</ul>
+</td><td class="latest">
+<em>Updated:</em><br>
+<ul>
+{% for album in latest_updated limit: 3 -%}
+<li><a href="{{ album.url }}">{{ album.artist | escape }}: <em>{{ album.title | escape }}</em></a> <span class="subtext">{{ album.date_updated | date: "%b %e, %Y" }}</span></li>
+{% endfor %}
+</ul>
+</td></tr></tbody></table>
+
+
 ![Sax]({% link /assets/images/sax-shadow-1024.jpeg %})
 
 
