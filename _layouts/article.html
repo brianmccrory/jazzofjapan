@@ -27,7 +27,7 @@ layout: default
 
 <ul>
 {%- for member in page.members %}
-<li>{% if member.url %}<a href="{{ member.url }}">{% endif %}{{ member.name | escape }}{% if member.url %}</a>{% endif %} - {{ member.instrument | escape }}</li>
+<li>{% if member.url and member.url != nil and member.url != "" %}<a href="{{ member.url }}">{% endif %}{{ member.name | escape }}{% if member.url %}</a>{% endif %} - {{ member.instrument | escape }}</li>
 {%- endfor %}
 </ul>
 	

@@ -20,6 +20,7 @@ Atomi Hamada | [This Is Atomi]({% link _albums/atomi-hamada-this-is-atomi.md %})
 Atsushi Ikeda | [You've Changed]({% link _albums/hara-dairiki-trio-youve-changed.md %}) | <span class="jname-nowrap">池田篤</span><br><span class="subtext">sax</span>
 Aya Kurosawa | [Beautiful Days]({% link _albums/fumie-chiba-beautiful-days.md %}) ・ [Featuring Te]({% link _albums/sayaka-kishi-featuring-te.md %}) ・ [Resonance]({% link _albums/duo-tremolo-resonance.md %}) | <span class="jname-nowrap">黒沢綾</span><br><span class="subtext">vocal</span>
 Ayumi Koketsu | [Art]({% link _albums/ayumi-koketsu-art.md %}) ・ [Rainbow Tales]({% link _albums/ayumi-koketsu-rainbow-tales.md %}) | <span class="jname-nowrap">纐纈歩美</span><br><span class="subtext">sax</span>
+Azumi | [Almost Like Being In Love]({% link _albums/azumi-almost-like-being-in-love.md %}) | <span class="jname-nowrap">あづみ</span><br><span class="subtext">vocal</span>
 Chihiro Yamanaka | [Living Without Friday]({% link _albums/chihiro-yamanaka-trio-living-without-friday.md %}) ・ [Madrigal]({% link _albums/chihiro-yamanaka-trio-madrigal.md %}) ・ [When October Goes]({% link _albums/chihiro-yamanaka-trio-when-october.md %}) | <span class="jname-nowrap">山中千尋</span><br><span class="subtext">piano</span>
 Cokky | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) | <span class="jname-nowrap">コッキー</span><br><span class="subtext">bass</span>
 Daiki Yasukagawa | [Touch of Winter]({% link _albums/taihei-asakawa-trio-touch-of-winter.md %}) | <span class="jname-nowrap">安ヵ川大樹</span><br><span class="subtext">bass</span>
@@ -58,6 +59,7 @@ Keisuke Nakamura | [Humadope]({% link _albums/keisuke-nakamura-humadope.md %}) |
 Keita Okada | [Carta]({% link _albums/emiko-voice-carta.md %}) | <span class="jname-nowrap">岡田ケイタ</span><br><span class="subtext">drums</span>
 Keizo Kawano | [Here Goes!]({% link _albums/fumiko-yamazaki-here-goes.md %}) | <span class="jname-nowrap">河野啓三</span><br><span class="subtext">piano</span>
 Ken'ichiro Shinzawa | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) ・ [Piano Works]({% link _albums/kenichiro-shinzawa-piano-works.md %}) | <span class="jname-nowrap">新澤健一郎</span><br><span class="subtext">piano</span>
+Kengo Komae | [Almost Like Being In Love]({% link _albums/azumi-almost-like-being-in-love.md %}) | <span class="jname-nowrap">小前賢吾</span><br><span class="subtext">drums</span>
 Kiyoshi Kitagawa | [Wide Angle]({% link _albums/miki-hayama-trio-wide-angle.md %}) | <span class="jname-nowrap">北川潔</span><br><span class="subtext">bass</span>
 Kiyotaka Kuroda | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) | <span class="jname-nowrap">黒田清高</span><br><span class="subtext">drums</span>
 Ko Omura | [Past Life]({% link _albums/bungalow-past-life.md %}) ・ [You Already Know]({% link _albums/bungalow-you-already-know.md %}) | <span class="jname-nowrap">大村亘</span><br><span class="subtext">drums</span>
@@ -110,7 +112,7 @@ Ryoji Orihara | [Fever]({% link _albums/trigraph-fever.md %}) ・ [Incomplete Vo
 Ryosuke Asai | [Move On]({% link _albums/hikari-ichihara-group-move-on.md %}) | <span class="jname-nowrap">浅井良将</span><br><span class="subtext">sax</span>
 Ryosuke Hashizume | [Incomplete Voices]({% link _albums/ryosuke-hashizume-group-incomplete.md %}) ・ [Music In You]({% link _albums/hitomi-nishiyama-trio-music-in-you.md %}) ・ [Needful Things]({% link _albums/ryosuke-hashizume-needful-things.md %}) | <span class="jname-nowrap">橋爪亮督</span><br><span class="subtext">sax</span>
 Ryuichi Takase | [Whisper Not]({% link _albums/layla-tomomi-sakai-whisper-not.md %}) | <span class="jname-nowrap">高瀬龍一</span><br><span class="subtext">trumpet</span>
-Sachiko Ikuta | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %}) | <span class="jname-nowrap">生田さち子</span><br><span class="subtext">piano</span>
+Sachiko Ikuta | [Almost Like Being In Love]({% link _albums/azumi-almost-like-being-in-love.md %}) ・ [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %}) | <span class="jname-nowrap">生田さち子</span><br><span class="subtext">piano</span>
 Sanae Ishikawa | [Feel Like Makin' Love]({% link _albums/sanae-ishikawa-feel-like-makin-love.md %}) ・ [Fever]({% link _albums/trigraph-fever.md %}) ・ [Grown-up Christmas Gift]({% link _albums/sanae-ishikawa-grown-up-christmas.md %}) | <span class="jname-nowrap">石川早苗</span><br><span class="subtext">vocal</span>
 Saori Sendo | [Resonance]({% link _albums/duo-tremolo-resonance.md %}) | <span class="jname-nowrap">仙道さおり</span><br><span class="subtext">percussion</span>
 Satoshi Kosugi | [Bass on Times]({% link _albums/satoshi-kosugi-bass-on-times.md %}) ・ [Feel Like Makin' Love]({% link _albums/sanae-ishikawa-feel-like-makin-love.md %}) | <span class="jname-nowrap">小杉敏</span><br><span class="subtext">bass</span>
@@ -143,6 +145,7 @@ Tamaya Honda | [Invisible]({% link _albums/junichiro-ohkuchi-trio-invisible.md %
 Taro Sukegawa | [A Tempo]({% link _albums/meu-coracao-a-tempo.md %}) ・ [Hall Tone]({% link _albums/meu-coracao-hall-tone.md %}) | <span class="jname-nowrap">助川太郎</span><br><span class="subtext">guitar</span>
 Terumasa Hino | [Haru No Kaze]({% link _albums/sachiko-ikuta-trio-haru.md %}) | <span class="jname-nowrap">日野皓正</span><br><span class="subtext">trumpet</span>
 Terumasa Nishikawa | [Gallery]({% link _albums/yukiko-hayakawa-trio-gallery.md %}) | <span class="jname-nowrap">西川輝正</span><br><span class="subtext">bass</span>
+Tetsuro Aratama | [Almost Like Being In Love]({% link _albums/azumi-almost-like-being-in-love.md %}) | <span class="jname-nowrap">荒玉哲郎</span><br><span class="subtext">bass</span>
 Tokuhiro Doi | [Amalthea]({% link _albums/tokuhiro-doi-quartet-amalthea.md %}) ・ [Melancholy of a Journey]({% link _albums/koichi-sato-melancholy.md %}) | <span class="jname-nowrap">土井徳浩</span><br><span class="subtext">clarinet</span>
 Tomoka Miwa | [Colors in Silence]({% link _albums/tomoka-miwa-colors.md %}) | <span class="jname-nowrap">三輪知可</span><br><span class="subtext">vocal</span>
 Tomoyuki Konno | [Amalthea]({% link _albums/tokuhiro-doi-quartet-amalthea.md %}) | <span class="jname-nowrap">紺野智之</span><br><span class="subtext">drums</span>
