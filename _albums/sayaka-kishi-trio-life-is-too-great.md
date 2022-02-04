@@ -4,9 +4,9 @@ date_updated:
 title: Life is too Great
 artist: Sayaka Kishi Trio
 sort_value: Sayaka Kishi Trio Life is too Great
-year: 2019 as TTOC-0034
-label: T-TOC
-code: Records
+year: 2019
+label: T-TOC Records
+code: TTOC-0034
 release_note: 
 image: /assets/images/2019/09/sayakakishi-lifeis-460.jpeg
 members:

@@ -4,9 +4,9 @@ date_updated:
 title: Bénin Rio Tokyo
 artist: Nobie
 sort_value: Nobie Bénin Rio Tokyo
-year: 2018 as DBCW-3333
-label: Dear
-code: Heart
+year: 2018
+label: Dear Heart
+code: DBCW-3333
 release_note: 
 image: /assets/images/2019/08/nobie-benin-460.jpeg
 members:
