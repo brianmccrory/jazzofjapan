@@ -5,10 +5,10 @@ title: Bass on Cinema
 artist: Shinichi Kato
 sort_value: Shinichi Kato Bass on Cinema
 year: 2011
-label: <a href="http://rovingspirits.co.jp/">Roving Spirits</a>
+label: Roving Spirits
 code: RKCJ-2048
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/09/shinichikato-bassoncinema-460.jpeg
 members:
    - {name: "Shinichi Kato", instrument: "bass", japanese_name: , url: ""}
    - {name: "Taihei Asakawa", instrument: "piano, synthesizers, arrangements", japanese_name: , url: ""}

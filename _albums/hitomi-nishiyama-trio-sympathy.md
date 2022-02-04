@@ -8,7 +8,7 @@ year: 2014
 label: Meantone
 code: Records MT-004
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/06/hitominishiyama-sympathy-460.jpeg
 members:
    - {name: "Hitomi Nishiyama", instrument: "piano", japanese_name: , url: ""}
    - {name: "Yasuhiko \"Hachi\" Sato", instrument: "bass", japanese_name: , url: ""}

@@ -8,7 +8,7 @@ year: 2010
 label: Urban
 code: Jazz as 151A-0002
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/05/yuichiroaratake-light-460.jpeg
 members:
    - {name: "Tamaya Honda", instrument: "drums (track #10)", japanese_name: , url: ""}
    - {name: "Hideaki Kawamura", instrument: "tenor sax (track #2)", japanese_name: , url: ""}

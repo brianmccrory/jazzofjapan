@@ -8,7 +8,7 @@ year: 2015
 label: D-neo Daiki Musica
 code: DNCD-05
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/10/naokotanaka-memories-460.jpeg
 members:
    - {name: "Naoko Tanaka", instrument: "田中菜緒子 - piano", japanese_name: , url: ""}
    - {name: "Koji Yasuda", instrument: "安田幸司 - bass", japanese_name: , url: ""}

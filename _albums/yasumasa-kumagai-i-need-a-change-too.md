@@ -8,7 +8,7 @@ year: 2008
 label: Anturtle Tune
 code: ANTX-4001
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2018/03/yasumasakumagai-ineed-460.jpeg
 members:
    - {name: "Yasumasa Kumagai", instrument: "piano", japanese_name: , url: ""}
    - {name: "Koji Yasuda", instrument: "bass", japanese_name: , url: ""}

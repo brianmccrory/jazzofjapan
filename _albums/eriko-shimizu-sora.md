@@ -8,7 +8,7 @@ year: 2010
 label: <a href="http://www.c-a-s-net.co.jp/">Casnet</a>
 code: CSNT-8003
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/03/erikoshimizu-sora-460.jpeg
 members:
    - {name: "Eriko Shimizu", instrument: "piano", japanese_name: , url: ""}
    - {name: "Toshihiko Inoue", instrument: "saxophone", japanese_name: , url: ""}

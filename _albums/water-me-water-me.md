@@ -8,7 +8,7 @@ year: 2014
 label: Sunmoon Music
 code: SMCD-0005
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2021/02/waterme-waterme-460.jpeg
 members:
    - {name: "Ayako Taira", instrument: "vocal", japanese_name: 平良亜矢子, url: "https://blog.goo.ne.jp/tairaayako"}
    - {name: "Noriko Kotani", instrument: "vocal", japanese_name: 小谷のりこ, url: "https://norikokotani.amebaownd.com"}

@@ -8,7 +8,7 @@ year: 2018
 label: Studio TLive Records
 code: STLR-018
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/01/seijitada-workout-460.jpeg
 members:
    - {name: "Seiji Tada", instrument: "alto sax, flute, alto flute", japanese_name: , url: ""}
    - {name: "Renee Rosnes", instrument: "piano", japanese_name: , url: ""}

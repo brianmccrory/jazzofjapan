@@ -8,7 +8,7 @@ year: 2011
 label: Daiki Musica
 code: DMCD 12
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2018/07/koomura-introspect-460.jpeg
 members:
    - {name: "Hakuei Kim", instrument: "piano", japanese_name: , url: ""}
    - {name: "Koichi Sato", instrument: "piano", japanese_name: , url: ""}

@@ -8,7 +8,7 @@ year: 2009
 label: Sayaketts
 code: SKTS-001
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2018/10/sayaketts-colors-460.jpeg
 members:
    - {name: "Sayaka Kishi", instrument: "piano, Rhodes, keyboards, pianica", japanese_name: , url: ""}
    - {name: "Satoshi Kohno", instrument: "electric bass", japanese_name: , url: ""}

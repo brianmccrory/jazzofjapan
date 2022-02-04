@@ -8,7 +8,7 @@ year: 2013
 label: What's New Records
 code: WNCJ-2249
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/03/zephyr-zephyr-460.jpeg
 members:
    - {name: "Toshihiko Inoue", instrument: "soprano, tenor sax", japanese_name: 井上淑彦, url: "http://inouetoshihiko.com"}
    - {name: "Teiji Taguchi", instrument: "acoustic guitar", japanese_name: 田口悌治, url: "https://tag-gtr.wixsite.com/home"}

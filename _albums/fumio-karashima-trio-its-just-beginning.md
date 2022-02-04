@@ -8,7 +8,7 @@ year: 2004
 label: Pit Inn Music
 code: VACM-1240
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/02/fumiokarashima-beginning-460.jpeg
 members:
    - {name: "Fumio Karashima", instrument: "piano", japanese_name: , url: ""}
    - {name: "Yosuke Inoue", instrument: "bass", japanese_name: , url: ""}

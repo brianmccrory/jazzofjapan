@@ -8,7 +8,7 @@ year: 2019
 label: Trio Export 63.1.0.X
 code: Small Pieces for Flying Padre
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/02/trioexport-smallpieces-460.jpeg
 members:
    - {name: "Heitetsu Rin", instrument: "リンヘイテツ - piano", japanese_name: , url: ""}
    - {name: "Keisuke Furuki", instrument: "古木佳祐 - bass", japanese_name: , url: ""}

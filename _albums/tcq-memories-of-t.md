@@ -8,7 +8,7 @@ year: 2017
 label: D-neo Daiki Musica
 code: DNCD-13
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/11/tcq-memoriesoft-460.jpeg
 members:
    - {name: Shawna Yang, instrument: "alto sax", japanese_name: 楊曉恩, url: "http://www.jazzinvention.com/"}
    - {name: Naoko Tanaka, instrument: "piano", japanese_name: 田中菜緒子, url: "http://tanakanaoko.com"}

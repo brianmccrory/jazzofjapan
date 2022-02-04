@@ -8,7 +8,7 @@ year: 2013
 label: Audio Fab Records
 code: <a href="https://www
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2021/02/yukaueda-dois-460.jpeg
 members:
    - {name: "Yuka Ueda 上田裕香", instrument: "vocal", japanese_name: , url: ""}
    - {name: "Junichiro Ohkuchi 大口純一郎", instrument: "piano", japanese_name: , url: ""}

@@ -8,7 +8,7 @@ year: 2012
 label: Truestar Entertainment
 code: TSR-51102
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/03/shunichiyanagi-bubblefish-460.jpeg
 members:
    - {name: "Syunichi Yanagi", instrument: "piano", japanese_name: , url: ""}
    - {name: "Ryo Shibata", instrument: "drums", japanese_name: , url: ""}

@@ -8,7 +8,7 @@ year: 2012
 label: Concordia
 code: CONR-002
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2018/10/seijiendo-sakura-460.jpeg
 members:
 images: 
    - L1210400-1024.jpg

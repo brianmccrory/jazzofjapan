@@ -8,7 +8,7 @@ year: 2019 as TTOC-0034
 label: T-TOC
 code: Records
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/09/sayakakishi-lifeis-460.jpeg
 members:
    - {name: "Sayaka Kishi", instrument: "piano, keyboard, keyharmonica, percussion", japanese_name: , url: ""}
    - {name: "Ryoji Orihara", instrument: "fretless bass", japanese_name: , url: ""}

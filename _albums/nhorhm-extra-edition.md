@@ -8,7 +8,7 @@ year: 2019
 label: Apollo Sounds
 code: APLS1905
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/01/hitominishiyama-nhorhm-extra-460.jpeg
 members:
    - {name: "Hitomi Nishiyama", instrument: "piano, arrangements, composition", japanese_name: 西山瞳, url: "http://hitominishiyama.net"}
    - {name: "Ryoji Orihara", instrument: "fretless bass", japanese_name: , url: "https://orioriori.exblog.jp"}

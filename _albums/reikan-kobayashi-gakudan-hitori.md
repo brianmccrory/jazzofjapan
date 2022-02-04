@@ -8,7 +8,7 @@ year: 2011
 label: <a href="https://shop.mokorinmusic.net/">Mokorin Music</a>
 code: MM-001
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/02/reikankobayashi-gakudan-460.jpeg
 members:
 images: 
    - L1200682-1024.jpg

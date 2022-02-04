@@ -8,7 +8,7 @@ year: 2018
 label: Laplace Records
 code: LPDCD-103
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/04/motoikanamori-mysoul-460.jpeg
 members:
    - {name: "Motoi Kanamori", instrument: "bass", japanese_name: , url: ""}
    - {name: "Hiroyuki Takubo", instrument: "piano", japanese_name: , url: ""}

@@ -8,7 +8,7 @@ year: 2013
 label: <a href="http://www.d-musica.co.jp/release/neo/DNCD-03.html">D-neo Daiki Musica</a>
 code: DNCD-03
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/02/hiromimiura-wedont-460.jpeg
 members:
    - {name: "Hiromi Miura", instrument: "alto and soprano saxophone", japanese_name: , url: ""}
    - {name: "Yago Vazquez", instrument: "piano", japanese_name: , url: ""}

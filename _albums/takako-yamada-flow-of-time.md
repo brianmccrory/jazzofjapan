@@ -8,7 +8,7 @@ year: 2013
 label: GoodNessPlus
 code: Records as GNPR-1146
 release_note:
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2018/07/takakoyamada-flow-460.jpeg
 members:
    - {name: "Takako Yamada", instrument: "piano", japanese_name: , url: ""}
    - {name: "Shinpei Ruike", instrument: "trumpet", japanese_name: , url: ""}

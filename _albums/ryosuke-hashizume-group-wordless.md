@@ -8,7 +8,7 @@ year: 2006
 label: Polystar Jazz Library
 code: MTCJ-3031
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/02/ryosukehashizume-wordless-460.jpeg
 members:
    - {name: "Ryosuke Hashizume", instrument: "tenor saxophones, loops", japanese_name: , url: ""}
    - {name: "Motohiko Ichino", instrument: "guitar", japanese_name: , url: ""}

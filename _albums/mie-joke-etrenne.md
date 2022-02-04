@@ -3,12 +3,12 @@ date: 2019-10-16
 date_updated: 
 title: Etrenne
 artist: Mie Joké
-sort_value: Mie Joké Etrenne
+sort_value: Mie Joke Etrenne
 year: 2018
-label: <a href="http://ultra-art.jp/">Ultra Art Record</a>
+label: Ultra Art Record
 code: UA-1001
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/10/miejoke-etrenne-460.jpeg
 members:
    - {name: "Mie Joké", instrument: "vocal", japanese_name: , url: ""}
    - {name: "Tsuyoshi Yamamoto", instrument: "piano", japanese_name: , url: ""}

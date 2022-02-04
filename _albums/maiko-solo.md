@@ -8,7 +8,7 @@ year: 2018
 label: T-Toc Records
 code: TTOC-0029
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/02/maiko-solo-460.jpeg
 members:
 images: 
    - L1220346-1024.jpg

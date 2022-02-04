@@ -8,7 +8,7 @@ year: 2014
 label: Masaki Kunisada
 code: M
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/03/masakokunisada-m-460.jpeg
 members:
    - {name: "Masako Kunisada", instrument: "vocals", japanese_name: , url: ""}
    - {name: "Manabu Ohishi", instrument: "all instruments, arrangements", japanese_name: , url: ""}

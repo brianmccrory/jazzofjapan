@@ -8,7 +8,7 @@ year: 2009
 label: TRL Music
 code: TRL-0826
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2018/12/fumiechiba-tip-460.jpeg
 members:
    - {name: "Fumie Chiba", instrument: "piano", japanese_name: , url: ""}
    - {name: "Koichi Kuniwake", instrument: "bass", japanese_name: , url: ""}

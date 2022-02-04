@@ -8,7 +8,7 @@ year: 2013
 label: Maki Fujimura
 code: MAKI.TV-0002
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/01/makifujimura-best-460.jpeg
 members:
    - {name: "Maki Fujimura (Vocals)", instrument: "藤村麻紀", japanese_name: , url: ""}
    - {name: "Hideaki Hori (Piano)", instrument: "堀秀彰", japanese_name: , url: ""}

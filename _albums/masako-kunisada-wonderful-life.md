@@ -8,7 +8,7 @@ year: 2012
 label: Urban Jazz
 code: 151A-0005
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/09/masakokunisada-wonderful-460.jpeg
 members:
    - {name: "Masako Kunisada 国貞雅子", instrument: "vocal", japanese_name: , url: ""}
    - {name: "Shigeru Morishita 森下滋", instrument: "piano, Rhodes piano, Hammond organ (#1-6, 8-12)", japanese_name: , url: ""}

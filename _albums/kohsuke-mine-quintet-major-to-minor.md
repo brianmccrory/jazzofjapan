@@ -8,7 +8,7 @@ year: 1993
 label: Verve Records
 code: POCJ-1195
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/08/kohsukemine-major-460.jpeg
 members:
    - {name: "Kohsuke Mine 峰厚介", instrument: "tenor saxophone", japanese_name: , url: ""}
    - {name: "Kazumasa Akiyama 秋山一将", instrument: "guitar", japanese_name: , url: ""}

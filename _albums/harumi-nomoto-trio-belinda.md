@@ -8,7 +8,7 @@ year: 2007
 label: Anturtle Tune/BQ Records
 code: BQR-2040
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/04/haruminomoto-belinda-460.jpeg
 members:
    - {name: "Harumi Nomoto", instrument: "piano, Fender Rhodes electric piano", japanese_name: , url: ""}
    - {name: "Noboru Ando", instrument: "bass", japanese_name: , url: ""}

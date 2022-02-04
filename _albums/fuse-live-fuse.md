@@ -8,7 +8,7 @@ year: 2007
 label: Ewe Records
 code: EWCD-0119
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/08/fuse-live-460.jpeg
 members:
    - {name: "Toshihiko Inoue", instrument: "井上淑彦 - soprano sax, tenor sax", japanese_name: , url: ""}
    - {name: "Nobumasa Tanaka", instrument: "田中信正 - piano", japanese_name: , url: ""}

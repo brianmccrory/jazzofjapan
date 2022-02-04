@@ -8,7 +8,7 @@ year: 2011
 label: Coume Music
 code: DQC-614
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/03/yukomiyawaki-songof-460.jpeg
 members:
    - {name: "Yuko Miyawaki", instrument: "trumpet, flugelhorn", japanese_name: , url: ""}
    - {name: "Yutaka Handa", instrument: "tenor sax", japanese_name: , url: ""}

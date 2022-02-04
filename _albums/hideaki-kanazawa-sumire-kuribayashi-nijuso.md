@@ -8,7 +8,7 @@ year: 2017
 label: Roving Spirits
 code: RKCJ-2063
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/01/kanazawa-kuribayashi-nijuso-460.jpeg
 members:
 images: 
    - L1220265-1024.jpg

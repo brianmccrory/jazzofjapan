@@ -8,7 +8,7 @@ year: 2013
 label: Concept Records
 code: CR-01
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2018/08/hamasaki-matsumoto-bigcatch-460.jpeg
 members:
    - {name: "Wataru Hamasaki", instrument: "浜崎航", japanese_name: , url: ""}
    - {name: "Akane Matsumoto", instrument: "松本茜", japanese_name: , url: ""}

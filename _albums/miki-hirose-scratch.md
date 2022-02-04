@@ -8,7 +8,7 @@ year: 2013
 label: Jazz Lab Records
 code: JLR-1301
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2021/02/mikihirose-scratch-460.jpeg
 members:
    - {name: "Miki Hirose", instrument: "広瀬未来 - trumpet &amp; flugelhorn", japanese_name: , url: ""}
    - {name: "Xavier Perez", instrument: "tenor sax", japanese_name: , url: ""}

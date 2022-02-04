@@ -8,7 +8,7 @@ year: 2008
 label: Routine Records
 code: RCJP-002
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/01/routinejazzsextet-routine-460.jpeg
 members:
    - {name: "Tomoyuki Konno", instrument: "紺野智之 - drums", japanese_name: , url: ""}
    - {name: "Shinpei Ruike", instrument: "類家心平 - trumpet", japanese_name: , url: ""}

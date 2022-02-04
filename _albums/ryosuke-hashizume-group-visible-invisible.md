@@ -8,7 +8,7 @@ year: 2013
 label: Apollo Sounds
 code: APLS-1304
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/01/ryosukehashizume-visible-460.jpeg
 members:
    - {name: "Ryosuke Hashizume", instrument: "tenor, soprano saxophones", japanese_name: , url: ""}
    - {name: "Motohiko Ichino", instrument: "guitar", japanese_name: , url: ""}

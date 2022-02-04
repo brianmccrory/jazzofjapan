@@ -5,10 +5,10 @@ title: The Island
 artist: Layla Tomomi Sakai
 sort_value: Layla Tomomi Sakai Island
 year: 2018
-label: Laydrunker
-code: Records as LAYLA-002
+label: Laydrunker Records
+code: LAYLA-002
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/07/laylatomomisakai-island-460.jpeg
 members:
    - {name: "Layla Tomomi Sakai", instrument: "vocals", japanese_name: "坂井レイラ知美", url: "https://www.sakailaylatomomi.com/"}
    - {name: "Yuichiro Hiraoka", instrument: "guitar (#1, 3, 4, 5, 6)", japanese_name: 平岡遊一郎, url: ""}

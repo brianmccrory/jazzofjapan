@@ -8,7 +8,7 @@ year: 2012
 label: <a href="https://ateliersawano.com/">Atelier Sawano</a>
 code: <a href="https://ateliersawano
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/03/manabuohishi-gift-460.jpeg
 members:
    - {name: "Manabu Ohishi", instrument: "piano, pianica", japanese_name: , url: ""}
    - {name: "Jean", instrument: "Philippe Viret - bass", japanese_name: , url: ""}

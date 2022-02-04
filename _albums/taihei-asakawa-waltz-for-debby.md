@@ -8,7 +8,7 @@ year: 2018
 label: Cortez Sound
 code: CSJ0008
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2018/12/taiheiasakawa-waltz-460.jpeg
 members:
 images: 
    - L1220050-1024.jpg

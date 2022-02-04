@@ -8,7 +8,7 @@ year: 2017
 label: Kylym Records
 code: KYLYM-0001
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/12/yakohorikita-shininghour-460.jpeg
 members:
    - {name: "Yako Horikita", instrument: "vocals", japanese_name: , url: ""}
    - {name: "Takenori Sawaki", instrument: "alto saxophone", japanese_name: , url: ""}

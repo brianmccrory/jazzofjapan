@@ -8,7 +8,7 @@ year: 2011
 label: Pony
 code: Canyon / Twinkle Note as PCCY-30186
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2018/09/koichisato-utopia-460.jpeg
 members:
    - {name: "Koichi Sato", instrument: "piano", japanese_name: , url: ""}
    - {name: "Hiroshi Ikejiri", instrument: "bass", japanese_name: , url: ""}

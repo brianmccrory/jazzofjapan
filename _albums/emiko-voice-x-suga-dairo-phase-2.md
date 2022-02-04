@@ -8,7 +8,7 @@ year: 2009
 label: Cool Fool
 code: CLFL-0003
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/02/emikovoice-sugadairo-phase2-460.jpeg
 members:
    - {name: "EMiKO VOiCE", instrument: "vocal", japanese_name: , url: "http://www.emikovoice.com/"}
    - {name: "Dairo Suga", instrument: "piano", japanese_name: スガダイロー, url: "https://sugadairo.blogspot.com"}

@@ -8,7 +8,7 @@ year: 2006
 label: Art Jazz Records
 code: ARTCD-112
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/01/mikihayama-prelude-460.jpeg
 members:
    - {name: "Miki Hayama", instrument: "piano", japanese_name: , url: ""}
    - {name: "Kiyoshi Kitagawa", instrument: "bass", japanese_name: , url: ""}

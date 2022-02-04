@@ -8,7 +8,7 @@ year: 2012
 label: Coume Music
 code: DQC-919
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/02/yudomatsuo-bonanza-460.jpeg
 members:
    - {name: "Yudo Matsuo", instrument: "electric &amp; acoustic guitar", japanese_name: , url: ""}
    - {name: "Keisuke Nakamura", instrument: "trumpet, flugelhorn", japanese_name: , url: ""}

@@ -3,12 +3,12 @@ date: 2019-02-12
 date_updated: 
 title: N.40°
 artist: Shinpei Ruike & George Nakajima
-sort_value: Shinpei Ruike & George Nakajima N.40°
+sort_value: Shinpei Ruike & George Nakajima N40
 year: 2014
-label: Apollo
-code: Sounds as APLS-1403
+label: Apollo Sounds
+code: APLS-1403
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/02/ruike-nakajima-n40-460.jpeg
 members:
    - {name: "Shinpei Ruike (trumpet)", instrument: "類家心平", japanese_name: , url: ""}
    - {name: "George Nakajima (piano)", instrument: "中嶋錠二", japanese_name: , url: ""}

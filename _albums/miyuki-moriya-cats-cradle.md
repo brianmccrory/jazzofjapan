@@ -8,7 +8,7 @@ year: 2010
 label: Coume Music
 code: DQC-565
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/02/miyukimoriya-cats-460.jpeg
 members:
    - {name: "Miyuki Moriya", instrument: "alto sax", japanese_name: , url: ""}
    - {name: "Mamoru Ishida", instrument: "piano", japanese_name: , url: ""}

@@ -8,7 +8,7 @@ year: 2018 as DBCW-3333
 label: Dear
 code: Heart
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/08/nobie-benin-460.jpeg
 members:
    - {name: "Nobie", instrument: "vocals", japanese_name: , url: ""}
    - {name: "Lionel Loueke", instrument: "guitar, vocals (#1-4)", japanese_name: , url: ""}

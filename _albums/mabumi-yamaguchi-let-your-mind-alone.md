@@ -8,7 +8,7 @@ year: 2017
 label: Spice of Life
 code: SOLJP-0015
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/11/mabumiyamaguchi-letyour-460.jpeg
 members:
    - {name: "Mabumi Yamaguchi", instrument: "Tenor &amp; Soprano Sax", japanese_name: , url: ""}
    - {name: "Yoshitaka Shoji", instrument: "Guitar", japanese_name: , url: ""}

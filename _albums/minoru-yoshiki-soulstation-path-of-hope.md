@@ -8,7 +8,7 @@ year: 2019
 label: Urban Jazz
 code: Path of Hope
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2019/09/minoruyoshiki-soulstation-path-460.jpeg
 members:
    - {name: "Minoru Yoshiki", instrument: "contrabass", japanese_name: , url: ""}
    - {name: "Osamu Soda", instrument: "piano", japanese_name: , url: ""}

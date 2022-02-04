@@ -8,7 +8,7 @@ year: 2010
 label: Daiki Musica
 code: DMCD-06
 release_note: 
-image: /assets/images/2020/11/akanematsumoto-memories-460.jpeg
+image: /assets/images/2020/01/hideakihori-inmywords-460.jpeg
 members:
    - {name: "Hideaki Hori", instrument: "piano", japanese_name: , url: ""}
    - {name: "Daiki Yasukagawa", instrument: "bass", japanese_name: , url: ""}
