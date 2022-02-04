@@ -32,5 +32,3 @@ Along with songs sung in English, Japanese, and Portuguese, the vocalist Nobie o
 
 Les Komatis balances jazz, pop, and Latin with the album’s originals, comfortable ballads, catchy interludes, and even two powerhouse McCoy Tyner covers for added energy: “Man From Tanganyika” and “Fly With The Wind”. The set closes with a Zen-like take on the final track, Mayuko Katakura's deep “Mugen” (with 夢幻 here meaning dreams, visions, fantasy).
 
-
-

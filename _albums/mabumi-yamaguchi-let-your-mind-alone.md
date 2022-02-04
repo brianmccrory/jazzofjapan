@@ -22,33 +22,25 @@ images:
    - L1220382-1024.jpg
    - L1220385-1024.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "https://youtu.be/l9tLbegpVpo", comment: ""}
 audio_embed:
    {filename: "01-Sequel-to-a-Dream.mp3", comment: "Excerpt from “Sequel To A Dream”, the opening track on this album:"}
 ---
----
-[audio mp3="http://jjazzist.com/wp-content/uploads/2019/11/01-Sequel-to-a-Dream.mp3"][/audio]
+The silvery tones of masterful jazz sax glide and soar through dynamically modern jazz on Mabumi Yamaguchi’s 2017 recording *Let Your Mind Alone*.
 
-<a href="http://jjazzist.com/wp-content/uploads/2019/11/L1220375.jpg"><img class="size-medium wp-image-4655 alignright" src="http://jjazzist.com/wp-content/uploads/2019/11/L1220375-295x300.jpg" alt="" width="295" height="300" /></a> The silvery tones of masterful jazz sax glide and soar through dynamically modern jazz on Mabumi Yamaguchi’s 2017 recording *Let Your Mind Alone*.
+With eight original songs penned by Yamaguchi, the music is solid, confident, dramatic, and melodically entrancing. From the gripping opening track “Sequel To A Dream”, the songs flow with a fantastic balance of stimulation and control, offering various styles from peppy bossa rhythms, loose, modern swing, sweet ballads, and brightly positive tunes mixed with stimulating dark tinges.
 
-<a href="http://jjazzist.com/wp-content/uploads/2019/11/L1220376.jpg"><img class="size-medium wp-image-4656 alignright" src="http://jjazzist.com/wp-content/uploads/2019/11/L1220376-300x288.jpg" alt="" width="300" height="288" /></a> With eight original songs penned by Yamaguchi, the music is solid, confident, dramatic, and melodically entrancing. From the gripping opening track “Sequel To A Dream”, the songs flow with a fantastic balance of stimulation and control, offering various styles from peppy bossa rhythms, loose, modern swing, sweet ballads, and brightly positive tunes mixed with stimulating dark tinges.
-
-<strong>Leader: Mabumi Yamaguchi · 山口 真文 · </strong><a href="https://mabumi.com/">https://mabumi.com/</a>
+Leader: Mabumi Yamaguchi · 山口 真文 · https://mabumi.com/
 
 Members:
-<ul>
- 	<li>Mabumi Yamaguchi – Tenor &amp; Soprano Sax</li>
- 	<li>Yoshitaka Shoji – Guitar</li>
- 	<li>Misato Okumura – Piano</li>
- 	<li>Ryohei Komaki – Bass</li>
- 	<li>Nobuyuki Komatsu – Drums</li>
-</ul>
+
+Mabumi Yamaguchi – Tenor & Soprano Sax
+Yoshitaka Shoji – Guitar
+Misato Okumura – Piano
+Ryohei Komaki – Bass
+Nobuyuki Komatsu – Drums
+
 Released in 2017 on Spice of Life as SOLJP-0015.
 
-<a href="http://jjazzist.com/wp-content/uploads/2019/11/L1220381.jpg"><img class="alignnone size-medium wp-image-4657" src="http://jjazzist.com/wp-content/uploads/2019/11/L1220381-300x183.jpg" alt="" width="300" height="183" /></a> <a href="http://jjazzist.com/wp-content/uploads/2019/11/L1220382.jpg"><img class="alignnone size-medium wp-image-4658" src="http://jjazzist.com/wp-content/uploads/2019/11/L1220382-300x123.jpg" alt="" width="300" height="123" /></a> <a href="http://jjazzist.com/wp-content/uploads/2019/11/L1220385.jpg"><img class="alignnone size-medium wp-image-4659" src="http://jjazzist.com/wp-content/uploads/2019/11/L1220385-300x179.jpg" alt="" width="300" height="179" /></a>
-
-https://youtu.be/l9tLbegpVpo
 
 ** Audio sample at top of page from “Sequel To A Dream”, the opening track on this album.*
-

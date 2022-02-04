@@ -25,4 +25,3 @@ audio:
 
 Buoyed by guitar chords and trumpet improvisation, Sakai’s voice emotes cleanly with a strong, whispering texture. She delivers lyrics with a romantic sincerity and gentle confidence, enticing with subtle mystery like a sly wink given with a sweet smile. Each of the songs clocks in at under five minutes and the album is a quick 25-minute play, a pleasurable coffeehouse break or dreamy escape.
 
-
