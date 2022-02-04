@@ -1,5 +1,4 @@
 ---
-featured: true
 date: 2018-03-01
 date_updated: 2022-01-26
 title: Inspiration
