@@ -34,5 +34,3 @@ While jazz fans are no doubt familiar with oft-covered tunes such as “Girl fro
 
 It’s also worth mentioning that since the 2009 debut of Hall Tone, Meu Coracao has also been performing unplugged, natural sound shows for more than seven years at sold-out concert halls in Tokyo.
 
-
-

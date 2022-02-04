@@ -22,7 +22,6 @@ videos:
 audio_embed:
    {filename: "03-ア・ダンサーズ・メランコリー.mp3", comment: "Excerpt from track three on this album, \"A Dancer's Melancholy\":"}
 ---
-
 Pianist Mayuko Katakura's 2015 album *The Echoes of Three* captures an exciting reunion of old friends whose strong connections and shared history result in a high-level trio session. With plenty of speedy McCoy Tyner angularism and Monkish spontaneity, Katakura spurs the trio on, delivering a great balance of compositional planning with in-the-moment abandon.
 
 The first five tracks are back-to-back originals, starting with the contemplative "Echo" leading into the bouncing "Into Somewhere" (based on the standard "Out Of Nowhere"), the exquisite "A Dancer's Melancholy" (also performed on her 2010 recording Faith), a fiery group improvisation "At The Studio (Reunion)", and the modern "Directions", honoring influences from jazz pianists Mulgrew Miller and Geri Allen.

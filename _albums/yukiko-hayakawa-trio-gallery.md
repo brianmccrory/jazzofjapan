@@ -25,8 +25,3 @@ audio:
 
 Recorded with a live and echoey sound, the trio locks in with opening tracks “Mirage” and “Montmartre” setting up a smoky, laid-back atmosphere which runs through the album. The third tune “Happy Days” lifts the mood lightly with a swingy bounce, then “One Night” flirts with trembly space on a slow ballad. “Horoscope” is a funkier 4/4 tune, “Snow Crystal” drifts around with light delicacy, and the final track “Desier” features Hayakawa playing solo piano on an original showcase theme.
 
-
-
-
-
-

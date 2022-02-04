@@ -33,9 +33,3 @@ In addition, six tracks by Imaizumi and sampler artist Blahmuzik are placed betw
 
 The overall album delivers an exciting variety of moods centered around a modern jazz piano trio with a fun vibe, well-produced, skillfully played, and decorated with stimulating experimentation.
 
-
-
-
-
-
-

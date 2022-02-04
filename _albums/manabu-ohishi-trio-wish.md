@@ -23,6 +23,8 @@ videos:
    - {url: "https://youtu.be/muxhlGhBnIQ", comment: "A different version of Ohishi's song \"Continuous Rain\""}
 audio_embed:
    {filename: "01-Ｉ’ｍ　Ｙｏｕｒｓ.mp3", comment: "Excerpt from the opening track, \"I'm Yours\":"} 
+other_links:
+   - {url: "https://ateliersawano.com/", comment: "Atelier Sawano"}
 ---
 From Osaka-based label Atelier Sawano comes this beautifully-recorded jazz trio recording starring pianist Manabu Ohishi. The label's concept of "hand-made jazz" features jazz music with European touches and a Japanese attention to detail and craftsmanship. On Wish, the music upholds the classic jazz piano trio tradition, evoking lyrical jazz trio recordings such as those from the Bill Evans Trio.
 

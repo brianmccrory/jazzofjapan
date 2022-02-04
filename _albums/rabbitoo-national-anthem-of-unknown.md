@@ -33,4 +33,3 @@ The five-piece group led by guitarist and primary songwriter Motohiko Ichino pro
 
 Definitely not following the typical jazz formula, this beat-centered music with some live jazz improvisation incorporates electronic loops and samples in real-time along with their primary instruments – guitar, sax, keyboards, bass, and drums – modified with echoes, distortion, and other effects. Another clever addition, the Minimoog synthesizer’s characteristic sounds enrich the music greatly with a haunting, retro-futuristic feel, evoking popular songs and suspense movies from the past and strengthening the sensation of this dramatic, mood-pushing music.
 
-

@@ -36,10 +36,3 @@ A bonus track performance of “Danny Boy” is included after the jazz suite as
 
 Awarded the Jazz Japan Award 2019 Album Of The Year for High-Quality Media ([January 2020 issue #114](http://www.jazzjapan.co.jp/vol114.html)).
 
-
-
-
-
-
-
-

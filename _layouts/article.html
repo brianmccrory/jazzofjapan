@@ -67,12 +67,16 @@ Released in {{ page.year }} on {{ page.label | escape }} as {{ page.code | escap
 {% for audio_link in page.audio %}
 <li><a href="{{ audio_link.url }}">{{ audio_link.comment | escape }}</a></li>
 {%- endfor %}
+</ul>
 
+{% if page.other_links %}
+<em>Other links:</em>
+<ul>
 {% for link in page.other_links %}
 <li><a href="{{ link.url }}">{{ link.comment | escape }}</a></li>
 {%- endfor %}
 </ul>
-
+{% endif %}
 
 {% if page.audio_embed and page.audio_embed.filename and page.audio_embed.comment and page.audio_embed.filename != "" and page.audio_embed.comment != "" %}
 {% assign audio_dir = "/assets/audio/" | append: yyyymm_dir %}

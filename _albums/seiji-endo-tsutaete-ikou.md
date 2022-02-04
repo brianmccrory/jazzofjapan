@@ -25,7 +25,6 @@ videos:
 audio_embed:
    {filename: "01-Tsutaete-Ikou.mp3", comment: "Excerpt from the first track on the album:"}
 ---
-
 Inspired by brave, kindhearted students at a benefit concert, musicians Hiroco Nakano, Shinya Nitta, and Seiji Endo created the *Tsutaete Ikou* project to offer support and pay homage to lives taken by the devastating Tohoku earthquake of March 11, 2011.
 
 The resulting heart-warming anthem “Tsutaete Ikou” was dedicated to strengthen the spirit of survivors and help soothe painful memories. The title (meaning to tell, convey) echoes a stone monument at Ishinomaki high school which promises to tell their story forever.

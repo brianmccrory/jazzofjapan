@@ -23,9 +23,3 @@ Seiji Endo, a poet at the piano, plays his original compositions for solo piano 
 
 Through sincerity depicted on the album cover and title, the concept is peace and comfort. Accordingly, Endo's playing is full of emotion: tenderness and sensitivity ring throughout, with some melancholy mixed in, alternately romantic, classical, and soft pop at times. Melodic quotes from his previous album even make appearances. Overall, Endo conveys his personality through his soothing music filled with hope and beauty, calm and peace.
 
-
-
-
-
-
-

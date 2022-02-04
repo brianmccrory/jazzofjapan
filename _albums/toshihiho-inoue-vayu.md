@@ -30,11 +30,11 @@ As Inoue plays through the five songs on this album, the listener is transported
 > ※ Vayu = God of the Wind in Indian mythology. Incorporated into Buddhism, it becomes "Futen" (風天, Wind God).
 >
 > This recording is from a concert held on April 1, 2006, which was held in a rented open garden from a landscaping company in Chofu City.
-> 
+>
 > Initially, it was planned to be held indoors, but Mr. Inoue said himself "The weather is nice, the wind feels good, why don't we do it outside?" Preparations were made hurriedly to move the stage outdoors.
-> 
+>
 > From time to time a strong wind blew, but it was a mild spring day. The chirping of birds, the taking off and landing of airplanes, the creaking of the wood deck, the opening and shutting of doors, and Mr. Inoue's saxophone which wound around like the wind, all seeming to be heard as one piece of music in complete harmony.
-> 
+>
 > This was unearthed from a simple audio recording and certainly not high-quality sound, yet I hope you can feel the warm atmosphere.
-> 
+>
 > We would like to thank everyone who helped us in releasing this. (F.S.L.)

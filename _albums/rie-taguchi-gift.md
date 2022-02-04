@@ -32,5 +32,3 @@ Her sultry voice seems to crack smiles and reminisce on old times as she dips an
 
 The album features delightful arrangements by Seiji Endo along with Taguchi’s pop-oriented originals. The music starts in full swing with a riveting "The Lady is a Tramp", and finishes up the set with a warm "Close to You" followed by the vocalist quietly playing piano and singing her song "Voices".
 
-
-

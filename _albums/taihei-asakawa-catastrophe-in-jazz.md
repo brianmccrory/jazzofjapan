@@ -34,6 +34,3 @@ Enhancing the compositional texture of this album is Asakawa’s use of instrume
 
 With virtuosity and compositional strength on display, the care and attention dedicated here, far from being an accidental catastrophe, results in a musical outpouring of creative modern jazz with high repeat-value listenability.
 
-
-
-

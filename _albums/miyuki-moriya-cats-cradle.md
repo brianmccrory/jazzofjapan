@@ -21,51 +21,32 @@ images:
    - L1200316-1024.jpg
    - L1210517-1024.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "https://youtu.be/kMdpNKz0z-U", comment: ""}
+   - {url: "https://youtu.be/2l8PiP-Ycis", comment: ""}
+   - {url: "https://youtu.be/Du9CvQHpYD0", comment: ""}
 audio_embed:
    {filename: "01-Ｔｕｃｋ　Ｂｏｘ.mp3", comment: "Excerpt from \"Tuck Box\", the first track on this album:"}
 ---
----
-[audio mp3="http://jjazzist.com/wp-content/uploads/2020/02/01-Ｔｕｃｋ　Ｂｏｘ.mp3"][/audio]
-
-<a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200308.jpg"><img class="size-medium wp-image-3137 alignright" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200308-300x277.jpg" alt="" width="300" height="277" /></a>
 
 Miyuki Moriya's *Cat's Cradle* from 2010 is modern jazz album from an alto sax quartet featuring engaging sounds and improvisation from exciting musicians. The allure of this album is deepened by the sax leader's catchy originals, and listeners who are stimulated by angular jazz will be pulled into this music and want to return to these songs again and again.
 
-<a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210508.jpg"><img class="size-medium wp-image-3139 alignright" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210508-300x300.jpg" alt="" width="300" height="300" /></a>
-
-Also distinguishing the sound is the edgy, metallic sound of the alto sax and the funky, crystalline drumming, with stylish planes of piano and guitar and gliding over the deeply full bass lines. Drummer Sohnosuke draws attention with a concentrated hip-hop energy driving the odd-meter songs, and, along with steady bass lines from Ikejiri, keeps the listener anchored even through unusual rhythms beyond standard swing patterns (see Sohnosuke's <a href="http://jjazzist.com/album/sohnosuke-imaizumi-rin/">*Rin* (2018)</a> for similar sounds.)
+Also distinguishing the sound is the edgy, metallic sound of the alto sax and the funky, crystalline drumming, with stylish planes of piano and guitar and gliding over the deeply full bass lines. Drummer Sohnosuke draws attention with a concentrated hip-hop energy driving the odd-meter songs, and, along with steady bass lines from Ikejiri, keeps the listener anchored even through unusual rhythms beyond standard swing patterns (see Sohnosuke's *Rin* (2018) for similar sounds.)
 
 Sharply-crafted jazz with a modern spark particularly identifies Moriya's music, and with "Tuck Box", "Matching Dice", and the title track "Cat's Cradle", the sax player strives for originality by building riffs on challenging, odd-meters over which blistering improvisation can be laid down. These songs, as well as her sunny "Message" and soulful "Existence", hit the bullseye at setting a mood, and are still favorites of Moriya's fans today and often performed at live concerts to welcoming audiences. Balancing the energy are a few ballads as well, including a piano/sax duo on the emotive ballad "Just A Gigolo", a melancholy goodbye wrapping up the album.
 
-<a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200316.jpg"><img class="alignnone size-medium wp-image-3138" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200316-300x191.jpg" alt="" width="300" height="191" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210517.jpg"><img class="alignnone size-medium wp-image-3140" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210517-300x176.jpg" alt="" width="300" height="176" /></a>
-
-Leader: <strong>Miyuki Moriya · 守谷美由貴 · </strong> <a href="https://ameblo.jp/miyukijazz/">https://ameblo.jp/miyukijazz/</a>
+Leader: Miyuki Moriya · 守谷美由貴 · https://ameblo.jp/miyukijazz/
 
 Members:
-<ul>
- 	<li>Miyuki Moriya - alto sax</li>
- 	<li>Mamoru Ishida - piano</li>
- 	<li>Kohei Kamuro - guitar</li>
- 	<li>Hiroshi Ikejiri - bass</li>
- 	<li>Sohnosuke Imaizumi - drums</li>
-</ul>
+
+Miyuki Moriya - alto sax
+Mamoru Ishida - piano
+Kohei Kamuro - guitar
+Hiroshi Ikejiri - bass
+Sohnosuke Imaizumi - drums
+
 Released in 2010 on Coume Music as DQC-565.
 
-&nbsp;
 
-https://youtu.be/kMdpNKz0z-U
 
-&nbsp;
-
-https://youtu.be/2l8PiP-Ycis
-
-&nbsp;
-
-https://youtu.be/Du9CvQHpYD0
-
-&nbsp;
 
 ** Audio sample at top of page from "Tuck Box", the first track on this album.*
-
