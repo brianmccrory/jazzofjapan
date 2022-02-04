@@ -1,5 +1,4 @@
 ---
-featured: true
 date: 2018-02-18
 date_updated: 2022-01-25
 title: Melancholy of a Journey
