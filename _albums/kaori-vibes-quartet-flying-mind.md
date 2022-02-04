@@ -28,11 +28,3 @@ Kaori Vibes Quartet is a jazz quartet centered around the lovely ringing bell-to
 
 The magically mellow yet bright sounds of the vibraphone fill the tracks of this album, bouncing through songs swinging with positivity and charm, creating relaxing, feel-good music. The compositions include foot-tapping modern jazz tunes, two pretty ballads, a soulful groovy number, and a speedy rendition of “Grease Piece” by Horace Silver – a rewarding effort for all fans of jazz vibraphone.
 
-
-
-
-
-
-
-
-

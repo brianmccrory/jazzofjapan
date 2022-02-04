@@ -37,6 +37,3 @@ Exotic musical elements also surface on *Virgo*, as African music inspires the s
 
 Plenty of peaceful space is also offered and balances the energy well, with the tender ballad “Aru Hito No Koto” and two versions of the song “Rain”, an ode to the beauty of wet weather and contemplative moods.
 
-
-
-

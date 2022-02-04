@@ -31,4 +31,3 @@ The quintet consists of strong, like-minded players who play with a polished yet
 
 Closing brilliantly with pianist Hideaki Hori’s upbeat composition “Inspiration”, this album’s positive energy and satisfying sound will surely have listeners inspired to listen again, and to move on to explore more of Hikari Ichihara’s music as well.
 
-

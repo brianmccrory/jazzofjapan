@@ -22,6 +22,8 @@ videos:
    - {url: "https://youtu.be/yISB24JE5J8", comment: "Audio sample from track #4 “Unfolding Universe”, which was awarded third place in the jazz category of the International Songwriters Competition"}
    - {url: "https://youtu.be/bEaAs7MVJwU", comment: "This video contains samples of all the tracks on this album"}
 audio:
+other_links:
+   - {url: "http://akikoikeuchi.silk.to/", comment: "Cover art: Thread sculpture by Akiko Ikeuchi"}
 ---
 Hitomi Nishiyama's 2011 album *Music In You* features an established trio that shares a cohesive sensibility, creating beautiful textural moods with European-flavored jazz influences. As befits a group of skilled jazz musicians, the players breathe as one while creating textures of sound, restrained yet deep with emotion.
 
@@ -33,6 +35,5 @@ All of the compositions on *Music In You* are by Nishiyama, several with novel t
 
 Alongside these are songs with more direct titles, such as “Standing There”, “Pictures”, “Pathos”, and “Just By Thinking Of You”. With the considered imagery of both compositional and title choices on *Music In You*, the musical and literary personality of the accomplished pianist can be further appreciated and understood. Yet words can only go so far. The best way to get the music in you is to listen.
 
-Cover art: Thread sculpture by [Akiko Ikeuchi](http://akikoikeuchi.silk.to/).
 
 

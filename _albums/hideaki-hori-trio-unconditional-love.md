@@ -30,5 +30,3 @@ audio:
 
 The twelve songs include four originals by Hori (the funky “The Shell” and high-energy “Stop & Go” thrill the audience), some classic standards (“Up Jumped Spring”, “I Thought About You”, “My Favorite Things”) and choice modern picks from the likes of Cedar Walton, Keith Jarrett, and John Ellis (his “Bonus Round” is a special treat). Through these carefully chosen pieces, dynamics range from comfortable, mid-tempo swing, to fiery and up-tempo bop. For balance and breathing space, a few pretty ballads are included, including a fascinating version of Keith Jarrett’s “Blossom” which enraptures the club with a musical spell.
 
-
-
