@@ -25,7 +25,7 @@ videos:
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
-   {filename: "05-Slow-Highway.mp3", comment: "Audio clip at top of page is an excerpt from track 5 on this album, \"Slow Highway\":"}
+   {filename: "05-Slow-Highway.mp3", comment: "Excerpt from track 5 on this album, \"Slow Highway\":"}
 ---
 ---
 [audio mp3="http://www.jjazzist.com/wp-content/uploads/2018/06/05-Slow-Highway.mp3"][/audio]

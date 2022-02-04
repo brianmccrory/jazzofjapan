@@ -23,7 +23,7 @@ videos:
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
-   {filename: "11-Under-A-Blanket-Of-Blue.mp3", comment: "Audio clip at top of page from \"Under A Blanket Of Blue\", the 11th track on the album:"}
+   {filename: "11-Under-A-Blanket-Of-Blue.mp3", comment: "Excerpt from \"Under A Blanket Of Blue\", the 11th track on the album:"}
 ---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2019/12/11-Under-A-Blanket-Of-Blue.mp3"][/audio]

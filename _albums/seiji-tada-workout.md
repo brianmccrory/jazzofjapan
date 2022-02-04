@@ -24,7 +24,7 @@ videos:
    - {url: "", comment: ""}
    - {url: "", comment: ""}
 audio_embed:
-   {filename: "01-Workout.mp3", comment: "Audio clip at top of page from \"Workout\", the opening track on this album:"}
+   {filename: "01-Workout.mp3", comment: "Excerpt from \"Workout\", the opening track on this album:"}
 ---
 ---
 [audio mp3="http://jjazzist.com/wp-content/uploads/2020/01/01-Workout.mp3"][/audio]
