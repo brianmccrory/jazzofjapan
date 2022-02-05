@@ -1,6 +1,6 @@
 ---
 date: 2018-03-20
-date_updated:
+date_updated: 2022-02-04
 title: This Is Atomi
 artist: Atomi Hamada
 sort_value: Atomi Hamada This Is Atomi
@@ -18,12 +18,14 @@ images:
    - L1190148-1024.jpg
    - L1190159-1024.jpg
 videos: 
+   - {url: "https://youtu.be/XGP_L8jsxRg", comment: "Excerpt from \"All The Things You Are\", track three on this album"}
    - {url: "https://youtu.be/Okl0bUUC9Z0", comment: "Live performance of \"Ladies in Mercedes\", track four on this album"}
 audio_embed:
    {filename: "03-オール・ザ・シングス・ユー・アー.mp3", comment: "Excerpt from track 3 on this album, \"All The Things You Are\":"}
 ---
-Jazz singer Atomi Hamada releases *This Is Atomi*, a five-track debut featuring songs she loved as jazz instrumental standards. Here, she adds her voice as an instrument, adding a fresh dimension to songs that some listeners may have often heard as instrumental versions.
+
+Jazz singer Atomi Hamada releases *This Is Atomi*, a five-track debut featuring songs she has loved as jazz instrumental standards. Here, using her voice as an instrument, she adds a fresh dimension to songs that some listeners may have heard only instrumentally before.
 
 This is intimate, close-quarters jazz, with piano and bass backing up the vocals for a soft mellow mood.
 
-In a quiet mood, Hamada starts with a wistful "Round Midnight", a relaxed "Speak No Evil", and a cheery "All The Things You Are", continuing with the catchy "Ladies in Mercedes" and a reconstructed "Confirmation", ending on a bebop high.
+Starting with a quiet dynamic, Hamada sings a wistful "Round Midnight" before moving to a relaxed "Speak No Evil" and a cheery "All The Things You Are". She wraps up the five-track album with a catchy "Ladies in Mercedes" and a reconstructed "Confirmation" to close the set on a bebop high.

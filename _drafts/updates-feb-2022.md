@@ -4,9 +4,9 @@ date: 2022-02-01
 tag: update
 ---
 
-1. [Ami Fukui Trio: *New Journey*]({% link _albums/ami-fukui-trio-new-journey.md %}) - TBD
-1. [Atomi Hamada: *This Is Atomi*]({% link _albums/atomi-hamada-this-is-atomi.md %}) - TBD
-1. [Ayumi Koketsu: *Rainbow Tales*]({% link _albums/ayumi-koketsu-rainbow-tales.md %}) - TBD
+1. [Ami Fukui Trio: *New Journey*]({% link _albums/ami-fukui-trio-new-journey.md %}) - Exciting jazz piano trio
+1. [Atomi Hamada: *This Is Atomi*]({% link _albums/atomi-hamada-this-is-atomi.md %}) - Jazz vocals on instrumental tunes
+1. [Ayumi Koketsu: *Rainbow Tales*]({% link _albums/ayumi-koketsu-rainbow-tales.md %}) - Modern bop from a sax quartet
 1. [Bungalow: *Past Life*]({% link _albums/bungalow-past-life.md %}) - TBD
 1. [Hitomi Nishiyama Trio "Parallax": *Live*]({% link _albums/hitomi-nishiyama-trio-parallax-live.md %}) - TBD
 1. [Kaori Vibes Quartet: *Cross Point*]({% link _albums/kaori-vibes-quartet-cross-point.md %}) - TBD

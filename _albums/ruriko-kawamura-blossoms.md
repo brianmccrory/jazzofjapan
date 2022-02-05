@@ -1,5 +1,4 @@
 ---
-featured: true
 date: 2021-10-19
 date_updated: 
 title: Blossoms
