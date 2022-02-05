@@ -24,6 +24,8 @@ videos:
    - {url: "https://youtu.be/H7QlmnVCqMA", comment: "Solo piano version of the song for karaoke"}
 audio_embed:
    {filename: "01-Tsutaete-Ikou.mp3", comment: "Excerpt from the first track on the album:"}
+other_links: 
+   - {url: http://tsutaeteikopj.net/", comment: "The Tsutaete Ikou project website, with piano score and lyrics"}
 ---
 Inspired by brave, kindhearted students at a benefit concert, musicians Hiroco Nakano, Shinya Nitta, and Seiji Endo created the *Tsutaete Ikou* project to offer support and pay homage to lives taken by the devastating Tohoku earthquake of March 11, 2011.
 
@@ -39,7 +41,3 @@ Tracks:
 2. Just Pass It On (English version)
 3. Tsutaete Ikou (solo piano version)
 
-For more information:
-
-* http://tsutaeteikopj.net/ (contains piano score and lyrics)
-* https://www.facebook.com/tsutaeteikopj/
