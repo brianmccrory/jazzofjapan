@@ -20,7 +20,7 @@ images:
    - L1180631x-1024.jpeg
    - L1180632x-1024.jpeg
 videos: 
-   - {url: "https://youtu.be/23zd-3JgmV4", comment: "Video for the song"}
+   - {url: "https://youtu.be/23zd-3JgmV4", comment: "Video for the song \"Tsutaete Ikou\""}
    - {url: "https://youtu.be/H7QlmnVCqMA", comment: "Solo piano version of the song for karaoke"}
 audio_embed:
    {filename: "01-Tsutaete-Ikou.mp3", comment: "Excerpt from the first track on the album:"}
@@ -33,11 +33,4 @@ The resulting heart-warming anthem “Tsutaete Ikou” was dedicated to strength
 
 After disasters, one may feel powerless individually, yet the act of remembering, passing the message on, and coming together with music unites us and supports our spirit.
 
-The CD contains three versions of the song, with proceeds donated to affected disaster areas and educational funds for children.
-
-Tracks:
-
-1. Tsutaete Ikou
-2. Just Pass It On (English version)
-3. Tsutaete Ikou (solo piano version)
-
+The CD contains three versions of the song (the original version, an English version, and a solo piano version), with proceeds donated to affected disaster areas and educational funds for children.

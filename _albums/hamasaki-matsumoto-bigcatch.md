@@ -10,24 +10,22 @@ code: CR-01
 release_note: 
 image: /assets/images/2018/08/hamasaki-matsumoto-bigcatch-460.jpeg
 members:
-   - {name: "Wataru Hamasaki", instrument: "浜崎航", japanese_name: , url: ""}
-   - {name: "Akane Matsumoto", instrument: "松本茜", japanese_name: , url: ""}
-   - {name: "Wataru Hamasaki", instrument: "tenor and soprano sax, flute", japanese_name: , url: ""}
-   - {name: "Akane Matsumoto", instrument: "piano", japanese_name: , url: ""}
-   - {name: "Yasushi Gonjyo", instrument: "bass", japanese_name: , url: ""}
-   - {name: "Tatsuhiko Takeda", instrument: "drums", japanese_name: , url: ""}
-   - {name: "Osamu Hikage", instrument: "bass (#3, 5, 6, 9)", japanese_name: , url: ""}
-   - {name: "Kazuyoshi Kuroda", instrument: "drums (#3, 5, 6, 9)", japanese_name: , url: ""}
-   - {name: "Ryosuke Asai", instrument: "alto sax (#6)", japanese_name: , url: ""}
+   - {name: "Wataru Hamasaki", instrument: "tenor and soprano sax, flute", japanese_name: 浜崎航, url: "http://www.watarujazz.com"}
+   - {name: "Akane Matsumoto", instrument: "piano", japanese_name: 松本茜, url: "http://akanejazz.com"}   
+   - {name: "Yasushi Gonjyo", instrument: "bass", japanese_name: 権上康志, url: ""}
+   - {name: "Tatsuhiko Takeda", instrument: "drums", japanese_name: 竹田達彦, url: ""}
+   - {name: "Osamu Hikage", instrument: "bass (#3, 5, 6, 9)", japanese_name: 日景修, url: ""}
+   - {name: "Kazuyoshi Kuroda", instrument: "drums (#3, 5, 6, 9)", japanese_name: 黒田和良, url: ""}
+   - {name: "Ryosuke Asai", instrument: "alto sax (#6)", japanese_name: 浅井良将, url: ""}
 images: 
    - L1210131-1024.jpg
    - L1210133-1024.jpg
-   - L1210142-1024.jpg
    - L1210140-1024.jpg
+   - L1210142-1024.jpg
    - L1210144-1024.jpg
    - IMG_20150318_161744-1024.jpg
 videos: 
-   - {url: "https://youtu.be/q-TOrjegB_o", comment: ""}
+   - {url: "https://youtu.be/q-TOrjegB_o", comment: "Music from the album \"Big Catch\""}
 audio_embed:
    {filename: "01-BIG-CATCH.mp3", comment: "Excerpt from \"Big Catch\", the first song on the album:"}
 ---
@@ -41,23 +39,3 @@ With 11 tracks of mostly original songs and several jazz covers, the sound runs 
 While most of the tracks feature tenor sax, Hamasaki also adds color with soprano sax and flute, expertly played. On two tracks, Matsumoto takes center stage in piano trio format, on a straight-ahead version of "Love Letter" and her crowd-pleasing original tune "JJ", putting her impressive Phineas Newborn Jr./Oscar Peterson-like piano dexterity on full display.
 
 Cover art by Akane Matsumoto (*dig those Big Catch big cats having a ball on the cover: "Swinging Soooo Hard!"*).
-
-Leaders:
-
-Wataru Hamasaki · 浜崎航
-Akane Matsumoto · 松本茜
-
-Members:
-
-Wataru Hamasaki - tenor and soprano sax, flute
-Akane Matsumoto - piano
-Yasushi Gonjyo - bass
-Tatsuhiko Takeda - drums
-Osamu Hikage - bass (#3, 5, 6, 9)
-Kazuyoshi Kuroda - drums (#3, 5, 6, 9)
-Ryosuke Asai - alto sax (#6)
-
-Released in 2013 on Concept Records as CR-01.
-
-
-** Audio sample at top of page from "Big Catch", the first song on the album.*

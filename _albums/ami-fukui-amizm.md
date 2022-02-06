@@ -18,8 +18,8 @@ images:
    - L1200250-1024.jpg
    - L1200252-1024.jpg
 videos: 
-   - {url: "https://youtu.be/9obnJDFNu-A?t=39", comment: "Preview for a live performance"}
-   - {url: "https://youtu.be/BObrGkxHSbo", comment: "Live performance"}
+   - {url: "https://youtu.be/9obnJDFNu-A?t=39", comment: "Preview of a live performance for Sound Olympic"}
+   - {url: "https://youtu.be/BObrGkxHSbo", comment: "Live performance for Sound Olympic"}
 audio_embed:
    {filename: "04-Absinthe.mp3", comment: "Excerpt from \"Absinthe\", track 4 on this album:"}
 ---
