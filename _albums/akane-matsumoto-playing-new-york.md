@@ -32,6 +32,3 @@ Her impressive dexterity and jazz proficiency is apparent right from the opening
 
 At medium tempos, Matsumoto's relaxed rhythmic sense is unerringly charming, playing with a solid, feel-good groove and tangible pulse from the trio. With another tip of the hat to the legendary Phineas, this groovy feeling is especially strong on Horace Silver's "Juicy Lucy", where the youthful pianist swings with bluesy flair and decorative gospel touches.
 
-
-
-

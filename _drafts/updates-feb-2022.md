@@ -15,27 +15,32 @@ Updated:
 
 Added as-is / Imported and fixedup:
 
+1. [Akane Matsumoto: *Playing New York*]({% link _albums/akane-matsumoto-playing-new-york.md %})
 1. [Akihiko Yoshimoto Quartet: *Moving Color*]({% link _albums/akihiro-yoshimoto-quartet-moving-color.md %}) - TBD
 1. [Ami Fukui: *Amizm*]({% link _albums/ami-fukui-amizm.md %})
+1. [Blue Dot: *Halo*]({% link _albums/blue-dot-halo.md %})
 1. [Fumie Chiba Trio: *Tip of Dream*]({% link _albums/fumie-chiba-trio-tip-of-dream.md %})
 1. [Ken'ichiro Shinzawa: *Piano Works*]({% link _albums/kenichiro-shinzawa-piano-works.md %}) - TBD
 1. [Ko Omura: *Introspect*]({% link _albums/ko-omura-introspect.md %}) - 
 1. [Koichi Sata: *Utopia*]({% link _albums/koichi-sato-utopia.md %}) - 
 1. [Maki Fujimura: *Best Wishes*]({% link _albums/maki-fujimura-best-wishes.md %})
 1. [Manabu Ohishi Trio: *Wish*]({% link _albums/manabu-ohishi-trio-wish.md %}) - TBD
+1. [Masako Kunisada: *M*]({% link _albums/masako-kunisada-m.md %})
 1. [Mayuko Katakura: *The Echoes of Three*]({% link _albums/mayuko-katakura-echoes-of-three.md %}) - TBD
 1. [Meu Coracao: *A Tempo*]({% link _albums/meu-coracao-a-tempo.md %}) - Brazian duo in full-band setting
+1. [Ryosuke Hashizume Group: *Visible/Invisible*]({% link _albums/ryosuke-hashizume-group-visible-invisible.md %})
 1. [Sanae Ishikawa: *Feel Like Makin' Love*]({% link _albums/sanae-ishikawa-feel-like-makin-love.md %}) - TBD
 1. [Sayaketts: *Colors*]({% link _albums/sayaketts-colors.md %})
 1. [Seiji Endo: *Sakura Meditation*]({% link _albums/seiji-endo-sakura-meditation.md %})
 1. [Seiji Endo: *Tsutaete Ikou*]({% link _albums/seiji-endo-tsutaete-ikou.md %}) - Tohoku earthquake benefit mini-album
+1. [Shinpei Ruike & George Nakajima: *N.40°*]({% link _albums/shinpei-ruike-george-nakajima-n40.md %})
 1. [Takako Yamada: *The Flow of Time*]({% link _albums/takako-yamada-flow-of-time.md %}) - TBD
 1. [Taihei Asakawa: *Waltz for Debby*]({% link _albums/taihei-asakawa-waltz-for-debby.md %})
 1. [Tomoka Miwa: *Colors in Silence*]({% link _albums/tomoka-miwa-colors.md %}) - vocal jazz recorded live
 1. [Wataru Hamasaki Meets Akane Matsumoto Trio: *Big Catch*]({% link _albums/hamasaki-matsumoto-bigcatch.md %}) - TBD
 1. [Yasumasa Kumagai: *I Need A Change, Too*]({% link _albums/yasumasa-kumagai-i-need-a-change-too.md %}) -
 1. [Yuya Wakai: *Images*]({% link _albums/yuya-wakai-images.md %}) -
-
+1. [Zephyr: *Zephyr*]({% link _albums/zephyr-zephyr.md %})
 
 {% comment %}
 

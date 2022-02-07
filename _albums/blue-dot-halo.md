@@ -21,7 +21,7 @@ images:
    - L1220157-1024.jpg
    - L1220160-1024.jpg
 videos: 
-   - {url: "https://youtu.be/O0_aFlO6s4A", comment: "Introducing Blue Dot"}
+   - {url: "https://youtu.be/O0_aFlO6s4A", comment: "Promotional video to introduce Blue Dot"}
 audio_embed:
    {filename: "01-Sturm-Und-Drang.mp3", comment: "Excerpt from \"Sturm und Drang\", the opening track on this album:"}
 other_links:
