@@ -7,21 +7,21 @@ sort_value: Masako Kunisada Wonderful Life
 year: 2012
 label: Urban Jazz
 code: 151A-0005
-release_note: 
+release_note: Rereleased in 2020 on Owl Wing Record.
 image: /assets/images/2020/09/masakokunisada-wonderful-460.jpeg
 members:
-   - {name: "Masako Kunisada 国貞雅子", instrument: "vocal", japanese_name: , url: ""}
-   - {name: "Shigeru Morishita 森下滋", instrument: "piano, Rhodes piano, Hammond organ (#1-6, 8-12)", japanese_name: , url: ""}
-   - {name: "Ryo Ogihara 荻原亮", instrument: "electric guitar (#1-3, 7, 10)", japanese_name: , url: ""}
-   - {name: "Shinichi Sato 佐藤慎一", instrument: "acoustic bass, electric bass", japanese_name: , url: ""}
-   - {name: "Manabu Fujii 藤井学", instrument: "drums (tr. 1-6, 8-11)", japanese_name: , url: ""}
+   - {name: "Masako Kunisada", instrument: "vocal", japanese_name: 国貞雅子, url: "https://machappa.wixsite.com/masakokunisada"}
+   - {name: "Shigeru Morishita", instrument: "piano, Rhodes piano, Hammond organ (#1-6, 8-12)", japanese_name: 森下滋, url: "http://gerushi.com/"}
+   - {name: "Ryo Ogihara", instrument: "electric guitar (#1-3, 7, 10)", japanese_name: "荻原亮", url: "http://www.ryoogihara.com/"}
+   - {name: "Shinichi Sato", instrument: "acoustic bass, electric bass", japanese_name: 佐藤慎一, url: "http://www.shinichibass.com/"}
+   - {name: "Manabu Fujii", instrument: "drums (tr. 1-6, 8-11)", japanese_name: 藤井学, url: "http://manabu-fujii.com/"}
 images: 
    - L1200960-1024.jpg
    - L1200962-1024.jpg
-   - L1200968-1024.jpg
    - L1200966-1024.jpg
+   - L1200968-1024.jpg
 videos: 
-   - {url: "https://youtu.be/awL_5LXeMeI", comment: "TBD"}
+   - {url: "https://youtu.be/awL_5LXeMeI", comment: "Promotional video for this album"}
 audio_embed:
    {filename: "08-For-All-We-Know.mp3", comment: "Excerpt from \"For All We Know\", the eighth track on this album:"}
 other_links:
@@ -43,20 +43,3 @@ Also included are covers of "Louisiana Sunday Afternoon", "Loving You Was Like A
 Closing the album is the singer's second original tune on this album, "I'm Moving On", a soulful gospel number. Among her accolades are the featuring of this moving song during 2012 and 2016 Olympic ballet events, as well as her performing in 2018 with the Dave Grusin's Big Band for the Leonard Bernstein's 100th Anniversary "West Side Story" Performance National Tour in Japan, where she sang the classic Bernstein showtune "Tonight" to great acclaim.
 
 Altogether this accessible album emits good vibrations and positive energy, shining like a warm light from Masako Kunisada's tangibly captivating vocals.
-
-Leader: Masako Kunisada · 国貞雅子 · https://machappa.wixsite.com/masakokunisada
-
-Members:
-
-Masako Kunisada 国貞雅子 – vocal
-Shigeru Morishita 森下滋 - piano, Rhodes piano, Hammond organ (#1-6, 8-12)
-Ryo Ogihara 荻原亮 - electric guitar (#1-3, 7, 10)
-Shinichi Sato 佐藤慎一 - acoustic bass, electric bass
-Manabu Fujii 藤井学 - drums (tr. 1-6, 8-11)
-
-Released in 2012 on Urban Jazz as 151A-0005.
-
-Rereleased in 2020 on Owl Wing Record.
-
-
-Excerpt from "For All We Know", the eighth track on this album

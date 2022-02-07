@@ -6,16 +6,16 @@ artist: Yuka Ueda
 sort_value: Yuka Ueda Dois
 year: 2013
 label: Audio Fab Records
-code: <a href="https://www
+code: AFD-110
 release_note: 
 image: /assets/images/2021/02/yukaueda-dois-460.jpeg
 members:
-   - {name: "Yuka Ueda 上田裕香", instrument: "vocal", japanese_name: , url: ""}
-   - {name: "Junichiro Ohkuchi 大口純一郎", instrument: "piano", japanese_name: , url: ""}
-   - {name: "Ryoji Orihara 織原良次", instrument: "electric fretless bass", japanese_name: , url: ""}
-   - {name: "Nobuyuki Komatsu 小松伸之", instrument: "drums", japanese_name: , url: ""}
-   - {name: "Shinji Hashimoto 橋本信二", instrument: "electric guitar (#1, 5, 7)", japanese_name: , url: ""}
-   - {name: "Jo Da Babylonia", instrument: "ョー・ダ・バビロニア - cavaquinho (#1, 8, 9)", japanese_name: , url: ""}
+   - {name: "Yuka Ueda", instrument: "vocal", japanese_name: 上田裕香, url: "http://yuuka-agora.com/wp/"}
+   - {name: "Junichiro Ohkuchi", instrument: "piano", japanese_name: 大口純一郎, url: "https://pianistjohkuchi.blogspot.com/"}
+   - {name: "Ryoji Orihara", instrument: "electric fretless bass", japanese_name: 織原良次, url: "https://www.ryojiorihara.com/"}
+   - {name: "Nobuyuki Komatsu", instrument: "drums", japanese_name: 小松伸之, url: "http://nobuyukikoma2.web.fc2.com/"}
+   - {name: "Shinji Hashimoto", instrument: "electric guitar (#1, 5, 7)", japanese_name: 橋本信二, url: "https://session67.jp/interview/05/"}   
+   - {name: "Jo da Babylonia", instrument: "cavaquinho (#1, 8, 9)", japanese_name: ジョー・ダ・バビロニア, url: "http://jobaby.jp/"}
 images: 
    - L1210448-1024.jpg
    - L1210454-1024.jpg
@@ -24,8 +24,8 @@ images:
    - L1210473-1024.jpg
    - L1110657-1024.jpg
 videos: 
-   - {url: "https://youtu.be/iHTm_rlRAn0", comment: "TBD"}
-   - {url: "https://youtu.be/2MHUgYgV4uE", comment: "TBD"}
+   - {url: "https://youtu.be/iHTm_rlRAn0", comment: "Yuka Ueda performing live in 2015"}
+   - {url: "https://youtu.be/2MHUgYgV4uE", comment: "Yuka Ueda performing live in 2018"}
 audio_embed:
    {filename: "01-Meu-Escudo.mp3", comment: "Excerpt from \"Meu Escudo\", the first track on this album:"}
 ---
@@ -36,19 +36,3 @@ Guiding the music is the full voice of the vocalist Ueda, singing in Portuguese 
 
 As with her debut album *Agora*, the singer is supported by her familiar guitar and piano mates Shinji Hashimoto and Junichiro Ohkuchi. For *Dois*, she adds bassist Ryoji Orihara and drummer Nobuyuki Komatsu to the rhythm section for extra vigor and irresistible samba beats, experts at creating the rhythmic currents that soothe, pulse, and energize. Guest Jo Da Babylonia also joins on cavaquinho on three tracks, adding a classical guitar/ukelele sound which enhances the Brazilian sound with keen, invigorating vibrations.
 
-Leader: Yuka Ueda · 上田裕香 · http://yuuka-agora.com/wp/
-
-Members:
-
-Yuka Ueda 上田裕香 - vocal
-Junichiro Ohkuchi 大口純一郎 - piano
-Ryoji Orihara 織原良次 - electric fretless bass
-Nobuyuki Komatsu 小松伸之 - drums
-Shinji Hashimoto 橋本信二 - electric guitar (#1, 5, 7)
-Jo Da Babylonia ジョー・ダ・バビロニア - cavaquinho (#1, 8, 9)
-
-Released in 2013 on Audio Fab Records as AFD-110.
-
-
-
-Excerpt from "Meu Escudo", the first track on this album

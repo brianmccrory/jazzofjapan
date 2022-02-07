@@ -10,8 +10,8 @@ code: DNCD-13
 release_note: 
 image: /assets/images/2020/11/tcq-memoriesoft-460.jpeg
 members:
-   - {name: Shawna Yang, instrument: "alto sax", japanese_name: 楊曉恩, url: "http://www.jazzinvention.com/"}
-   - {name: Naoko Tanaka, instrument: "piano", japanese_name: 田中菜緒子, url: "http://tanakanaoko.com"}
+   - {name: Shawna Yang, instrument: "alto sax", japanese_name: , url: "https://antiguawinds.com/artists/shawna-yang/"}
+   - {name: Naoko Tanaka, instrument: "piano", japanese_name: 田中菜緒子, url: "http://tanakanaoko.com/"}
    - {name: Daiki Yasukagawa, instrument: "bass", japanese_name: 安ヵ川大樹, url: "http://daikiyasukagawa.com/"}
    - {name: Takeshi Sakamoto, instrument: "drums",  japanese_name: 坂本健志, url: "https://www.facebook.com/takeshidrums/"}
 images: 
@@ -27,8 +27,8 @@ images:
    - L1220869-1024.jpg
    - L1220870-1024.jpg
 videos: 
-   - {url: "https://youtu.be/m1nElWd4VJA", comment: "TBD"}
-   - {url: "https://youtu.be/tfrg3oOZMpM", comment: "TBD"}
+   - {url: "https://youtu.be/m1nElWd4VJA", comment: "Promotional video of \"Tokyo Image\" for this album "}
+   - {url: "https://youtu.be/tfrg3oOZMpM", comment: "Promotional video of \"Memories of T\" for this album"}
 audio_embed:
    {filename: "02-G　Island.mp3", comment: "Excerpt from \"G Island\", the second track on this album:"}
 ---
@@ -38,16 +38,3 @@ audio_embed:
 Although the album was released under the TCQ (Twin City Quartet) name, drummer Takeshi Sakamoto bridges the twin cities as leader and founder of this group. Originally from Japan, he studied in New York before moving to Taipei, Taiwan, where he continued to play jazz locally as well as on tours through Asia. It was in Taipei where he worked with the acclaimed jazz saxophonist Shawna Yang (a Berklee College of Music graduate), gaining insights into the parallels of the jazz scenes in each city. Sakamoto was inspired to record this record to promote the jazz cities' alliance together with Yang and the Tokyo musicians, strengthening the bonds between Taiwan and Japan with this debut recording.
 
 Sakamoto also provides a special essay in the liner notes with background information, where he notes the "*T*" of both "TCQ" and "Memories of T" being used to represent the *T*win cities of *T*okyo and *T*aipei.
-
-TCQ:
-
-Shawna Yang - 楊曉恩 - alto sax
-Naoko Tanaka - 田中菜緒子 - piano
-Daiki Yasukagawa - 安ヵ川大樹 - bass
-Takeshi Sakamoto - 坂本健志 - drums
-
-Released in 2017 on D-neo Daiki Musica as DNCD-13.
-
-
-
-Excerpt from "G Island", the second track on this album

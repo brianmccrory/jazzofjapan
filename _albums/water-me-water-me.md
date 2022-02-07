@@ -11,7 +11,7 @@ release_note:
 image: /assets/images/2021/02/waterme-waterme-460.jpeg
 members:
    - {name: "Ayako Taira", instrument: "vocal", japanese_name: 平良亜矢子, url: "https://blog.goo.ne.jp/tairaayako"}
-   - {name: "Noriko Kotani", instrument: "vocal", japanese_name: 小谷のりこ, url: "https://norikokotani.amebaownd.com"}
+   - {name: "Noriko Kotani", instrument: "vocal", japanese_name: 小谷のりこ, url: "https://norikokotani.amebaownd.com/"}
    - {name: "Norihiko Kawakubo", instrument: "piano", japanese_name: 川久保典彦, url: ""}
    - {name: "Yohei Tanaka", instrument: "bass", japanese_name: 田中洋平, url: ""}
    - {name: "Tomohiro Ota", instrument: "drums", japanese_name: 大田智洋, url: ""}
@@ -22,7 +22,7 @@ images:
    - L1210593-1024.jpg
    - IMG_20150118_175116-1024.jpg
 videos: 
-   - {url: "https://youtu.be/lxUNjeSn190", comment: "TBD"}
+   - {url: "https://youtu.be/lxUNjeSn190", comment: "Excerpt from \"Moon River\", track eleven on this album"}
 audio_embed:
    {filename: "01-Satin-Doll.mp3", comment: "Excerpt from \"Satin Doll\", the first track on this album:"}
 ---
@@ -32,17 +32,3 @@ Inspiring contrasts like strong and warm, comforting and demanding, smoky and si
 Although the opening interpretation "Satin Doll" hints at jazz with an aggressive edge, the balance of the music shifts into standard jazz with some pop and ballads included. Whatever the setting, the music spotlights the two vocalists harmonizing and embellishing the melody lines, at times hand in hand, and at others passing the baton with grace and finesse.
 
 Along with jazz swing, the album also features bossa on "The Girl From Ipanema", ballad breathiness on "The Nearness of You", a mysterious "Night in Tunisia" and striking "Moon River", sultry pop sensitivity on "Feel Like Makin' Love" and "Will You Still Love Me Tomorrow", among other reinventions. One original pop tune, "The Night's Gale", is also included, laying down a nice groove with Japanese lyrics.
-
-Water Me!
-
-Members:
-
-Ayako Taira 平良亜矢子 - vocal
-Noriko Kotani 小谷のりこ - vocal
-Norihiko Kawakubo 川久保典彦 - piano
-Yohei Tanaka 田中洋平 - bass
-Tomohiro Ota 大田智洋 - drums
-
-Released in 2014 on Sunmoon Music as SMCD-0005.
-
-Excerpt from "Satin Doll", the first track on this album
