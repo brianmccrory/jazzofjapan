@@ -12,21 +12,11 @@ image: /assets/images/J-shaded.jpg
 
 ---
 
+{% comment %}
 # Upcoming
 
-1. Bungalow: *Past Life*
-1. Hitomi Nishiyama Trio "Parallax": *Live*
-1. Kaori Vibes Quartet: *Cross Point*
-1. Ken'ichiro Shinzawa: *Piano Works*
-1. Manabu Ohishi Trio: *Wish*
-1. Mayuko Katakura: *The Echoes of Three*
-1. Meu Coracao: *A Tempo*
-1. Sanae Ishikawa: *Feel Like Makin' Love*
-1. Seiji Endo: *Tsutaete Ikou*
-1. Tomoka Miwa: *Colors in Silence*
-1. Yuya Wakai: *Images*
-
-
 ---
+{% endcomment %}
+
 
 *Looking for specific musicians, albums, or other terms? [Search this site]({% link search.md %})*
