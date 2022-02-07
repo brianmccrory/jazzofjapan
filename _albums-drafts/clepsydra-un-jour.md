@@ -19,8 +19,8 @@ images:
    - L1200832.jpg
    - L1200837.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/12/L1200833.jpg"><img class="size-medium wp-image-3182 alignright" src="http://www.jjazzist.com/wp-content/uploads/2018/12/L1200833-300x300.jpg" alt="" width="300" height="300" /></a>asfdasdf
 

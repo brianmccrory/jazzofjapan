@@ -18,8 +18,8 @@ images:
    - L1180980-1024.jpg
    - L1180985-1024.jpg
 videos: 
-   - {url: "https://youtu.be/z8daMj5bF78", comment: "Excerpt from \"No Blues\", the fourth track on the album"}
-   - {url: "https://youtu.be/-wUwJnLzUtk", comment: "Audio from the first track on the album, \"Blues For Tyner\""}
+   - {url: "https://youtu.be/z8daMj5bF78", comment: "Excerpt from \"No Blues\", the fourth track on this album"}
+   - {url: "https://youtu.be/-wUwJnLzUtk", comment: "Audio from the first track on this album, \"Blues For Tyner\""}
    - {url: "https://youtu.be/O3V34fItd8Y", comment: "Live performance with Mayuko Katakura playing \"Linden Blvd\" with the Kiyoshi Kitakawa trio"}
 ---
 Pianist Mayuko Katakura’s 2009 debut album *Inspiration* immediately impresses. The album kicks off at a rapid pace with "Blues For Tyner", a tribute to one of her jazz inspirations pianist McCoy Tyner. Right from this fierce opening, Katakura’s amazing technique is on full display with angular, acrobatic lines flying through this up-tempo tune.

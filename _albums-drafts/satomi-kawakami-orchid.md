@@ -20,8 +20,8 @@ images:
    - L1200365.jpg
    - L1200366.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200359.jpg"><img class="alignnone size-medium wp-image-3793" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200359-300x282.jpg" alt="" width="300" height="282" /></a>
 

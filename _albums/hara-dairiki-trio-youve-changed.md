@@ -18,7 +18,7 @@ images:
    - L1200161-1024.jpg
    - L1110985-1024.jpg
 videos: 
-   - {url: "https://youtu.be/rsSNozFHs9o", comment: "Audio sample from “Four In One”, the opening track on this album"}
+   - {url: "https://youtu.be/rsSNozFHs9o", comment: "Excerpt from “Four In One”, the opening track on this album"}
    - {url: "https://youtu.be/ZNpKR9WaT8o", comment: "A performance of the Hara Dairiki Trio playing live in Tokyo in 2009"}
 audio:
 ---

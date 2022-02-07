@@ -20,8 +20,8 @@ images:
    - L1210050.jpg
    - L1210061.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210044.jpg"><img class="alignnone size-medium wp-image-3500" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210044-288x300.jpg" alt="" width="288" height="300" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210048.jpg"><img class="alignnone size-medium wp-image-3501" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210048-297x300.jpg" alt="" width="297" height="300" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210050.jpg"><img class="alignnone size-medium wp-image-3502" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210050-300x179.jpg" alt="" width="300" height="179" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210061.jpg"><img class="alignnone size-medium wp-image-3503" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210061-300x153.jpg" alt="" width="300" height="153" /></a>
 

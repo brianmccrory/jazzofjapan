@@ -18,7 +18,7 @@ images:
    - L1180456-1024.jpg
    - L1180457-1024.jpg
 videos: 
-   - {url: "https://youtu.be/chQ9pIBtmI8", comment: "Audio sample from “Cool Bunny”, which opens the album"}
+   - {url: "https://youtu.be/chQ9pIBtmI8", comment: "Excerpt from “Cool Bunny”, which opens the album"}
 audio:
 ---
 

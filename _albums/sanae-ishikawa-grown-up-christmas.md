@@ -20,7 +20,7 @@ images:
    - L1220034-1024.jpg
    - L1220036-1024.jpg
 videos: 
-   - {url: "https://youtu.be/amOYp-R25dM", comment: "Audio sample from the first track on the album, “Christmas Medley”"}
+   - {url: "https://youtu.be/amOYp-R25dM", comment: "Excerpt from the first track on this album, “Christmas Medley”"}
 ---
 Enterprising singer Sanae Ishikawa presents us with her passionate voice on *Grown-up Christmas Gift* from 2018, a mini-album celebrating classic and modern Christmas songs in a jazz and pop setting. As part of her successful Seasonal Japanese Songbook Project crowdfunding, the popular singer released this album along with her full-length album *冬-Winter-* to great anticipation, just in time for the Christmas season that year. *春-Spring-* (2019) and *夏-Summer-* (2020) have also been released in this jazzy J-pop series, with a hope of seeing *秋-Autumn-* in the not-too-distant future.
 

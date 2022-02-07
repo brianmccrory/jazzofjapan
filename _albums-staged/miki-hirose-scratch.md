@@ -23,7 +23,7 @@ images:
    - L1200661-1024.jpg
    - IMG_20150324_123553-1024.jpg
 videos: 
-   - {url: "https://youtu.be/1kizkvPJKAY", comment: ""}
+   - {url: "https://youtu.be/1kizkvPJKAY", comment: "TBD"}
 audio_embed:
    {filename: "01-スクラッチ.mp3", comment: "Excerpt from \"Scratch\", the first track on this album:"}
 ---
@@ -44,4 +44,4 @@ Mauricio Herrera - congas (#1, 3, 4)
 Released in 2013 on Jazz Lab Records as JLR-1301.
 
 
-** Audio sample at top of page from "Scratch", the first track on this album.*
+Excerpt from "Scratch", the first track on this album

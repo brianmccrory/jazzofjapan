@@ -22,8 +22,8 @@ images:
    - L1220246.jpg
    - L1220247.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 Content introduction
 

@@ -19,7 +19,7 @@ images:
    - L1210527-1024.jpg
    - hideakihori-liveatnardis-live-1024.jpeg
 videos: 
-   - {url: "https://youtu.be/7Lvs6oQcOVI", comment: "Audio sample from the classic jazz standard “Our Love Is Here To Stay”, the third track on this album"}
+   - {url: "https://youtu.be/7Lvs6oQcOVI", comment: "Excerpt from the classic jazz standard “Our Love Is Here To Stay”, the third track on this album"}
    - {url: "https://youtu.be/m25AekU_0Q8", comment: "Another track from this album, John Ellis’s “Bonus Round”"}
    - {url: "https://youtu.be/bvpbKSbeEhk", comment: "Another track from this album, the jazz standard “Up Jumped Spring”"}
 audio:

@@ -24,8 +24,8 @@ images:
    - L1210473-1024.jpg
    - L1110657-1024.jpg
 videos: 
-   - {url: "https://youtu.be/iHTm_rlRAn0", comment: ""}
-   - {url: "https://youtu.be/2MHUgYgV4uE", comment: ""}
+   - {url: "https://youtu.be/iHTm_rlRAn0", comment: "TBD"}
+   - {url: "https://youtu.be/2MHUgYgV4uE", comment: "TBD"}
 audio_embed:
    {filename: "01-Meu-Escudo.mp3", comment: "Excerpt from \"Meu Escudo\", the first track on this album:"}
 ---
@@ -51,4 +51,4 @@ Released in 2013 on Audio Fab Records as AFD-110.
 
 
 
-** Audio sample at top of page from "Meu Escudo", the first track on this album.*
+Excerpt from "Meu Escudo", the first track on this album

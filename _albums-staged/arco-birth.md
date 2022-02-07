@@ -21,7 +21,7 @@ images:
 videos: 
    - {url: "https://youtu.be/NCsYA0F41S4", comment: "Live performance from Arco"}
 audio_embed:
-   {filename: "03-Fiesta.mp3", comment: "Excerpt from \"Fiesta\", the third track on the album:"}
+   {filename: "03-Fiesta.mp3", comment: "Excerpt from \"Fiesta\", the third track on this album:"}
 ---
 The piano and cello duo Arco released their second album *Birth* in 2019, two years after their debut *Asymmetry*, showing grace and refinement in a matured and eternally sunny outlook.
 

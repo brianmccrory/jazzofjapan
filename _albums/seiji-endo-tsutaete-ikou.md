@@ -23,7 +23,7 @@ videos:
    - {url: "https://youtu.be/23zd-3JgmV4", comment: "Video for the song \"Tsutaete Ikou\""}
    - {url: "https://youtu.be/H7QlmnVCqMA", comment: "Solo piano version of the song for karaoke"}
 audio_embed:
-   {filename: "01-Tsutaete-Ikou.mp3", comment: "Excerpt from the first track on the album:"}
+   {filename: "01-Tsutaete-Ikou.mp3", comment: "Excerpt from the first track on this album:"}
 other_links: 
    - {url: http://tsutaeteikopj.net/", comment: "The Tsutaete Ikou project website, with piano score and lyrics"}
 ---

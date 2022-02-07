@@ -20,8 +20,8 @@ images:
    - L1200673.jpg
    - L1200678.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200668.jpg"><img class="alignnone size-medium wp-image-3634" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200668-300x283.jpg" alt="" width="300" height="283" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200672.jpg"><img class="alignnone size-medium wp-image-3635" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200672-300x291.jpg" alt="" width="300" height="291" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200673.jpg"><img class="alignnone size-medium wp-image-3636" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200673-300x195.jpg" alt="" width="300" height="195" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200678.jpg"><img class="alignnone size-medium wp-image-3637" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200678-300x173.jpg" alt="" width="300" height="173" /></a>Leader: Fumio Karashima
 

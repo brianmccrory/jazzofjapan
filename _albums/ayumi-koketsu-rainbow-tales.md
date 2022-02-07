@@ -24,7 +24,7 @@ videos:
    - {url: "https://youtu.be/nimLiOrT4-0", comment: "Ayumi Koketsu performs her song \"Near The Clouds\" in a duo setting with guitar"}
 audio:
 audio_embed: 
-   {filename: "01-ウィズ・メイ.mp3", comment: "Audio sample from \"With May\", the first track on this album:"}
+   {filename: "01-ウィズ・メイ.mp3", comment: "Excerpt from \"With May\", the first track on this album:"}
 ---
 Saxophonist Ayumi Koketsu creates exciting modern jazz on her third album *Rainbow Tales* from 2012, where she leads of group of accomplished Norwegian musicians on a modern-sounding recording.
 

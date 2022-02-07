@@ -21,8 +21,8 @@ images:
    - L1200473.jpg
    - IMG_20150128_151155.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200463.jpg"><img class="alignnone size-medium wp-image-3619" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200463-300x265.jpg" alt="" width="300" height="265" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200465.jpg"><img class="alignnone size-medium wp-image-3620" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200465-300x265.jpg" alt="" width="300" height="265" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200467.jpg"><img class="alignnone size-medium wp-image-3621" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200467-300x190.jpg" alt="" width="300" height="190" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200473.jpg"><img class="alignnone size-medium wp-image-3622" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200473-300x125.jpg" alt="" width="300" height="125" /></a>
 

@@ -19,7 +19,7 @@ images:
    - L1210069-1024.JPG
    - L1210072-1024.JPG
 videos: 
-   - {url: "https://youtu.be/yISB24JE5J8", comment: "Audio sample from track #4 “Unfolding Universe”, which was awarded third place in the jazz category of the International Songwriters Competition"}
+   - {url: "https://youtu.be/yISB24JE5J8", comment: "Excerpt from track #4 “Unfolding Universe”, which was awarded third place in the jazz category of the International Songwriters Competition"}
    - {url: "https://youtu.be/bEaAs7MVJwU", comment: "This video contains samples of all the tracks on this album"}
 audio:
 other_links:

@@ -21,8 +21,8 @@ images:
    - L1200776.jpg
    - L1120116.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 ---cut below
 
@@ -73,4 +73,4 @@ https://youtu.be/YdqZfTMMO1E
 
 &nbsp;
 
-** Audio sample at top of page from "...", the ...track on the album.*
+Excerpt from "...", the ...track on this album

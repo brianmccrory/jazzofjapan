@@ -17,7 +17,7 @@ images:
    - L1200557-1024.jpg
    - L1200564-1024.jpg
 videos: 
-   - {url: "https://youtu.be/DZo0ED06sAo", comment: "Audio sample from “JB’s Poem”, the first track on the album"}
+   - {url: "https://youtu.be/DZo0ED06sAo", comment: "Excerpt from “JB’s Poem”, the first track on this album"}
    - {url: "https://youtu.be/92l3SdCSd30", comment: "Another video from Yoshihito “P” Koizumi"}
 audio:
 ---

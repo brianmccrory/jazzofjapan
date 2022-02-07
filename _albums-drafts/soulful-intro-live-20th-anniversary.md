@@ -21,8 +21,8 @@ images:
    - L1200944.jpg
    - L1200946.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200932.jpg"><img class="alignnone size-medium wp-image-3627" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200932-300x287.jpg" alt="" width="300" height="287" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200934.jpg"><img class="alignnone size-medium wp-image-3628" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200934-300x281.jpg" alt="" width="300" height="281" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200940.jpg"><img class="alignnone size-medium wp-image-3629" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200940-300x155.jpg" alt="" width="300" height="155" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200944.jpg"><img class="alignnone size-medium wp-image-3630" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200944-300x123.jpg" alt="" width="300" height="123" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200946.jpg"><img class="alignnone size-medium wp-image-3631" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200946-300x203.jpg" alt="" width="300" height="203" /></a>Recorded in Oct-Nov 1994.
 

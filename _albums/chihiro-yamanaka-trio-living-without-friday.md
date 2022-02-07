@@ -18,7 +18,7 @@ images:
    - L1210609-1024.jpg
    - L1210611-1024.jpg
 videos: 
-   - {url: "https://youtu.be/8qDqEnFgGvI", comment: "Excerpt from “Balkan Tale”, the seventh track on the album"}
+   - {url: "https://youtu.be/8qDqEnFgGvI", comment: "Excerpt from “Balkan Tale”, the seventh track on this album"}
    - {url: "https://youtu.be/ittfMkakJCo", comment: "Chihiro Yamanaka playing “Living Without Friday” live from 2013"}
 audio:
 ---

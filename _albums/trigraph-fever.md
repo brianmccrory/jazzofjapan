@@ -10,7 +10,7 @@ code: HARU-20
 image: /assets/images/2021/08/trigraph-fever-460.jpeg
 members:
    - {name: Takayoshi Baba, instrument: "guitar & chorus", japanese_name: 馬場孝喜, url: "https://babaviolao.wixsite.com/babatakayoshi"}
-   - {name: Reikan Kobayashi, instrument: "shakuhachi, piano, keyboard, voice percussion, shaker, chorus", japanese_name: 小林鈴勘, url: "http://reikankobayashi.net/"}
+   - {name: Reikan Kobayashi, instrument: "shakuhachi, piano, keyboard, voice percussion, shaker, chorus", japanese_name: 小林鈴勘, url: "https://reikankobayashi.net/"}
    - {name: Sanae Ishikawa, instrument: "vocal & chorus", japanese_name: 石川早苗, url: "http://blog.livedoor.jp/sanny_jazz/"}
    - {name: Ryoji Orihara, instrument: "electric fretless bass & chorus", japanese_name: 織原良次, url: "https://www.ryojiorihara.com/"}
    - {name: Yasushi Fukumori, instrument: "drums & chorus", japanese_name: 福森康, url: "https://ameblo.jp/su-shi84/"}

@@ -21,8 +21,8 @@ images:
    - L1200746.jpg
    - L1120134.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 Like a warm ocean wave flowing over your mind, ...lifing you with immense power and unmooring your body from the earth, connecting it to the movements and pulsing of something greater. expert at creating a mood, push and pull, tension and release of musical movements. Like musical literature, with depth and context, compared to flat mass market paperback time-fillers.
 

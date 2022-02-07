@@ -18,7 +18,7 @@ images:
    - L1180744-1024.JPG
    - L1190079-1024.JPG
 videos: 
-   - {url: "https://youtu.be/0y_NlXpwoVk", comment: "Audio sample from “Ferris Wheel”, the opening track on this album"}
+   - {url: "https://youtu.be/0y_NlXpwoVk", comment: "Excerpt from “Ferris Wheel”, the opening track on this album"}
    - {url: "https://youtu.be/TP-bCigVMCA", comment: "Live performance of “Fascinating Rhythm”, the last track on this album"}
 ---
 *Sumitty & the Funfair* is a 2015 release from drummer Sumito Oi and his band of merry music makers, assembling here to produce an original work of creatively poppy jazz. Not circus clown tomfoolery, but, rather, light and glittery music played with a cheerful buoyancy and sensitivity by improvisational jazz musicians. The theme is musical fun, wide-smiled mirth carried by a sweet nostalgia for amusement park ambiance.

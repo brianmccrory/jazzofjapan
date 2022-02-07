@@ -27,10 +27,10 @@ images:
    - L1220869-1024.jpg
    - L1220870-1024.jpg
 videos: 
-   - {url: "https://youtu.be/m1nElWd4VJA", comment: ""}
-   - {url: "https://youtu.be/tfrg3oOZMpM", comment: ""}
+   - {url: "https://youtu.be/m1nElWd4VJA", comment: "TBD"}
+   - {url: "https://youtu.be/tfrg3oOZMpM", comment: "TBD"}
 audio_embed:
-   {filename: "02-G　Island.mp3", comment: "Excerpt from \"G Island\", the second track on the album:"}
+   {filename: "02-G　Island.mp3", comment: "Excerpt from \"G Island\", the second track on this album:"}
 ---
 
 *Memories of T* is a 2017 recording from the group TCQ which brings together Japanese and Taiwanese musicians for a cross-cultural jazz collaboration. This quartet features Taiwanese alto sax player Shawna Yang and three musicians from Japan: Naoko Tanaka on piano, Daiki Yasukagawa on bass, and Takeshi Sakamoto on drums. Eight original tracks make up the playlist, two apiece from each member, with a convivial atmosphere running throughout. The music is straightforward and pleasant with swing and bossa grooves underpinning their polished modern jazz sound.
@@ -50,4 +50,4 @@ Released in 2017 on D-neo Daiki Musica as DNCD-13.
 
 
 
-** Audio sample at top of page from "G Island", the second track on the album.*
+Excerpt from "G Island", the second track on this album

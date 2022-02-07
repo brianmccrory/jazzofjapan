@@ -22,10 +22,10 @@ images:
    - L1220718-1024.jpg
    - L1220719-1024.jpg
 videos: 
-   - {url: "https://youtu.be/3wQtfncwoSg", comment: ""}
-   - {url: "https://youtu.be/mcOFpNauLDs", comment: ""}
+   - {url: "https://youtu.be/3wQtfncwoSg", comment: "TBD"}
+   - {url: "https://youtu.be/mcOFpNauLDs", comment: "TBD"}
 audio_embed:
-   {filename: "01-Major-to-Minor.mp3", comment: "Excerpt from \"Major to Minor\", the first track on the album:"}
+   {filename: "01-Major-to-Minor.mp3", comment: "Excerpt from \"Major to Minor\", the first track on this album:"}
 ---
 
 Kohsuke Mine Quintet’s 1993 album *Major to Minor* is full of life, a straight-ahead jazz outing built upon solid group unity and stimulating jazz improvisation.
@@ -56,4 +56,4 @@ This album received the 1993 Japan Jazz Disc Award.
 
 
 
-** Audio sample at top of page from "Major to Minor", the first track on the album.*
+Excerpt from "Major to Minor", the first track on this album

@@ -22,9 +22,9 @@ images:
    - L1210593-1024.jpg
    - IMG_20150118_175116-1024.jpg
 videos: 
-   - {url: "https://youtu.be/lxUNjeSn190", comment: ""}
+   - {url: "https://youtu.be/lxUNjeSn190", comment: "TBD"}
 audio_embed:
-   {filename: "01-Satin-Doll.mp3", comment: "Excerpt from \"Satin Doll\", the first track on the album:"}
+   {filename: "01-Satin-Doll.mp3", comment: "Excerpt from \"Satin Doll\", the first track on this album:"}
 ---
 
 Inspiring contrasts like strong and warm, comforting and demanding, smoky and silky, the dual vocal front-line of "Water Me!" delivers new takes on familiar jazz tunes with *Water Me!* from 2014. Vocalists Ayako Taira and Noriko Kotani harmonize and play off each other, syncing up or alternating in offset phrases as they combine, intertwine, and unspool melodies together.
@@ -45,4 +45,4 @@ Tomohiro Ota 大田智洋 - drums
 
 Released in 2014 on Sunmoon Music as SMCD-0005.
 
-** Audio sample at top of page from "Satin Doll", the first track on the album.*
+Excerpt from "Satin Doll", the first track on this album

@@ -20,8 +20,8 @@ images:
    - L1220043.jpg
    - L1220046.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 &nbsp;
 

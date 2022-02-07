@@ -18,7 +18,7 @@ images:
    - L1180764-1024.jpg
    - L1180761-1024.jpg
 videos: 
-   - {url: "https://youtu.be/hDfPR9u8c5Q", comment: "Audio sample from “Stone Pavement”, the first track on the album"}
+   - {url: "https://youtu.be/hDfPR9u8c5Q", comment: "Excerpt from “Stone Pavement”, the first track on this album"}
 ---
 Four accomplished musicians reunite for *Needful Things*, a live recording of original compositions, bewitching music with a touching beauty.
 

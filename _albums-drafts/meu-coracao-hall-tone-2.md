@@ -20,8 +20,8 @@ images:
    - L1200786.jpg
    - L1200791.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200779.jpg"><img class="alignnone size-medium wp-image-3718" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200779-300x273.jpg" alt="" width="300" height="273" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200780.jpg"><img class="alignnone size-medium wp-image-3719" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200780-300x270.jpg" alt="" width="300" height="270" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200786.jpg"><img class="alignnone size-medium wp-image-3720" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200786-300x144.jpg" alt="" width="300" height="144" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200791.jpg"><img class="alignnone size-medium wp-image-3721" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200791-300x181.jpg" alt="" width="300" height="181" /></a>Released in 2012 on Coo Records as COO-301.
 

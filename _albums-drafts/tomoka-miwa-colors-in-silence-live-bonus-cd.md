@@ -17,7 +17,7 @@ members:
 images: 
    - L1180836.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1180836.jpg"><img class="alignnone size-medium wp-image-3940" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1180836-300x250.jpg" alt="" width="300" height="250" /></a>2016

@@ -21,7 +21,7 @@ images:
 videos: 
    - {url: "https://youtu.be/uM2ZZek_viI", comment: "Fumie Chiba Trio live in 2019"}
 audio_embed:
-   {filename: "01-11th-Door.mp3", comment: "Excerpt from \"11th Door\", the first track on the album:"}
+   {filename: "01-11th-Door.mp3", comment: "Excerpt from \"11th Door\", the first track on this album:"}
 ---
 Jazz pianist and composer Fumie Chiba's *Tip of Dream* is a great example of modern jazz piano from Japan, displaying high-caliber technique and creative approaches to modern jazz composition.
 

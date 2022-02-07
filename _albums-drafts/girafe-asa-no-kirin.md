@@ -19,8 +19,8 @@ images:
    - L1200437.jpg
    - L1200441.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200436.jpg"><img class="alignnone size-medium wp-image-3936" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200436-300x293.jpg" alt="" width="300" height="293" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200437.jpg"><img class="alignnone size-medium wp-image-3937" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200437-300x294.jpg" alt="" width="300" height="294" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200441.jpg"><img class="alignnone size-medium wp-image-3938" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200441-300x249.jpg" alt="" width="300" height="249" /></a>Leader: Yosuke Sato
 

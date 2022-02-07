@@ -22,8 +22,8 @@ images:
    - L1220658.jpg
    - L1220659.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 audio sample:
 
@@ -92,7 +92,7 @@ https://youtu.be/HS5JB0buDyk
 
 &nbsp;
 
-** Audio sample at top of page from "", the X track on the album.*
+Excerpt from "", the X track on this album
 
 <a href="https://www.jjazzist.com/wp-content/uploads/2020/05/L1220653.jpg"><img class="alignnone size-medium wp-image-5900" src="https://www.jjazzist.com/wp-content/uploads/2020/05/L1220653-300x268.jpg" alt="" width="300" height="268" /></a>
 

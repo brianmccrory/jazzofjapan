@@ -22,7 +22,7 @@ images:
 videos: 
    - {url: "https://youtu.be/30rFEmCXY64", comment: "Akane Matsumoto playing \"My Dear\" from this album"}
 audio_embed:
-   {filename: "01-プレイング.mp3", comment: "Excerpt from \"Playing\", the first track on the album:"}
+   {filename: "01-プレイング.mp3", comment: "Excerpt from \"Playing\", the first track on this album:"}
 ---
 New York-style jazz with a fresh Japanese take is the focus on 2010's *Playing New York*, where popular Japanese pianist Akane Matsumoto leads a trio with veteran NYC musicians Nat Reeves (bass) and Joe Farnsworth (drums).
 

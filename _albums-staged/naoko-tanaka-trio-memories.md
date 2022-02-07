@@ -22,9 +22,9 @@ images:
    - L1200327-1024.jpg
    - L1120025-1024.jpg
 videos: 
-   - {url: "https://youtu.be/WxALugIHpPI", comment: ""}
+   - {url: "https://youtu.be/WxALugIHpPI", comment: "TBD"}
 audio_embed:
-   {filename: "01-Sailing.mp3", comment: "Excerpt from \"Sailing\", the opening track on the album:"}
+   {filename: "01-Sailing.mp3", comment: "Excerpt from \"Sailing\", the opening track on this album:"}
 ---
 
 A satisfyingly neat outing, Naoko Tanaka Trio's *Memories* (2015) leaves a fresh impression of modern Japanese jazz trios. The playing on this album is both playful and precise, with considered arrangements and decorations sprinkled through the welcoming music. Light touches and coordinated rhythmic hits play a role, hinting at styles employed by greats such as the Ahmad Jamal Trio. Attention is paid to the structure of each song, and as with any good jazz record, those structures are filled out with each soloist's improvisations, bouncing solos off the harmonic movements and the rhythmic frames.
@@ -46,4 +46,4 @@ Daiki Yasukagawa - 安ヵ川大樹 - bass on #9
 Released in 2015 on D-neo Daiki Musica as DNCD-05.
 
 
-** Audio sample at top of page from "Sailing", the opening track on the album.*
+Excerpt from "Sailing", the opening track on this album

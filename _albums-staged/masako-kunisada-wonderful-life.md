@@ -21,9 +21,9 @@ images:
    - L1200968-1024.jpg
    - L1200966-1024.jpg
 videos: 
-   - {url: "https://youtu.be/awL_5LXeMeI", comment: ""}
+   - {url: "https://youtu.be/awL_5LXeMeI", comment: "TBD"}
 audio_embed:
-   {filename: "08-For-All-We-Know.mp3", comment: "Excerpt from \"For All We Know\", the eighth track on the album:"}
+   {filename: "08-For-All-We-Know.mp3", comment: "Excerpt from \"For All We Know\", the eighth track on this album:"}
 other_links:
    - {url: "https://owlwingrecord.net/", comment: "Owl Wing Record"}
 ---
@@ -59,4 +59,4 @@ Released in 2012 on Urban Jazz as 151A-0005.
 Rereleased in 2020 on Owl Wing Record.
 
 
-** Audio sample at top of page from "For All We Know", the eighth track on the album.*
+Excerpt from "For All We Know", the eighth track on this album

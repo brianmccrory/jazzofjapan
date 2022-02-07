@@ -18,7 +18,7 @@ images:
    - L1180788-1024.jpg
    - L1180790-1024.jpg
 videos: 
-   - {url: "https://youtu.be/ev5I1VdF2U4", comment: "Excerpt from \"Last Tango In Paris\", the second track on the album"}
+   - {url: "https://youtu.be/ev5I1VdF2U4", comment: "Excerpt from \"Last Tango In Paris\", the second track on this album"}
    - {url: "https://youtu.be/pIkMEHuNDDs", comment: "Live performance of the Sachiko Ikuta Trio performing the title track, \"Haru No Kaze\""}
 ---
 A jazz pianist who balances lyricism with boldness, Sachiko Ikuta leads a piano trio on *Haru No Kaze (Spring Wind)* from 2012. Legendary jazz trumpeter Terumasa Hino also joins on two songs, adding an adventurous splash of avant-garde improvisation to the album.

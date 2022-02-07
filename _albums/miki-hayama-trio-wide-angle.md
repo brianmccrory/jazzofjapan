@@ -10,8 +10,8 @@ code: ARTCD-114
 image: /assets/images/2018/04/miki-hayama-wideangle-460.jpeg
 members:
    - {name: Miki Hayama, instrument: "piano", japanese_name: 早間美紀, url: "http://www.mikihayama.com/"}
-   - {name: Kiyoshi Kitagawa, instrument: "bass", japanese_name: 北川潔}
-   - {name: Victor Lewis, instrument: "drums"}
+   - {name: "Kiyoshi Kitagawa", instrument: "bass", japanese_name: 北川潔, url: "https://en.wikipedia.org/wiki/Kiyoshi_Kitagawa"}    
+   - {name: Victor Lewis, instrument: "drums", url: "https://en.wikipedia.org/wiki/Victor_Lewis"}
 images:
    - L1200167-1024.jpg
    - L1200168-1024.jpg
@@ -19,7 +19,7 @@ images:
    - L1200172-1024.jpg
    - L1120060-1024.jpg
 videos: 
-   - {url: "https://youtu.be/2VutRJNZPv8", comment: "Audio excerpt from the first track on the album, “What’s Next?”"}
+   - {url: "https://youtu.be/2VutRJNZPv8", comment: "Audio excerpt from the first track on this album, “What’s Next?”"}
    - {url: "https://youtu.be/t9wFu91ApdI", comment: "Another track from the album, Tommy Flanagan’s “Freight Trane”"}
    - {url: "https://youtu.be/2uTiOIj86m4", comment: "Miki Hayama stretches out in this video from 2008 at a live bar in Tokyo playing the jazz standard “There Is No Greater Love”"}
    - {url: "https://youtu.be/dtb6KCpL-tE", comment: "Miki Hayama playing a live version of “Horizon”, another highlight on this album"}

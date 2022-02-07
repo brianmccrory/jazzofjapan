@@ -22,7 +22,7 @@ images:
    - L1220806-1024.jpg
    - L1220809-1024.jpg
 videos: 
-   - {url: "https://youtu.be/apcuDtFtT5g", comment: "Audio sample from “Subliminal Sublimation”, the sixth track on this album"}
+   - {url: "https://youtu.be/apcuDtFtT5g", comment: "Excerpt from “Subliminal Sublimation”, the sixth track on this album"}
 audio:
    - {url: "https://www.youtube.com/channel/UCFbpE7Z1XrzpBeyCaBRtZHg", comment: "More audio available on Rabbitto’s video channel"}
    - {url: "https://youtube.com/playlist?list=OLAK5uy_lOHwWUbK3ehoVJ_1WQyyr94BGkOjr2E9A", comment: "Full album playlist for this album"}

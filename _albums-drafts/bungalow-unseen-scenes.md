@@ -21,8 +21,8 @@ images:
    - L1210099.jpg
    - L1210100.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210094.jpg"><img class="alignnone size-medium wp-image-3567" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210094-300x267.jpg" alt="" width="300" height="267" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210096.jpg"><img class="alignnone size-medium wp-image-3568" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210096-300x261.jpg" alt="" width="300" height="261" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210098.jpg"><img class="alignnone size-medium wp-image-3569" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210098-300x161.jpg" alt="" width="300" height="161" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210099.jpg"><img class="alignnone size-medium wp-image-3570" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210099-300x294.jpg" alt="" width="300" height="294" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210100.jpg"><img class="alignnone size-medium wp-image-3571" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210100-300x174.jpg" alt="" width="300" height="174" /></a>
 
@@ -87,4 +87,4 @@ Released in 2015 on Studio Songs as YZSO-10057.
 
 &nbsp;
 
-** Audio sample at top of page from the opening track on the album, "fff".*
+** Audio sample at top of page from the opening track on this album, "fff".*

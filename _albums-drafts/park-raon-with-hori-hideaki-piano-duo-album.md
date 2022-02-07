@@ -19,8 +19,8 @@ images:
    - L1200392.jpg
    - L1200393.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200390.jpg"><img class="alignnone size-medium wp-image-3871" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200390-300x267.jpg" alt="" width="300" height="267" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200392.jpg"><img class="alignnone size-medium wp-image-3872" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200392-300x267.jpg" alt="" width="300" height="267" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200393.jpg"><img class="alignnone size-medium wp-image-3873" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200393-300x205.jpg" alt="" width="300" height="205" /></a>Members:
 <ul>

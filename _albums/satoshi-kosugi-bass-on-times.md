@@ -20,7 +20,7 @@ images:
    - L1180548-1024.jpg
    - L1180550-1024.jpg
 videos: 
-   - {url: "https://youtu.be/ocuauUc8w00", comment: "Audio sample from “Monk's Dream”, the first track on this album"}
+   - {url: "https://youtu.be/ocuauUc8w00", comment: "Excerpt from “Monk's Dream”, the first track on this album"}
    - {url: "https://youtu.be/mKf9_Mg3gEk", comment: "A live performance featuring Kanji Ohta on piano, Satoshi Kosugi on bass, and Kenichiro Murata on drums playing Charlie Parker’s “Chasin’ the Bird”"}
 ---
 *Bass on Times* is a 2009 album from jazz bassist Satoshi Kosugi, a well-known and active musician in Japan’s jazz scene spanning several decades. For this recording, Kosugi assembles familiar partners and veteran players such as the bluesy Shinji Hashimoto on guitar and Kazuhide Motooka on piano, to deliver hard-swinging standards such as “Monk’s Dream”, “Vierd Blues”, and “The Best Thing For You Would Be Me”. With good arrangements and strong bass, naturally, the well-established musicians deliver quality jazz with a genuine good spirit throughout this satisfying record. One happy highlight even has Kosugi joyfully whistling the melody on “There Goes My Heart” as he doubles with his bass line to open and close the swinging tune.

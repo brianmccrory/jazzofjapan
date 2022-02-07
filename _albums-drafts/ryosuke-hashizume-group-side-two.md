@@ -21,8 +21,8 @@ images:
    - L1200720.jpg
    - L1110949.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 01. Conversations with Moore  13:45 (Acoustic Fluid)
 02. The Color of Silence  10:45 (Acoustic Fluid)

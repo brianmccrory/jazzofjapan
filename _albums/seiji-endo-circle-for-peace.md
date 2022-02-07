@@ -16,7 +16,7 @@ images:
    - L1180532-1024.jpg
    - L1180878-1024.jpg
 videos: 
-   - {url: "https://youtu.be/XSYkb0yxKos", comment: 'Excerpt from the opening track on the album, "Circle For Peace"'}
+   - {url: "https://youtu.be/XSYkb0yxKos", comment: 'Excerpt from the opening track on this album, "Circle For Peace"'}
    - {url: "https://youtu.be/ayIRWG2Kb08", comment: "Seiji Endo performing a solo piano piece from his previous album “Sakura Meditations” entitled “Bara No Sasayaki” (Whispers of a Rose) at the legendary Hot House jazz club in Tokyo"}
 ---
 Seiji Endo, a poet at the piano, plays his original compositions for solo piano on his second solo album *Circle For Peace*. While he plays unaccompanied throughout, a children's choir (Zushi Iruka Jido Gasshoudan) also joins him briefly on tracks 1 and 11, reminding one of the childlike purity and hopefulness conceived in his music.

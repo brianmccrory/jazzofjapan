@@ -16,8 +16,8 @@ members:
    - {name: , instrument: "", japanese_name: , url: ""}
 images: 
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 
 

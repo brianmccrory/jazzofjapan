@@ -20,7 +20,7 @@ images:
 videos: 
    - {url: "https://youtu.be/VQ-m3v3mE2E", comment: "Audio of the tune \"Monologue\", track five on this album"}
 audio_embed:
-   {filename: "01-Street-Lights.mp3", comment: "Excerpt from \"Street Lights\", the first track on the album:"}
+   {filename: "01-Street-Lights.mp3", comment: "Excerpt from \"Street Lights\", the first track on this album:"}
 ---
 
 Jazz organ trio Aquapit's first album from 2011 sets up the scene for a rollicking jazz party featuring the warm and fuzzy sounds of a funky jazz organ trio.

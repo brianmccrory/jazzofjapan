@@ -20,7 +20,7 @@ images:
    - L1180427-1024.jpg
    - L1180429-1024.jpg
 videos: 
-   - {url: "https://youtu.be/oSB80c-NiW0", comment: "Audio sample from “Unspoken Language”, the first track on this album"}
+   - {url: "https://youtu.be/oSB80c-NiW0", comment: "Excerpt from “Unspoken Language”, the first track on this album"}
    - {url: "https://youtu.be/me1Shf1vY1s", comment: "The title track “Niwatazumi”"}
 audio:
 ---

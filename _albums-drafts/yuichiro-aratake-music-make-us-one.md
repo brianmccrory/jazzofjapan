@@ -20,8 +20,8 @@ images:
    - L1210284.jpg
    - L1210289.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 l<a href="http://www.jjazzist.com/wp-content/uploads/2018/12/L1210248.jpg"><img class="size-medium wp-image-3195 alignright" src="http://www.jjazzist.com/wp-content/uploads/2018/12/L1210248-300x283.jpg" alt="" width="300" height="283" /></a>ive concert recording, more of a stage/audience atmosphere rather than a small jazz club feeling.
 

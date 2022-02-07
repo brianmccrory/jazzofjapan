@@ -18,7 +18,7 @@ images:
    - L1200285-1024.jpg
    - L1200286-1024.jpg
 videos: 
-   - {url: "https://youtu.be/mdnRNoID85I", comment: "Audio sample from “Dream Garden”, the second track on this album"}
+   - {url: "https://youtu.be/mdnRNoID85I", comment: "Excerpt from “Dream Garden”, the second track on this album"}
    - {url: "https://youtu.be/9UIC2PHbwgo", comment: "A promotional video for this album includes live excerpts of the track list"}
 ---
 Taihei Asakawa's beautiful *Touch of Winter* from 2013 is a contemplative jazz album rooted in calm emotion: Memory, melancholy, and rebirth combine to paint stimulating music on a pure white winter tableau.

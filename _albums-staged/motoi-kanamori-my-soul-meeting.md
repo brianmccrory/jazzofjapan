@@ -22,9 +22,9 @@ images:
    - L1220412-1024.jpg
    - L1220414-1024.jpg
 videos: 
-   - {url: "https://youtu.be/YhQnfXHlBVg", comment: ""}
+   - {url: "https://youtu.be/YhQnfXHlBVg", comment: "TBD"}
 audio_embed:
-   {filename: "07-Metro-Maniac.mp3", comment: "Excerpt from \"Metro Maniac\", the seventh track on the album:"}
+   {filename: "07-Metro-Maniac.mp3", comment: "Excerpt from \"Metro Maniac\", the seventh track on this album:"}
 ---
 
 Jazz bassist Motoi Kanamori's *My Soul Meeting* from 2018 is his album debut as leader, where his jazz group rips and swings through eight tracks of modern piano trio jazz. With a polished, fun touch, the group delivers mid- and up-tempo jazz with propulsive grooves, expressive auras, and well-timed hits. His piano trio is joined by alto and tenor sax on two tracks as well, amping up the energy with edginess and texture.
@@ -49,4 +49,4 @@ Akihiro Yoshimoto - tenor sax
 Released in 2018 on Laplace Records as LPDCD-103.
 
 
-** Audio sample at top of page from "Metro Maniac", the seventh track on the album.*
+Excerpt from "Metro Maniac", the seventh track on this album

@@ -16,7 +16,7 @@ images:
    - L1220082-1024.jpg
    - seijiendo-genji-inside-1024.png
 videos: 
-   - {url: "https://youtu.be/eCvFTZhm8jw", comment: "Audio sample from “Kiritsubo”, the first track on this album"}
+   - {url: "https://youtu.be/eCvFTZhm8jw", comment: "Excerpt from “Kiritsubo”, the first track on this album"}
    - {url: "https://youtu.be/ZggxZ80F7ec", comment: "Seiji Endo performing his composition “Sun, Moon and Children Smile” (the first track on his 2012 album *Sakura Meditation*) in Indonesia in 2014"}
 ---
 Through a beautiful piano sound with deep reverberations, Seiji Endo’s latest solo album releases atmospheric music as if arising from the dreams and memories of ancient Japan. *Genji Monogatari Volume 1* features the pianist performing his original compositions with dramatic textures woven from this ancient Japanese epic.

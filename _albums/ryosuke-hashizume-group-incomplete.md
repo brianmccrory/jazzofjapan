@@ -19,7 +19,7 @@ images:
    - L1180436-1024.JPG
    - L1180435-1024.JPG
 videos: 
-   - {url: "https://youtu.be/P31DbArAbvM", comment: "Audio sample from “Still”, the first track on this album"}
+   - {url: "https://youtu.be/P31DbArAbvM", comment: "Excerpt from “Still”, the first track on this album"}
    - {url: "https://youtu.be/n4N_Sa0tyeM", comment: "Promotional video with clips from the album"}
 ---
 Incomplete Voices is the latest release from the Ryosuke Hashizume Group, released in 2017. As with prior albums, this is a wonderful collection of carefully conceived modern jazz compositions showcasing the saxophonist’s concepts and the tight-knit group dynamics. Close attention is paid to the harmonic and rhythmic layers in the music with excitement built on climactic resolutions and striking moods.

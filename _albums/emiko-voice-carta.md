@@ -22,7 +22,7 @@ images:
    - L1180432-1024.jpg
    - L1180433-1024.jpg
 videos: 
-   - {url: "https://youtu.be/E4yjSjJsjgQ", comment: "Audio sample from “The Days of Wine and Roses”, the first track on this album"}
+   - {url: "https://youtu.be/E4yjSjJsjgQ", comment: "Excerpt from “The Days of Wine and Roses”, the first track on this album"}
    - {url: "https://youtu.be/6iWm_Y87KZY", comment: "Promotional video for this album"}
    - {url: "https://youtu.be/dfAxkOVFotc", comment: "The second track on this album, the Japanese folk song “Sanosa”, was recently featured on the 2021 compilation album The Rough Guide to Avant-Garde Japan"}
 audio:

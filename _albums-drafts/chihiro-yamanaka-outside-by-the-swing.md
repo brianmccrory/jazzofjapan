@@ -20,8 +20,8 @@ images:
    - L1210672.jpg
    - L1210681.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210659.jpg"><img class="alignnone size-medium wp-image-3417" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210659-298x300.jpg" alt="" width="298" height="300" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210663.jpg"><img class="alignnone size-medium wp-image-3418" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210663-300x277.jpg" alt="" width="300" height="277" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210672.jpg"><img class="alignnone size-medium wp-image-3419" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210672-300x191.jpg" alt="" width="300" height="191" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210681.jpg"><img class="alignnone size-medium wp-image-3420" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210681-300x174.jpg" alt="" width="300" height="174" /></a>Leader: Chihiro Yamanaka
 

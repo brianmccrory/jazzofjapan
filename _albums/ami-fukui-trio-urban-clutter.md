@@ -19,7 +19,7 @@ images:
    - L1200248-1024.jpg 
    - L1110630-1024.jpg
 videos: 
-   - {url: "https://youtu.be/T-K6TWYl1KY", comment: "Audio sample for “Zai Jian”, the fourth song on this album"}
+   - {url: "https://youtu.be/T-K6TWYl1KY", comment: "Excerpt from “Zai Jian”, the fourth song on this album"}
    - {url: "https://youtu.be/zdJyxQTEfdE", comment: "Promotional video for the song “Urban Clutter”, the last song on this album"}
 audio:
 ---

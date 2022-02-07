@@ -16,7 +16,7 @@ members:
    - {name: "Tatsuhiko Takeda", instrument: "drums", japanese_name: 竹田達彦, url: ""}
    - {name: "Osamu Hikage", instrument: "bass (#3, 5, 6, 9)", japanese_name: 日景修, url: ""}
    - {name: "Kazuyoshi Kuroda", instrument: "drums (#3, 5, 6, 9)", japanese_name: 黒田和良, url: ""}
-   - {name: "Ryosuke Asai", instrument: "alto sax (#6)", japanese_name: 浅井良将, url: ""}
+   - {name: "Ryosuke Asai", instrument: "alto sax (#6)", japanese_name: 浅井良将, url: "https://saxryosuke.exblog.jp/"}
 images: 
    - L1210131-1024.jpg
    - L1210133-1024.jpg

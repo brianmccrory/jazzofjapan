@@ -20,8 +20,8 @@ images:
    - L1210111.jpg
    - L1210113.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <ol>
  	<li>rock out - almost metal, rock jazz. Nishiyama shows her influences from heavy metal and rock music she was into previously...</li>

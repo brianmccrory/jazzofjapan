@@ -21,7 +21,7 @@ images:
    - L1200830-1024.jpg
    - L1110527-1024.jpg
 videos: 
-   - {url: "https://youtu.be/6LjeLHYNhLQ", comment: ""}
+   - {url: "https://youtu.be/6LjeLHYNhLQ", comment: "TBD"}
 audio_embed:
    {filename: "01-Ｇｒａｓｓｈｏｐｐｅｒ.mp3", comment: "Excerpt from \"Grasshopper\", the first track on the second disc:"}
 ---
@@ -54,4 +54,4 @@ Released in 2007 on Ewe Records as EWCD-0119.
 Videos of Fuse are hard to find, yet the individual members can be viewed in clips with other groups. Here is a video of Inoue performing with Fumio Karashima's group.
 
 
-** Audio sample at top of page from "Grasshopper", the first track on the second disc.*
+Excerpt from "Grasshopper", the first track on the second disc.*

@@ -20,8 +20,8 @@ images:
    - L1200480.jpg
    - L1200483.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200477.jpg"><img class="size-medium wp-image-3541 alignright" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1200477-300x290.jpg" alt="" width="300" height="290" /></a>1 May Journey - lyrical
 

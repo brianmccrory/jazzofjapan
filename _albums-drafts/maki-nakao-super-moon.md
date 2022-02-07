@@ -21,8 +21,8 @@ images:
    - L1220135.jpg
    - L1220141.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 sadfadsf
 

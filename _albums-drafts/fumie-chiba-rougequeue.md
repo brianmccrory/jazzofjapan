@@ -20,8 +20,8 @@ images:
    - L1220756-scaled.jpg
    - L1220759-scaled.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 foo
 

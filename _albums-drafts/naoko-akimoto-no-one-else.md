@@ -20,8 +20,8 @@ images:
    - L1200592.jpg
    - L1200596.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 audio
 photo
@@ -64,4 +64,4 @@ https://youtu.be/_Q8Ad6ZYl_A
 
 &nbsp;
 
-** Audio sample at top of page from "", the X track on the album.*
+Excerpt from "", the X track on this album

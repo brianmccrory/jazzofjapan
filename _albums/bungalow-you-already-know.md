@@ -18,7 +18,7 @@ images:
    - L1180443-1024.jpg
    - L1180442-1024.jpg 
 videos: 
-   - {url: "https://youtu.be/NK9pYn8JoHg", comment: 'Audio sample from "Santa Cruz", the opening track on this album'}
+   - {url: "https://youtu.be/NK9pYn8JoHg", comment: 'Excerpt from "Santa Cruz", the opening track on this album'}
    - {url: "https://youtu.be/Ix3_wC-YqP0", comment: "Promotional video for this album"}
 audio:
 ---

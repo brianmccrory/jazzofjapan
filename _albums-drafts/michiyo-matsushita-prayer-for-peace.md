@@ -20,8 +20,8 @@ images:
    - L1200379.jpg
    - L1200380.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 1,Girls India
 2. Steal Up!

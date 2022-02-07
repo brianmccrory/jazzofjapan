@@ -20,8 +20,8 @@ images:
    - L1200723.jpg
    - L1200725.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <ol>
  	<li>2017 <strong>incomplete voices</strong> apollo</li>

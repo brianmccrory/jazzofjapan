@@ -21,7 +21,7 @@ images:
    - L1180583-1024.jpg
    - L1180590-1024.jpg
 videos: 
-   - {url: "https://youtu.be/5Dty4-iAo6w", comment: "Audio sample from “Speed Harassment”, the first track on this album"}
+   - {url: "https://youtu.be/5Dty4-iAo6w", comment: "Excerpt from “Speed Harassment”, the first track on this album"}
    - {url: "https://youtu.be/T5bm8CoSgVY", comment: "Live performance of “Round Table”, track #4 from this album"}
 audio:
 ---

@@ -20,8 +20,8 @@ images:
    - L1210032.jpg
    - L1210040.jpg
 videos: 
-   - {url: "", comment: ""}
-   - {url: "", comment: ""}
+   - {url: "", comment: "TBD"}
+   - {url: "", comment: "TBD"}
 ---
 <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210029.jpg"><img class="alignnone size-medium wp-image-3581" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210029-300x266.jpg" alt="" width="300" height="266" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210031.jpg"><img class="alignnone size-medium wp-image-3582" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210031-300x269.jpg" alt="" width="300" height="269" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210032.jpg"><img class="alignnone size-medium wp-image-3583" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210032-300x163.jpg" alt="" width="300" height="163" /></a> <a href="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210040.jpg"><img class="alignnone size-medium wp-image-3584" src="http://www.jjazzist.com/wp-content/uploads/2018/08/L1210040-300x151.jpg" alt="" width="300" height="151" /></a>This album is songs that express forms of interwoven human love recorded with my voice, piano, bass and drums only. Please listen to it and me "as is"... without any unnecessary decorations or ornaments.
 

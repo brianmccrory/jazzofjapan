@@ -20,7 +20,7 @@ images:
    - L1210314-1024.jpg
    - L1210321-1024.jpg
 videos: 
-   - {url: "https://youtu.be/5uJnsjcFR6k", comment: "Audio sample from “Do Re Mi”, track #6 on this album"}
+   - {url: "https://youtu.be/5uJnsjcFR6k", comment: "Excerpt from “Do Re Mi”, track #6 on this album"}
    - {url: "https://youtu.be/W5JBcd_k7TI", comment: "Promotional video 1: This album’s four promotional videos also make for great viewing and listening"}
    - {url: "https://youtu.be/8tPlcOaE55M", comment: "Promotional video 2"}
    - {url: "https://youtu.be/LRUNIFiu4-Y", comment: "Promotional video 3"}

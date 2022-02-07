@@ -23,7 +23,7 @@ videos:
    - {url: "https://youtu.be/RYenaeAkBDo", comment: "Excerpt from \"Wire\", track three on this album"}
    - {url: "https://youtu.be/fpzcz7PJN7w", comment: "Live performance of the title track \"Past Life\""}
 audio_embed:
-   {filename: "01-上昇気流.mp3", comment: "Excerpt from the opening track on the album, \"Joushou Kiryuu\":"}   
+   {filename: "01-上昇気流.mp3", comment: "Excerpt from the opening track on this album, \"Joushou Kiryuu\":"}   
 ---
 The jazz group Bungalow displays their original approach to modern art jazz on their second album, *Past Life*, from 2013. As a jazz quartet featuring airy alto sax and piano, double bass, and drums, the group incorporates creative musical elements such as the use of Indian tabla drums and subtle sound effects and processing, a bit similar to the style of the Swedish jazz group E.S.T.
 
