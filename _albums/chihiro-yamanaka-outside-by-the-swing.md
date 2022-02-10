@@ -23,4 +23,5 @@ videos:
    - {url: "", comment: "TBD"}
    - {url: "", comment: "TBD"}
 ---
-TBD
+TBD - See scrivener file
+
