@@ -17,7 +17,7 @@ images:
    - L1180440-1024.JPG
    - L1180438-1024.JPG
 videos: 
-   - {url: "https://youtu.be/cw-6o-_JFUA", comment: "Audio sample of “Up To You”, the first track on this album"}
+   - {url: "https://youtu.be/cw-6o-_JFUA", comment: "Excerpt from “Up To You”, the first track on this album"}
    - {url: "https://youtu.be/QWqyCeTpz-c", comment: "A solo performance of “Inori Featuring Te”, a live version of track 3 from this album"}
    - {url: "https://youtu.be/FB0v5wlC3wo", comment: "A performance of “Hanaga Sakumade” featuring Sakaka Kishi and Mayumi Sano (the piano and cello duo Arco), a live version of track 9 from this album"}
 ---

@@ -17,7 +17,7 @@ images:
    - L1220623-1024.jpg
    - L1220624-1024.jpg
 videos: 
-   - {url: "https://youtu.be/HeLS-ScfULY", comment: "Audio excerpt from “Whisper Not”, the fourth track on this album"}
+   - {url: "https://youtu.be/HeLS-ScfULY", comment: "Excerpt from “Whisper Not”, the fourth track on this album"}
    - {url: "https://youtu.be/BjmrJjxJ-fw", comment: "A live performance of Sakai Layla Tomomi"}
 audio:
 ---

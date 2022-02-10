@@ -17,7 +17,7 @@ images:
    - L1220560-1024.JPG
    - L1220561-1024.JPG
 videos: 
-   - {url: "https://youtu.be/X1Fe8ahfGm8", comment: "Audio excerpt from “Old Diary”, the opening track on this album"}
+   - {url: "https://youtu.be/X1Fe8ahfGm8", comment: "Excerpt from “Old Diary”, the opening track on this album"}
    - {url: "https://youtu.be/wj7AhGAxHfk", comment: "Audio of “Blues for Pluto”, track #10 from this album"}
 audio:
    - {url: "https://youtube.com/playlist?list=OLAK5uy_k77hOaNyH6jBXLvR1LAWyMEXC6tU5qlM0", comment: "At the time of this writing, the full album can be heard as a playlist"}

@@ -18,7 +18,7 @@ images:
    - L1180423-1024.jpg
    - L1180424-1024.jpg
 videos: 
-   - {url: "https://youtu.be/GfBoevFlKIE", comment: "Audio excerpt from “Night and Day”, the opening track on this album"}
+   - {url: "https://youtu.be/GfBoevFlKIE", comment: "Excerpt from “Night and Day”, the opening track on this album"}
    - {url: "https://youtu.be/LrFCN5QiBT0", comment: "Promotional video relating to this album"}
 audio:
 ---

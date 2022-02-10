@@ -20,7 +20,7 @@ images:
 videos: 
    - {url: "https://youtu.be/VIXWYIHwUnE", comment: "Promotional video for this album"}
 audio_embed:
-   {filename: "09-Improvisation.mp3", comment: "Audio sample at top from \"Improvisation\", the ninth track on this album:"}
+   {filename: "09-Improvisation.mp3", comment: "Excerpt from \"Improvisation\", the ninth track on this album:"}
 ---
 
 Jazz violinist Maiko pours her heart and soul out on her 2018 release *Solo*, brimming with graceful elegance and drama through the resonance of her strings.

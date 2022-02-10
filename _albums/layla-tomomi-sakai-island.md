@@ -26,7 +26,7 @@ images:
 videos: 
    - {url: "https://youtu.be/xZjA59QRfj8?t=159", comment: "Layla Tomomi Sakai performing live in 2017"}
 audio_embed:
-   {filename: "01-Only-Trust-Your-Heart.mp3", comment: "Audio excerpt at top of page from \"Only Trust Your Heart\", the first track on this album:"}
+   {filename: "01-Only-Trust-Your-Heart.mp3", comment: "Excerpt from \"Only Trust Your Heart\", the first track on this album:"}
 ---
 
 Easy and breezy, as if dozing in a hammock between palm trees, Layla Tomomi Sakai's *The Island* stirs up visions of vacationing and relaxing in sultry lands as music floats softly by.
