@@ -17,12 +17,13 @@ members:
 images:
    - L1190082x-1024.jpeg
    - L1190099x-1024.jpeg
-videos: 
+videos:
+   - {url: "https://youtu.be/x6Y4XlDnAXA", comment: "Excerpt from \"Alice in Wonderland\", the first track on this album"}
    - {url: "https://youtu.be/ln7bWmGAxe8", comment: "A promotional video from Tomoka Miwa for an album containing original pop songs, released in 2017"}
 audio_embed:
    {filename: "02-Love-Dance.mp3", comment: "Excerpt from \"Love Dance\", the second track from this album:"}
 ---
 Popular Tokyo-based singer Tomoka Miwa deploys her jazz palette on this live recording entitled *Colors in Silence* from 2015. Here, she sings standards "I've Got You Under My Skin", "My Favorite Things", and fan favorites "A House Is Not A Home", the classic bolero "Somon Novios", and the groovy samba-funk "Skindo-le-le". Adding to the canvas are a sultry "Love Dance" and a touching rendering of the beautiful hymn "Hallelujah".
 
-The musicians get plenty of space for stretching out, with pianist Yuichi Narita pushing for moments of exploratory post-bop jazz. Each instrumentalist is also featured in duet with vocals, adding colorful variety to the show.
+The musicians get plenty of space for stretching out, with pianist Yuichi Narita pushing for moments of exploratory post-bop jazz. Each instrumentalist is also featured in a duet with vocals, adding colorful variety to the show.
 

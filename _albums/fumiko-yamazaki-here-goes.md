@@ -19,7 +19,7 @@ images:
    - L1200543-1024.JPG
    - L1200544-1024.JPG
 videos: 
-   - {url: "https://youtu.be/xSthNPIgeDg", comment: "Audio sample of “Oblivion”, the fourth track on this album"}
+   - {url: "https://youtu.be/xSthNPIgeDg", comment: "Excerpt from “Oblivion”, the fourth track on this album"}
    - {url: "https://youtu.be/hSs0lyZaMH0", comment: "Video from a live performance of the song “One” by Fumiko Yamazaki"}
 audio:
 ---

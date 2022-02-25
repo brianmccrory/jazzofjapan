@@ -18,7 +18,7 @@ images:
    - L1200372-1024.JPG
    - L1200374-1024.JPG
 videos: 
-   - {url: "https://youtu.be/q4_ngLQMWQU", comment: "Audio sample of “The Last Train”, the final track on this album"}
+   - {url: "https://youtu.be/q4_ngLQMWQU", comment: "Excerpt from “The Last Train”, the final track on this album"}
    - {url: "https://youtu.be/wMLgnUZyQL0", comment: "A live version of “Negotiater”, track five on this album"}
    - {url: "https://youtu.be/OOBh8KGrvbU", comment: "A live version of “Kirin No Sougen”, track three on this album"}
 audio:
