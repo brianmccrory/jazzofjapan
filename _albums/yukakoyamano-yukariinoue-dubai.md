@@ -1,5 +1,4 @@
 ---
-featured: true
 date: 2022-01-30
 date_updated:
 title: Dubai Suite

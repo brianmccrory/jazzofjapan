@@ -1,6 +1,7 @@
 ---
+featured: true
 date: 2018-03-14
-date_updated:
+date_updated: 2022-03-15
 title: A Tempo
 artist: Meu Coracao
 sort_value: Meu Coracao A Tempo
@@ -20,14 +21,15 @@ images:
    - L1190126-1024.jpg
    - L1190136-1024.jpg
 videos: 
+   - {url: "https://youtu.be/TsqOt6hWVmw", comment: "Excerpt from \"Amazon River\", the fourth track on this album"}
    - {url: "https://youtu.be/EDWnasfxIRw", comment: "Live performance of \"Corrida De Jangada\", the third track on this album"}
    - {url: "https://youtu.be/-5KLQHihHgw", comment: "Promotional video showing another side of Meu Coração on the second track \"Lawns\""}
 audio_embed:
    {filename: "01-Samba-De-Uma-Nota-So.mp3", comment: "Excerpt from \"Samba de Una Nota So\", which opens the album:"}
 ---
-The Japanese vocal-guitar duo Meu Coração releases the stunning *A Tempo* as a return to an earlier form. Well-known for playing acoustic Brazilian music at sold-out concert halls, their sixth album presents dramatic variations with an exciting full-band sound.
+The Japanese vocal-guitar duo Meu Coração releases the stunning *A Tempo* as a return to an earlier form. While the duo is well known for playing acoustic Brazilian music at sold-out concert halls and their *Hall Tone* albums, this sixth album presents dramatic variations with an exciting full-band sound.
 
-Starting with a vibrant "One Note Samba", the album features a catchy "Lawns", peppy Brazilian tunes "Corrida De Jangada" and "Batacuda Surgiu", a sentimental "Amazon River", and a dreamy "Love Me Tender", closing the album like a sweet lullaby.
+The album starts with a vibrant "One Note Samba" and also features a catchy "Lawns", the peppy Brazilian tunes "Corrida De Jangada" and "Batacuda Surgiu", and a sentimental, lush "Amazon River". The album closes like a sweet lullaby with a dreamy "Love Me Tender".
 
-The music grooves with creative arrangements and interesting effects, rooted by the vocal-guitar duo at the core, making music from the heart.
+The music grooves with creative arrangements and interesting effects, rooted by the vocal-guitar duo at the core who continue to make music from the heart.
 

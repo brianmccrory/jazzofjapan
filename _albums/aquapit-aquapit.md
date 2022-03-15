@@ -1,4 +1,5 @@
 ---
+featured: true
 date: 2020-09-19
 date_updated: 
 title: Aquapit

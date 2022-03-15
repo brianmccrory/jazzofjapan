@@ -1,5 +1,4 @@
 ---
-featured: true
 date: 2018-04-06
 date_updated: 2022-02-05
 title: Live
