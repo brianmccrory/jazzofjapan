@@ -1,4 +1,5 @@
 ---
+featured: true
 date: 2018-04-02
 date_updated:
 title: The Echoes of Three
@@ -18,6 +19,7 @@ images:
    - L1190001-1024.jpg
    - L1190012-1024.jpg
 videos: 
+   - {url: "https://youtu.be/bGbSPw3KjNI", comment: "Excerpt from \"Directions\", the fifth track on the album"}
    - {url: "https://youtu.be/q8n6M2iDD8g", comment: "Video of Mayuko Katakura playing Herbie Hancock's \"Speak Like A Child\" in a duo setting from 2012"}
 audio_embed:
    {filename: "03-ア・ダンサーズ・メランコリー.mp3", comment: "Excerpt from track three on this album, \"A Dancer's Melancholy\":"}

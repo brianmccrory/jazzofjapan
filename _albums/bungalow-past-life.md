@@ -1,5 +1,4 @@
 ---
-featured: true
 date: 2018-05-08
 date_updated: 2022-02-05
 title: Past Life
