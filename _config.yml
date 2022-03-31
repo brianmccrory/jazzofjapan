@@ -17,7 +17,7 @@ header_pages:
   - articles.md
   - albums.md
   - musicians.md
-  - audio.md
+#  - audio.md
   - notes.md
 
 collections:
