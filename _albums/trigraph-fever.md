@@ -22,7 +22,6 @@ images:
    - L1200415-1024.JPG
    - L1110813-1024.JPG
 videos: 
-   - {url: "https://youtu.be/L3oubiZoQpM", comment: "Excerpt from “Angel Eyes”, the second track on this album"}
    - {url: "https://youtu.be/azRygsWNX04", comment: "Trigraph performing the title track “Fever” live"}
    - {url: "https://youtu.be/nL9J2i5aJ20", comment: "Trigraph performing the Cyndi Lauper hit “Time After Time”, opening with a live-looped shakuhachi intro"}
 ---

@@ -19,7 +19,6 @@ images:
    - L1220254-1024.jpg
    - L1220258-1024.jpg
 videos: 
-   - {url: "https://youtu.be/1qreTAG0YAs", comment: "Excerpt from “Summertime” with Ruriko Kawamura and Seiji Endo, the ninth track on this album"}
    - {url: "https://youtu.be/ndwBQvM3crE", comment: "A live version of Ruriko Kawamura singing “Down By The Salley Gardens” in 2011"}
    - {url: "https://youtu.be/MLVZe1ACNeA", comment: "Ruriko Kawamura singing “The Waltz” live in 2011"}
 ---

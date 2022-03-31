@@ -19,7 +19,6 @@ images:
    - L1200806-1024.jpg
    - L1110589-1024.jpg
 videos: 
-   - {url: "https://youtu.be/sdAtWSTyhHU", comment: "Excerpt from “Chega de Saudade”, track #16 from this album"}
    - {url: "https://youtu.be/6F9zwtzqIxM", comment: "A live version of “Pra Que Discutir Com Madame”, track #3 from this album"}
    - {url: "https://youtu.be/mncD6W_Ybu0", comment: "A 2008 clip from NHK showcasing Meu Coracao playing at an outdoor live concert"}
 audio:

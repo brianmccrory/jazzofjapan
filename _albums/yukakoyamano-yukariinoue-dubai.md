@@ -18,7 +18,6 @@ images:
    - L1230139x-1024.jpeg
    - L1230140x-1024.jpeg
 videos: 
-   - {url: "https://youtu.be/4hvX7xzP27M", comment: "Excerpt from \"Hope\", the opening track on this album"}
    - {url: "https://youtu.be/p_er24Xc3GY", comment: "Yukako Yamano and Yukari Inoue playing piano duet live in 2019"}
    - {url: "https://youtube.com/playlist?list=OLAK5uy_msOgHBlK08sbA0EyIiAuqh6a8jCRD1Tfw", comment: "An audio playlist of the sngs from \"Dubai Suite\"	"}
 ---
