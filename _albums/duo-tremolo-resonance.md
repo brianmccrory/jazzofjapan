@@ -19,7 +19,6 @@ images:
    - L1220663-1024.jpg
    - L1220665-1024.jpg
 videos: 
-   - {url: "https://youtu.be/6Rfv810-EgY", comment: "Excerpt from “Choro de Tremolo”, the second track on this album"}
    - {url: "https://youtu.be/jm3tl3B2AWc", comment: "A live performance of Friday Night at the Ca..."}
    - {url: "https://youtu.be/R6vuPsUzibI", comment: "Jazz Street performance"}
 audio:

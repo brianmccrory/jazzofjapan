@@ -17,7 +17,6 @@ images:
    - L1200619-1024.jpg
    - L1200620-1024.jpg
 videos: 
-   - {url: "https://youtu.be/k4Xx6Z2nHD8", comment: "Excerpt from “Mirage”, the opening track on this album"}
    - {url: "https://youtu.be/dIkN4WlWMSA", comment: "Out of the Wind"}
 audio:
 ---

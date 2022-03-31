@@ -17,7 +17,6 @@ images:
    - L1220149-1024.jpg
    - L1220154-1024.jpg
 videos: 
-   - {url: "https://youtu.be/JUWnq-ILa4A", comment: "Excerpt from “Libertango”, the fourth track on this album"}
    - {url: "https://youtu.be/-iqn0TSqzKg", comment: "Video from a live Arco performance"}
 audio:
 ---

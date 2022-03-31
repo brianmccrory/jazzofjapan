@@ -22,7 +22,6 @@ images:
    - L1220770-1024.jpg
    - L1220772-1024.jpg
 videos: 
-   - {url: "https://youtu.be/ZfSZOLCxA10", comment: "Excerpt from “朝焼けの歌” (Asayake No Uta), the first track on this album"}
    - {url: "https://youtu.be/esoPD7qadpA", comment: "Promotional video related to this album release"}
    - {url: "https://youtu.be/GnFuQOSKzUo", comment: "Excerpts from a 2019 live performance of the Fumie Chiba Trio"}
 audio:
