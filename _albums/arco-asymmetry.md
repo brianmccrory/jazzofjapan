@@ -16,7 +16,6 @@ images:
    - L1180446-1024.jpg
    - L1180445-1024.jpg
 videos: 
-   - {url: "https://youtu.be/S4-ftUvBftg", comment: "Excerpt from \"Asymmetry\", the first track on this album"}
    - {url: "https://youtu.be/oY8PypPVPuY", comment: "This promotional video contains samples from the album"}
 audio:
 ---

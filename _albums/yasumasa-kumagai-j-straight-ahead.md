@@ -17,7 +17,6 @@ images:
    - L1180493-1024.jpg
    - L1180494-1024.jpg
 videos: 
-   - {url: "https://youtu.be/JghkIaQQJcI", comment: "Excerpt from “Draft Beer”, the first track on this album"}
    - {url: "https://youtu.be/XZMv1q1wIDw", comment: "Promotional video of the track “Chill Out” from this release"}
    - {url: "https://youtu.be/44S7NEfVKnE", comment: "Video of a live performance of “Draft Beer” with Motoi Kanamori on bass and Akira Yamada on drums"}
 audio:
