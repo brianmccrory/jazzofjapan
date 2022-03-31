@@ -20,7 +20,6 @@ images:
    - L1200187-1024.jpg
    - L1110684-003-1024.jpg
 videos: 
-   - {url: "https://youtu.be/SaDS781gWKg", comment: "Excerpt from \"Summertime\", track #10 on this album"}
    - {url: "https://youtu.be/nimLiOrT4-0", comment: "Ayumi Koketsu performs her song \"Near The Clouds\" in a duo setting with guitar"}
 audio:
 audio_embed: 

@@ -21,7 +21,6 @@ images:
    - yukakoyamano-first-remastered.jpg
    - L1110742-1024.jpg
 videos: 
-   - {url: "https://youtu.be/c7sS0PXy_FU", comment: "Excerpt from “Over Parents”, the first track on this album"}
    - {url: "https://youtu.be/fA0kHQ8h_EM", comment: "A live performance from 2013 of “On A Sunny Moon”, track #6 on this album"}
 ---
 Popular pianist Yukako Yamano’s *1st Stage* is a rich and airy musical soufflé. Her catchy debut album from 2013 mixes together swinging jazz, modern fusion, cute pop, and straightforward sincerity. On *1st Stage*, the world-traveling pianist introduces eleven of her feel-good melodies and propulsive rhythms as she balances unpretentious cheer with dramatic tension on the lively tracks.

@@ -19,9 +19,7 @@ images:
    - L1210527-1024.jpg
    - hideakihori-liveatnardis-live-1024.jpeg
 videos: 
-   - {url: "https://youtu.be/7Lvs6oQcOVI", comment: "Excerpt from the classic jazz standard “Our Love Is Here To Stay”, the third track on this album"}
-   - {url: "https://youtu.be/m25AekU_0Q8", comment: "Another track from this album, John Ellis’s “Bonus Round”"}
-   - {url: "https://youtu.be/bvpbKSbeEhk", comment: "Another track from this album, the jazz standard “Up Jumped Spring”"}
+   - {url: "https://youtu.be/bvpbKSbeEhk", comment: "A track from this album, the jazz standard “Up Jumped Spring”"}
 audio:
 ---
 *Unconditional Love* is the 11th album from pianist Hideaki Hori and features his trio playing live at Nardis, a gem among Tokyo’s many respected and intimate jazz bars. Throughout this double album, the trio captures the relaxed and friendly atmosphere that this home-ground bar provides, all while creating top-notch jazz to delight the audience.

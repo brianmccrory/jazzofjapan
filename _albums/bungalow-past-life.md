@@ -20,7 +20,6 @@ images:
    - L1200192-1024.jpg
    - L1120184-1024.jpg
 videos: 
-   - {url: "https://youtu.be/RYenaeAkBDo", comment: "Excerpt from \"Wire\", track three on this album"}
    - {url: "https://youtu.be/fpzcz7PJN7w", comment: "Live performance of the title track \"Past Life\""}
 audio_embed:
    {filename: "01-上昇気流.mp3", comment: "Excerpt from the opening track on this album, \"Joushou Kiryuu\":"}   
