@@ -22,7 +22,6 @@ images:
    - L1210593-1024.jpg
    - IMG_20150118_175116-1024.jpg
 videos: 
-   - {url: "https://youtu.be/lxUNjeSn190", comment: "Excerpt from \"Moon River\", track eleven on this album"}
 audio_embed:
    {filename: "01-Satin-Doll.mp3", comment: "Excerpt from \"Satin Doll\", the first track on this album:"}
 ---
