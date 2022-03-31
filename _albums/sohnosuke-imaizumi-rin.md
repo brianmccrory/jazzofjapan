@@ -19,7 +19,6 @@ images:
    - L1180935-1024.jpg
    - L1180927-1024.jpg
 videos: 
-   - {url: "https://youtu.be/JZSndR-P880", comment: "Excerpt from “Nag Champa”, the first track on this album"}
    - {url: "https://youtu.be/4OYhhXa6Mp0", comment: "Promotional video for the album"}
    - {url: "https://youtu.be/Yu_NSmcS14c", comment: "Drums-and-sampler excerpts from Sohnosuke Imaizumi and Blahmuzik"}
 ---

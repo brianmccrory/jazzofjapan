@@ -15,7 +15,6 @@ images:
    - L1180769-1024.jpg
    - L1180895-1024.jpg
 videos: 
-   - {url: "https://youtu.be/NwUw_Pjy1O8", comment: "Excerpt from the opening of this album, Inoue's original composition \"Fireworks\""}
    - {url: "https://youtu.be/IbZM0UNlDZA?t=181", comment: "Toshihiko Inoue playing solo saxophone live in 2012"}
 audio:
    - {url: "http://bowz.shop-pro.jp/?pid=109653244", comment: "Audio samples"}
