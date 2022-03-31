@@ -21,7 +21,6 @@ images:
    - L1200521-1024.jpg
    - L1110588-1024.jpg
 videos: 
-   - {url: "https://youtu.be/O6MD9kjDD28", comment: "Excerpt from “Yamikuro”, the first track on this album"}
    - {url: "https://youtu.be/JV_7YAx3mCA", comment: "Video of Hikari Ichihara playing “Can You Repeat the Past” from the 2014 album “Dear Gatsby”"}
 audio:
 ---

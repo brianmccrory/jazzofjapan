@@ -21,7 +21,6 @@ images:
    - L1220399-1024.jpg
    - L1220403-1024.jpg
 videos: 
-   - {url: "https://youtu.be/vHDWOoBurvE", comment: "Excerpt from “Kyoto Tower”, the fifth track on this album"}
    - {url: "https://youtu.be/_KiyjtDRyfM", comment: "Promotional video for this album"}
 ---
 Pianist Takayuki Yagi’s 2018 release *New Departure* brings him together with stars of the New York jazz scene for a solid collaboration of New York and Tokyo energies.

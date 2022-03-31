@@ -20,7 +20,6 @@ images:
    - L1220644-1024.jpg
    - L1220645-1024.jpg
 videos: 
-   - {url: "https://youtu.be/NWBD8Se5iiE", comment: "Excerpt from “A Love Supreme Part 2: Resolution”, the second track from this album"}
    - {url: "https://youtu.be/rCUIDNhxxQA", comment: "The official promotional video for Noriko Satomi’s “A Love Supreme”"}
 audio:
 ---
