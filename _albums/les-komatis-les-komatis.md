@@ -20,7 +20,6 @@ images:
    - L1180826-1024.jpg
    - IMG_20140811_213350_003-1024.jpg
 videos: 
-   - {url: "https://youtu.be/g4RtGnfio50", comment: "Excerpt from “Spur”, which opens the album"}
 audio:
    - {url: "http://bowz.shop-pro.jp/?pid=86156320", comment: "Audio samples available at bowz.shop-pro.jp"}
 ---

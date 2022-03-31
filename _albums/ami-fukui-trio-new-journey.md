@@ -19,7 +19,6 @@ images:
    - L1190050x-1024.jpeg
    - L1190053-1024.jpg
 videos: 
-   - {url: "https://youtu.be/jtYVU_9zRsE", comment: "Excerpt from \"Into The Sky\", the first track on this album"}
    - {url: "https://youtu.be/bmnIeFGJIYM", comment: "Live performance of the closing track on this CD, \"Burn Red\""}
 audio_embed:
    {filename: "06-ニュー・ジャーニー.mp3", comment: "Excerpt from the title track, \"New Journey\":"}

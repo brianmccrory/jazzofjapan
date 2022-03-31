@@ -21,7 +21,6 @@ images:
    - L1200157-1024.jpg
    - L1120054-1024.jpeg
 videos: 
-   - {url: "https://youtu.be/u7OINjjzXI4", comment: "Excerpt from \"Nebula\", the fourth track on the album"}
    - {url: "https://youtu.be/muxhlGhBnIQ", comment: "A different version of Ohishi's song \"Continuous Rain\""}
 audio_embed:
    {filename: "01-Ｉ’ｍ　Ｙｏｕｒｓ.mp3", comment: "Excerpt from the opening track, \"I'm Yours\":"} 

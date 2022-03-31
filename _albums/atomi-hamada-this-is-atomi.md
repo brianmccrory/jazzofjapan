@@ -18,7 +18,6 @@ images:
    - L1190148-1024.jpg
    - L1190159-1024.jpg
 videos: 
-   - {url: "https://youtu.be/XGP_L8jsxRg", comment: "Excerpt from \"All The Things You Are\", track three on this album"}
    - {url: "https://youtu.be/Okl0bUUC9Z0", comment: "Live performance of \"Ladies in Mercedes\", track four on this album"}
 audio_embed:
    {filename: "03-オール・ザ・シングス・ユー・アー.mp3", comment: "Excerpt from track 3 on this album, \"All The Things You Are\":"}

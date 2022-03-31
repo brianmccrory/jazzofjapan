@@ -21,7 +21,6 @@ images:
    - L1190126-1024.jpg
    - L1190136-1024.jpg
 videos: 
-   - {url: "https://youtu.be/TsqOt6hWVmw", comment: "Excerpt from \"Amazon River\", the fourth track on this album"}
    - {url: "https://youtu.be/EDWnasfxIRw", comment: "Live performance of \"Corrida De Jangada\", the third track on this album"}
    - {url: "https://youtu.be/-5KLQHihHgw", comment: "Promotional video showing another side of Meu Coração on the second track \"Lawns\""}
 audio_embed:
