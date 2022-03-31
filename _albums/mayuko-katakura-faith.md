@@ -18,7 +18,6 @@ images:
    - L1180722-1024.JPG
    - L1180723-1024.JPG
 videos: 
-   - {url: "https://youtu.be/TZXyLKmTJP8", comment: "Excerpt from “Mrs. Parker Of KC”, the first track on this album"}
 audio:
    - {url: "https://youtube.com/playlist?list=OLAK5uy_nXT-9WDEcIvX8J9tDVSdzrftEOAnDoJ0I", comment: "The entire album is available to listen to on a Youtube playlist at the time of this writing"}
 ---

@@ -17,7 +17,6 @@ images:
    - L1180596-1024.JPG
    - L1180599-1024.JPG
 videos: 
-   - {url: "https://youtu.be/bkwcqxiw-5w", comment: "Excerpt from the opening track \"Sopa de Ajo\" by the Junichiro Ohkuchi Trio"}
    - {url: "https://youtu.be/sg7kQKRivW8", comment: "Video with \"Miles Ahead\", track five from this album"}
 audio:
 ---
