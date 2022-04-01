@@ -11,7 +11,7 @@ release_note:
 image: /assets/images/2018/08/akihiroyoshimoto-moving-460.jpeg
 members:
    - {name: Akihiro Yoshimoto, instrument: "sax", japanese_name: 吉本章紘, url: "https://www.akihiro-yoshimoto.com/"}
-   - {name: Aaron Choulai, instrument: "piano", url: "https://soundcloud.com/aaronchoulaibeats"}
+   - {name: Aaron Choulai, instrument: "piano", url: "https://aaronchoulai.bandcamp.com/"}
    - {name: Takashi Sugawa, instrument: "bass", japanese_name: 須川崇志, url: "https://www.tsgw.net/"}
    - {name: Shun Ishiwaka, instrument: "drums", japanese_name: 石若俊, url: "http://www.shun-ishiwaka.com/"}
 images: 

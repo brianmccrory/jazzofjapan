@@ -19,7 +19,6 @@ images:
    - L1220282-1024.jpg
 videos: 
    - {url: "https://youtu.be/4OmuGFXKNlc", comment: "Promotional video for this album"}
-   - {url: "https://youtu.be/NFZnUM_-auY", comment: "Shunichi Yanagi performing live on \"Solar\" with the Manabu Hashimoto trio"}
 audio_embed:
    {filename: "07-渋谷の交差点.mp3", comment: "Excerpt from \"Shibuya Crossing\", the seventh track on this album:"}
 ---

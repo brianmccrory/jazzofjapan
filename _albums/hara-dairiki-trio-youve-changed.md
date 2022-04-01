@@ -11,7 +11,7 @@ image: /assets/images/2018/04/haradairiki-youvechanged-460.jpeg
 members:
    - {name: Dairiki Hara, instrument: "drums", japanese_name: 原大力, url: "http://www.haradairiki.com/"}
    - {name: Atsushi Ikeda, instrument: "alto sax", japanese_name: 池田篤, url: "https://ameblo.jp/ats-music1963/"}
-   - {name: Yasushi Yoneki, instrument: "bass", japanese_name: 米木康志, url: "https://www.catfish-records.jp/product/27801"}
+   - {name: Yasushi Yoneki, instrument: "bass", japanese_name: 米木康志, url: ""}
 images:
    - L1200158-1024.jpg
    - L1200159-1024.jpg
