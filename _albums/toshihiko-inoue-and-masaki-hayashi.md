@@ -17,7 +17,6 @@ images:
    - L1200903-1024.JPG
    - L1200905-1024.JPG
 videos: 
-   - {url: "https://youtu.be/kYRUPvfZZwk", comment: "Excerpt from “Ana Maria”, the last track on this album"}
    - {url: "https://youtu.be/4TJBI__ULOc", comment: "Toshihiko Inoue and Masaki Hayashi playing “Zutto” with Clepsydra in 2011"}
 ---
 *Mistral* is a soulful live jazz album from sax and piano duo Toshihiko Inoue and Masaki Hayashi, recorded in 2008 and released in 2013. Although the extended title *Mistral: Duo at Mister Kelly’s* may seem to reference the historically famous Mister Kelly’s in Chicago and live albums from Sarah Vaughan, Ella Fitzgerald, and others, this Japanese jazz album was recorded at Mister Kelly’s jazz bar in Osaka, an independent venue named in honor of the famous American nightclub.

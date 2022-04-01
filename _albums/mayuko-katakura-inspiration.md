@@ -18,7 +18,6 @@ images:
    - L1180980-1024.jpg
    - L1180985-1024.jpg
 videos: 
-   - {url: "https://youtu.be/z8daMj5bF78", comment: "Excerpt from \"No Blues\", the fourth track on this album"}
    - {url: "https://youtu.be/-wUwJnLzUtk", comment: "Audio from the first track on this album, \"Blues For Tyner\""}
    - {url: "https://youtu.be/O3V34fItd8Y", comment: "Live performance with Mayuko Katakura playing \"Linden Blvd\" with the Kiyoshi Kitakawa trio"}
 ---

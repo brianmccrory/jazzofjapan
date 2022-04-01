@@ -18,7 +18,6 @@ images:
    - L1210620-1024.jpg
    - L1210627-1024.jpg
 videos: 
-   - {url: "https://youtu.be/7hF-_6Pm06Y", comment: 'Excerpt from "Taxi", the first track on this album'}
    - {url: "https://youtu.be/IBqCrXr2_9I", comment: "A live performance of “Yagi Bushi”, the fourth track on this album"}
 audio:
 ---

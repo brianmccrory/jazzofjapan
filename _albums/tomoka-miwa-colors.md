@@ -18,7 +18,6 @@ images:
    - L1190082x-1024.jpeg
    - L1190099x-1024.jpeg
 videos:
-   - {url: "https://youtu.be/x6Y4XlDnAXA", comment: "Excerpt from \"Alice in Wonderland\", the first track on this album"}
    - {url: "https://youtu.be/ln7bWmGAxe8", comment: "A promotional video from Tomoka Miwa for an album containing original pop songs, released in 2017"}
 audio_embed:
    {filename: "02-Love-Dance.mp3", comment: "Excerpt from \"Love Dance\", the second track from this album:"}

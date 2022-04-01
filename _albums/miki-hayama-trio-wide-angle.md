@@ -19,7 +19,6 @@ images:
    - L1200172-1024.jpg
    - L1120060-1024.jpg
 videos: 
-   - {url: "https://youtu.be/2VutRJNZPv8", comment: "Excerpt from the first track on this album, “What’s Next?”"}
    - {url: "https://youtu.be/t9wFu91ApdI", comment: "Another track from the album, Tommy Flanagan’s “Freight Trane”"}
    - {url: "https://youtu.be/2uTiOIj86m4", comment: "Miki Hayama stretches out in this video from 2008 at a live bar in Tokyo playing the jazz standard “There Is No Greater Love”"}
    - {url: "https://youtu.be/dtb6KCpL-tE", comment: "Miki Hayama playing a live version of “Horizon”, another highlight on this album"}

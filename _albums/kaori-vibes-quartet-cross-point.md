@@ -20,7 +20,6 @@ images:
    - L1190221-1024.jpg
    - L1190226-1024.jpg
 videos: 
-   - {url: "https://youtu.be/TIUSnLgdkwg", comment: "Excerpt from \"Golden Pine\", track five on this album"}
    - {url: "https://youtu.be/Tvni2-L10GM", comment: "Kaori Nakajima plays \"At That Room\", the final song on this album"}
 audio_embed:
    {filename: "01-Cross-Point.mp3", comment: "Excerpt from \"Cross Point\", the first song on this album:"}

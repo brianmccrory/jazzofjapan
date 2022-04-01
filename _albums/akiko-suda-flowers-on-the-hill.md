@@ -21,7 +21,6 @@ images:
    - L1180466-1024.JPG
    - L1180468-1024.JPG
 videos: 
-   - {url: "https://youtu.be/S_6mh0gtMQE", comment: "Excerpt from “Kayak”, track #2 on this album"}
    - {url: "https://youtu.be/iHzqt_13hO0", comment: "The promotional video for this album includes excerpts from five of the tracks"}
 audio:
 ---

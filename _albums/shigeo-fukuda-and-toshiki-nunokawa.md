@@ -17,7 +17,6 @@ images:
    - L1200428-1024.jpg
    - L1200435-1024.jpg
 videos: 
-   - {url: "https://youtu.be/C-4tsJ97NZI", comment: "Excerpt from “Hope in the Cave”, the first track on this album"}
    - {url: "https://youtu.be/GSL79cLuIyY", comment: "A video of “Childhood’s Dream”, a live version of the title track"}
    - {url: "https://youtu.be/2yVbZjY7y1c", comment: "A video of “Wrap Your Troubles in Dreams”, a live version of the last track on this album"}
 ---

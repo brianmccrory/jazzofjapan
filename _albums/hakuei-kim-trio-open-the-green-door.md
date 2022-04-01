@@ -18,7 +18,6 @@ images:
    - L1200630-1024.jpg
    - L1200636-1024.jpg
 videos: 
-   - {url: "https://youtu.be/9U490UwojEc", comment: "Excerpt from “Offer Refused”, the opening track on this album"}
    - {url: "https://youtu.be/82QZVEGryso", comment: "Hakuei Kim playing solo piano supporting his 2018 release “Resonance”"}
 audio:
 ---

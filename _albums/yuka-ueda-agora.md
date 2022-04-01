@@ -21,7 +21,6 @@ images:
    - L1210496-1024.jpg
    - L1120175-1024.jpg
 videos: 
-   - {url: "https://youtu.be/56EjJXt6PeU", comment: "Excerpt from “Flor de Lis”, the fourth track on this album"}
    - {url: "https://youtu.be/XuImtwehYYw", comment: "Video of Yuka Ueda singing “Pressentimento” live"}
    - {url: "https://youtu.be/qmIjpprzmvk", comment: "Video of Yuka Ueda singing “Triste” live"}
 ---

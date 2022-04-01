@@ -19,7 +19,6 @@ images:
    - L1210640-1024.jpg
    - L1210650-1024.jpg
 videos:
-   - {url: "https://youtu.be/BPXshtpm1WY", comment: "Excerpt from “”Living Time Event V”, the second track on this album"}
    - {url: "https://youtu.be/1EQImEWXunM", comment: "Salve Salgueiro from this album"}
    - {url: "https://youtu.be/5Gtt1rxO-R8", comment: "Take Five from this album"}
 audio:

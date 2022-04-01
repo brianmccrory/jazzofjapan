@@ -1,5 +1,4 @@
 ---
-featured: true
 date: 2018-04-06
 date_updated: 2022-02-05
 title: Live
@@ -19,7 +18,6 @@ images:
    - L1180642-1024.jpg
    - L1180645-1024.jpg
 videos: 
-   - {url: "https://youtu.be/cGQKGsNKRiA", comment: "Excerpt from \"My Favorite Things\", track six on this album"}
    - {url: "https://youtu.be/zQPD6kEigIA", comment: "This promotional video features partial samples of the first two tracks on the album, the exciting \"Heavens Fall\" and the gospel-like \"Keys\""}
 audio_embed:
    {filename: "03-Move.mp3", comment: "Excerpt from the opening of the third track on this album, \"Move\":"}

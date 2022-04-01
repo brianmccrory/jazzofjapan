@@ -19,7 +19,6 @@ images:
    - L1180750-1024.JPG
    - L1180751-1024.JPG
 videos: 
-   - {url: "https://youtu.be/t6jrKEDtqlI", comment: "Excerpt from the album's opening track “In A Reverse Way”"}
    - {url: "https://youtu.be/w8-gfpFTbX8", comment: "Video clip of Takuji Yamada’s Folklore playing “In A Reverse Way” live"}
    - {url: "https://youtu.be/VvKdrLMgPsY", comment: "Live version of Takuji Yamada’s song “Rain”"}
 ---

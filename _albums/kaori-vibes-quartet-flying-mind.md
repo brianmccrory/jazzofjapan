@@ -20,7 +20,6 @@ images:
    - L1180731-1024.jpg
    - L1180736-1024.jpg
 videos: 
-   - {url: "https://youtu.be/t4CHeF0Tmmc", comment: "Excerpt from the opening track “Flying Mind”"}
    - {url: "https://youtu.be/LKmSesjiEBQ", comment: "The song “Perfume”, written by Kaori Nakajima and a highlight of the album, is performed here in a duo setting from 2015"}
 audio:
 ---

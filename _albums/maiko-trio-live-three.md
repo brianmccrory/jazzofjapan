@@ -16,7 +16,6 @@ images:
    - L1220314-1024.jpg
    - L1220317-1024.JPG
 videos: 
-   - {url: "https://youtu.be/Gc9Xa7bUg24", comment: "Excerpt from “Three”, the final track on this album"}
    - {url: "https://youtu.be/sfU_k84DDyg", comment: "Eternally / Maiko trio / Jazz live"}
    - {url: "https://youtu.be/fkurRIE5V1o", comment: "Spain / Chick Corea : Maiko jazz violin live!"}
 audio:

@@ -14,7 +14,6 @@ images:
    - L1210895-1024.JPG
    - L1210898-1024.jpeg
 videos: 
-   - {url: "https://youtu.be/KcwZhLq0vkM", comment: "Excerpt from “Paddy Ryan’s Dream”, the fifth track on this album"}
    - {url: "https://youtu.be/WHpbPho3v2Y", comment: "Promotional video for this album"}
 audio:
 ---

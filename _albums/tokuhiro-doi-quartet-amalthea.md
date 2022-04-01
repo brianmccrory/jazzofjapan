@@ -20,7 +20,6 @@ images:
    - L1200335-1024.JPG
    - L1200336-1024.JPG
 videos: 
-   - {url: "https://youtu.be/m_MF0qTPagw", comment: "Excerpt from “Years”, the opening track on this album"}
    - {url: "https://youtu.be/TXqhDCsXkYM", comment: "Several audio excerpts serving as an introduction to the Tokuhiro Doi Quartet live"}
    - {url: "https://youtu.be/2nAD7YEQN-E", comment: "A recent video of Tokuhiro Doi playing “Stella By Starlight” with pianist Akane Matsumoto"}
 ---

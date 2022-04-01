@@ -20,7 +20,6 @@ images:
    - L1220673-1024.jpg
    - L1220674-1024.jpg
 videos: 
-   - {url: "https://youtu.be/C2_sd9nUfks", comment: "Excerpt from “Gräsänklingen”, the final track on this album"}
    - {url: "https://youtu.be/n2qa8uz_ycE", comment: "A different version of “If I Could See You”, a live performance of the first track on this album"}
 audio:
 ---

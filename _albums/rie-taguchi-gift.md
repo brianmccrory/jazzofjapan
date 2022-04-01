@@ -22,7 +22,6 @@ images:
    - L1180801-1024.jpg
    - L1180803-1024.jpg
 videos: 
-   - {url: "https://youtu.be/wV570Cb7Udw", comment: 'Excerpt from the opening track on this album, a joyful "Lady is a Tramp"'}
    - {url: "https://youtu.be/4oURhuaWyh4?t=2m43s", comment: 'Television broadcast of Rie Taguchi singing jazz standards at a jazz bar in Tokyo from 2015'}
 audio:
 ---

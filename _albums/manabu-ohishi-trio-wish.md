@@ -1,4 +1,5 @@
 ---
+featured: true
 date: 2018-04-10 
 date_updated: 
 title: Wish
@@ -26,7 +27,7 @@ audio_embed:
 other_links:
    - {url: "https://ateliersawano.com/", comment: "Atelier Sawano"}
 ---
-From Osaka-based label Atelier Sawano comes this beautifully-recorded jazz trio recording starring pianist Manabu Ohishi. The label's concept of "hand-made jazz" features jazz music with European touches and a Japanese attention to detail and craftsmanship. On *Wish*, the music upholds the classic jazz piano trio tradition, evoking lyrical jazz trio recordings such as those from the Bill Evans Trio.
+From Osaka-based label Atelier Sawano comes this beautifully-recorded jazz trio recording starring pianist Manabu Ohishi. The label's concept of "hand-made jazz" features jazz music which one could describe as having Japanese attention to detail and craftsmanship with European touches. On *Wish*, the music upholds the classic jazz piano trio tradition, evoking lyrical jazz trio recordings such as those from the Bill Evans Trio.
 
 Ohishi's strength as a romantic melodist is evident as the opening notes from the piano sound, heavy with sentimentality. His vibrant improvisations often unspool with passion, as if he is pushing notes out physically from the piano, squeezing out as much expression and emotion as possible.
 
