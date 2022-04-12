@@ -1,6 +1,6 @@
 ---
 date: 2018-03-11 
-date_updated:
+date_updated: 2022-04-12
 title: Tsutaete Ikou
 artist: Seiji Endo
 sort_value: Seiji Endo Tsutaete Ikou
@@ -27,10 +27,9 @@ audio_embed:
 other_links: 
    - {url: http://tsutaeteikopj.net/", comment: "The Tsutaete Ikou project website, with piano score and lyrics"}
 ---
-Inspired by brave, kindhearted students at a benefit concert, musicians Hiroco Nakano, Shinya Nitta, and Seiji Endo created the *Tsutaete Ikou* project to offer support and pay homage to lives taken by the devastating Tohoku earthquake of March 11, 2011.
+In memory of the lives taken by the devastating Tohoku earthquake and tsunami of March 11, 2011, three musicians formed the *Tsutaete Ikou* project. Pianist Seiji Endo and vocalists Hiroco Nagano and Shinya Nitta were touched by the brave and kindhearted students they met at a benefit concert, children who became an inspiration for the musicians. 
 
-The resulting heart-warming anthem “Tsutaete Ikou” was dedicated to strengthen the spirit of survivors and help soothe painful memories. The title (meaning to tell, convey) echoes a stone monument at Ishinomaki high school which promises to tell their story forever.
+“Tsutaete Ikou” is the resulting heart-warming anthem, dedicated to strengthening the spirit of survivors and helping to soothe painful memories. The title echoes a stone monument at Ishinomaki high school which promises to tell their story forever. 
+After disasters such as this, one may feel hopeless individually, yet the act of remembering together, passing the message on, and uniting with music does wonders to support the spirit. 
 
-After disasters, one may feel powerless individually, yet the act of remembering, passing the message on, and coming together with music unites us and supports our spirit.
-
-The CD contains three versions of the song (the original version, an English version, and a solo piano version), with proceeds donated to affected disaster areas and educational funds for children.
+The CD contains three versions of the song “Tsutaete Ikou”, and proceeds were donated to affected disaster areas and educational funds for children. 
