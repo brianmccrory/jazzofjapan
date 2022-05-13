@@ -24,28 +24,7 @@ images:
 videos: 
    - {url: "", comment: "TBD"}
    - {url: "", comment: "TBD"}
+audio_embed:
+   {filename: "01 Dancing Elephant.mp3", comment: "Excerpt from \"Dancing Elephant\", the first track on this album:"}   
 ---
-
-
-
-Bungalow presents us with imaginative and novel music, carving their unique and beautiful path through exotic jazz and rhythms on their third album "Unseen Scenes" from 2015.
-
-Compulsively rhythmic and compelling.... is another fantastical journey through the nooks and crannys of modern jazz with exotic fringes.
-
-1. dancing elephant - tribal, ethnic folk with modern jazz and grand flourishes from all, esp piano . unique songwriting sense and sounds
-
-2. gauge - uptempo, straight-ahead type of modern jazz, exciting and fun and pleasurably listenable "what will they come up with" / "what will they do next?" compels curiosity as you tap your feet
-
-3. its not a sad song - slow and contemplative, meditative soothing
-
-4. march in the labyrinth - groovy, tangible, mysterious, rocking, argentine rhythms
-
-5. Astir - magical, free, soundscape, 2nd half turns into typical Kato-sound modern European jazz piano riff, heavy rocking deep sounds with slow brooding emotion
-
-6. bombay duck - a live favorite, comfortable Indian tabla drums atmosphere, pleasant and joyful
-
-7. space turtle - fun quick melancholic tone yet energetic and exciting
-
-8. absence - sax solo opening, then normal bungalow song
-
-9. respective scene - experimental sound effects, an attempt to create new type of music which had not been attempted before, bass/drum 2-note vamp with electronic robot sounds, knocking, static, scratching, whirring gears, beeps, and finally piano joining in with two-chord harmony vamp, then sax joining in on spacey melody
+Text in Scrivener...
