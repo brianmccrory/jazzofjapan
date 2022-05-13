@@ -1,4 +1,5 @@
 ---
+featured: true
 date: 2019-10-16
 date_updated: 
 title: Etrenne

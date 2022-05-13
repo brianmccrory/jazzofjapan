@@ -1,5 +1,4 @@
 ---
-featured: true
 date: 2018-03-14
 date_updated: 2022-03-15
 title: A Tempo

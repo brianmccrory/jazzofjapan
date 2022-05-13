@@ -1,5 +1,4 @@
 ---
-featured: true
 date: 2022-04-01
 date_updated: 
 title: Another Ordinary Day
