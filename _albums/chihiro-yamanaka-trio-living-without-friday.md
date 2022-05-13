@@ -3,7 +3,7 @@ date: 2020-02-21
 date_updated: 2021-10-05
 title: Living Without Friday
 artist: Chihiro Yamanaka Trio
-sort_value: Chihiro Yamanaka Trio Living Without Friday
+sort_value: Chihiro Yamanaka zzz Trio Living Without Friday
 year: 2001
 label: Atelier Sawano
 code: AS-016
