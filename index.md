@@ -5,7 +5,8 @@ image: /assets/images/J-shaded.jpg
 ---
 **This is jazzofjapan.com**, a site about Japanese jazz and related music from Japanese musicians. 
 
-_Latest Updates_
+_Latest Articles_
+{%- assign latest_type = "new" -%}
 {%- assign latest_new = site.albums | sort: "date" | reverse %}
 <table>
   <tbody>
@@ -16,21 +17,20 @@ _Latest Updates_
    </tr>
   </tbody>
 </table>
-<table>
-  <tbody>  
-    <tr>
-{%- assign latest_updated = site.albums | sort: "date_updated" | reverse %}
-{% for album in latest_updated limit:3 -%}
-{% include featured.md %}
-{% endfor %}
-   </tr>
-  </tbody>
-</table>
+
 
 _Featured Albums_
 <table>
   <tbody>  
     <tr>
+{%- assign latest_type = "updated" -%}
+{%- assign latest_updated = site.albums | sort: "date_updated" | reverse %}
+{% for album in latest_updated limit:3 -%}
+{% include featured.md %}
+{% endfor %}
+   </tr>
+    <tr>
+{%- assign latest_type = "featured" -%}
 {%- assign new = site.albums | where: "featured", "true" | where: "date_updated", nil | sort: "date" | reverse | limit: 3 -%}
 {%- assign updated_size = 3 | minus: new.size -%}
 {%- if updated_size > 0 -%}
@@ -45,28 +45,6 @@ _Featured Albums_
    </tr>
   </tbody>
 </table>
-
-
-{% comment %}
-## Latest Articles
-{%- assign latest_new = site.albums | sort: "date" | reverse -%}
-{%- assign latest_updated = site.albums | sort: "date_updated" | reverse %}
-<table><tbody><tr><td class="latest">
-<em>New:</em><br>
-<ul>
-{% for album in latest_new limit:3 -%}
-<li><a href="{{ album.url }}">{{ album.artist | escape }}: <em>{{ album.title | escape }}</em></a> <span class="subtext">{{ album.date | date: "%b %e, %Y" }}</span></li>
-{% endfor %}
-</ul>
-</td><td class="latest">
-<em>Updated:</em><br>
-<ul>
-{% for album in latest_updated limit: 3 -%}
-<li><a href="{{ album.url }}">{{ album.artist | escape }}: <em>{{ album.title | escape }}</em></a> <span class="subtext">{{ album.date_updated | date: "%b %e, %Y" }}</span></li>
-{% endfor %}
-</ul>
-</td></tr></tbody></table>
-{% endcomment %}
 
 ![Sax]({% link /assets/images/sax-shadow-1024.jpeg %})
 
