@@ -5,7 +5,7 @@ image: /assets/images/J-shaded.jpg
 ---
 **This is jazzofjapan.com**, a site about Japanese jazz and related music from Japanese musicians. 
 
-_Latest Updates:_
+_Latest Updates_
 {%- assign latest_new = site.albums | sort: "date" | reverse %}
 <table>
   <tbody>
@@ -27,7 +27,7 @@ _Latest Updates:_
   </tbody>
 </table>
 
-_Featured Albums:_
+_Featured Albums_
 <table>
   <tbody>  
     <tr>
