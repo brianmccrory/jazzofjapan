@@ -1,6 +1,6 @@
 ---
 date: 2018-04-26
-date_updated: 
+date_updated: 2022-05-18
 title: Images
 artist: Yuya Wakai
 sort_value: Yuya Wakai Images
@@ -23,8 +23,9 @@ audio_embed:
 ---
 Joyful notes flow effortlessly from pianist Yuya Wakai as he confidently opens his solo piano album *Images*.
 
-His exuberance is catchy as he flies over chord changes in a bounding, colorful manner that is at times reminiscent of Keith Jarrett's fluid style. On ballads, Wakai plays standards with a loving touch, such as on the charming "Easy To Love" and heartfelt "Over The Rainbow".
+His catchy exuberance is on display as he flies colorfully through chords reminiscent of Keith Jarrett's fluid style. On ballads such as the charming "Easy To Love" and heartfelt "Over The Rainbow", Wakai plays with a loving touch.
 
-Apart from standard jazz, different sides of solo piano are portrayed among the eleven tracks. Exciting drama builds with a rock-ish, upbeat "Better Days Ahead" (Pat Metheny) and a pop exploration of "Great Day" (Paul McCartney) which evokes music Brad Mehldau might offer. A moving cover of a Japanese animation theme, "Aimo Tori No Hito" is included, played in a sad yet hopeful mood of deep meaning.
+Different sides of standard jazz and solo piano are portrayed among the eleven tracks. Exciting drama builds with a rock-ish, upbeat "Better Days Ahead" (Pat Metheny) and a pop exploration of "Great Day" (Paul McCartney) which evokes music Brad Mehldau might offer. A moving cover of a Japanese animation theme, "Aimo Tori No Hito" is included, played in a sad yet hopeful mood with deep meaning.
 
-With a wink to the album title (perhaps alluding to Debussy's classical work Images for piano), Wakai's own classical exploration "Afterimages" tells a dreamlike story, painting a canvas with vivid abstract modernism. Finally, the pianist closes the album gently with "Duke Ellington's Sound Of Love", played like a soft lullaby.
+Related to the album title (and perhaps also alluding to Debussy's classical work for piano), Wakai's own classical exploration "Afterimages" tells a dreamlike story, painting a canvas with vivid abstract modernism. Finally, the pianist closes the album gently with "Duke Ellington's Sound Of Love", played like a soft lullaby.
+

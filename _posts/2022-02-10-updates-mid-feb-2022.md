@@ -1,5 +1,5 @@
 ---
-title: "Updates for Mid-Feb 2022"
+title: "Updates"
 date: 2022-02-10
 tag: update
 ---
