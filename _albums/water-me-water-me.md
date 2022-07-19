@@ -1,4 +1,5 @@
 ---
+featured: true
 date: 2021-02-26
 date_updated: 
 title: Water Me!

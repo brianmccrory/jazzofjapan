@@ -18,7 +18,6 @@ _Latest Articles_
   </tbody>
 </table>
 
-
 _Featured Albums_
 <table>
   <tbody>  

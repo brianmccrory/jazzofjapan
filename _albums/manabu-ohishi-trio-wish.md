@@ -1,5 +1,4 @@
 ---
-featured: true
 date: 2018-04-10 
 date_updated: 
 title: Wish
