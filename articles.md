@@ -1,9 +1,9 @@
 ---
-title: Articles
+title: Albums
 image: /assets/images/J-shaded.jpg
 ---
 
-# Articles 
+# Albums
 
 {% assign sorted = site.albums | sort_natural: "sort_value" %}
 {% for album in sorted -%}
@@ -12,11 +12,6 @@ image: /assets/images/J-shaded.jpg
 
 ---
 
-{% comment %}
-# Upcoming
-
----
-{% endcomment %}
 
 
 *Looking for specific musicians, albums, or other terms? [Search this site]({% link search.md %})*

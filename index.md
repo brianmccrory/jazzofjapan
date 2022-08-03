@@ -5,6 +5,8 @@ image: /assets/images/J-shaded.jpg
 ---
 **This is jazzofjapan.com**, a site about Japanese jazz and related music from Japanese musicians. 
 
+*New!* Exclusive content at [Buy me a coffee](https://www.buymeacoffee.com/brmc)!
+
 _Latest Articles_
 {%- assign latest_type = "new" -%}
 {%- assign latest_new = site.albums | sort: "date" | reverse %}
